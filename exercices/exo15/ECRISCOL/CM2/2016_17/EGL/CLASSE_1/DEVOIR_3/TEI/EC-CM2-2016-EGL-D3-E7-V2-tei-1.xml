@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E7-V2
+</head>
+<p>
+<pb/>
+Pour commencer <mod type="add" stage="" who=""><add>j'habiterais au Pays-bas dans une grande maison avec piscine et j'aurai 26 ans.</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>je</del></mod></del><add stage="" who="">Je</add></mod> me <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>leverais</del></mod></del><add stage="" who="">réveillerais</add></mod></orig><reg>réveillerai</reg></mod>, puis j'irais <mod type="del" stage="" who=""><del>re</del></mod> me doucher et me préparer.<lb/>
+Ensuite j'irais <mod type="corr"><orig>r<hi place=" " time="" who="Pσ" style="underline">ei</hi><mod type="add" stage="T3" who=""><add>ré</add></mod>veiller</orig><reg>réveiller</reg></mod> mes <mod type="corr"><orig>quatre<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>quatre</reg></mod> enfants, je doucherais les deux<lb/>
+plus petits pendant que mon mari <mod type="corr"><orig>met<hi place=" " time="" who="Pσ" style="underline">te</hi>ra</orig><reg>mettra</reg></mod> <mod type="add" stage="T3" who=""><add>mettra</add></mod> la table pour le petit déjeuner.<lb/>
+Je finirais de préparer mes deux enfants et les deux <mod type="corr"><orig>autr<hi place=" " time="" who="Pσ" style="underline">e</hi><mod type="add" stage="T3" who=""><add>s</add></mod></orig><reg>autres</reg></mod> seront <mod type="corr"><orig>pr<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">ê</add></mod>ts</orig><reg>prêts</reg></mod><lb/>
+et nous prendrons notre petit déjeuner ensemble, puis mon mari <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi>mm<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>nera</orig><reg>amènera</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>amenera</add></mod></orig><reg>amènera</reg></mod><lb/>
+les <mod type="corr"><orig>enfan<hi place=" " time="" who="Pσ" style="underline">t</hi><mod type="add" stage="T3" who=""><add>s</add></mod></orig><reg>enfants</reg></mod> au collège et à l'école, pendant que moi j'irais faire la<lb/>
+vaisselle, le ménage...Mon mari reviendra et nous prendrons <mod type="corr"><orig>cha<hi place=" " time="" who="Pσ" style="underline">qu</hi>n</orig><reg>chacun</reg></mod><lb/>
+notre voiture et irons au travail lui en (informatique), et moi dans<lb/>
+ma boutique de vêtements. Nous reviendrons <mod type="subst"><del><mod type="del" stage="" who=""><del>cherb</del></mod></del><add stage="" who="">chercher</add></mod> les enfants,<lb/>
+moi au collège et lui à l'école. Puis <mod type="corr"><orig>nou</orig><reg>nous</reg></mod> goûterons à la maison,<lb/>
+nous <mod type="corr"><orig>leur<hi place=" " time="" who="Pσ" style="underline">s</hi></orig><reg>leur</reg></mod> <mod type="corr"><orig>feron<hi place=" " time="" who="Pσ" style="underline">t</hi></orig><reg>ferons</reg></mod> <mod type="add" stage="T3" who=""><add>ferons</add></mod> faire leurs devoirs, <mod type="add" stage="" who=""><add><mod type="corr"><orig>chaqun</orig><reg>chacun</reg></mod> notre tour, aujourd'hui c'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>ai</del></mod></del><add stage="" who="">était</add></mod></orig><reg>était</reg></mod> au tour de</add></mod> mon mari préparerer le diner,<lb/>
+pendant que mes enfants et moi irons dans notre chambre, ou <mod type="subst"><del><mod type="del" stage="" who=""><del>cuisine</del></mod></del><add stage="" who="">salon</add></mod>.<lb/>
+Nous mangerons, nous regarderons un film, et nous irons dans notre §<lb/>
+
+<pb/>
+chambre. Voilà commenet <mod type="subst"><del><mod type="del" stage="" who=""><del>ce</del></mod></del><add stage="" who="">se</add></mod> passera une journée <mod type="corr"><orig>norma<hi place=" " time="" who="Pσ" style="underline">l</hi><mod type="add" stage="T3" who=""><add>e</add></mod></orig><reg>normale</reg></mod><lb/>
+chez moi. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

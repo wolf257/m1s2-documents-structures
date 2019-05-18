@@ -1,0 +1,159 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E14-V0
+</head>
+<p>
+<pb/>
+à Il <mod type="corr"><orig>à</orig><reg>a</reg></mod> fait une <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>fugue</del></mod></del><add stage="" who="">rendonet</add></mod></orig><reg>randonnée</reg></mod> pour <mod type="corr"><orig>chersait</orig><reg>cherchait</reg></mod> un <mod type="corr"><orig>emploie</orig><reg>emploi</reg></mod> quand il<lb/>
+a vu une porte qui bouge <mod type="corr"><orig>toutes</orig><reg>toute</reg></mod> <mod type="corr"><orig>seul</orig><reg>seule</reg></mod> !!!
+
+Pandant <mod type="corr"><orig>se</orig><reg>ce</reg></mod> temps <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> et tata <mod type="corr"><orig>denis</orig><reg>Denise</reg></mod> <mod type="corr"><orig>lescherse</orig><reg>le cherchant</reg></mod> en criant<lb/>
+« oncle jo! » « jo! » « oncle jo <mod type="corr"><orig>ou</orig><reg>où</reg></mod> <mod type="corr"><orig>est tu</orig><reg>es-tu</reg></mod>! » §<lb/>
+
+Ou <mod type="corr"><orig>êtait</orig><reg>était</reg></mod> l'oncle jo <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>von</orig><reg>vont</reg></mod> <mod type="corr"><orig>chersait</orig><reg>chercher</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>adroit</del></mod></del><add stage="" who="">a droit</add></mod></orig><reg>à droite</reg></mod> « NON » <mod type="corr"><orig>a</orig><reg>à</reg></mod> gauche<lb/>
+« pas <mod type="corr"><orig>la</orig><reg>là</reg></mod> » en face « il est <mod type="corr"><orig>la</orig><reg>là</reg></mod>, non plus » « <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="del" stage="" who=""><del>«</del></mod> <mod type="corr"><orig>pelê</orig><reg>pôle</reg></mod> empoi » « peut être »<lb/>
+alors <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> sa tata se rendit <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>pelê</orig><reg>pôle</reg></mod> emploi « bonjour, bonjour,<lb/>
+bonjour, vous avez entendu parler d'un <mod type="corr"><orig>certaint</orig><reg>certain</reg></mod> <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod>, non <mod type="corr"><orig>maime</orig><reg>mais</reg></mod> je<lb/>
+connais aucun <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod>, négatif...» il <mod type="corr"><orig>aller</orig><reg>allait</reg></mod> <mod type="corr"><orig>quitté</orig><reg>quitter</reg></mod> <mod type="corr"><orig>paul</orig><reg>pôle</reg></mod> emploi <mod type="corr"><orig>quant</orig><reg>quand</reg></mod><lb/>
+« <mod type="corr"><orig>attendait</orig><reg>attendez</reg></mod>, qui nous, nous, moi, qui, lui <mod type="corr"><orig>la</orig><reg>là</reg></mod> au plutôt les <mod type="corr"><orig>madmoizelles</orig><reg>mesdemoiselles</reg></mod> » !<lb/>
+
+silence tic tac tic tac ti tac l'horloge fait tic toc toc toc toc toc toc<lb/>
+« tic toc tac tic toc toc tac » toc toc toc <mod type="corr"><orig>lya</orig><reg>il y a</reg></mod> <mod type="corr"><orig>quellq'un</orig><reg>quelqu'un</reg></mod> » mais cette <mod type="corr"><orig>vois</orig><reg>voix</reg></mod><lb/>
+qui c'est ? §<lb/>
+
+« <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>q</del></mod></del><add stage="" who="">Q</add></mod>uoi</orig><reg>Quoi</reg></mod> » « <mod type="corr"><orig>quois</orig><reg>quoi</reg></mod> » toc toc toc « que'se que vous attendais ouversi,<lb/>
+on vous avais oublier » §<lb/>
+
+« sa bouge » « cherche fermier pour insistant agriculture 24 rue des<lb/>
+élysais passer la porte prenais aussi sést canne pour papi et<lb/>
+des ballons pour les enfant de 4 ans §<lb/>
+« il est la c'es<mod type="del" stage="" who=""><del>l</del></mod><mod type="add" stage="" who=""><add>t</add></mod> jo » §<lb/>
+
+<pb/>
+le brossé <mod type="del" stage="" who="P"><del>avec Hugo</del></mod>. Ensuite on<lb/>
+a fait une balade. Hugo a <mod type="del" stage="" who="P"><del>commence</del></mod><mod type="add" stage="" who="P"><add>été</add></mod> le<lb/>
+premier. à monté sur Astra <mod type="add" stage="" who="P"><add>roi</add></mod>. J'ai eu impeu peur <mod type="add" stage="" who="P"><add>!</add></mod>><lb/>
+<mod type="del" stage="" who="P"><del>d'Astra</del></mod>. La balade a été trop bien.<lb/>
+
+<pb/>
+La société française et divise<lb/>
+en trois pa<mod type="del" stage="" who=""><del>i</del></mod><mod type="add" stage="" who=""><add>r</add></mod>ti: noblesse, clerge, le<lb/>
+tiers etat. Les philosophe critique la<lb/>
+monarchie leur idées on changer<lb/>
+la france. §<lb/> 
+Le voisine on essayer de les
+manger <mod type="del" stage="" who=""><del>et</del></mod> vu qu'il étaient MiDi.<lb/>
+Lili est tata Denise ne<lb/>
+<mod type="del" stage="" who=""><del>v</del></mod>
+voulai rien mange jusqua<lb/>
+que <mod type="del" stage="" who=""><del>lili</del></mod> Lili à retrouver l'oncle<lb/>
+jo il est sur le terrain<lb/>
+vague. entrain de bricoler<lb/>
+
+il rigole il rie tout le<lb/>
+
+monde est content. Tata<lb/>
+
+Denise contente de revoir<lb/>
+
+l'once jo si heureux<lb/>
+
+et joyeux. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

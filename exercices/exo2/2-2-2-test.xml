@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliographie SYSTEM "2-2-exo.dtd">
+
+<bibliographie>
+    <!-- LIVRE -->
+    <livre>
+        <titre soustitre="De l'égypte des pharaons à l'ordinateur quantique"> Histoire des codes secrets </titre>
+        <auteur> <nom> SINGH Simon</nom> </auteur>
+        <tome nb_pages="505"></tome>
+        <infos_edition>
+            <nom_editeur> Le Livre de Poche </nom_editeur>
+            <lieu_edition> France </lieu_edition>
+            <lieu_impression> France </lieu_impression>
+            <isbn>9782253150978</isbn>
+        </infos_edition>
+    </livre>
+    
+    <!-- ARTICLE -->
+    <article>
+        <titre> The Development of Math Talent: Influences on Students at a Women's College </titre>
+        <auteur> <nom> GAVIN Katherine</nom> </auteur>
+        <ref_publication>
+            <journal nom_journal="Journal of Advanced Academics" annee_pub='avant_2000'></journal>
+            <num_journal>Vol 7, Issue 4</num_journal>
+            <num_pages>476-485</num_pages>
+        </ref_publication>
+    </article>
+    
+</bibliographie>
+
+
+

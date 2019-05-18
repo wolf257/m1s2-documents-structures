@@ -1,0 +1,150 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E9
+</head>
+<p>
+<pb/>
+
+Lucien ne respirait pas et les infiermières<lb/>
+eurent beaucoup de mal <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>à</reg></mod> le faire se <mod type="corr"><orig>rempl<hi place=" " time="" who="Pσ" style="underline">ire</hi></orig><reg>remplir</reg></mod><lb/>
+les <mod type="corr"><orig>pou<hi place=" " time="" who="Pσ" style="underline">mon</hi></orig><reg>poumons</reg></mod>. Elles réussirent enfin et Lucien<lb/>
+poussa un cri, il était tout petit et tout<lb/>
+mignon avec ses minuscules mains. On le mit<lb/>
+dans les bras de sa mère qui était très<lb/>
+fatiguée, l'<mod type="corr"><orig>infiermière</orig><reg>infirmière</reg></mod> lui reprit Lucien mais<lb/>
+le petit commença à <mod type="corr"><orig>criéer</orig><reg>crier</reg></mod>. Il ne voulait<lb/>
+pas se calmer et on <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">dû</hi></orig><reg>dut</reg></mod> le coucher ce<lb/>
+qui attisa <mod type="corr"><orig>encor</orig><reg>encore</reg></mod> plus ses cris. Quand bébé<lb/>
+se fut endormi, tout le monde fut content §<lb/>
+ 
+<pb/>
+
+d'avoir donné naissance à ce petit ange,<lb/>
+pour eux c'était une réussite. La mère<lb/>
+<hi place=" " time="" who="Pσ" style="underline">quand elle</hi> <mod type="add" stage="" who="P"><add>quant à elle?</add></mod> se reposait après le lourd<lb/>
+travail qu'elle avait fait. Elle se §<lb/>
+sentait soulagée et heureuse d'avoir un<lb/> 
+si <mod type="corr"><orig>jolie</orig><reg>joli</reg></mod> petit garçon. Soudain, le coeur<lb/>
+de Lucien <mod type="add" stage="" who="P"><add>s'</add></mod>arrêta de battre et tout le<lb/>
+monde <mod type="corr"><orig>accou<hi place=" " time="" who="Pσ" style="underline">rue</hi></orig><reg>accouru</reg></mod> avec toutes sortes de machines.<lb/>
+L'opération fut longue et Lucien avait <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">frolée</hi></orig><reg>frôlé</reg></mod><lb/>
+la mort de si près qu'après <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">sa</hi></orig><reg>ça</reg></mod> il<lb/>
+ne pleurait plus et ne se plaignait jamais.<lb/>
+Cela l'avait marqué à vie et il en<lb/>
+<mod type="corr"><orig>gar<hi place=" " time="" who="Pσ" style="underline">derai</hi></orig><reg>gardera</reg></mod> pour <mod type="corr"><orig>toujour</orig><reg>toujours</reg></mod> les <mod type="corr"><orig>sequelles</orig><reg>séquelles</reg></mod>. Pendant<lb/> 
+les mois qui suivirent Lucien retourna<lb/>
+<mod type="corr"><orig>chaq<hi place=" " time="" who="Pσ" style="underline">ues</hi></orig><reg>chaque</reg></mod> semaine à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod> pour des tests §<lb/>
+
+<pb/>
+
+quotidiens, même à l'age de <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">5</hi></orig><reg>cinq</reg></mod> ans, il<lb/>
+allait <mod type="corr"><orig>toujour</orig><reg>toujours</reg></mod> dans l'étage <mod type="corr"><orig>reservé</orig><reg>réservé</reg></mod> aux<lb/>
+enfants. Il connaissait tout le personel qui<lb/>
+n'avait pratiquement pas changé depuis<lb/>
+toutes ces années. Il <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">fesait</hi></orig><reg>faisait</reg></mod> les mêmes <mod type="corr"><orig>testes</orig><reg>tests</reg></mod><lb/>
+mais moins <mod type="corr"><orig>fréquement</orig><reg>fréquemment</reg></mod>. Le jour de<lb/>
+ses dix pour son anniversaire, on lui<lb/>
+annonça qu'il n'aurait plus <hi place=" " time="" who="Pσ" style="underline">à</hi> aller à<lb/>
+l'hôpital, mais il n'eut pas la réaction<lb/>
+<mod type="corr"><orig>es<hi place=" " time="" who="Pσ" style="underline">compter</hi></orig><reg>escomptée</reg></mod> car il n'en <mod type="corr"><orig>fust</orig><reg>fut</reg></mod> pas heureux<lb/>
+au contraire, il en fut triste et ne<lb/>
+voulait pas <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">arreter</hi></orig><reg>arrêter</reg></mod> d'y aller. Même<lb/>
+aujourd'hui il continue à <mod type="corr"><orig>rende</orig><reg>rendre</reg></mod> visite<lb/>
+aux <mod type="corr"><orig>infiermières</orig><reg>infirmières</reg></mod> qui s'occupaient de lui<lb/>
+et <mod type="corr"><orig>pa<hi place=" " time="" who="Pσ" style="underline">ssait</hi></orig><reg>passaient</reg></mod> de bon moments avec elles. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

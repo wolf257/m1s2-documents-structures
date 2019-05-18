@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D2-E14-V2
+</head>
+<p>
+<pb/>
+Le jour la le <mod type="corr"><orig>frére</orig><reg>frère</reg></mod> de Louis est malade Louis aimerait bien aussi ne<lb/>
+pas aller à l'école. Le petit frère de Louis <mod type="corr"><orig>été</orig><reg>était</reg></mod> malade il a été dehors et.<lb/>
+Il <mod type="corr"><orig>pleurer</orig><reg>pleuvait</reg></mod> et il <mod type="corr"><orig>feser</orig><reg>faisait</reg></mod> froid. Et Louis <mod type="corr"><orig>samuser</orig><reg>s'amusait</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> se <mod type="corr"><orig>metre</orig><reg>mettre</reg></mod> sous la<lb/>
+<mod type="corr"><orig>goutière</orig><reg>gouttière</reg></mod> qui <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>entrin</orig><reg>en train</reg></mod> de <mod type="corr"><orig>fair</orig><reg>faire</reg></mod> <mod type="corr"><orig>tombé</orig><reg>tomber</reg></mod> de l'eau. Et <mod type="corr"><orig>appré</orig><reg>après</reg></mod> Louis rentre <mod type="corr"><orig>a</orig><reg>à</reg></mod><lb/>
+la maison en grelottant <mod type="corr"><orig>telman</orig><reg>tellement</reg></mod> il avait froid. <mod type="corr"><orig>Apré</orig><reg>Après</reg></mod> le petit <mod type="corr"><orig>frére</orig><reg>frère</reg></mod> de<lb/>
+<mod type="corr"><orig>louis</orig><reg>Louis</reg></mod> va chez le <mod type="corr"><orig>medesin</orig><reg>médecin</reg></mod> et le docteur <mod type="corr"><orig>prepar</orig><reg>prépare</reg></mod> la piqûre. Louis <mod type="corr"><orig>pleur</orig><reg>pleure</reg></mod> car<lb/>
+son petit <mod type="corr"><orig>frére</orig><reg>frère</reg></mod> <mod type="corr"><orig>pleuret</orig><reg>pleure</reg></mod>. Il aime <mod type="corr"><orig>par</orig><reg>pas</reg></mod> voir son <mod type="corr"><orig>frére</orig><reg>frère</reg></mod> <mod type="corr"><orig>pleuré</orig><reg>pleurer</reg></mod>. §<lb/>
+
+<pb/>
+<mod type="corr"><orig>appré</orig><reg>Après</reg></mod> ils et la maman <mod type="corr"><orig>rentre</orig><reg>rentrent</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la maison <mod type="corr"><orig>loui</orig><reg>Louis</reg></mod> va dans<lb/>
+<mod type="del" stage="" who=""><del>sa chambre le petit frére de louis a mal</del></mod> §<lb/>
+sa <mod type="corr"><orig>chombe</orig><reg>chambre</reg></mod> le petit <mod type="corr"><orig>fère</orig><reg>frère</reg></mod> de <mod type="corr"><orig>louis</orig><reg>Louis</reg></mod> a mal le lendemain matin<lb/>
+<mod type="del" stage="" who=""><del>loui</del></mod> §<lb/>
+<mod type="corr"><orig>louis</orig><reg>Louis</reg></mod>, <mod type="corr"><orig>prefer</orig><reg>préfère</reg></mod> <mod type="corr"><orig>aler</orig><reg>aller</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'<mod type="corr"><orig>écol</orig><reg>école</reg></mod>. Et <mod type="corr"><orig>ile</orig><reg>il</reg></mod> <mod type="corr"><orig>travalle</orig><reg>travaille</reg></mod> <mod type="corr"><orig>tres</orig><reg>très</reg></mod> bien §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

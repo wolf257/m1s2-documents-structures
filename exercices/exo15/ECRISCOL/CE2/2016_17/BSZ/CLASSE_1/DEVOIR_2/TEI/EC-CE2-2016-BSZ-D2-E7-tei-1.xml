@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E7
+</head>
+<p>
+<pb/>
+Il est retard, il court, il court, mais <mod type="corr"><orig>enfaite</orig><reg>en fait</reg></mod> il <mod type="corr"><orig>ai</orig><reg>est</reg></mod> <mod type="corr"><orig>tros</orig><reg>trop</reg></mod> <mod type="corr"><orig>tos</orig><reg>tôt</reg></mod> mais<lb/>
+quelqu'un <mod type="corr"><orig>pase</orig><reg>passe</reg></mod> devant lui <mod type="del" stage="" who=""><del>ge</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>g</del></mod></del><add stage="" who="">jaite</add></mod></orig><reg>jeter</reg></mod> une lampe? Mais<lb/>
+<mod type="corr"><orig>ses</orig><reg>c’est</reg></mod> la <mod type="subst"><del><mod type="del" stage="" who="m"><del>X#</del></mod></del><add stage="" who="">XXX#</add></mod>. D'<mod type="subst"><del><mod type="del" stage="" who=""><del>im</del></mod></del><add stage="" who="">un</add></mod> <mod type="corr"><orig>seule</orig><reg>seul</reg></mod> coup des yeux, des<lb/>
+jambes, des bras <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>sortie</del></mod></del><add stage="" who="">sortie</add></mod></orig><reg>sortirent</reg></mod> de son corps puis Fabien,<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> son <mod type="corr"><orig>tourt</orig><reg>tour</reg></mod>, <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>il perdu</del></mod></del><add stage="" who="">il perx</add></mod></orig><reg>perd</reg></mod> ses yeux, ses jambes, ses bras <mod type="corr"><orig>on</orig><reg>ont</reg></mod><lb/>
+disparu <mod type="corr"><orig>Mais</orig><reg>mais</reg></mod> il <mod type="corr"><orig>s'endormi</orig><reg>s'endormit</reg></mod>. Il se réveille il arrive<lb/>
+sur une planète <mod type="corr"><orig>inquonus</orig><reg>inconnue</reg></mod>. Personne ne la connait<lb/>
+<mod type="corr"><orig>m'aime</orig><reg>même</reg></mod> les <mod type="corr"><orig>planète</orig><reg>planètes</reg></mod>. Les Fleurs <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> <mod type="corr"><orig>rouge</orig><reg>rouges</reg></mod>, les nuages<lb/>
+tout mais <mod type="corr"><orig>petaitre</orig><reg>peut-être</reg></mod> qu'il est sur une planète de<lb/>
+<mod type="corr"><orig>sorcier</orig><reg>sorciers</reg></mod> <mod type="corr"><orig>rouge</orig><reg>rouges</reg></mod>. Un <mod type="corr"><orig>batiment</orig><reg>bâtiment</reg></mod> était devant lui tout<lb/>
+blanc un <mod type="corr"><orig>batiment</orig><reg>bâtiment</reg></mod> fantôme <mod type="corr"><orig>peu-être</orig><reg>peut-être</reg></mod>. Il était <mod type="corr"><orig>garder</orig><reg>gardé</reg></mod><lb/>
+par des <mod type="corr"><orig>vipère</orig><reg>vipères</reg></mod> et des <mod type="corr"><orig>sorcier</orig><reg>sorciers</reg></mod> de lave il <mod type="corr"><orig>saprochat</orig><reg>s’approcha</reg></mod>, il<lb/>
+regarda. Des <mod type="corr"><orig>nin®<mod type="del" stage="" who=""><del>a</del></mod><mod type="add" stage="" who=""><add>j</add></mod>a®</orig><reg>ninjas</reg></mod> <mod type="corr"><orig>sotte</orig><reg>sautent</reg></mod> du <mod type="del" stage="" who=""><del>b</del></mod> <mod type="corr"><orig>au</orig><reg>haut</reg></mod> du <mod type="corr"><orig>batiment</orig><reg>bâtiment</reg></mod> et <mod type="corr"><orig>il</orig><reg>ils</reg></mod><lb/>
+font un combat et les <mod type="corr"><orig>ninja</orig><reg>ninjas</reg></mod> <mod type="corr"><orig>gagne</orig><reg>gagnent</reg></mod> et le rouge<lb/>
+redevient normal il était sur #XXX# <mod type="add" stage="" who=""><add>il dit</add></mod>: aux §<lb/>
+
+<pb/>
+<mod type="corr"><orig>secourd</orig><reg>au secours</reg></mod>, <mod type="corr"><orig>aux secourd<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>au secours</reg></mod>!!!!!!!!!!!!!!!!!!!!!!!<lb/>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<lb/>
+Mais il est devenu sorcier de lave puis ninja. Il change plus<lb/>
+il parle la langue ninja il entre dans le <mod type="corr"><orig>batiment</orig><reg>bâtiment</reg></mod>? Il y a<lb/>
+que <mod type="subst"><del><mod type="del" stage="" who=""><del>le</del></mod></del><add stage="" who="">de</add></mod> l'or et un roi de diamant était sur une pille de<lb/>
+<mod type="corr"><orig>pièce</orig><reg>pièces</reg></mod> de diamant et d’<mod type="corr"><orig>émerode</orig><reg>émeraude</reg></mod>, des gardes de diamant <mod type="corr"><orig>était</orig><reg>étaient</reg></mod><lb/>
+avec lui puis il l’<mod type="corr"><orig>enmenère</orig><reg>emmenèrent</reg></mod> <mod type="corr"><orig>o<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">t</add></mod></orig><reg>au</reg></mod> cachot. Des gros, des <mod type="corr"><orig>fin</orig><reg>fins</reg></mod>,<lb/>
+des <mod type="corr"><orig>petit</orig><reg>petits</reg></mod> le <mod type="corr"><orig>jetaite</orig><reg>jetaient</reg></mod> <mod type="corr"><orig>d'en</orig><reg>dans</reg></mod> une<mod type="del" stage="" who=""><del>s</del></mod> pièce toute <mod type="corr"><orig>noir</orig><reg>noire</reg></mod> et POUF !!<lb/>
+il est <mod type="corr"><orig>d'en</orig><reg>dans</reg></mod> la classe devant <mod type="corr"><orig>sons</orig><reg>son</reg></mod> cahier de Maths. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

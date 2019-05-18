@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E20 
+</head>
+<p>
+Dans son école <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> des <mod type="corr"><orig>amie</orig><reg>amis</reg></mod> <mod type="corr"><orig>mes</orig><reg>mais</reg></mod><lb/>
+<mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>malade</orig><reg>malades</reg></mod> <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> est <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> <mod type="corr"><orig>seule</orig><reg>seul</reg></mod><lb/>
+l’école <mod type="corr"><orig>comence</orig><reg>commence</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> 7H30 <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> <mod type="corr"><orig>sa<lb/>
+soi</orig><reg>s’assoit</reg></mod> <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> il y a personne <mod type="corr"><orig>acoter</orig><reg>à côté</reg></mod> de lui<lb/>
+<mod type="corr"><orig>mes</orig><reg>mais</reg></mod> <mod type="del" stage="" who=""><del>o</del></mod> <mod type="corr"><orig>in</orig><reg>un</reg></mod> <mod type="corr"><orig>nouvelle</orig><reg>nouvel</reg></mod> <mod type="corr"><orig>éleve</orig><reg>élève</reg></mod> arrive <mod type="corr"><orig>est</orig><reg>et</reg></mod><lb/>
+se <mod type="corr"><orig>mes</orig><reg>met</reg></mod> <mod type="corr"><orig>acoter</orig><reg>à côté</reg></mod> de lui puis ensuite la<lb/>
+<mod type="corr"><orig>maitraise</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>dui</orig><reg>dit</reg></mod> <mod type="corr"><orig>s’est</orig><reg>c’est</reg></mod> l’heure de la <mod type="corr"><orig>recré</orig><reg>récré</reg></mod><lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> 11H00 il sort il va <mod type="corr"><orig>voire</orig><reg>voir</reg></mod> la <mod type="corr"><orig>novelle</orig><reg>nouvelle</reg></mod><lb/>
+<mod type="corr"><orig>eléve</orig><reg>élève</reg></mod> elle est <mod type="corr"><orig>timident</orig><reg>timide</reg></mod> tous les <mod type="corr"><orig>autre</orig><reg>autres</reg></mod> <mod type="corr"><orig>éleve</orig><reg>élève</reg></mod><lb/>
+<mod type="corr"><orig>veule</orig><reg>veulent</reg></mod> <mod type="corr"><orig>jouet</orig><reg>jouer</reg></mod> avec elle <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> elle est si <mod type="corr"><orig>timededent</orig><reg>timide</reg></mod><lb/>
+<mod type="corr"><orig>mes</orig><reg>mais</reg></mod> un jour <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> va <mod type="corr"><orig>voire</orig><reg>voir</reg></mod> la <mod type="corr"><orig>novelle</orig><reg>nouvelle</reg></mod><lb/>
+qui <mod type="corr"><orig>sapelle</orig><reg>s’appelle</reg></mod> <mod type="corr"><orig>fabiene</orig><reg>Fabienne</reg></mod> puis un jour <mod type="corr"><orig>fabiene</orig><reg>Fabienne</reg></mod> se<lb/>
+<mod type="corr"><orig>raprocucha</orig><reg>rapprocha</reg></mod> de <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> elle a des <mod type="corr"><orig>santiment</orig><reg>sentiments</reg></mod><lb/>
+pour <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> a aussi des <mod type="corr"><orig>samtiment</orig><reg>sentiments</reg></mod><lb/>
+pour <mod type="corr"><orig>fabiene</orig><reg>Fabienne</reg></mod> un jour <mod type="corr"><orig>il</orig><reg>ils</reg></mod> se <mod type="corr"><orig>donent</orig><reg>donnent</reg></mod> <mod type="corr"><orig>ran<lb/>
+der vou</orig><reg>rendez-vous</reg></mod> dans un <mod type="corr"><orig>rerstaurant</orig><reg>restaurant</reg></mod> <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> un<lb/>
+<mod type="corr"><orig>maument</orig><reg>moment</reg></mod> un autre <mod type="corr"><orig>amie</orig><reg>ami</reg></mod> de <mod type="corr"><orig>fabiene</orig><reg>Fabienne</reg></mod> arrive<lb/>
+il lui <mod type="corr"><orig>duit</orig><reg>dit</reg></mod> <mod type="corr"><orig>ant</orig><reg>en</reg></mod> secret je suis <mod type="corr"><orig>amourent</orig><reg>amoureux</reg></mod> de<lb/>
+<mod type="corr"><orig>quel</orig><reg>quelqu’un</reg></mod> <mod type="del" stage="" who=""><del>q’ se qu</del></mod> qui est <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>quel q’un</orig><reg>quelqu’un</reg></mod> <mod type="corr"><orig>s’est</orig><reg>c’est</reg></mod><lb/>
+pas <mod type="corr"><orig>toit</orig><reg>toi</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> croit <mod type="corr"><orig>quil</orig><reg>qu’il</reg></mod> a <mod type="corr"><orig>di</orig><reg>dit</reg></mod> je suis<lb/>
+<mod type="corr"><orig>amouré</orig><reg>amoureux</reg></mod> de toi. <mod type="corr"><orig>pui</orig><reg>Puis</reg></mod> un jour <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> <mod type="corr"><orig>desmes<lb/>
+nage</orig><reg>déménage</reg></mod>. <mod type="corr"><orig>pas ce quil</orig><reg>parce qu’il</reg></mod> <mod type="corr"><orig>croier</orig><reg>croyait</reg></mod> que elle ne <mod type="corr"><orig>temes</orig><reg>t’aime</reg></mod> <mod type="corr"><orig>pus</orig><reg>plus</reg></mod><lb/>
+il <mod type="corr"><orig>partie</orig><reg>partit</reg></mod> en <mod type="corr"><orig>rusit</orig><reg>Russie</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>pris</orig><reg>prit</reg></mod> l’avion <mod type="corr"><orig>fabiene</orig><reg>Fabienne</reg></mod><lb/>
+le <mod type="corr"><orig>rejon</orig><reg>rejoint</reg></mod> en <mod type="corr"><orig>rusit</orig><reg>Russie</reg></mod> puis <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>tomben</orig><reg>tombent</reg></mod> <mod type="corr"><orig>amoure</orig><reg>amoureux</reg></mod><lb/>
+<mod type="corr"><orig>lun</orig><reg>l’un</reg></mod> <mod type="corr"><orig>lautre</orig><reg>l’autre</reg></mod> un jeudi <mod type="corr"><orig>il</orig><reg>ils</reg></mod> se <mod type="corr"><orig>préne</orig><reg>prennent</reg></mod> <mod type="corr"><orig>rendesvou</orig><reg>rendez-vous</reg></mod><lb/>
+dans un bar <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> se <mod type="corr"><orig>diuse</orig><reg>disent</reg></mod> tout<lb/>
+<mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>sont</orig><reg>ont</reg></mod> <mod type="del" stage="" who=""><del>uun</del></mod> quatre <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod> fin §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

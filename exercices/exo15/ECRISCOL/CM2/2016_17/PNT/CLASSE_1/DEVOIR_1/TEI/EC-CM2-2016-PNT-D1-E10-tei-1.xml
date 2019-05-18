@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D1-E10
+</head>
+<p>
+J'ai fait exploser l'<mod type="corr"><orig>imeuble</orig><reg>immeuble</reg></mod> avec une torche et j'ai<lb/>
+eu 20/20. Aprés j'ai <mod type="corr"><orig>trancher</orig><reg>tranché</reg></mod> le bras de ma<lb/>
+mère avec une hache et j'ai eu 8/20. <mod type="del" stage="" who=""><del>J'ai</del></mod> Mon<lb/>
+père <mod type="corr"><orig>jouer</orig><reg>jouait</reg></mod> avec <mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="" who="">o</add></mod>n</orig><reg>mon</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>peteti</del></mod></del><add stage="" who="">petit</add></mod> frère et<lb/>
+je l'ai <mod type="corr"><orig>faucher</orig><reg>fauché</reg></mod> avec la tondeuse et j'ai eu 20/20<lb/>
+J'ai mis une tête de rat dans le <mod type="corr"><orig>vert</orig><reg>verre</reg></mod> de coca<lb/>
+de mon frère et il a été <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod> <mod type="corr"><orig>par ce</orig><reg>parce</reg></mod><lb/>
+qu'il était <mod type="corr"><orig>empoisoner</orig><reg>empoisonné</reg></mod> par le rat et j'ai eu 7/20.<lb/>
+J'ai <mod type="subst"><del><mod type="del" stage="" who=""><del>était</del></mod></del><add stage="" who="">été</add></mod> au zoo avec ma mère et je l'ai <mod type="corr"><orig>pousser</orig><reg>poussée</reg></mod><lb/>
+dans la cage des lions et elle a été l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod> et j'ai eu 9/20. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

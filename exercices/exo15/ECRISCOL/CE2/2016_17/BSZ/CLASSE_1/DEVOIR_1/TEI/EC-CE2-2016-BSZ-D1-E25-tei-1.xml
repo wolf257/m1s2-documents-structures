@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E25
+</head>
+<p>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>le</del></mod></del><add stage="" who="">Le</add></mod> matin je me <mod type="corr"><orig>léve</orig><reg>lève</reg></mod> et je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> mon <mod type="corr"><orig>petit déjeuner</orig><reg>petit-déjeuner</reg></mod> et quand j'ai pris mon <mod type="corr"><orig>petit déjeuner</orig><reg>petit-déjeuner</reg></mod> je<lb/>
+vais me <mod type="corr"><orig>derbarbouller</orig><reg>débarbouiller</reg></mod> et quand j'ai <mod type="corr"><orig>terminer</orig><reg>terminé</reg></mod> je vais au <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod> mon <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod> c'est<lb/>
+<mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod> et quand je suis <mod type="corr"><orig>arriver</orig><reg>arrivé</reg></mod> je ouvre le <mod type="corr"><orig>portaille</orig><reg>portail</reg></mod> et les enfants <mod type="corr"><orig>rentre</orig><reg>rentent</reg></mod> dans <mod type="corr"><orig>lor</orig><reg>leur</reg></mod> cour et<lb/>
+les enfants vont jouer avec <mod type="corr"><orig>c'est</orig><reg>leurs</reg></mod> <mod type="corr"><orig>copain</orig><reg>copains</reg></mod> ou <mod type="corr"><orig>c'est</orig><reg>leurs</reg></mod> <mod type="corr"><orig>copine</orig><reg>copines</reg></mod> et quand ils <mod type="corr"><orig>sont</orig><reg>ont</reg></mod> <mod type="corr"><orig>terminer</orig><reg>terminé</reg></mod> de<lb/>
+jouer je tape dans les <mod type="corr"><orig>main</orig><reg>mains</reg></mod> et après on rentre en classe le matin on fait de l'anglais et<lb/>
+ou fait anglais avec les équités et on dit Candice <mod type="corr"><orig>veut tou</orig><reg>veux-tu</reg></mod> <mod type="corr"><orig>meme</orig><reg>même</reg></mod> et Candice <mod type="corr"><orig>répare</orig><reg>repart</reg></mod> may is jenny<lb/>
+et après je dit <mod type="corr"><orig>owd owe d'are you</orig><reg>how old are you</reg></mod> et elle me répond <mod type="corr"><orig>ilnr ten</orig><reg>i'm ten</reg></mod> et après c'est <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>autre</orig><reg>autres</reg></mod><lb/>
+et quand on a <mod type="corr"><orig>terminer</orig><reg>terminé</reg></mod> on fait les questions de lecture après on va <mod type="corr"><orig>corrige</orig><reg>corriger</reg></mod> les questions de<lb/>
+<mod type="corr"><orig>lectur</orig><reg>lectures</reg></mod> quand tout le monde aura <mod type="corr"><orig>terminer</orig><reg>terminé</reg></mod> les questions de lecture et quand <mod type="del" stage="" who=""><del>q</del></mod> on a<lb/>
+<mod type="corr"><orig>terminer</orig><reg>terminé</reg></mod> de <mod type="corr"><orig>corrigé</orig><reg>corriger</reg></mod> on va faire la conjugaison et après on va faire la récréation dans la<lb/>
+classe comme il <mod type="corr"><orig>pleus</orig><reg>pleut</reg></mod> et après la récréation on fait <mod type="del" stage="" who=""><del>les lom</del></mod> dictée et <mod type="corr"><orig>ansiute</orig><reg>ensuite</reg></mod> <mod type="corr"><orig>onfait</orig><reg>on fait</reg></mod> les mots<lb/>
+et après <mod type="del" stage="" who=""><del>on</del></mod> <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> l'<mod type="corr"><orig>apres-midi</orig><reg>après-midi</reg></mod> et après l'<mod type="corr"><orig>apres-midi</orig><reg>après-midi</reg></mod> on fait copie des devoirs et après les. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

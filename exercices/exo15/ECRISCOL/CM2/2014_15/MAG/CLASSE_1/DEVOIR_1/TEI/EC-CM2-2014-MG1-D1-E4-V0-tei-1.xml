@@ -1,0 +1,130 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E4-V0
+</head>
+<p>
+« Le cabanon de l'oncle Jo »<lb/>
+<mod type="add" stage="T2" who=""><add>L'oncle Jo a disparu</add></mod> §<lb/>
+J'invente la suite de l'histoire<lb/>
+L'oncle de Lili a diparu §<lb/>
+Tata Denise est <mod type="corr"><orig>boulverssée</orig><reg>bouleversée</reg></mod> son mari <mod type="corr"><orig>à</orig><reg>a</reg></mod> disparu. Elle<lb/>
+compose tout de suite le 17 on lui demande le nom de <lb/>
+l'oncle Jo son <mod type="corr"><orig>preno<mod type="subst"><del><mod type="del" stage="" who=""><del>n</del></mod></del><add stage="" who="">m</add></mod></orig><reg>prénom</reg></mod> son âge ses habitudes et s'il<lb/>
+connaissait <mod type="corr"><orig>quelquùn</orig><reg>quelqu'un</reg></mod> de dangereux. Elle lui a bien sûr<lb/>
+dit non: Mais elle ne savait pas qu'il avait emprunté<lb/>
+5 000 $. §<lb/>
+
+Ensuite il n'avait pas remboursé l'argent. Le monsieur<lb/>
+avait <mod type="corr"><orig>tous</orig><reg>toutes</reg></mod> ses <mod type="corr"><orig>cordonées</orig><reg>coordonnées</reg></mod> il aurait eu 4 ans pour rembourser<lb/>
+
+Puis il lui a donné rendez-vous dans un parc.<lb/>
+En fait l'<mod type="corr"><orig>omme</orig><reg>homme</reg></mod> est <mod type="corr"><orig>dengeureux</orig><reg>dangereux</reg></mod>. Et l'oncle n'a pas l'argent<lb/>
+et le cabanon doit bien servir à quelque chose...<lb/>
+
+Quelques semaines plus tars le GIPN groupe intervention<lb/>
+police nationale a trouvé un corps dans un<lb/>
+cabanon dans la forêt. Direction 36 quai des <mod type="corr"><orig>orbévres</orig><reg>orfèvres</reg></mod><lb/>
+Les <mod type="corr"><orig>anal<mod type="subst"><del><mod type="del" stage="" who=""><del>i</del></mod></del><add stage="" who="">y</add></mod>ses</orig><reg>analyses</reg></mod> ADN ont <mod type="corr"><orig>révelè</orig><reg>relevé</reg></mod> leur secret. C'est bien<lb/>
+l'oncle Jo. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>m</del></mod></del><add stage="" who="">M</add></mod>mai<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">t</add></mod>enant</orig><reg>Maintenant</reg></mod> la PJ doit se charger de l'enquête<lb/>
+
+L'homme est soumis a 10 ans de prison dont<lb/>
+5 fermes. Il est bien connue des services de police.<lb/>
+Pour braquage puis prise d'otage. §<lb/>
+
+<mod type="corr"><orig>Voila</orig><reg>Voilà</reg></mod> la fin de cette triste HISTOIRE. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E8-V2
+</head>
+<p>
+Dès que l'infirmière <mod type="corr"><orig>sorti<mod type="del" stage="T2" who="P"><del>s</del></mod></orig><reg>sortit</reg></mod> ma tête du<lb/>
+ventre de ma mère, je me sentis comme<lb/>
+libéré<mod type="del" stage="T2" who="P"><del>e</del></mod>, une lumière intense me tap<mod type="del" stage="T2" who="P"><del>p</del></mod>a dans<lb/> 
+les yeux, je pleurais car je sentai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod><lb/>
+mes poumons <mod type="add" stage="T2" who="P"><add>me</add></mod> br<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>u</del></mod></del><add stage="T2" who="P">û</add></mod>l<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>ait</del></mod></del><add stage="T2" who="P">er</add></mod> c'était commme<lb/>
+si mon âme allait sortir, j'avais peur<lb/>
+de ce qui m'attendait, voyant toutes<lb/>
+les infirmières autour de moi me complimenter<lb/>
+et mes parents pleurer de joie, je me<lb/>
+demandais pourquoi <mod type="add" stage="T2" who="P"><add>ils</add></mod> m'avaient<mod type="del" stage="T2" who="P"><del>-</del></mod><mod type="del" stage="T2" who="P"><del>ils</del></mod> <mod type="corr"><orig>sortis</orig><reg>sorti</reg></mod><lb/>
+de l<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>a</del></mod></del><add stage="T2" who="P">à</add></mod>? J'étais si bien <mod type="corr"><orig>ou</orig><reg>où</reg></mod> j'étais;<lb/>
+c'était le début d'une nouvelle vie,<lb/>
+d'un nouveau départ et d'une nouvelle<lb/>
+histoire. §<lb/>
+<metamark place=" " time="T2" who="P" style="underline">Revoir la ponctuation et son usage<lb/>
+A bon travail d'écriture. Tu as des<lb/>
+facilités et tu respectes les consignes<lb/>
+(référence à son état précédente et<lb/>
+à l'accueil qu'il reçoit</metamark>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

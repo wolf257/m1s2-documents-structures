@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E3
+</head>
+<p>
+Je suis sorti<mod type="del" stage="T2" who="P"><del>e</del></mod> du corps de <hi place=" " time="T2" who="Pσ" style="underline">ma mère quand, j'avais</hi> <metamark place=" " time="T2" who="P" style="underline">très mal dit</metamark><lb/>
+<hi place=" " time="T2" who="Pσ" style="underline">vu, entendu,</hi> plein<mod type="del" stage="T2" who="P"><del>s</del></mod> de choses. Ma mère m'avait pri<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod><lb/>
+dans ses bras. J'avais ressenti de la joie, j'étais<lb/>
+heureux, jusqu'<mod type="del" stage="T2" who="P"><del>a</del></mod><mod type="add" stage="T2" who="P"><add>à</add></mod> <mod type="del" stage="T2" who="P"><del>c</del></mod>que ma mère perdit conscience.<lb/>
+<mod type="corr"><orig>j'</orig><reg>J'</reg></mod>avais <mod type="corr"><orig>eus</orig><reg>eu</reg></mod> très peur. "<mod type="corr"><orig>ma</orig><reg>Ma</reg></mod> mère inconsciente". Puis<lb/>
+les médecins m'<mod type="corr"><orig>avais</orig><reg>avaient</reg></mod> emmen<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>er</del></mod></del><add stage="T2" who="P">é</add></mod> dans une salle. <mod type="corr"><orig>j'</orig><reg>J'</reg></mod>avais très<lb/> 
+peur pour ma mère, je ne s<mod type="del" stage="T2" who="P"><del>'</del></mod>avais pas si elle allai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">t</add></mod><lb/>
+se <mod type="corr"><orig>réveillé<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>e</del></mod></del><add stage="T2" who="P">r</add></mod></orig><reg>réveiller</reg></mod>. Soudain un médecin m'avai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">t</add></mod> emmen<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>er</del></mod></del><add stage="T2" who="P">é</add></mod> auprès<lb/>
+de ma mère. Je me sentais bien dans ma peau. <mod type="corr"><orig>j'</orig><reg>J'</reg></mod>etais<lb/>
+heureux de vivre. Sans doute c'etait un bonheur pour moi, un<lb/>
+<hi place=" " time="T2" who="Pσ" style="underline">bonheur égoiste</hi><metamark place=" " time="T2" who="P" style="underline">B.</metamark>. Un jour en me réveillant, j'avais des<lb/>
+<mod type="corr"><orig>douleur</orig><reg>douleurs</reg></mod>, une douleur si forte que je fermai les yeux, j'étais<lb/>
+incapable <metamark place=" " time="T2" who="P" style="underline">oui</metamark> de faire quoi que <mod type="corr"><orig>se</orig><reg>ce</reg></mod> soit. Je <mod type="corr"><orig>pleur<mod type="del" stage="T2" who="P"><del>é</del></mod></orig><reg>pleurais</reg></mod> je <mod type="corr"><orig>souffl<mod type="del" stage="T2" who="P"><del>ée</del></mod></orig><reg>souffrais</reg></mod>, je<lb/> 
+ne pouvais plus rien faire. Un moment la douleur fut si forte que<lb/> 
+j'avais cru perdre la raison et soudain plus rien. Plus de<lb/>
+douleur insu<mod type="add" stage="T2" who="P"><add>p</add></mod>portable, rien de cela j'avais de la joie en moi.<lb/>
+Puis le jour ou je devais <mod type="corr"><orig>rentrée</orig><reg>rentrer</reg></mod> chez moi avec ma<lb/>
+famille, les médecins, m'<mod type="corr"><orig>avai<mod type="del" stage="T2" who="P"><del>s</del></mod></orig><reg>avaient</reg></mod> <mod type="del" stage="" who=""><del>donne</del></mod> fait un cadeau<lb/>
+merveilleux. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

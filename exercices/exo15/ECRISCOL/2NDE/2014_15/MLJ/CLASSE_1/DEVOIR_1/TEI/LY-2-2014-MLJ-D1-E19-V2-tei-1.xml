@@ -1,0 +1,171 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E19-V2
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles, d'une obscu-<lb/>
+rité et d'une épaisseur d'encre, l'hom-<lb/>
+me depuis un moment dejà marchait<lb/>
+quand il <mod type="corr"><orig>apercut</orig><reg>aperçut</reg></mod> au loin la lumière<lb/>
+d'un réverbère. §<lb/>
+Il sentait le vent glacial de janvier<lb/>
+lui <mod type="corr"><orig>fouette<mod type="subst"><del><mod type="del" stage="T2" who=""><del>#XXX#</del></mod></del><add stage="T2" who="">r</add></mod></orig><reg>fouettait</reg></mod> le visage et lui piquer les<lb/>
+yeux. Cela faisait plusieurs jours, ou<lb/>
+semaines qu'il se trouvait sur la route,<lb/>
+l'homme n'avait pas <mod type="corr"><orig>compté<mod type="del" stage="T2" who=""><del>s</del></mod></orig><reg>compté</reg></mod> mais depuis<lb/>
+son départ, ce simple <mod type="corr"><orig>rèverbère</orig><reg>réverbère</reg></mod> était le<lb/>
+premier signe d'humanité qu'il lui<lb/>
+était donné de voir. Il lui paraissait<lb/>
+que pendant une eternité il avait mené son<lb/>
+périple à travers ces chemins de campagnes<lb/>
+qui ne semblaient avoir ni fin ni réelle<lb/>
+destination. §<lb/>
+À la vue des premières maisons de<lb/>
+<mod type="corr"><orig>pierre</orig><reg>pierres</reg></mod>, un sentiment de réconfort et<lb/>
+d'espoir <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">s'</add></mod>anima</orig><reg>s'anima</reg></mod> en lui. Cependant, à<lb/>
+l'heure qu'il <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">devait</add></mod> être, dans cette nuit si<lb/>
+sombre et froide, pas même un rat ne de-<lb/>
+vais courir les rues. Il s'approcha prudem-<lb/>
+ment d'une première demeure qu'il trou-<lb/>
+vait moins inquiétante que les autres à<lb/>
+proximité. C'était une maison relative-<lb/>
+ment grande et ancienne, construire en §<lb/>
+
+<pb/>
+<mod type="corr"><orig>pierre</orig><reg>pierres</reg></mod> et recouverte dans sa quasi totalité<lb/>
+de lierre. À l'approche d'une fenêtre,<lb/>
+la lumière des quelques reverbères<lb/>
+de cette ruelle vide et étroite, éclairant<lb/>
+son visage, l'homme s'aperçut enfin. §<lb/>
+Initialement <mod type="corr"><orig>vêtu<mod type="del" stage="T2" who=""><del>s</del></mod></orig><reg>vêtu</reg></mod> de ce que fut autrefois<lb/>
+des habits un minimum correct qu'il avait<lb/>
+échangé comme quelques grosses pièces de mon<lb/>
+naie et une <mod type="corr"><orig>miete</orig><reg>miette</reg></mod> de pain à un paysan<lb/>
+à la sortie de la ville lors de son départ;<lb/>
+il ne vit plus que des haillons salés<lb/>
+et <mod type="del" stage="" who=""><del>XXX#</del></mod> par le voyage. De plus, son visage<lb/>
+son corps et l'ensemble de ce qu'il portait<lb/>
+en guise de tenue, <mod type="corr"><orig>etaient</orig><reg>étaient</reg></mod> noircis de<lb/>
+terre et <mod type="corr"><orig>encrassé</orig><reg>encrassés</reg></mod> de sang séché qui<lb/>
+s'était écoulé de blessures que lui avaient<lb/>
+<mod type="corr"><orig>administrer</orig><reg>administré</reg></mod> quelques ronces. Il remarqua<lb/>
+également ses cheveux, deux fois plus <mod type="corr"><orig>long</orig><reg>longs</reg></mod><lb/>
+qu'il n'avait l'habitude de les porter<lb/>
+et en désordre, ainsi que sa barbe<lb/>
+#XXX#. §<lb/>
+L'homme ne se reconnaissait pas<lb/>
+et ne se résoudait pas à accepter sa nou-<lb/>
+velle apparence qu'il jugeait piteuse. Il<lb/>
+avait l'air d'un parfait vagabond, lui<lb/>
+qui autrefois, <mod type="corr"><orig>peut être</orig><reg>peut-être</reg></mod> était-ce il n'y a pas si<lb/>
+longtemps mais il lui semblait des années.<lb/>
+était un membre d'une des plus gran<lb/>
+des familles de sa noblesse française. Il<lb/>
+avait eu pour habitude de loger<lb/>
+dans les plus beaux <mod type="corr"><orig>chateaux</orig><reg>château</reg></mod>, d'être §<lb/>
+
+<pb/>
+<mod type="corr"><orig>vêtus</orig><reg>vêtu</reg></mod> des plus beaux vêtements et de<lb/>
+profiter des meilleurs soins, de fréquenter<lb/>
+le plus beau monde. Et le <mod type="corr"><orig>voila</orig><reg>voilà</reg></mod>, qui se<lb/>
+trouvait là, dans ce triste <mod type="corr"><orig>êtat</orig><reg>état</reg></mod>, seul et <lb/>
+affamé dans un vilage qui lui <mod type="corr"><orig>etait</orig><reg>était</reg></mod><lb/>
+inconnu <mod type="corr"><orig>a</orig><reg>à</reg></mod> des journées interminables de<lb/>
+marches de la ville. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

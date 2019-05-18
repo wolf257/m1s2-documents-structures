@@ -1,0 +1,130 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E26-V2
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles, d'une obscurité et d'une épaisseur<lb/>
+d'encre, l'homme depuis un moment déjà marchait quand il <mod type="corr"><orig>apercut</orig><reg>aperçut</reg></mod><lb/>
+au loin la lumière d'un réverbère. Il s'y <mod type="corr"><orig>arreta</orig><reg>arrêta</reg></mod> quelques minutes<lb/>
+pour voir un peu plus clair dans cette nuit <mod type="corr"><orig>noir</orig><reg>noire</reg></mod>. <mod type="corr"><orig>Grace</orig><reg>Grâce</reg></mod> à cette<lb/>
+lumière nous pouvions voir à quoi ressemblait cet homme d'une<lb/>
+trentaine d'années, d'une assez grande taille, d'une couleur de yeux<lb/>
+<mod type="corr"><orig>bleu</orig><reg>bleue</reg></mod> et d'un visage aux traits fins qui nous <mod type="corr"><orig>laisse</orig><reg>laissent</reg></mod> penser à<lb/>
+un homme strict et snobe. Il était 8h45 du matin <mod type="add" stage="T2" who=""><add>,</add></mod> il rentre<lb/>
+à pied de son travail car il a une phobie des <mod type="corr"><orig>metros</orig><reg>métros</reg></mod> de-<lb/>
+nuit et habite au nord de la Russie dans la région où la particu-<lb/>
+larité est que pendant 6 mois c'est le noir complet sans que le<lb/>
+soleil se montre et 6 mois où le soleil ne quitte plus le ciel.<lb/>
+Après ces 3 minutes d'arrêt l'homme repartit et rentra chez<lb/>
+lui. Il est <mod type="corr"><orig>vetit</orig><reg>vêtu</reg></mod> d'un habit blanc, de grosses <mod type="corr"><orig>botes</orig><reg>bottes</reg></mod> et d'une<lb/>
+chapka. Une fois rentré dans son appartement où il<lb/>
+vit seul depuis 7 mois, l'homme reprend ses habitudes organisées, lui<lb/>
+même est très organisé, il prend sa douche, s'habille, déjeune, fais<lb/>
+la vaiselle et va acheter le journal. Il est quelque peu solitaire car<lb/>
+il est venu en Russie pour le travail et est souvent muté. Il est<lb/>
+très travailleur et occupe une bonne place dans l'entreprise où il<lb/>
+travail. Il ne voit presque personne appart <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">lorsqu'il</add></mod> revient<lb/>
+en France pour voir sa famille <mod type="subst"><del><mod type="del" stage="" who=""><del>q</del></mod></del><add stage="" who=""><mod type="corr"><orig>a</orig><reg>à</reg></mod></add></mod> qui il est très attaché, il<lb/>
+ne revient que <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les 2 mois, il voit aussi ses collègues et ses amis<lb/>
+du sport car il <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX# #XXX# #XXX#</del></mod></del><add stage="" who="">est sportif et aime</add></mod> prendre soin de lui et son corps<lb/>
+pour ça il fait de la natation et de la course. Il songe à revenir en<lb/>
+France et quitter la Russie, une proposition lui a été offerte, il <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">aime</add></mod><lb/>
+beaucoup voyager et va <mod type="corr"><orig>surement</orig><reg>sûrement</reg></mod> accepter. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

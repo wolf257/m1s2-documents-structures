@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E9
+</head>
+<p>
+C'est le matin, mon <mod type="del" stage="" who=""><del>,</del></mod> <mod type="corr"><orig>réveille</orig><reg>réveil</reg></mod> sonne <mod type="corr"><orig>a</orig><reg>à</reg></mod> 7h du matin<lb/>
+pour aller travailler. Je <mod type="del" stage="" who=""><del>,</del></mod> me prépare pour le commencement<lb/>
+de mon projet a 8h <mod type="subst"><del><mod type="del" stage="" who=""><del>jst</del></mod></del><add stage="" who="">je</add></mod> pars <mod type="corr"><orig>a</orig><reg>à</reg></mod> 8h30. Il y a beaucoup de<lb/>
+monde <mod type="corr"><orig>a<mod type="del" stage="" who=""><del>u batiment</del></mod></orig><reg>à</reg></mod> <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>gobuild</orig><reg>écobuild</reg></mod>. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>j</del></mod></del><add stage="" who="">J</add></mod>e</orig><reg>Je</reg></mod> monte rapidement <mod type="corr"><orig>a</orig><reg>à</reg></mod><lb/>
+mon bureau, allume l'ordinateur et recherche ma<lb/>
+mission du mois; "<mod type="corr"><orig>inventé</orig><reg>inventer</reg></mod> une reconstitution du trois mots<lb/>
+Hèrmionne en 2m sur 1m." Je vais dans ma salle de<lb/>
+construction et commence le légo; je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> la <mod type="corr"><orig>piece</orig><reg>pièce</reg></mod>,: A89, 0E3, ZX1...<lb/>
+j'ai <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> 1/5ème de ma construction <mod type="corr"><orig>a</orig><reg>à</reg></mod> 12h et je m'<mod type="corr"><orig>arètte</orig><reg>arrête</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> 12h30.<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>d</del></mod></del><add stage="" who="">D</add></mod>e</orig><reg>de</reg></mod> 12h à 15h je vais chez mes <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> et je <mod type="corr"><orig>repar</orig><reg>repars</reg></mod> à 15h15 pour<lb/>
+aller <mod type="corr"><orig>a</orig><reg>à</reg></mod> videogamesconstructor <mod type="corr"><orig>a</orig><reg>à</reg></mod> 19h45. Et le weekend je <mod type="corr"><orig>fairait</orig><reg>fairais</reg></mod><lb/>
+des <mod type="corr"><orig>video</orig><reg>vidéos</reg></mod> de jeu <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>video</del></mod></del><add stage="" who="">video</add></mod></orig><reg>vidéo</reg></mod>, spécialement ARK <mod type="corr"><orig>survivoul<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>survival</reg></mod>. §<lb/>
+Le matin <mod type="corr"><orig>a</orig><reg>à</reg></mod> 10h je <mod type="corr"><orig>part</orig><reg>pars</reg></mod> au travail d'invention<lb/>
+téchnologique <mod type="corr"><orig>a</orig><reg>à</reg></mod> P t <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>coté</orig><reg>côté</reg></mod> de chez mes parents. §<lb/>
+Là-bas <mod type="del" stage="" who=""><del>l</del></mod> je <mod type="corr"><orig>perféctionne</orig><reg>perfectionne</reg></mod> des <mod type="corr"><orig>robot</orig><reg>robots</reg></mod> <mod type="corr"><orig>unanoïde</orig><reg>humanoïde</reg></mod> ou des<lb/>
+<mod type="del" stage="" who=""><del>oj</del></mod> <mod type="corr"><orig>objet</orig><reg>objets</reg></mod> <mod type="corr"><orig>éléctronique</orig><reg>éléctroniques</reg></mod> <mod type="del" stage="" who=""><del>X#</del></mod> multifonction de 11h <mod type="corr"><orig>a</orig><reg>à</reg></mod> 18h. A 18h30<lb/>
+je <mod type="del" stage="" who=""><del>X#</del></mod> vais en ville me <mod type="corr"><orig>réaprovisioner</orig><reg>réapprovisionner</reg></mod> <mod type="del" stage="" who=""><del>j</del></mod> jusqu'<mod type="corr"><orig>a</orig><reg>à</reg></mod> 19h et<lb/>
+j<mod type="del" stage="" who=""><del>e</del></mod>'ai du temps <mod type="add" stage="" who=""><add>libre</add></mod> de 19h15 <mod type="corr"><orig>a</orig><reg>à</reg></mod> minuit ou avec mes amis ou <mod type="corr"><orig>etre</orig><reg>être</reg></mod>. §<lb/>
+sponsorisé par des <mod type="corr"><orig>jeu</orig><reg>jeux</reg></mod> comme ARK Raftou robocraft. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

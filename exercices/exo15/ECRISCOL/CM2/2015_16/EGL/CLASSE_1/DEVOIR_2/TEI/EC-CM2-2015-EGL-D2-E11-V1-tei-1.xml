@@ -1,0 +1,121 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>﻿partie: EC-CM2-2015-EGL-D2-E11-V1
+</head>
+<p>
+<pb/>
+
+Tout à coup, la voiture avança, lentement d'abord, ensuite<lb/>
+de plus en plus vite. Elles eurent très <mod type="subst"><del><mod type="del" stage="" who=""><del>peur</del></mod></del><add stage="T2" who="">peur</add></mod> la mère ne<lb/>
+le <mod type="corr"><orig>savai</orig><reg>savait</reg></mod> pas car elle était au magasin. Nadine et<lb/>
+Natacha étaient <mod type="corr"><orig>choqué</orig><reg>choquée</reg></mod>, la mère venait de l'apprendre. La<lb/>
+mère <mod type="corr"><orig>couru</orig><reg>courut</reg></mod> vite voir leur fille. Natacha et Nadine eurent<lb/>
+un accident. La mère <mod type="corr"><orig>couru</orig><reg>courut</reg></mod> pour aller rejoindre Nadine et<lb/>
+Natacha. La mére <mod type="del" stage="" who=""><del>appela les secours,les secours voya</del></mod><lb/>
+Nadine <mod type="subst"><del><mod type="del" stage="" who=""><del>bouger</del></mod></del><add stage="T2" who="">bouge</add></mod>, la mère alla voir Nadine. La <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> posa<lb/>
+des questions à Nadine, mais Nadine ne <mod type="corr"><orig>répondes</orig><reg>répondait</reg></mod><lb/>
+pas elle <mod type="corr"><orig>étais</orig><reg>était</reg></mod> inconsciente. Puis elle alla voir Natacha,<lb/>
+Natacha <mod type="corr"><orig>ouvri</orig><reg>ouvrit</reg></mod> les yeux est parla à sa <mod type="corr"><orig>mére</orig><reg>mère</reg></mod>, <mod type="corr"><orig>samére</orig><reg>sa mère</reg></mod> lui <mod type="corr"><orig>répond<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>r</orig><reg>répondait</reg></mod>. §<lb/>
+1h après l'accident la <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> <mod type="corr"><orig>voya</orig><reg>vit</reg></mod> que Nadine <mod type="corr"><orig>etais</orig><reg>était</reg></mod><lb/>
+<mod type="corr"><orig>inconssiente</orig><reg>inconsciente</reg></mod> et que Natacha <mod type="corr"><orig>étais</orig><reg>était</reg></mod> un peu <mod type="corr"><orig>inconssiente</orig><reg>inconsciente</reg></mod><lb/>
+alors la mère appela les secours, les <mod type="corr"><orig>secour</orig><reg>secours</reg></mod> <mod type="corr"><orig>arriva</orig><reg>arrivèrent</reg></mod> §<lb/>
+
+<pb/>
+
+<mod type="corr"><orig><mod type="del" stage="" who=""><del>il anmene</del></mod><mod type="add" stage="T2" who=""><add>ils enmenérent</add></mod></orig><reg>ils amenèrent</reg></mod> Nadine et Natacha à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

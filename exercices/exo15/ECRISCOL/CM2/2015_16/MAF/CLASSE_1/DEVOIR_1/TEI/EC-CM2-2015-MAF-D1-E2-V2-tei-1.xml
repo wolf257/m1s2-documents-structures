@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E2-V2
+</head>
+<p>
+<pb/>
+
+Je me suis dit que c'était à moi de me <mod type="corr"><orig>blaissé</orig><reg>blesser</reg></mod> en faisant<lb/>
+que des trucs assez dangereux sans que je m<mod type="subst"><del><mod type="del" stage="" who=""><del>'en</del></mod></del><add stage="" who="">e</add></mod> <mod type="corr"><orig>rends</orig><reg>rende</reg></mod> compte<lb/>
+ou pas. Ma maman m'avait dit de rester en dehors de la<lb/>
+cuisine pendant <mod type="corr"><orig>quelle</orig><reg>qu'elle</reg></mod> sortait la plaque de <mod type="corr"><orig>coukies</orig><reg>cookies</reg></mod> du four,<lb/>
+mais je ne l'ai pas <mod type="corr"><orig>écouter</orig><reg>écoutée</reg></mod>...je suis passé devant<lb/>
+elle et elle a <mod type="corr"><orig>sursauter</orig><reg>sursauté</reg></mod> alors je me suis <mod type="corr"><orig>prie</orig><reg>pris</reg></mod> la plaque<lb/>
+<mod type="corr"><orig>brulante</orig><reg>brûlante</reg></mod> sur la figure avec tous les <mod type="corr"><orig>coukies</orig><reg>cookies</reg></mod>. Après on<lb/>
+a invité mes <mod type="corr"><orig>copins</orig><reg>copains</reg></mod> au <mod type="corr"><orig>gouter</orig><reg>goûter</reg></mod> pour me consoler. Et puis<lb/>
+elle a fait un gâteau au chocolat qui était posé sur<lb/>
+la table à manger avec le couteau mal <mod type="corr"><orig>positioné</orig><reg>positionné</reg></mod>.<lb/>
+Je suis passé à côté puis je me suis pris le couteau dans<lb/>
+le ventre dans le ventre, on est vite <mod type="corr"><orig>allez</orig><reg>allés</reg></mod> à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod> pour<lb/>
+me recoudre le ventre et en même temps mon papa a<lb/>
+<mod type="corr"><orig>renvoiller</orig><reg>renvoyé</reg></mod> mes <mod type="corr"><orig>copins</orig><reg>copains</reg></mod> chez eux. Le lendemain matin<lb/>
+on <mod type="corr"><orig>prenner</orig><reg>prenait</reg></mod> le petit déjeuner tous ensemble, ma soeur<lb/>
+<mod type="corr"><orig>venné</orig><reg>venait</reg></mod> de <mod type="corr"><orig>posé</orig><reg>poser</reg></mod> son café sur la table <mod type="corr"><orig>bancal</orig><reg>bancale</reg></mod> alors le café<lb/>
+s'est renversé sur moi, j'ai hurlé comme je ne l'avais<lb/>
+jamais fait, mon père a vite enlevé mon pantalon, ma<lb/>
+peau s'est <mod type="corr"><orig>enlevé</orig><reg>enlevée</reg></mod> avec...(je vous laisse imaginer la<lb/>
+suite) Et cette <mod type="corr"><orig>fois la</orig><reg>fois-là</reg></mod> quand je suis retourné à l'école<lb/>
+j'ai <mod type="corr"><orig>eû</orig><reg>eu</reg></mod> 10/10 à ma <mod type="corr"><orig>rédact</orig><reg>rédaction</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

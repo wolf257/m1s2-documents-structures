@@ -1,0 +1,166 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E16
+</head>
+<p>
+<pb/>
+Laurie part toute seule à pied<lb/>
+pour aller à l'école. En chemin, elle<lb/>
+rencontre ses <mod type="subst"><del><mod type="del" stage="" who=""><del>amis</del></mod></del><add stage="" who="">amies</add></mod> Léa et<lb/>
+Lili-marie. Comme tous les jours,<lb/>
+elles arrivent <mod type="corr"><orig>ensembles</orig><reg>ensemble</reg></mod> à l'école.
+<mod type="corr"><orig>S'était</orig><reg>C'était</reg></mod> la sonnerie des cours,<lb/>
+et les filles allèrent rejoindre leur classe.<lb/>
+Aujourd'hui le maître <mod type="subst"><del><mod type="del" stage="" who=""><del>à</del></mod></del><add stage="" who="">a</add></mod> dit: §<lb/>
+"Je vais vous rendre vos contrôles <mod type="del" stage="" who=""><del>"</del></mod>.<lb/>
+Laurie n'aimait pas cette phrase. §<lb/>
+Quand le <mod type="corr"><orig>mette</orig><reg>maître</reg></mod> donna sa copie<lb/>
+à Laurie, elle allait presque pleurer:<lb/>
+elle avait 0/20! §<lb/>
+
+<pb/>
+Le soir, en rentrant chez elle, ses parents<lb/>
+n'étaient pas là, elle ne voulait pas leur<lb/>
+montrer sa <mod type="del" stage="" who=""><del>mo</del></mod> mauvaise note, elle devait trouver<lb/>
+une idée! Alors devant le 0 elle rajouta un 2<lb/>
+et enleva toute la correction de la maîtresse.<lb/>
+Vers 18h00, ses parents arrivèrent et <mod type="corr"><orig>vurent</orig><reg>virent</reg></mod><lb/>
+le 20/20 de Laurie. <mod type="del" stage="" who=""><del>"</del></mod>-Laurie! dit son père,<lb/>
+viens vite me voir! dit-il avec un <mod type="corr"><orig>tin</orig><reg>ton</reg></mod> énervé.<lb/>
+-Oui papa qu'<mod type="corr"><orig>est ce</orig><reg>est-ce</reg></mod> qu'il y a? demanda Laurie.<lb/>
+-Pourquoi tu as menti sur ta note? dit-il.<lb/>
+-Je ne vois pas de quoi tu parles...<lb/>
+-Arrête de mentir Laurie, tu n'as pas eu 20.<lb/>
+-Mais si! Regarde, je n'ai aucune faute! §<lb/>
+-Laurie, je sais que tu n'as pas eu 20,<lb/>
+car il y a <mod type="subst"><del><mod type="del" stage="" who=""><del>1</del></mod></del><add stage="" who="">une</add></mod> faute par mot! §<lb/>
+-D'accord j'avoue, dit-elle en sanglotant. §<lb/>
+j'ai eu un 0/20 pas un 20/20!
+-Mais pourquoi as tu menti ma petite<lb/>
+Laurie? §<lb/>
+-Car j'ai eu peur que vous <mod type="corr"><orig>me</orig><reg>vous</reg></mod><lb/>
+disputiez à cause de ma note! §<lb/>
+
+<pb/>
+-Mais non voyons! Ce n'est pas grave, il<lb/>
+faut <mod type="subst"><del><mod type="del" stage="" who=""><del>apprendre</del></mod></del><add stage="" who="">comprendre</add></mod> <mod type="del" stage="" who=""><del>à</del></mod> <mod type="corr"><orig>ces</orig><reg>ses</reg></mod> erreurs pour ne plus<lb/>
+les <mod type="corr"><orig>refaires</orig><reg>refaire</reg></mod>, ce n'est que la première fois!<lb/>
+-Tu as raison papa, la prochaine fois<lb/>
+je m'<mod type="corr"><orig>améliorerais</orig><reg>améliorerai</reg></mod>. §<lb/>
+-Bon, je voulais aussi te dire que nous<lb/>
+avons reçu <mod type="subst"><del><mod type="del" stage="" who=""><del>un</del></mod></del><add stage="" who="">ton</add></mod> bulletin et... §<lb/>
+-Et...dit Laurie. §<lb/>
+-Il est... §<lb/>
+-Bon papa c'est drôle mais bon ça<lb/>
+devient un peu casse-pieds. §<lb/>
+-Eh bien, ton professeur te félicite<lb/>
+car <mod type="corr"><orig>tu<mod type="del" stage="" who=""><del>n</del></mod></orig><reg>tu</reg></mod> es sérieuse, solidaire et<lb/>
+encore plein d'autres compliments, enfin bref,<lb/>
+nous te félicitons ma fille! §<lb/>
+-Youpi! Je suis super contente! §<lb/>
+-Allez, vas faire tes devoirs ma chérie! §<lb/>
+
+<pb/>
+-Oui papa, et je vais bien réviser toutes<lb/>
+les dernières leçons <mod type="subst"><del><mod type="del" stage="" who=""><del>pour</del></mod></del><add stage="" who="">pour</add></mod> avoir<lb/>
+un 20/20 <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>à</del></mod></del><add stage="" who="">a</add></mod>u</orig><reg>au</reg></mod> prochain contrôle, allez<lb/>
+je vous laisse. §<lb/>
+-Parfait. <mod type="corr"><orig>Appelle nous</orig><reg>Appelle-nous</reg></mod> si tu as besoin<lb/>
+d'aide, travaille bien! §<lb/> 
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

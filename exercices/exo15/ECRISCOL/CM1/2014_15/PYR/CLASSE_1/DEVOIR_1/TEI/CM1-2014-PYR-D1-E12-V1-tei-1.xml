@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E12-V1
+</head>
+<p>
+Il était une fois un petit garçon qui allait <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="T2" who=""><del>a</del></mod></del><add stage="T2" who="">à</add></mod></hi></orig><reg>à</reg></mod> l'école.<lb/>
+Mais il avait perdu<mod type="del" stage="" who="P"><del>s</del></mod> sa toupie chinoise sur le chemin de<lb/> l'école. §<lb/>
+-Tu as perdu<mod type="del" stage="" who="P"><del>s</del></mod> quelque chose? lui demanda Anne-Lise,<lb/>
+-Ma toupie chinoise sur le chemin de l'école. §<lb/>
+Drig <mod type="add" stage="T2" who=""><add>,</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>S</del></mod></del><add stage="" who="P">Ç</add></mod></hi>a</orig><reg>Ça</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">sonne</hi></orig><reg>sonne</reg></mod> <mod type="add" stage="" who="P"><add>sonna</add></mod>,l'école <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">est</hi></orig><reg>était</reg></mod> <mod type="add" stage="" who="P"><add>était</add></mod> <mod type="corr"><orig>passé<mod type="add" stage="" who="P"><add>e .</add></mod></orig><reg>passée .</reg></mod> §<lb/>
+Anne-Lise l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">e<mod type="subst"><del><mod type="del" stage="" who="P"><del>n</del></mod></del><add stage="" who="P">m</add></mod>mène</hi></orig><reg>emmena</reg></mod> <mod type="add" stage="T2" who=""><add>emmèna</add></mod> chez le gardien de loubli<mod type="del" stage="" who="P"><del>e</del></mod>}. §<lb/>
+Une fois arrivé,le petit garçon <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">v#a</hi></orig><reg>alla</reg></mod> <mod type="add" stage="T2" who=""><add>vi</add></mod> chez le gardien de <lb/>
+l'oubli <mod type="add" stage="T2" who=""><add>.</add></mod> <mod type="corr"><orig>Pσ#<mod type="subst"><del>v<mod type="del" stage="" who="P"><del>l</del></mod></del><add stage="" who="P">L</add></mod></orig><reg>Le</reg></mod> gardien de 
+l'oubli dit:"Monte au 1er étage<mod type="add" stage="T2" who=""><add>.</add></mod> <lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">T</add></mod>u</hi></orig><reg>Tu</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">vois</hi></orig><reg>verras</reg></mod> <mod type="add" stage="T2" who=""><add>verras</add></mod>
+salle <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>est</del></mod></del><add stage="" who="P">et</add></mod></hi></orig><reg>et</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>ba</del></mod></del><add stage="" who="P">si</add></mod></hi></orig><reg>si</reg></mod> tu <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">va<mod type="add" stage="" who="P"><add>s</add></mod></hi></orig><reg>vas</reg></mod> dans la salle <mod type="corr"><orig>peut<mod type="add" stage="" who="P"><add>-</add></mod>être</orig><reg>peut-être</reg></mod><lb/>
+que tu <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">trouvera<mod type="add" stage="" who="P"><add>s</add></mod></hi></orig><reg>trouveras</reg></mod> ta toupie".Le <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">pettit</hi></orig><reg>petit</reg></mod> <mod type="add" stage="T2" who=""><add>petit</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">gar<mod type="subst"><del><mod type="del" stage="" who="P"><del>c</del></mod></del><add stage="" who="P">ç</add></mod>on</hi></orig><reg>garçon</reg></mod> dit:"<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">Dacor</hi></orig><reg>D'accord</reg></mod> <mod type="add" stage="T2" who=""><add>D'accord</add></mod>,merci!"<lb/>
+Il <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">va</hi></orig><reg>allait</reg></mod> <mod type="add" stage="T2" who=""><add>allait</add></mod> dans la salle <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">est</hi></orig><reg>et</reg></mod> <mod type="add" stage="T2" who=""><add>et</add></mod> <mod type="corr"><orig>regard<mod type="add" stage="" who="P"><add>a</add></mod></orig><reg>regarda</reg></mod> <mod type="corr"><orig>par<mod type="add" stage="" who=""><add>-</add></mod> tout</orig><reg>partout</reg></mod> <mod type="add" stage="T2" who=""><add>.</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">I</add></mod>l</hi></orig><reg>Il</reg></mod> la <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">trouve</hi></orig><reg>trouva</reg></mod> <mod type="add" stage="T2" who=""><add>trouva</add></mod>!!!<lb/>
+Il dit:"Merci beaucoup"!!!Le gardien dit:"Mais <mod type="corr"><orig>derien</orig><reg>de rien</reg></mod> <mod type="add" stage="" who="P"><add>de rien ,</add></mod><lb/>
+mon cher petit". <hi place=" " time="" who="Pσ" style="underline">IL</hi> <mod type="add" stage="T2" who=""><add> le petit garçon</add></mod> <mod type="corr"><orig>{Pσ#repar</orig><reg>repartit</reg></mod> <mod type="add" stage="" who=""><add>reparti</add></mod> chez lui tout joyeux! §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

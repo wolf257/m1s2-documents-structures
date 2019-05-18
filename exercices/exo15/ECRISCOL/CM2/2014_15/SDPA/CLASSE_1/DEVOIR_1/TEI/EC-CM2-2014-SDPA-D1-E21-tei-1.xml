@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E21
+</head>
+<p>
+Ron et Harry, <mod type="del" stage="" who=""><del>vont</del></mod> venaient juste de se souvenir que Hermione<lb/>
+était <mod type="corr"><orig>entrin</orig><reg>en train</reg></mod> de pleurer dans les toilettes des filles, et <mod type="corr"><orig>il</orig><reg>ils</reg></mod> font<lb/>
+demi <mod type="del" stage="" who=""><del>ta#XXX#</del></mod> tour pour aller la <mod type="corr"><orig>cherché</orig><reg>chercher</reg></mod>. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>m</del></mod></del><add stage="" who="">M</add></mod>ais</orig><reg>Mais</reg></mod> ils étaient <mod type="corr"><orig>arriver</orig><reg>arrivés</reg></mod><lb/>
+<mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>toilette</orig><reg>toilettes</reg></mod> des filles c'était trop tard le <mod type="del" stage="" who=""><del>trole</del></mod> troll était déjà<lb/>
+là. Harry jette un sort, mais le troll l'<mod type="corr"><orig>attraper</orig><reg>attrape</reg></mod> par les pieds.<lb/>
+Ron <mod type="corr"><orig>rejetté</orig><reg>rejeta</reg></mod> un <mod type="del" stage="" who=""><del>sord</del></mod> sort qu'il avait <mod type="corr"><orig>apprit</orig><reg>appris</reg></mod> au cours de magie<lb/>
+et il avait réussi, sont gourdin était en <mod type="del" stage="" who=""><del>lère</del></mod> l'air. Le gourdin<lb/>
+est <mod type="corr"><orig>retomber</orig><reg>retombé</reg></mod> sur sa tête. Hermione <mod type="del" stage="" who=""><del>était</del></mod> est <mod type="corr"><orig>sauver</orig><reg>sauvée</reg></mod> pour les <mod type="corr"><orig>remerssiers</orig><reg>remercier</reg></mod><lb/>
+elle se dénonce devant les professeurs. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,131 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E22
+</head>
+<p>
+Je me <mod type="corr"><orig>réveiller</orig><reg>réveillerai</reg></mod> le matin, je <mod type="corr"><orig>dejeunerer</orig><reg>déjeunerai</reg></mod>, je m'<mod type="corr"><orig>abillerai</orig><reg>habillerai</reg></mod>. Une<lb/>
+fois <mod type="corr"><orig>prete</orig><reg>prête</reg></mod> je prenderai ma <mod type="corr"><orig>voitur</orig><reg>voiture</reg></mod> et j'<mod type="corr"><orig><mod type="del" stage="" who=""><del>y</del></mod>irai</orig><reg>irai</reg></mod> travailler en tant que<lb/>
+<mod type="corr"><orig>medecin</orig><reg>médecin</reg></mod>. <mod type="del" stage="" who=""><del>j</del></mod> Je m'occuperai de mes <mod type="corr"><orig>passion</orig><reg>passions</reg></mod>, je <mod type="del" stage="" who=""><del>l'ai soignerai</del></mod> les <mod type="corr"><orig>soignerers</orig><reg>soignerai</reg></mod>.<lb/>
+<mod type="corr"><orig>Aprês</orig><reg>Après</reg></mod> une bonne journée de travail je reprendrai ma voiture et je rentrerai<lb/>
+chez moi. Une fois rentrée je m'occuperai de <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> animaux: <mod type="subst"><del><mod type="del" stage="" who=""><del>mes chat</del></mod></del><add stage="" who="">mon<lb/> chat</add></mod>, mon chien <mod type="subst"><del><mod type="del" stage="" who=""><del>,</del></mod></del><add stage="" who="">et</add></mod> mon âne...je leur donnerai à <mod type="corr"><orig>mangai</orig><reg>manger</reg></mod>. <mod type="corr"><orig>Apres</orig><reg>Après</reg></mod> j'inviterai<lb/>
+des <mod type="corr"><orig>amie</orig><reg>amis</reg></mod> à venir manger chez moi.. je leur <mod type="corr"><orig>préparer</orig><reg>préparerai</reg></mod> de <mod type="corr"><orig>bon</orig><reg>bons</reg></mod> <mod type="corr"><orig>petit</orig><reg>petits</reg></mod> <mod type="corr"><orig>plat</orig><reg>plats</reg></mod><lb/>
+maison. <mod type="corr"><orig>je</orig><reg>Je</reg></mod> leur ferai à <mod type="corr"><orig>mangeai</orig><reg>manger</reg></mod> avec les <mod type="del" stage="" who=""><del>les</del></mod> <mod type="corr"><orig>legeume</orig><reg>mégumes</reg></mod> et <mod type="corr"><orig>fruit</orig><reg>fruits</reg></mod> des jardins que<lb/>
+j'<mod type="corr"><orig>aurer</orig><reg>aurai</reg></mod> <mod type="corr"><orig>était</orig><reg>allé</reg></mod> cueillir avec soin. Ensuite les <mod type="corr"><orig>inviter</orig><reg>invités</reg></mod> <mod type="corr"><orig>arriveron</orig><reg>arriveront</reg></mod> nous<lb/>
+nous <mod type="corr"><orig>instaleront</orig><reg>installeront</reg></mod> dans le salon et nous commenceront l'<mod type="corr"><orig>aperot</orig><reg>apéro</reg></mod> <mod type="corr"><orig>pendans</orig><reg>pendant</reg></mod><lb/>
+que les <mod type="corr"><orig>plas</orig><reg>plats</reg></mod> <mod type="del" stage="" who=""><del>cuirront</del></mod> finiront de cuir. Nous nous <mod type="corr"><orig>parleront</orig><reg>parlerons</reg></mod> de notre vie<lb/>
+de nos <mod type="corr"><orig>anedoc</orig><reg>anecdotes</reg></mod>. Après tous cela <mod type="del" stage="" who=""><del>n</del></mod> on passera à table, <mod type="subst"><del><mod type="del" stage="" who=""><del>on</del></mod></del><add stage="" who="">on</add></mod> mangera<lb/>
+le <mod type="corr"><orig>plas</orig><reg>plat</reg></mod>. Enssuite nous <mod type="del" stage="" who=""><del>fir</del></mod> mangerons le fromage. Après nous <mod type="corr"><orig>feront</orig><reg>ferons</reg></mod> une<lb/>
+petite <mod type="corr"><orig>pose</orig><reg>pause</reg></mod> avant le <mod type="corr"><orig>desert</orig><reg>dessert</reg></mod> ce qui me #XXX# le temps de le terminer. Nous<lb/>
+<mod type="corr"><orig>repasseront</orig><reg>repasserons</reg></mod> à table et nous <mod type="corr"><orig>mangeront</orig><reg>mangerons</reg></mod> le <mod type="corr"><orig>desert</orig><reg>dessert</reg></mod>. <mod type="corr"><orig>Il</orig><reg>Ils</reg></mod> me feront plein de<lb/>
+<mod type="corr"><orig>compliment</orig><reg>compliments</reg></mod> car le repas que j'aurai <mod type="corr"><orig>prepares</orig><reg>préparé</reg></mod> <mod type="corr"><orig>etait</orig><reg>était</reg></mod> <mod type="corr"><orig>delicieux</orig><reg>délicieux</reg></mod>. §<lb/>
+je leur aurai <mod type="corr"><orig>préparer</orig><reg>préparé</reg></mod>: §<lb/>
+-pour l'entrée j'<mod type="corr"><orig>aures</orig><reg>aurai</reg></mod> fait une salade avec des <mod type="corr"><orig>chevre</orig><reg>chèvres</reg></mod> <mod type="corr"><orig>chaud</orig><reg>chauds</reg></mod>,<lb/>
+des noix, des #XXX# et un petit peu de fromage. §<lb/>
+-pour le <mod type="corr"><orig>plas</orig><reg>plat</reg></mod> j'<mod type="corr"><orig>aurer</orig><reg>aurai</reg></mod> fait des <mod type="corr"><orig>st jack</orig><reg>Saint-Jacques</reg></mod> avec une sauce au poireau<lb/>
+et à la creme. Avec des <mod type="corr"><orig>pomme</orig><reg>pommes</reg></mod> de terre <mod type="corr"><orig>sauter</orig><reg>sautées</reg></mod> et des <mod type="corr"><orig>carotte</orig><reg>carottes</reg></mod>. §<lb/>
+-pour le fromage. <mod type="corr"><orig>il</orig><reg>Il</reg></mod> y <mod type="corr"><orig>aurai</orig><reg>aurait</reg></mod> <mod type="corr"><orig>different</orig><reg>différents</reg></mod> <mod type="corr"><orig>fromage</orig><reg>fromages</reg></mod>... §<lb/>
+-pour le <mod type="corr"><orig>desert</orig><reg>dessert</reg></mod> <mod type="del" stage="" who=""><del>le de</del></mod> j'aurai <mod type="corr"><orig>prepares</orig><reg>préparé</reg></mod> des ananas molles <mod type="corr"><orig>c'est<lb/>a dire</orig><reg>c'est-à-dire</reg></mod> 
+dans le fond d'une coupelle on place des <mod type="corr"><orig>petit</orig><reg>petits</reg></mod> <mod type="del" stage="" who=""><del>X#</del></mod> <mod type="corr"><orig>morceau</orig><reg>morceaux</reg></mod><lb/>
+d'ananas on rajoute deux <mod type="corr"><orig>petite</orig><reg>petites</reg></mod> <mod type="corr"><orig>boule</orig><reg>boules</reg></mod> de glace avec du <mod type="corr"><orig>coulie</orig><reg>coulis</reg></mod> de<lb/>
+<mod type="corr"><orig>fruie</orig><reg>fruits</reg></mod> <mod type="corr"><orig>rouge</orig><reg>rouges</reg></mod> on rajoute de la chantilly et des <mod type="corr"><orig>amande</orig><reg>amandes</reg></mod> <mod type="corr"><orig>effiler</orig><reg>effilées</reg></mod> pour<lb/>
+la <mod type="corr"><orig>decoration</orig><reg>décoration</reg></mod>. <mod type="corr"><orig>Apres</orig><reg>Après</reg></mod> leur <mod type="corr"><orig>avoire</orig><reg>avoir</reg></mod> <mod type="corr"><orig>expliquer</orig><reg>expliqué</reg></mod> <mod type="corr"><orig>quelque</orig><reg>quelques</reg></mod> #XXX# les <mod type="corr"><orig>inviter</orig><reg>invités</reg></mod><lb/>
+<mod type="corr"><orig>rentre</orig><reg>rentrent</reg></mod> chez <mod type="corr"><orig>eu</orig><reg>eux</reg></mod>. Je me mis en <mod type="corr"><orig>pygama</orig><reg>pyjama</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>.</del></mod></del><add stage="" who="">,</add></mod> me <mod type="corr"><orig>demaquilla</orig><reg>démaquillai</reg></mod>, me <mod type="corr"><orig>brossa</orig><reg>brossai</reg></mod> les<lb/>
+<mod type="corr"><orig>dent</orig><reg>dents</reg></mod>. Je <mod type="del" stage="" who=""><del>lis un peu</del></mod> <mod type="corr"><orig>monta</orig><reg>montai</reg></mod> à l'<mod type="corr"><orig>etage</orig><reg>étage</reg></mod>  m'<mod type="corr"><orig>instala</orig><reg>installai</reg></mod> dans mon lit<lb/>
+et lis un peu mon livre. Et Après je m'<mod type="corr"><orig>endormie</orig><reg>endormis</reg></mod>. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,126 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E5-V2
+</head>
+<p>
+La sage femme dit: "c'est un garçon." Je<lb/>
+poussa<mod type="add" stage="T2" who="P"><add>i</add></mod> un cri strident. J'étai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod> très<lb/>
+<mod type="corr"><orig>agit<mod type="del" stage="T2" who="P"><del>ait</del></mod></orig><reg>agité</reg></mod>, je boug<mod type="add" stage="T2" who="P"><add>e</add></mod>ai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod> <mod type="corr"><orig>de</orig><reg>dans</reg></mod> tous les sens.<lb/>
+Je regardais de tous les côtés. La sage<lb/>
+femme me <mod type="corr"><orig><mod type="del" stage="T2" who="P"><del>prenna</del></mod><metamark place=" " time="T2" who="P" style="underline">Conjugaison passé simple</metamark></orig><reg>prit</reg></mod> dans ses bras et me<lb/>
+<mod type="del" stage="T2" who="P"><del>posa</del></mod> sur le ventre de ma mère. Ma<lb/>
+maman était très <mod type="corr"><orig>contenté</orig><reg>contente</reg></mod> et <mod type="corr"><orig>èmue</orig><reg>émue</reg></mod>.<lb/>
+Elle me serra dans ses bras. Je me<lb/>
+<hi place=" " time="T2" who="Pσ" style="underline">suis mis</hi> <metamark place=" " time="T2" who="P" style="underline">attention à ton système de temps</metamark> à pleurer <metamark place=" " time="T2" who="P" style="underline">ponctuation?</metamark> il y avait une<lb/>
+<mod type="corr"><orig>lumiére</orig><reg>lumière</reg></mod> <mod type="corr"><orig>tres</orig><reg>très</reg></mod> intense qui venait <metamark place=" " time="T2" who="P" style="underline">oui</metamark><lb/>
+droit dans mes yeux. La <mod type="corr"><orig>sage femme</orig><reg>sage-femme</reg></mod><lb/>
+me <mod type="corr"><orig><mod type="del" stage="T2" who="P"><del>prenna</del></mod></orig><reg>prit</reg></mod> dans ses bras et essaya<lb/>
+de me calmer <mod type="del" stage="" who=""><del>mais sans</del></mod> en<hi place=" " time="T2" who="Pσ" style="underline"></hi>vain. La<lb/>
+porte s'ouvr<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>a</del></mod></del><add stage="T2" who="P">it</add></mod> brusquement. Un homme<lb/>
+me <mod type="corr"><orig><mod type="del" stage="T2" who="P"><del>prena</del></mod></orig><reg>prit</reg></mod> dans ses bras et me chanta<lb/>
+une Berceuse. Je <hi place=" " time="T2" who="Pσ" style="underline">me suis</hi> enfin §<lb/>
+calm<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>er</del></mod></del><add stage="T2" who="P">é</add></mod>, il y avait beaucoup de §<lb/>
+personne<mod type="add" stage="T2" who="P"><add>s</add></mod> autour de moi. J'etai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod><lb/>
+<mod type="corr"><orig>fatigue<mod type="del" stage="T2" who="P"><del>e</del></mod></orig><reg>fatigué</reg></mod>, je me suis <mod type="corr"><orig>endormit</orig><reg>endormi</reg></mod>. Trois<lb/>
+heures plus tard <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>.</del></mod></del><add stage="T2" who="P">,</add></mod> Je me reveilla<mod type="add" stage="T2" who="P"><add>i</add></mod><lb/>
+dans une belle chambre bleu<mod type="add" stage="T2" who="P"><add>e</add></mod> avec des<lb/>
+<mod type="corr"><orig>dècoration</orig><reg>décoration</reg></mod> partou<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">t</add></mod>. Il y avait un<lb/>
+gros nounours <mod type="corr"><orig>marrons</orig><reg>marron</reg></mod> à <mod type="corr"><orig>coté</orig><reg>côté</reg></mod> de<lb/>
+moi, je me senti<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod> chez moi. §<lb/>
+<metamark place=" " time="T2" who="P" style="underline">Une expression à revoir. Des éléments intéressants même s'il manque quelques éléments du texte de base</metamark> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

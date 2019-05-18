@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MG2-D2-E1
+</head>
+<p>
+Paillette s'est enfuie la nuit pour aller observer les chasseurs soudain un
+chasseur revenait de la chasse et l'aperçut et cria <mod type="corr"><orig>au</orig><reg>aux</reg></mod> chasseurs. §<lb/>
+"Venez j'ai vu une louve! Et il l'emprisonna et elle resta dans sa cage, et
+elle essaya de s'enfuir mais les chasseurs résistent à Paillette, ils
+l'observent silencieusement car sa fourrure. Était si belle mais les
+chasseurs décident de ne pas la tuer <mod type="corr"><orig>parce-que</orig><reg>parce que</reg></mod> sa fourrure était si belle
+<mod type="corr"><orig>que ils</orig><reg>qu'ils</reg></mod> ne voulaient <mod type="corr"><orig>quelle</orig><reg>qu'elle</reg></mod> <mod type="corr"><orig>meurre</orig><reg>meure</reg></mod>. Ils la <mod type="corr"><orig>garda</orig><reg>gardèrent</reg></mod> toute, la nuit, Paillette dormit
+toute la nuit dans sa cage. Le lendemain les chausseurs <mod type="corr"><orig>libèrent</orig><reg>libérèrent</reg></mod>. Enfin:
+Paillette rentrée chez elle et <mod type="corr"><orig>Flame</orig><reg>Flamme</reg></mod> Noire était partie à sa recherche il
+passa par les bois où Paillette était en train de rentrer elle aperçut
+<mod type="corr"><orig>Flame</orig><reg>Flamme</reg></mod> Noire elle se cacha derrrière un arbre et une fois que <mod type="corr"><orig>Flame</orig><reg>Flamme</reg></mod> Noire
+<mod type="corr"><orig>reparta</orig><reg>repartit</reg></mod> chez elle. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

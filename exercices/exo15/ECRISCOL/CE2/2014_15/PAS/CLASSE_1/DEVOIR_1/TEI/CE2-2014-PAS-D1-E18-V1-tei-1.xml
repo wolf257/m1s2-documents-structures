@@ -1,0 +1,127 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-PAS-D1-E18-V1
+</head>
+<p>
+<pb/>
+
+C'est l'histoire <mod type="del" stage="" who=""><del>dun</del></mod> d'un petit qui se <mod type="del" stage="" who=""><del>m</del></mod> nomme <lb/>
+Gabriel. Un jour en <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>parten</del></mod></del><add stage="" who="P">partant</add></mod></orig><reg>partant</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> l'école <mod type="add" stage="" who="P"><add>.</add></mod> il perd <lb/>
+sa toupie chinoise. Son <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>amis</del></mod></del><add stage="" who="P">amie</add></mod></orig><reg>amie</reg></mod> Anne-Lise lui <lb/>
+dit :"Tu as perdu quelque chose"? <mod type="del" stage="" who="P"><del>lui demanda Anne-Lise</del></mod> <lb/>
+"Ma toupie chinoise sur le chemin de l'école."
+Anne-Lise propose d'aller voir le gardien de <lb/>
+<mod type="del" stage="" who=""><del>lo</del></mod> l'oubli, <mod type="corr"><orig>Gabri<mod type="add" stage="" who=""><add>e</add></mod>l</orig><reg>Gabriel</reg></mod> rentra dans la <mod type="corr"><orig>grand<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>grande</reg></mod> maison <lb/>
+<mod type="del" stage="" who=""><del>o</del></mod> tout seul. Il vit le gardien <mod type="corr"><orig><mod type="del" stage="" who="P"><del>il</del></mod><hi place=" " time="" who="Pσ" style="underline">parese</hi></orig><reg>qui paraissait</reg></mod> <mod type="add" stage="" who="P"><add>qui paraissait</add></mod> <lb/>
+gentil mais il voulait tout garder pour <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>soi</del></mod></del><add stage="" who="P">lui .</add></mod></orig><reg>lui</reg></mod> <lb/>
+<mod type="del" stage="" who="P"><del>mais</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>q</del></mod></del><add stage="" who="P">Q</add></mod>uand</orig><reg>Quand</reg></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> il vit le petit garçon tout <lb/>
+triste <mod type="add" stage="" who="P"><add>,</add></mod> il avait de la <mod type="corr"><orig>pein<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>peine</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">A</add></mod>lors</orig><reg>Alors</reg></mod> il <mod type="corr"><orig>di<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">t</add></mod></orig><reg>dit</reg></mod> <lb/>
+"Je <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>ve</del></mod></del><add stage="" who="P">veux</add></mod></orig><reg>veux</reg></mod> bien te donner ta toupie mais <lb/>
+pour <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>sa</del></mod></del><add stage="" who="P">cela ,</add></mod></orig><reg>cela</reg></mod> il faut que <mod type="corr"><orig>trouve</orig><reg>trouves</reg></mod> la bonne §<lb/>
+
+
+<pb/>
+
+
+<mod type="corr"><orig>clé<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>clé</reg></mod> <mod type="del" stage="" who=""><del>la clés qui</del></mod> <mod type="add" stage="" who=""><add>parmi</add></mod> <mod type="subst"><del><mod type="del" stage="" who="P"><del>tout cela</del></mod></del><add stage="" who="P">parmi toutes les autres .</add></mod>  §<lb/>
+<mod type="add" stage="" who="P"><add>-</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>d'</del></mod></del><add stage="" who="P">D'</add></mod>accord</orig><reg>D'accord</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod> dit Gabriel. <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">I</add></mod>l</hi></orig><reg>Il</reg></mod> trouva la bonne <lb/>
+<mod type="corr"><orig>clé<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>clé</reg></mod> et <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>trouva</del></mod></del><add stage="" who="P">ouvrit</add></mod></orig><reg>ouvrit</reg></mod> la porte <mod type="corr"><orig>o<mod type="subst"><del><mod type="del" stage="" who="P"><del>u</del></mod></del><add stage="" who="P">ù</add></mod></orig><reg>où</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>et</del></mod></del><add stage="" who="P">était</add></mod></orig><reg>était</reg></mod> la toupie.
+Enfin Gabriel <mod type="corr"><orig>repart<mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">it</add></mod></orig><reg>repartit</reg></mod> sans Anne-Lise
+mais cela est <mod type="corr"><orig>un<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>une</reg></mod> autre histoire. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

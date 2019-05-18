@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E9-V2
+</head>
+<p>
+Nelly avait <mod type="del" stage="" who=""><del><sup></sup>di</del></mod> répondu oui moi aussi je t'<lb/>
+aime, alors Pedro demanda la <mod type="corr"><orig>mains</orig><reg>main</reg></mod> de la fille<lb/> 
+du maire. Le père <mod type="corr"><orig>accépeter</orig><reg>accepta</reg></mod> et la mère aussi<lb/> 
+et les parents du garçons <mod type="corr"><orig>dis</orig><reg>disent</reg></mod> oui le jeune garçon<lb/> 
+demande, <mod type="corr"><orig>veux tu</orig><reg>veux-tu</reg></mod> m'<mod type="corr"><orig>épouse</orig><reg>épouser</reg></mod> oui je le veux,<lb/>
+alors les parents #XXX# au <mod type="del" stage="" who=""><del><sup></sup>a</del></mod>mariage et <mod type="corr"><orig>dés<mod type="del" stage="" who=""><del><sup></sup>s</del></mod>idèrent</orig><reg>décidèrent</reg></mod><lb/>
+de qui allaient être les temoins de Nelly et<lb/> 
+Pedro. Le père et la mére de Nelly et Pedro.<lb/>
+Ils <mod type="corr"><orig>ont tu une</orig><reg>ont une</reg></mod> surprise <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>anossaient</orig><reg>annoncer</reg></mod> que Nelly<lb/>
+<mod type="del" stage="" who=""><del><sup></sup>ét</del></mod> est enceinte. Les parents de Pedro et Nelly<lb/>
+étaient trop <mod type="corr"><orig>contente</orig><reg>contents</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>dissáis</orig><reg>disaient</reg></mod> c'est une fille<lb/> 
+ou un<mod type="del" stage="" who=""><del><sup></sup>e</del></mod> garçon nous savons mais nous voulons<lb/> 
+faire la surprise dans un <mod type="del" stage="" who=""><del><sup></sup>mois</del></mod> mois vous le<lb/> 
+<mod type="corr"><orig>serez</orig><reg>saurez</reg></mod> un mois <mod type="corr"><orig>passez</orig><reg>passé</reg></mod> les parents <mod type="corr"><orig>découre</orig><reg>découvrent</reg></mod><lb/>
+que c'<mod type="corr"><orig>étaient</orig><reg>était</reg></mod> une fille ils étaient <mod type="corr"><orig>touts</orig><reg>tous</reg></mod> <mod type="corr"><orig>comtent</orig><reg>contents</reg></mod><lb/>
+elle va s'<mod type="corr"><orig>appeller</orig><reg>appeler</reg></mod> Ilame elle <mod type="corr"><orig>eus grandis</orig><reg>grandit</reg></mod>. Et<lb/> 
+eux avoir d'<mod type="corr"><orig>autre</orig><reg>autres</reg></mod> enfants <mod type="corr"><orig>emsemble</orig><reg>ensemble</reg></mod>.§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

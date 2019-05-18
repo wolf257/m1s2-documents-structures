@@ -1,0 +1,134 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>﻿partie: EC-CM2-2015-EGL-D2-E14-V1
+</head>
+<p>
+<pb/>
+<mod type="del" stage="" who=""><del>elle sont paniquer elle ont perquuter plusieurs</del></mod><lb/>
+<mod type="del" stage="" who=""><del>voiture</del></mod> <mod type="corr"><orig>Tou<mod type="del" stage="" who=""><del>e</del></mod>t</orig><reg>Tout</reg></mod> à coup, la voiture avança, <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="T2" who="">e</add></mod>ntement</orig><reg>lentement</reg></mod><lb/>
+d'abord, ensuite de plus en plus vite <mod type="subst"><del><mod type="del" stage="" who=""><del>elles sont</del></mod></del><add stage="" who="">Nadine et Natacha ont</add></mod><lb/>
+<mod type="corr"><orig>paniquer</orig><reg>paniqué</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>paniquait</add></mod></orig><reg>paniqué</reg></mod> <mod type="del" stage="" who=""><del>puis</del></mod> elles ont <mod type="del" stage="" who=""><del>pe</del></mod> <mod type="corr"><orig>percuter</orig><reg>percuté</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>percutait</add></mod></orig><reg>percuté</reg></mod> <mod type="corr"><orig>plusieursvoiture</orig><reg>plusieurs voitures</reg></mod>.<lb/>
+Leur mére <mod type="corr"><orig>fin<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">i</add></mod></orig><reg>finit</reg></mod> de faire les course<mod type="add" stage="T2" who=""><add>s</add></mod>, se<lb/>
+<mod type="del" stage="" who=""><del>ran</del></mod> rend <mod type="add" stage="T2" who=""><add>rend</add></mod> <mod type="corr"><orig>conte</orig><reg>compte</reg></mod> que Nadine et <mod type="corr"><orig>Natache</orig><reg>Natacha</reg></mod> sont plus<lb/> 
+avec elle <mod type="del" stage="" who=""><del>elle pa</del></mod> la mère en panique va dans<lb/>
+la rue<mod type="del" stage="T2" who=""><del>s</del></mod> la <mod type="corr"><orig>o<mod type="subst"><del><mod type="del" stage="" who=""><del>u</del></mod></del><add stage="" who="">ù</add></mod></orig><reg>où</reg></mod> il y avait la voiture de <mod type="corr"><orig>garé</orig><reg>garée</reg></mod> <mod type="corr"><orig><mod type="add" stage="" who=""><add>garré</add></mod></orig><reg>garée</reg></mod> elle<lb/>
+<mod type="corr"><orig>laive</orig><reg>lève</reg></mod> les yeux la voiture <mod type="corr"><orig>n'ai</orig><reg>n'est</reg></mod> plus là <mod type="subst"><del><mod type="del" stage="" who=""><del>elles</del></mod><lb/></del><add stage="" who="">elle</add></mod> regarde partout autour <mod type="corr"><orig>de elle</orig><reg>d'elle</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>et</del></mod></del><add stage="" who="">est</add></mod> <mod type="del" stage="" who=""><del>pa</del></mod><lb/>
+<mod type="corr"><orig>toujourd</orig><reg>toujours</reg></mod> pas de voiture elle se pas mal de<lb/>
+<mod type="corr"><orig>que<mod type="subst"><del><mod type="del" stage="" who=""><del>r</del></mod></del><add stage="" who="">s</add></mod>tion</orig><reg>questions</reg></mod> et tout <mod type="corr"><orig>a</orig><reg>à</reg></mod> coup un idée de <mod type="add" stage="" who=""><add>se</add></mod> <mod type="corr"><orig>cil</orig><reg>qu'il</reg></mod> <mod type="del" stage="" who=""><del>y</del></mod> a bien<lb/>
+pu se <mod type="corr"><orig>passé</orig><reg>passer</reg></mod> « les filles se sont <mod type="corr"><orig>en<mod type="del" stage="" who=""><del>m</del></mod><mod type="add" stage="" who=""><add>baler</add></mod></orig><reg>emballées</reg></mod> dans mon<lb/>
+dos <mod type="corr"><orig>on</orig><reg>ont</reg></mod> <mod type="corr"><orig>prix</orig><reg>pris</reg></mod> <mod type="corr"><orig>me</orig><reg>ma</reg></mod> clé <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>clée</add></mod></orig><reg>clé</reg></mod> de voiture <mod type="corr"><orig>on</orig><reg>ont</reg></mod> <mod type="corr"><orig>manevré</orig><reg>manoeuvré</reg></mod> la<lb/>
+voiture et <mod type="del" stage="" who=""><del>sont parti</del></mod> la <mod type="corr"><orig>voitur</orig><reg>voiture</reg></mod> et <mod type="subst"><del><mod type="del" stage="" who=""><del>partie</del></mod></del><add stage="T2" who="">parti</add></mod> toute §<lb/>
+
+<pb/>
+<mod type="corr"><orig>seul</orig><reg>seule</reg></mod> parce <mod type="corr"><orig>que elle</orig><reg>qu'elle</reg></mod> était en <mod type="corr"><orig>pante</orig><reg>panne</reg></mod> » . <mod type="corr"><orig>la</orig><reg>La</reg></mod> mère<lb/>
+fit <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>fis</add></mod></orig><reg>fit</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="T2" who="">à</add></mod></orig><reg>à</reg></mod> <mod type="corr"><orig>avors</orig><reg>avoir</reg></mod> des <mod type="corr"><orig>bouffer<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>bouffées</reg></mod> de <mod type="corr"><orig>chaleur<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>chaleur</reg></mod>, <mod type="corr"><orig>a</orig><reg>à</reg></mod> avoir la tête<lb/>
+qui tourne et un <mod type="corr"><orig>malése</orig><reg>malaise</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>malésee</add></mod></orig><reg>malaise</reg></mod> <mod type="del" stage="" who=""><del>et</del></mod> elle <mod type="corr"><orig>tonbe</orig><reg>tombe</reg></mod> <mod type="add" stage="T2" who=""><add>tombe</add></mod> dans les<lb/>
+<mod type="corr"><orig>pomme</orig><reg>pommes</reg></mod> sur le <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>trotoir</del></mod></del><add stage="T2" who="">trautoir</add></mod></orig><reg>trattoir</reg></mod> un <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>mesieur</del></mod></del><add stage="T2" who="">mesieur</add></mod></orig><reg>monsieur</reg></mod> qui <mod type="corr"><orig>passé</orig><reg>passait</reg></mod><lb/>
+par la <mod type="del" stage="" who=""><del>la</del></mod> <mod type="corr"><orig>ru<mod type="add" stage="T2" who=""><add>e</add></mod></orig><reg>rue</reg></mod> <mod type="corr"><orig>alongé</orig><reg>allongée</reg></mod> par terre il <mod type="corr"><orig>appele</orig><reg>appelle</reg></mod> les<lb/>
+<mod type="corr"><orig>secour<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>secours</reg></mod> et les <mod type="corr"><orig>atant<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>attend</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>coeuté</orig><reg>côté</reg></mod> <mod type="add" stage="T2" who=""><add>cauté</add></mod> de la <mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">è</add></mod>re</orig><reg>mère</reg></mod><lb/>
+des <mod type="subst"><del><mod type="del" stage="" who=""><del>deux</del></mod></del><add stage="" who="">deux</add></mod> <mod type="corr"><orig>fille<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>filles</reg></mod> <mod type="corr"><orig>le<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>les</reg></mod> <mod type="corr"><orig>secour<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>secours</reg></mod> <mod type="corr"><orig>arrive<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>arrivent</reg></mod> le <mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="T2" who="">e</add></mod>sieur</orig><reg>monsieur</reg></mod> une fois que<lb/>
+la <mod type="corr"><orig>f<mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="T2" who="">e</add></mod>mme</orig><reg>femme</reg></mod> <mod type="corr"><orig>été</orig><reg>était</reg></mod> <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>urgance</orig><reg>urgences</reg></mod> il <mod type="corr"><orig>redécssent</orig><reg>redescend</reg></mod> la <mod type="subst"><del><mod type="del" stage="" who=""><del>rus</del></mod></del><add stage="T2" who="">rue</add></mod><lb/>
+et <mod type="corr"><orig>voi<mod type="add" stage="T2" who=""><add>e</add></mod></orig><reg>voit</reg></mod> une voiture sur le dos dedans il y avait<lb/>
+<mod type="corr"><orig>deus</orig><reg>deux</reg></mod> <mod type="corr"><orig>jeune</orig><reg>jeunes</reg></mod> <mod type="corr"><orig>fille<mod type="add" stage="T2" who=""><add>e</add></mod></orig><reg>filles</reg></mod> une au <mod type="corr"><orig>vaulan<mod type="add" stage="T2" who=""><add>t</add></mod></orig><reg>volant</reg></mod> et <mod type="corr"><orig>lautre</orig><reg>l'autre</reg></mod> sur la<lb/>
+banquette arrière il <mod type="corr"><orig>rant appel</orig><reg>rappelle</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>raut appele</add></mod></orig><reg>rappelle</reg></mod> les <mod type="corr"><orig>secoud</orig><reg>secours</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>secourds</add></mod></orig><reg>secours</reg></mod> les<lb/> 
+secours <mod type="corr"><orig>arrive</orig><reg>arrivent</reg></mod> <mod type="corr"><orig>prine</orig><reg>prennent</reg></mod> les deux <mod type="corr"><orig>jeune</orig><reg>jeunes</reg></mod> filles dans le<mod type="del" stage="" who=""><del>s</del></mod><lb/>
+<mod type="corr"><orig>camio</orig><reg>camion</reg></mod>, et <mod type="corr"><orig>arrive</orig><reg>arrivent</reg></mod> a l'hôpital mère et les <mod type="corr"><orig>fille</orig><reg>filles</reg></mod> sont<lb/>
+dans la même <mod type="corr"><orig>sale</orig><reg>salle</reg></mod> d'urgence la mère qui <mod type="corr"><orig>été</orig><reg>était</reg></mod><lb/>
+<mod type="corr"><orig>sortis</orig><reg>sortie</reg></mod> du coma <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>ouvre</del></mod></del><add stage="" who="">ouvra</add></mod></orig><reg>ouvrit</reg></mod> les yeux et <mod type="corr"><orig>vois</orig><reg>voit</reg></mod><lb/>
+<mod type="corr"><orig>leurs</orig><reg>ses</reg></mod> <mod type="corr"><orig>fille</orig><reg>filles</reg></mod> <mod type="corr"><orig>rassuré</orig><reg>rassurée</reg></mod> elle <mod type="corr"><orig>rentrère</orig><reg>rentra</reg></mod> chez elle <mod type="corr"><orig>sin</orig><reg>saine</reg></mod> et sauve. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

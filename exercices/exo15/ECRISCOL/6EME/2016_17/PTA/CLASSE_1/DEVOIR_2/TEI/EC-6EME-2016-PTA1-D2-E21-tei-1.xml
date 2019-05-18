@@ -1,0 +1,161 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E21
+</head>
+<p>
+<pb/>
+
+Quant elle arriva <mod type="del" stage="" who=""><del>e</del></mod> a l'école elle vut ses amies, Emilie et Sophie.<lb/>
+Elle leur expliqua se qu'elle avait fait hier avec sa tante <mod type="subst"><del><mod type="del" stage="" who=""><del>.</del></mod></del><add stage="" who="">,</add></mod> Elle avait fait<lb/>
+du shopping. Ses amies était contente pour elle, elles aussi voudraient<lb/>
+faire du shopping. Arriver en classe ils s'installèrent à leur place<lb/>
+habituel Laurie et sophie étaient à côté tandis que <mod type="del" stage="" who=""><del>SI</del></mod> Emilie était<lb/>
+à côté d'un garçon <mod type="del" stage="" who=""><del>X#</del></mod> Ils étaient au CM2, leur maîtresse leur<lb/>
+expliqua le planning, mathématique, Français, science pour lematin. Et l'après-<lb/>
+midi il y aura bibliothèque et sport. Pendant le cours de math,<lb/>
+Laurie parla avec Sophie, elles n'aimaient pas vraiment les mathématiques §<lb/>
+
+<pb/>
+Quand la maîtresse ramassa les feuilles les filles avaient écris<lb/>
+qu'un chiffre. Cour de Français, il y avait une poésie a apprendre,<lb/>
+quand Emilie alla au tableau elle eu beaucoup d'erreurs. Laurie elle<lb/>
+aucune. Il y eu la récréation, Laurie et Sophie dirent à Emilie que<lb/>
+pendant le cour de mathématique ils avaient écris qu'un chiffre.<lb/>
+Après la science, évaluation sur /20. Laurie pense avoir un 3/20<lb/>
+Sophie un 11/20 et Emilie un 18/20. Laurie mangait à la cantine,<lb/>
+aujourd'hui il y avait de la puré, Laurie aime beaucoup la puré. §<lb/>
+<mod type="del" stage="" who=""><del>Le sp</del></mod> A la bibliothèque de l'école Laurie choisit un comte,<lb/>
+le petit chaperon rouge. <mod type="subst"><del><mod type="del" stage="" who=""><del>elle</del></mod></del><add stage="" who="">Elle</add></mod> commenca à le lire et elle le<lb/>
+trouva super. Et enfin il y eu sport, du rugby, Laurie n'aime<lb/>
+absolument <mod type="del" stage="" who=""><del>a</del></mod> pas le rugby, car sa fait mal aux jambes au bras etc...<lb/>
+Après elle alla à la garderie car ses parents travaillaient. Quand ses<lb/>
+parents arrivèrent elle était contente car c'était le week-end. Quesqu<mod type="del" stage="" who=""><del>u</del></mod>'il<lb/>
+lui reserve Lundi. Le soir il alla au restaurant, Laurie<lb/>
+choisir son <mod type="del" stage="" who=""><del>X#</del></mod> entreé, son repas et son desert. Pour l'entrée Lauri<lb/>
+<mod type="del" stage="" who=""><del>The End</del></mod> §<lb/>
+choisir des carottes rapés son père des haricot, et sa mère du<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>phaté</del></mod></del><add stage="" who="">paté</add></mod>. §<lb/>
+
+<pb/>
+Laurie aima beaucoup son entreé, mais elle trouva que sa mère<lb/>
+n'avait pas beaucoup mangé. Après au repa elle prena un steck, son père,<lb/>
+des pommes de terre et sa mère de la salade et des oeufs. Cette<lb/>
+fois toule monde mangea Tout. Et enfin pour le dessert Laurie prena,<lb/>
+une glace chocolat crème vanille, sa mère une mousse au<lb/>
+chocolat et son père une crêpe au nutella. Après ils rentrèrent chez eux<lb/>
+avec le ventre plein. Il était 21h32 Pour Laurie ce n'était pas<lb/>
+tard en plus elle est en weekend. Donc sa mère alla se coucher et<lb/>
+Laurie et son père dorma dans le canapé. Aujourd'hui samedi, Laurie<lb/>
+doit aller chez sa grand-mère et son grand-père. Quand elle arriva<lb/>
+c'était comme d'habitude, <mod type="del" stage="" who=""><del>e</del></mod> il y avait un grand jardin avec des<lb/>
+beau légumes, une belle maison comme à l'époque. <mod type="subst"><del><mod type="del" stage="" who=""><del>Ils</del></mod></del><add stage="" who="">Ses grand-parents</add></mod><lb/>
+racontèrent leur histoires ancienne a Laurie elle aimai beaucoup leurs histoires.<lb/>
+Le soir il son de retour chez eux Laurie cette fois regarda 3 films<lb/>
+entier avec du pop-corn et à 2h04 du matin elle alla se coucher<lb/>
+toute seule. Elle ne faisa aucun bruit sinon ses parents se <mod type="del" stage="" who=""><del>reive</del></mod><lb/>
+reveillerai, et après ils pourraient la gronder. <mod type="del" stage="" who=""><del>don Donc elle posa<lb/>
+s</del></mod> Arriver dans son lit elle posa ses lunettes, blotti son ours en<lb/>
+peluche contre sa poitrine et enfin ferma les yeux, car elle était énormément<lb/>
+fatigué. Dimanche, pour Laurie c'est grâce matiné, alors pour<lb/>
+
+<pb/>
+ses parents non ils ont un rendez-vous. Lauri se leva à <mod type="del" stage="" who=""><del>B</del></mod> 11h20 exact<lb/>
+tement. elle prena son petit déjeuner, se lava etc.. Elle ne<lb/>
+faisait rien de sa journée et le soir se coucha a 20h30 car il<lb/>
+y avait école. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

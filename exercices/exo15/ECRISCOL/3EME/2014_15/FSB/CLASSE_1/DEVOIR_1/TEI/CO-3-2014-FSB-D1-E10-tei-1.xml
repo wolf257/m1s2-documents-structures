@@ -1,0 +1,157 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E10
+</head>
+<p>
+<pb/>
+
+Lucien était né, il pesait 3kg et mesurait §<lb/>
+environ <mod type="corr"><orig>50</orig><reg>cinquante</reg></mod> cm. Lucien <hi place=" " time="" who="Pσ" style="underline">a été</hi> emmené à laver. §<lb/>
+La sage femme lui enfile un ensemble bleu qui<lb/>
+lui allai à merveille avec ses <mod type="corr"><orig>b<hi place=" " time="" who="Pσ" style="underline">eau</hi></orig><reg>beaux</reg></mod> yeux <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">bleu</hi></orig><reg>bleus</reg></mod>. §<lb/>
+La <mod type="corr"><orig>sage femme</orig><reg>sage-femme</reg></mod> donna l'enfant à sa mère qui<lb/>
+le prit dans ses bras avant de lui <mod type="corr"><orig>redonné</orig><reg>redonner</reg></mod>. §<lb/>
+<metamark place=" " time="" who="P" style="underline">?</metamark> La mère ne voulait pas de son enfant. §<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">3</hi></orig><reg>trois</reg></mod> jours après sa naissance Lucien ne comprenait<lb/>
+plus rien, il est <mod type="corr"><orig>s<hi place=" " time="" who="Pσ" style="underline">ortit</hi></orig><reg>sorti</reg></mod> du vagin de sa mère §<lb/>
+mais s'est fait <mod type="corr"><orig>ado<hi place=" " time="" who="Pσ" style="underline">pté</hi></orig><reg>adopter</reg></mod> par un couple gay, il se retrouve<lb/>
+avec deux pères. Ne sachant pas parler Lucien<lb/>
+ne fit que pleurer, crier. Ses deux <mod type="corr"><orig>p<hi place=" " time="" who="Pσ" style="underline">ère</hi></orig><reg>pères</reg></mod> §<lb/>
+s'appellaient Mikhail et Cyprien, ils étaient <mod type="corr"><orig>roumains</orig><reg>Roumains</reg></mod>.<lb/>
+Lucien avat maintenant <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">2</hi></orig><reg>deux</reg></mod> ans, ça allait être §<lb/>
+son premier voyage en <mod type="corr"><orig>roumanie</orig><reg>Roumanie</reg></mod> avec ses parents,<lb/>
+ils se dirigèrent vers Bucarest. Lucien §<lb/>
+alla voir sa famille enfin plutôt <hi place=" " time="" who="Pσ" style="underline">de</hi> la famille<lb/>
+de Mickhail et Cyprien. Lucien fut <mod type="corr"><orig>habituée</orig><reg>habitué</reg></mod> §<lb/>
+de vivre avec deux <mod type="corr"><orig>pèr<hi place=" " time="" who="Pσ" style="underline">e</hi></orig><reg>pères</reg></mod> mais à l'age de §<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">25</hi></orig><reg>vingt-cinq</reg></mod> ans Lucien se mit à la recherche de §<lb/>
+<mod type="corr"><orig>se</orig><reg>ses</reg></mod> parents <mod type="corr"><orig>biolog<hi place=" " time="" who="Pσ" style="underline">ique</hi></orig><reg>biologiques</reg></mod>. Sa mère s'appelait §<lb/>
+Juliette Bouillon. Un jour Lucien commençait §<lb/>
+à <mod type="corr"><orig>désesperer</orig><reg>désespérer</reg></mod> et un de ses pères était malade,<lb/>
+il lui avait <mod type="corr"><orig>demander</orig><reg>demandé</reg></mod> d'aller à la pharmacie,<lb/>
+arr<hi place=" " time="" who="Pσ" style="underline">ivé</hi> à la pharmacie Lucien vit sur une §<lb/>
+pharmacienne <mod type="corr"><orig>ecrit</orig><reg>écrit</reg></mod> "Juliette Bouillon3, il fut <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">stupe</hi>fait</orig><reg>stupéfait</reg></mod>.<lb/>
+Il lui posa alors la question "avez vous un fils?"<lb/>
+elle lui <mod type="corr"><orig>reponda</orig><reg>répondit</reg></mod> "c'est compliqué" il resta <hi place=" " time="" who="Pσ" style="underline">choqué</hi><lb/> 
+puis <mod type="corr"><orig>repliqua</orig><reg>répliqua</reg></mod> "Je m'appelle Lucien, tu te<lb/>
+<mod type="corr"><orig>rappelle</orig><reg>rappelles</reg></mod> de moi" La femme fut choquée et<lb/>
+<mod type="corr"><orig>ri</orig><reg>rit</reg></mod> son fils était debout devant elle, elle ne §<lb/>
+
+<pb/>
+
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">puit</hi></orig><reg>put</reg></mod> que le prendre dans ses bras. §<lb/>
+Lucien avait enfin retrouvé sa mère. §<lb/>
+Après cela il lui donna <mod type="corr"><orig>ren<hi place=" " time="" who="Pσ" style="underline">devue</hi></orig><reg>rendez-vous</reg></mod> dans un §<lb/>
+café chic de Paris pour des explications, §<lb/>
+pour<hi place=" " time="" who="Pσ" style="underline">quoi</hi> l'a<hi place=" " time="" who="Pσ" style="underline">voir</hi> <metamark place=" " time="" who="P" style="underline">oui</metamark> abandonné? Juliette, sa mère, §<lb/>
+avait de bonnes raison, cet enfant n'était pas <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">prêvue</hi></orig><reg>prévu</reg></mod><lb/>
+ce n'était qu'une histoire d'un soir...Juliette voulait<lb/>
+garder l'enfant mais malheureusement son compagnon<lb/>
+qui <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">fes</hi>ait</orig><reg>faisait</reg></mod> <mod type="corr"><orig>pa<hi place=" " time="" who="Pσ" style="underline">rtit</hi></orig><reg>partie</reg></mod> de la mafia, avait menacé §<lb/>
+de la <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">tué</hi></orig><reg>tuer</reg></mod> si elle gardait l'enfant. Une fois §<lb/>
+que Lucien était né, plus personne <hi place=" " time="" who="Pσ" style="underline">eu</hi> de<lb/>
+nouvelles de cet homme qui s'appellait Pablo.<lb/> 
+Lucien, après avoir <mod type="corr"><orig>com<hi place=" " time="" who="Pσ" style="underline">prit</hi></orig><reg>compris</reg></mod> cette histoire alla<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">pre</hi>senter</orig><reg>présenter</reg></mod> sa mère à ses deux père Mikhail et Cyprien<lb/>
+Ils s'<mod type="corr"><orig>entend<hi place=" " time="" who="Pσ" style="underline">èrent</hi></orig><reg>entendirent</reg></mod> très bien.<lb/>
+Juliette ainsi que les deux pères voyaient §<lb/>
+souvent Lucien. Lucien avait un appartement §<lb/>
+<hi place=" " time="" who="Pσ" style="underline">sur</hi> Paris comme ça il pouvait rester en <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">contacte</hi></orig><reg>contact</reg></mod> §<lb/>
+avec sa mère biologique et ses deux pères <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">adoptif</hi></orig><reg>adoptifs</reg></mod>. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

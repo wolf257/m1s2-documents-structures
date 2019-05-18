@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MG2-D1-E11
+</head>
+<p>
+P.P poussa un cri de frayeur. Il y avait quelqu'un et c'était<lb/>
+Mathilde. J'était rassuré que ce ne soit pas le rôdeur. §<lb/>
+P.P eut un soulagement. Ils continuèrent à chercher la<lb/>
+crypte et le trésor. Donc ils <mod type="subst"><del>entend<mod type="del" stage="" who="P"><del>è</del></mod>rent</del><add stage="" who="P">entendirent</add></mod> beaucoup de<lb/>
+choses très <mod type="subst"><del><mod type="del" stage="" who="P"><del>intrigante</del></mod></del><add stage="" who="P">intrigantes</add></mod> comme: §<lb/>
+un bruit de pioche qui tape contre une pierre. Ensuite<lb/>
+Rémi sursauta et Mathilde elle n'avait pas eu peur de<lb/>
+ce bruit suspect. Elle se doutait que c'était pour<lb/>
+les attirer vers la crypte et que le rôdeur n'était pas loin<lb/>
+mais elle se disait qu'elle pouvait l'affronter avec moi<lb/>
+et P.P avions eu très peur donc nous restions en dernier.<lb/>
+Est-ce qu<mod type="del" stage="" who="P"><del>e</del></mod> <mod type="add" stage="" who="P"><add>'</add></mod> on avait trouvé le spectre si on <mod type="subst"><del><mod type="del" stage="" who="P"><del>ne serait</del></mod></del><add stage="" who="P">n'était</add></mod><lb/>
+pas allé à la salle 20? §<lb/>
+On arriva et trouvons la crypte et avec des tombeaux. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

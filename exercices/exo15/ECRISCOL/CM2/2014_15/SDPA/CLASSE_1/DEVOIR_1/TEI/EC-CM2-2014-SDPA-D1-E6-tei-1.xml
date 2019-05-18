@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E6
+</head>
+<p>
+<pb/>
+
+McGonagall est <mod type="corr"><orig>venu</orig><reg>venue</reg></mod> avec <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>volde#XXX#ort</del></mod></del><add stage="" who="">voldemort</add></mod></orig><reg>Voldemort</reg></mod>. <mod type="subst"><del><mod type="del" stage="" who=""><del>et</del></mod></del><add stage="" who="">Et</add></mod> ils <mod type="corr"><orig>sont</orig><reg>ont</reg></mod> <mod type="corr"><orig>vue</orig><reg>vu</reg></mod><lb/>
+le troll <mod type="del" stage="" who=""><del>a</del></mod> était <mod type="del" stage="" who=""><del>partère</del></mod> tombé. <mod type="subst"><del><mod type="del" stage="" who=""><del>et</del></mod></del><add stage="" who="">Et</add></mod> <mod type="del" stage="" who=""><del>ma elle</del></mod> la dame a dit aux<lb/>
+enfants <mod type="corr"><orig>allé</orig><reg>allez</reg></mod> dans vos <mod type="corr"><orig>maison</orig><reg>maisons</reg></mod>. <mod type="subst"><del><mod type="del" stage="" who=""><del>la</del></mod></del><add stage="" who="">La</add></mod> dame a dit Hermione <mod type="corr"><orig>ta</orig><reg>t'as</reg></mod><lb/>
+perdu 5 <mod type="corr"><orig>point</orig><reg>points</reg></mod> Harry et Ron ont gagné 5 <mod type="corr"><orig>point</orig><reg>points</reg></mod>. <mod type="subst"><del><mod type="del" stage="" who=""><del>le</del></mod></del><add stage="" who="">Le</add></mod><lb/>
+<mod type="corr"><orig>lendemin</orig><reg>lendemain</reg></mod> Harry a joué au Quidditch. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>du</del></mod></del><add stage="" who="">Du</add></mod>bois</orig><reg>Dubois</reg></mod> lui<lb/>
+a <mod type="corr"><orig>éspliqué</orig><reg>expliqué</reg></mod> les <mod type="corr"><orig>régle</orig><reg>règles</reg></mod>. <mod type="del" stage="" who=""><del>dubois dit dans le grand il 12</del></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>après</del></mod></del><add stage="" who="">Après</add></mod> le Quidditich Harry a parlé <mod type="corr"><orig>a</orig><reg>à</reg></mod> Hermione.<lb/>
+Le jour du Quidditch Harry avait gagné mais quand<lb/>
+Harry <mod type="corr"><orig>regardé</orig><reg>regardait</reg></mod> Quirell il a mal à la <mod type="del" stage="" who=""><del>cicati</del></mod><lb/>
+<mod type="corr"><orig>cicactrice</orig><reg>cicatrice</reg></mod>. Mais Hermione a <mod type="corr"><orig>brulé</orig><reg>brûlé</reg></mod> la cape de §<lb/>
+
+<pb/>
+Quirell et <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>voldemort</del></mod></del><add stage="" who="">voldemort</add></mod></orig><reg>Voldemort</reg></mod> a <mod type="corr"><orig>disque</orig><reg>dit que</reg></mod> <mod type="corr"><orig>quirell</orig><reg>Quirell</reg></mod><lb/>
+<mod type="corr"><orig>etait</orig><reg>n'était</reg></mod> pas son <mod type="corr"><orig>énemis</orig><reg>ennemi</reg></mod> mais c'était Voldemort. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

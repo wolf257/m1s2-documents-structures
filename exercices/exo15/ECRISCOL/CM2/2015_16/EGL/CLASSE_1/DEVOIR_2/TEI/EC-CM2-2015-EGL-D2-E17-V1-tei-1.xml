@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>﻿partie: EC-CM2-2015-EGL-D2-E17-V1
+</head>
+<p>
+<pb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>Tout à coup</del></mod></del><add stage="T2" who="">Tout à coup</add></mod>, la voiture avança, lentement d'abord, ensuite de<lb/>
+plus en plus vite<lb/>
+1 <mod type="del" stage="" who=""><del>Tout a</del></mod> Nadine et <mod type="subst"><del><mod type="del" stage="" who=""><del>Nathacha</del></mod></del><add stage="T2" who="">Natacha</add></mod> <mod type="corr"><orig>avait</orig><reg>avaient</reg></mod> de plus en plus peur, parce<lb/>
+que la voiture <mod type="corr"><orig>aller</orig><reg>allait</reg></mod> <mod type="add" stage="T2" who=""><add>allait</add></mod> de plus en plus vite. <mod type="subst"><del><mod type="del" stage="" who=""><del>Elle</del></mod></del><add stage="T2" who="">Elles</add></mod> se randaient <mod type="corr"><orig>conte</orig><reg>compte</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>qu'elle</del></mod><lb/>
+</del><add stage="" who="">qu'elles</add></mod> avaient fait une <mod type="subst"><del><mod type="del" stage="" who=""><del>bêtise</del></mod></del><add stage="T2" who="">bêtise</add></mod>. A un moment il y a un <mod type="subst"><del><mod type="del" stage="" who=""><del>policiee</del></mod></del><add stage="T2" who="">policier</add></mod><lb/>
+qui <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>l'ai voit</del></mod></del><add stage="T2" who="">l'ai voient</add></mod></orig><reg>les voit</reg></mod> <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les deux dans <mod type="subst"><del><mod type="del" stage="" who=""><del>lau</del></mod></del><add stage="" who="">l'automobile</add></mod>> <mod type="corr"><orig>sens</orig><reg>sans</reg></mod> adultes dedans <mod type="add" stage="T2" who=""><add>dedans</add></mod><lb/>
+Le policier <mod type="del" stage="" who=""><del>décident alors de monter dans le voiture</del></mod> voit qu'il y a<lb/> 
+un <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>poids lourds</del></mod></del><add stage="T2" who="">poid lourd</add></mod></orig><reg>poids lourd</reg></mod> qui <mod type="corr"><orig>fon<mod type="subst"><del><mod type="del" stage="" who=""><del>c</del></mod></del><add stage="" who="">ç</add></mod>e</orig><reg>fonce</reg></mod> droit sur la voiture ! Il <mod type="corr"><orig>décendent</orig><reg>décide</reg></mod> <mod type="add" stage="T2" who=""><add>décide</add></mod> alors<lb/>
+de monter dans l'<mod type="corr"><orig>automovile</orig><reg>automobile</reg></mod> <mod type="add" stage="T2" who=""><add>l'automobile</add></mod> pour <mod type="subst"><del><mod type="del" stage="" who=""><del>larrter</del></mod></del><add stage="" who="">l'arrêter</add></mod>. Mais il y a<lb/>
+le poids <mod type="corr"><orig>lourds</orig><reg>lourd</reg></mod> <mod type="corr"><orig><mod type="add" stage="" who=""><add>poid lourd</add></mod></orig><reg>poids loursd</reg></mod> qui <mod type="subst"><del><mod type="del" stage="" who=""><del>fon[c</del></mod><mod type="add" stage="T2" who=""><add>ç</add></mod>ent]</del><add stage="T2" who="">fonçe</add></mod> dans la voiture Nadine et <mod type="subst"><del><mod type="del" stage="" who=""><del>Nathacha</del></mod></del><add stage="T2" who="">Natacha</add></mod> se sont<lb/>
+<mod type="corr"><orig>retrouver</orig><reg>retrouvées</reg></mod> <mod type="add" stage="T2" who=""><add>retrouvées</add></mod> à l'hôpital. Donc le <mod type="corr"><orig>servie</orig><reg>service</reg></mod> hôspitalier appela <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>a apparlé<mod type="del" stage="" who=""><del>s</del></mod></add></mod></orig><reg>à parler</reg></mod> la mère <mod type="corr"><orig>dès</orig><reg>des</reg></mod><lb/>
+deux <mod type="corr"><orig>fille<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>filles</reg></mod>. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">L</add></mod>a</orig><reg>La</reg></mod> mère des enfants <mod type="corr"><orig>étaient</orig><reg>était</reg></mod> <mod type="add" stage="T2" who=""><add>était</add></mod> très inquiète, elle décida<lb/>
+alors d'aller les <mod type="corr"><orig>voirs</orig><reg>voir</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>voirs</add></mod></orig><reg>voir</reg></mod> à l'hôpital. Les <mod type="corr"><orig>hôspitalier</orig><reg>hôspitaliers</reg></mod> <mod type="corr"><orig>disait</orig><reg>disaient</reg></mod> <mod type="add" stage="T2" who=""><add>disaient</add></mod> <mod type="del" stage="" who=""><del>quelle auraient</del></mod><lb/>
+que Nadine et Natacha <mod type="corr"><orig>aurait</orig><reg>auraient</reg></mod> <mod type="corr"><orig>pus</orig><reg>pu</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>auraient put</add></mod></orig><reg>auraient pu</reg></mod> avoir un plus gros choque !<lb/> 
+2 .Mais heureusement que deux semaines plus tard les deux <mod type="corr"><orig>fille</orig><reg>filles</reg></mod> <mod type="add" stage="T2" who=""><add>filles</add></mod> §<lb/>
+
+<pb/> 
+rentraient chez elle <mod type="add" stage="T2" who=""><add>elles</add></mod> <mod type="del" stage="" who=""><del>l'une dan</del></mod> Nadine dans un fauteuil roulant mais<lb/>
+pour elle tout <mod type="subst"><del><mod type="del" stage="" who=""><del>aller</del></mod></del><add stage="" who="">allait</add></mod> bien parce qu'elle <mod type="subst"><del><mod type="del" stage="" who=""><del>étaient</del></mod></del><add stage="T2" who="">était</add></mod> <mod type="corr"><orig>rentrer</orig><reg>rentrée</reg></mod> chez <mod type="add" stage="T2" who=""><add>elle</add></mod>. Et pour<lb/>
+Natacha, elle avait eu des béquilles mais pour elle aussi tout <mod type="corr"><orig>aller</orig><reg>allait</reg></mod> <mod type="add" stage="T2" who=""><add>allait</add></mod><lb/>
+bien parce qu'elle était <mod type="add" stage="T2" who=""><add>était</add></mod> <mod type="corr"><orig>au près</orig><reg>auprès</reg></mod> de sa famille.<lb/>
+La peur et la joie ! §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

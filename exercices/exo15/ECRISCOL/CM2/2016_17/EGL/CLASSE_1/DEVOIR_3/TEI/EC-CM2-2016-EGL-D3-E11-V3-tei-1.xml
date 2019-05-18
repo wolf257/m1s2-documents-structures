@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E11-V3
+</head>
+<p>
+Quand je serai grande je serai dans un zoo pour soigner les<lb/>
+animaux. C'était un lundi matin, j'allais soigner les lions<lb/>
+et les tigres mais une lionne s'est <mod type="corr"><orig>enfuis</orig><reg>enfuie</reg></mod> heuresement le<lb/>
+public n'<mod type="corr"><orig>étai</orig><reg>était</reg></mod> pas là encore. Nous l'avons <mod type="corr"><orig>retrouvés</orig><reg>retrouvée</reg></mod> près de<lb/>
+<mod type="del" stage="" who=""><del>à les siens</del></mod> ces lionceaux. Maintenant la lionne et avec<lb/>
+ces lionceaux. Après j'ai <mod type="corr"><orig>nourrie</orig><reg>nourri</reg></mod> les tigres, puis je suis <mod type="corr"><orig>aller</orig><reg>allée</reg></mod><lb/>
+<mod type="corr"><orig>aidais</orig><reg>aider</reg></mod> une personne qui avait beaucoup d'otaries à nourrir.<lb/>
+<mod type="corr"><orig>Ont</orig><reg>On</reg></mod> <mod type="corr"><orig>leurs</orig><reg>leur</reg></mod> a <mod type="corr"><orig>donné<mod type="del" stage="" who=""><del>é</del></mod></orig><reg>donné</reg></mod> du poisson, mais une ne voulait pas<lb/>
+manger on lui a donné du sucre <mod type="corr"><orig>dures</orig><reg>dur</reg></mod> pour otarie. Le soir<lb/>
+je suis <mod type="corr"><orig>retourner</orig><reg>retournée</reg></mod> chez moi pour <mod type="corr"><orig>diner</orig><reg>dîner</reg></mod>, mes parents sont en<lb/>
+vacances. Comme je m'<mod type="corr"><orig>ennyyes</orig><reg>ennuyais</reg></mod> je suis <mod type="corr"><orig>aller</orig><reg>allée</reg></mod> au restaurant<lb/>
+puis en boîte de nuit. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

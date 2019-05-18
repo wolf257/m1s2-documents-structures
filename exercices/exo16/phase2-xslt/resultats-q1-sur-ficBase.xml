@@ -1,0 +1,8583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dico>
+   <entry>
+  
+      <lemma>acoquiner</lemma>
+  
+      <pos name="verb"/>
+  
+      <inflected>
+    
+         <form>acoquinaient</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinai</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinais</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinais</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinait</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquina</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinâmes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinant</form>
+    
+         <feat name="tense" value="gerondif"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinas</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinassent</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinasses</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinasse</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinassiez</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinassions</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinâtes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinât</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinée</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinées</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquiné</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinent</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinent</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquine</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquine</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquine</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquine</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquine</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinera</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquineraient</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinerai</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinerais</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinerais</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinerait</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquineras</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinèrent</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinerez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquineriez</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinerions</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinerons</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquineront</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquiner</form>
+    
+         <feat name="tense" value="inf"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinés</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquines</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquines</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinez</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquiniez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquiniez</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinions</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinions</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinons</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoquinons</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acore aromatique</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acore aromatique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acore</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acore</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acores</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acore odorant</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="subcat" value="concret"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acores odorants</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à cor et à cri</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à cor et à cri</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acorie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acorie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acories</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à corps perdu</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à corps perdu</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acorus</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acorus</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acorus</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acosmique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acosmique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acosmique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acosmiques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acosmiques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acosmisme</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acosmisme</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acosmismes</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à côté</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>à côté</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à côté</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à côté</form>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>à côté</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à côté de cela</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à côté de cela</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à côté de la plaque</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>à côté de la plaque</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à côté de</lemma>
+  
+      <pos name="prep"/>
+  
+      <inflected>
+    
+         <form>à côté d'</form>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>à côté de</form>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>à côté de</form>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>à côté de</form>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>à côté des</form>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>à côté du</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à côté du sujet</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>à côté du sujet</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à\-côté</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>à\-côté</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à-côté</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>à\-côtés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acotylé</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acotylée</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acotylées</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acotylé</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acotylés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acotylédoné</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acotylédonée</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acotylédonées</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acotylédoné</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acotylédone</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acotylédone</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acotylédone</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acotylédoné</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acotylédonés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acotylédone</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acotylédones</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acotylédones</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acotylédone</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acotylédone</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acotylédoné</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acotylédoné</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acotylédone</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acotylédones</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acotylédoné</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acotylédonés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acouchi</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acouchi</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acouchis</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acoumètre</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acoumètre</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoumètres</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acoumétrie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acoumétrie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoumétries</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acoumétrique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acoumétrique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoumétrique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoumétriques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoumétriques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à couper le souffle</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>à couper le souffle</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acouphène</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acouphène</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acouphènes</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à\-coup</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>à\-coup</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à-coup</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>à\-coups</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à coups</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à coups</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à coups de pied au derrière</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à coups de pied au derrière</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à coups de</lemma>
+  
+      <pos name="prep"/>
+  
+      <inflected>
+    
+         <form>à coups de</form>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>à coups de</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à coups redoublés</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à coups redoublés</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à coup sûr</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à coup sûr</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à court d'arguments</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>à court d'arguments</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à courte distance de</lemma>
+  
+      <pos name="prep"/>
+  
+      <inflected>
+    
+         <form>à courte distance d'</form>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>à courte distance de</form>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>à courte distance du</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à courte échéance</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>à courte échéance</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à courte échéance</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à courte échéance</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à courte portée</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>à courte portée</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à courte vue</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>à courte vue</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à court terme</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à court terme</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acousmatique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acousmatique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acousmatique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acousmatiques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acousmatiques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acousmatique</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acousmatique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acousmatique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acousmatiques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acousmatiques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acousmie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acousmie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acousmies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acousticien</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acousticien</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acousticienne</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acousticiennes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acousticiens</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acoustico</lemma>
+  
+      <pos name="prefix"/>
+  
+      <inflected>
+    
+         <form>acoustico</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acoustique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acoustique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoustique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoustiques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoustiques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acoustiquement</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>acoustiquement</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acoustique moléculaire</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acoustique moléculaire</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acoustique</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acoustique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acoustiques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acoustique physique</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acoustique physique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acoustique urbaine</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acoustique urbaine</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à couteaux tirés avec</lemma>
+  
+      <pos name="prep"/>
+  
+      <inflected>
+    
+         <form>à couteaux tirés avec</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à couvert</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à couvert</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acqua\-tofana</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="subcat" value="concret"/>
+  
+      <inflected>
+    
+         <form>acqua\-tofana</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquereau</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquereau</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquereaux</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquéreur</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquéreresse</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquéreresses</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquéreur</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquéreurs</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquéreuse</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquéreuses</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquérir</lemma>
+  
+      <pos name="verb"/>
+  
+      <inflected>
+    
+         <form>acquéraient</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérais</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérais</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérait</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérant</form>
+    
+         <feat name="tense" value="gerondif"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérez</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquériez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquériez</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérions</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérions</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérir</form>
+    
+         <feat name="tense" value="inf"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérons</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquérons</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerra</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerraient</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerrai</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerrais</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerrais</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerrait</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerras</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerrez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerriez</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerrions</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerrons</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquerront</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquièrent</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquièrent</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquière</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquière</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquières</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiers</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiers</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiers</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiert</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquîmes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquirent</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquise</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquises</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquis</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquis</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquis</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquis</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquissent</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquisses</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquisse</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquissiez</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquissions</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquîtes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquit</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquît</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquêter</lemma>
+  
+      <pos name="verb"/>
+  
+      <inflected>
+    
+         <form>acquêtaient</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtai</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtais</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtais</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtait</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêta</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtâmes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtant</form>
+    
+         <feat name="tense" value="gerondif"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtas</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtassent</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtasses</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtasse</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtassiez</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtassions</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtâtes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtât</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtée</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtées</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêté</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtent</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtent</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquête</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquête</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquête</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquête</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquête</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtera</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêteraient</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêterai</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêterais</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêterais</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêterait</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêteras</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtèrent</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêterez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêteriez</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêterions</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêterons</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêteront</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêter</form>
+    
+         <feat name="tense" value="inf"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtés</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtes</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtez</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtiez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtiez</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtions</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtions</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtons</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêtons</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquêt</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquêt</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquêts</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquiescement à la demande</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquiescement à la demande</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquiescement au jugement</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquiescement au jugement</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquiescement conditionnel</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquiescements conditionnels</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquiescement</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquiescement</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescements</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquiescer</lemma>
+  
+      <pos name="verb"/>
+  
+      <inflected>
+    
+         <form>acquiesçaient</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçai</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçais</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçais</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçait</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesça</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçâmes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçant</form>
+    
+         <feat name="tense" value="gerondif"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesças</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçassent</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçasses</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçasse</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçassiez</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçassions</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçâtes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçât</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescé</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescent</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescent</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesce</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesce</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesce</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesce</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesce</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescera</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesceraient</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescerai</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescerais</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescerais</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescerait</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesceras</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescèrent</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescerez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesceriez</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescerions</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescerons</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesceront</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescer</form>
+    
+         <feat name="tense" value="inf"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesces</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesces</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescez</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesciez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesciez</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescions</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiescions</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçons</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquiesçons</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquis</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acquise</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquises</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquis</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquis</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquisitif</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acquisitif</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquisitifs</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquisitive</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquisitives</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquisition abusive</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquisition abusive</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquisition des connaissances</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquisition des connaissances</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquisition d'immeubles</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquisitions d'immeubles</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquisition en indivision</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquisition en indivision</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquisition foncière</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquisition foncière</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquisitions foncières</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquisition</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquisition</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquisitions</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquisitivité</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquisitivité</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquisitivités</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquis</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquis</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquis</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquis salarial</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquis salarial</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquis social</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquis social</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquis sociaux</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquit de franchise</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquit de franchise</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquit de transit</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquit de transit</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquit</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquit</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquits</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquittable</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acquittable</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittable</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittables</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittables</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquitté</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acquittée</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittées</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitté</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquittement des impôts</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquittement des impôts</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquittement</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquittement</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittements</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquitté</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acquittée</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittées</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitté</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquit territorial</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="subcat" value="concret"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acquits territoriaux</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acquitter</lemma>
+  
+      <pos name="verb"/>
+  
+      <inflected>
+    
+         <form>acquittaient</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittai</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittais</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittais</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittait</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitta</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittâmes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittant</form>
+    
+         <feat name="tense" value="gerondif"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittas</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittassent</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittasses</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittasse</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittassiez</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittassions</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittâtes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittât</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittée</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittées</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitté</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittent</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittent</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitte</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitte</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitte</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitte</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitte</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittera</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitteraient</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitterai</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitterais</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitterais</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitterait</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitteras</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittèrent</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitterez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitteriez</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitterions</form>
+    
+         <feat name="tense" value="cond"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitterons</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitteront</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="3"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquitter</form>
+    
+         <feat name="tense" value="inf"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittés</form>
+    
+         <feat name="tense" value="ppast"/>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittes</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittes</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittez</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittiez</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittiez</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="2"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittions</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittions</form>
+    
+         <feat name="tense" value="subj"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittons</form>
+    
+         <feat name="tense" value="ind"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acquittons</form>
+    
+         <feat name="tense" value="imp"/>
+    
+         <feat name="person" value="1"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrama</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrama</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acramas</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à cran</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>à cran</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acra</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acra</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acras</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acranien</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acranien</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acraniens</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrasé</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrasé</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrasés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrasié</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrasié</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrasiés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acraspède</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acraspède</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acraspède</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acraspèdes</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acraspèdes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrat</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrat</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrats</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>âcre</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>âcre</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>âcre</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>âcres</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>âcres</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à crédit</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>à crédit</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à crédit</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à crédit</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>âcrement</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>âcrement</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acre</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acre</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acre</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acres</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acres</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>âcreté</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>âcreté</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>âcretés</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrididé</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrididé</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrididés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acridien</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acridien</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acridienne</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acridiennes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acridiens</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acridien migrateur</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="subcat" value="animal"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acridiens migrateurs</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acridien</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acridien</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acridiens</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acridine</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acridine</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acridines</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acridinique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acridinique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acridinique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acridiniques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acridiniques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acridinium</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acridinium</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acridinium</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acridone</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acridone</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acridones</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acriflavine</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acriflavine</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acriflavines</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrimonie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrimonie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrimonies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrimonieusement</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>acrimonieusement</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrimonieux</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrimonieuse</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrimonieuses</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrimonieux</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrimonieux</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrinie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrinie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrinies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acris</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acris</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acris</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrite</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrite</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrites</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acritique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acritique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acritique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acritiques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acritiques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acroamatique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acroamatique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroamatique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroamatiques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroamatiques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acroasphyxie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acroasphyxie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroasphyxies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acroatique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acroatique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroatique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroatiques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroatiques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrobate de la finance</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="subcat" value="human"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acrobate de la finance</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobate de la finance</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobates de la finance</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobates de la finance</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrobate</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrobate</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobate</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobate</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobate</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobate</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobates</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobates</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobates</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobates</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobates</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrobatico</lemma>
+  
+      <pos name="prefix"/>
+  
+      <inflected>
+    
+         <form>acrobatico</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrobatie aérienne</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acrobaties aériennes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrobatie au trapèze</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acrobatie au trapèze</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrobatie aux barres</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acrobatie aux barres</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrobatie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrobatie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobaties</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrobatique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrobatique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobatique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobatiques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrobatiques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrobatiquement</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>acrobatiquement</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrocarpe</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrocarpe</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocarpe</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocarpes</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocarpes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrocentrique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrocentrique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocentrique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocentriques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocentriques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrocéphale</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrocéphale</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocéphale</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocéphales</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocéphales</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrocéphale</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrocéphale</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocéphale</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocéphales</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocéphales</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrocéphalie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrocéphalie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocéphalies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrocéphalique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrocéphalique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocéphalique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocéphaliques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocéphaliques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrochordidé</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrochordidé</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrochordidés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrocine</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrocine</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocines</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acroclinie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acroclinie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroclinies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrocomia</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrocomia</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocomias</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrocyanose</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrocyanose</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrocyanoses</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrodermatite continue d'Hallopeau</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrodermatite continue d'Hallopeau</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrodermatite</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrodermatite</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrodermatites</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrodonte</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrodonte</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrodonte</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrodontes</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrodontes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrodynie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrodynie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrodynies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrofacial</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrofaciale</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrofaciales</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrofacial</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrofaciaux</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acroïde jaune</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="subcat" value="concret"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acroïde jaune</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acroïde</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acroïde</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroïdes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acroïde rouge</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="subcat" value="concret"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acroïdes rouges</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>à croire</lemma>
+  
+      <pos name="adverb"/>
+  
+      <inflected>
+    
+         <form>à croire</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrokératose</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrokératose</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrokératoses</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acroléine</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acroléine</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroléines</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrolithe</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrolithe</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrolithe</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrolithes</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrolithes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromégale</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acromégale</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromégale</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromégales</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromégales</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromégale</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acromégale</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromégale</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromégales</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromégales</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromégalie hypophysaire</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="compound" value="comp"/>
+  
+      <inflected>
+    
+         <form>acromégalie hypophysaire</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromégalie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acromégalie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromégalies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromégalique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acromégalique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromégalique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromégaliques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromégaliques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromélalgie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acromélalgie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromélalgies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromésomélique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acromésomélique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromésomélique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromésoméliques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromésoméliques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromial</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acromiale</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromiales</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromial</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromiaux</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromion</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acromion</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromions</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromio</lemma>
+  
+      <pos name="prefix"/>
+  
+      <inflected>
+    
+         <form>acromio</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromiotomie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acromiotomie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromiotomies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acromyodé</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acromyodé</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acromyodés</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acronal</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acronale</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acronales</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acronal</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acronaux</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acron</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acron</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrons</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acronycte</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acronycte</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acronyctes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acronyme</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acronyme</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acronymes</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acronymie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acronymie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acronymies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acronymique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acronymique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acronymique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acronymiques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acronymiques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acroparesthésie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acroparesthésie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroparesthésies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acropathie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acropathie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acropathies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acropathie ulcéro-mutilante</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acropathies ulcéro\-mutilantes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acropète</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acropète</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acropète</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acropètes</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acropètes</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acro</lemma>
+  
+      <pos name="prefix"/>
+  
+      <inflected>
+    
+         <form>acro</form>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrophase</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrophase</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrophases</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrophobie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrophobie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrophobies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrophonie</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrophonie</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrophonies</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acropode</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acropode</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acropodes</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acropole</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acropole</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acropoles</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acropolyarthrite</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acropolyarthrite</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acropolyarthrites</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acropore</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acropore</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acropores</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrosarcomatose</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrosarcomatose</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrosarcomatoses</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrosclérose</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrosclérose</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acroscléroses</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrosome</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrosome</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrosomes</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrospore</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrospore</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrospores</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrostiche</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrostiche</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrostiche</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrostiches</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrostiches</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrostiche</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrostiche</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrostiches</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrotère</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrotère</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrotères</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrothoracique</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrothoracique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrothoraciques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrotone</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrotone</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrotone</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrotones</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrotones</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrylate</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrylate</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrylates</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrylique</lemma>
+  
+      <pos name="adj"/>
+  
+      <inflected>
+    
+         <form>acrylique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrylique</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acryliques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acryliques</form>
+    
+         <feat name="gender" value="feminine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrylique</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrylique</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acryliques</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrylique sur toile</lemma>
+  
+      <pos name="noun"/>
+  
+      <feat name="subcat" value="concret"/>
+  
+      <inflected>
+    
+         <form>acryliques sur toile</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrylique sur toile</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+
+   </entry>
+   <entry>
+  
+      <lemma>acrylonitrile</lemma>
+  
+      <pos name="noun"/>
+  
+      <inflected>
+    
+         <form>acrylonitrile</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="singular"/>
+  
+      </inflected>
+  
+      <inflected>
+    
+         <form>acrylonitriles</form>
+    
+         <feat name="gender" value="masculine"/>
+    
+         <feat name="number" value="plural"/>
+  
+      </inflected>
+
+   </entry>
+</dico>

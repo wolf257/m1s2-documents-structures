@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E3-V1
+</head>
+<p>
+<pb/>
+Il composa une chanson <mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup>pour elle</del></mod></del><add stage="T2" who=""><sup>T2</sup>à son nom,</add></mod> <mod type="add" stage="" who=""><add><sup></sup>«</add></mod>Nelly je t'aime.<mod type="add" stage="" who=""><add><sup></sup>»</add></mod> Le jour<lb/> 
+<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>d'aprés</del></mod></del><add stage="" who=""><sup></sup>suivant</add></mod>, il d<mod type="subst"><del><mod type="del" stage="T3" who="P"><del><sup>T3P</sup>é</del></mod></del><add stage="T3" who="P"><sup>T3P</sup>e</add></mod>ssina sur le mur un immense coeu<hi place=" " time="T3" who="Pσ" style="underline">r</hi> <mod type="corr"><orig>marquer <mod type="add" stage="T2" who=""><add><sup>T2</sup>marquée</add></mod></orig><reg>marqué</reg></mod> <mod type="add" stage="T4" who=""><add><sup>T4</sup>un grand coeur où se <mod type="del" stage="T4" who=""><del><sup>T4</sup>marquer marqué</del></mod></add></mod> "Nelly je<lb/>
+t'aime<mod type="add" stage="" who=""><add><sup></sup>,</add></mod>mais Nelly ne <mod type="corr"><orig>repondit</orig><reg>répondit</reg></mod> jamais. Il ess<hi place=" " time="T3" who="Pσ" style="underline">e</hi>ya<mod type="add" stage="T4" who=""><add><sup>T4</sup>essaya</add></mod> de l'appeler plusieu<hi place=" " time="T3" who="Pσ" style="underline">r</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>plusieurs</add></mod>fois,<lb/>
+il <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">à</hi></orig><reg>a</reg></mod> <mod type="del" stage="" who=""><del><sup></sup>m'aime mêl</del></mod> même <hi place=" " time="T3" who="Pσ" style="underline">tenté</hi> <metamark place=" " time="T3" who="P" style="underline">passé simple</metamark><mod type="add" stage="T3" who=""><add><sup>T4</sup>tentai</add></mod> de se déguiser en livreur de pizz<hi place=" " time="T3" who="Pσ" style="underline">a</hi><mod type="add" stage="T2" who=""><add><sup>T2</sup>!</add></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>pizzas</add></mod> e<mod type="del" stage="" who=""><del><sup></sup>t il à présque</del></mod><lb/>
+<mod type="del" stage="" who=""><del><sup></sup>réuissi réussi</del></mod> mais Nelly <mod type="del" stage="" who=""><del><sup></sup>était préte a toute</del></mod> ne répondit jamais. Un jour<lb/> 
+il la croisa et lui dit. § <lb/>
+-«Bonjour Nelly <mod type="del" stage="" who=""><del><sup></sup>tu va</del></mod>vous allez bien.<mod type="add" stage="" who=""><add><sup></sup>»</add></mod><mod type="del" stage="" who=""><del><sup></sup>Le je</del></mod> § <lb/>
+-«Oui et vous, j'ai une petite question <hi place=" " time="T3" who="Pσ" style="underline">a</hi><mod type="add" stage="T3" who=""><add><sup>T3</sup>à</add></mod> vous poser?<mod type="del" stage="" who=""><del><sup></sup>Mon p</del></mod> § <lb/>
+«Mon père, Monsieur <mod type="corr"><orig>lemaire</orig><reg>le maire</reg></mod> voudrai<mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>s</del></mod></del><add stage="T2" who=""><sup>T2</sup>t</add></mod> refaire la <mod type="corr"><orig>fa<hi place=" " time="T3" who="Pσ" style="underline">c</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>ç</add></mod>ade</orig><reg>façade</reg></mod> de la mairie et<mod type="add" stage="T4" who=""><add><sup>T4</sup>,</add></mod>comme tu es<lb/>
+maçon. <mod type="add" stage="T4" who=""><add>Tu peux petaitre le faire</add></mod>" dit la jeune fille § <lb/>
+Le garçon <mod type="corr"><orig>s<hi place=" " time="T3" who="Pσ" style="underline">en</hi><metamark place=" " time="T3" who="P" style="underline">privé de — donc......</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>sens</add></mod></orig><reg>sans</reg></mod> réfléchir<mod type="del" stage="T4" who=""><sup>T4</sup>xxx</mod> <mod type="corr"><orig>répond<hi place=" " time="T3" who="Pσ" style="underline">u</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>t</add></mod></orig><reg>répondit</reg></mod> soudainement § <lb/>
+-<mod type="add" stage="" who=""><add><sup></sup>«</add></mod>oui daccord je <mod type="add" stage="T2" who=""><add><sup>T2</sup>le</add></mod> dirais à mon père<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>,</add></mod>on <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">sen</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>sens</add></mod></orig><reg>s'en</reg></mod> occupera <mod type="del" stage="" who=""><del><sup></sup>Le</del></mod> le weekend prochain à l'<hi place=" " time="T3" who="Pσ" style="underline">o</hi>be<mod type="add" stage="T4" who=""><add><sup>T4</sup>aube</add></mod>. dit <hi place=" " time="T3" who="Pσ" style="underline">p</hi>edr<mod type="add" stage="T3" who=""><add><sup>T3</sup>Pedr</add></mod> § <lb/>
+
+<pb/>
+<metamark place=" " time="T3" who="P" style="underline">Il manque une phrase pour situer le dialogue.</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>Le landemain Pedro se prepara chez lui le matin</add></mod> § <lb/>
+<mod type="add" stage="" who=""><add><sup></sup>«</add></mod>Vite <mod type="corr"><orig>réveille toi</orig><reg>réveille-toi</reg></mod> papa on va être en retard pour le chantier<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>,</add></mod>vite cela ne peut pas<lb/> 
+attendre! s'<mod type="corr"><orig>éclama</orig><reg>exclama</reg></mod> le jeune homme. § <lb/>
+Quelques mois plus tard<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>,</add></mod>le chantier était fini ils <mod type="corr"><orig>décidèren<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>e</del></mod></del><add stage="" who=""><sup></sup>t</add></mod></orig><reg>décidèrent</reg></mod> de se racheter une<lb/>
+<mod type="corr"><orig>nouve<hi place=" " time="T3" who="Pσ" style="underline">l</hi></orig><reg>nouvelle</reg></mod>maison, mais Nelly n'avait jamais <mod type="corr"><orig>parler</orig><reg>parlé</reg></mod> d'argent à <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>p</del></mod></del><add stage="" who=""><sup></sup>P</add></mod>édro.<mod type="del" stage="" who=""><del><sup></sup>Il</del></mod> Ils <mod type="corr"><orig><mod type="add" stage="" who=""><add><sup></sup>re</add></mod>part<hi place=" " time="T2" who="Pσ" style="underline">è</hi>rent<mod type="add" stage="T4" who=""><add><sup>T4</sup>partèrent</add></mod></orig><reg>repartirent</reg></mod><lb/>
+triste mais <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>p</del></mod></del><add stage="T2" who=""><sup>T2</sup>P</add></mod>édro <mod type="del" stage="" who=""><del><sup></sup>s</del></mod>avait prépar<hi place=" " time="T3" who="Pσ" style="underline">e</hi>r<mod type="add" stage="T4" who=""><add><sup>T4</sup>préparé</add></mod> une <mod type="corr"><orig>petit</orig><reg>petite</reg></mod> surprise à Nelly. Il<mod type="add" stage="T2" who=""><add><sup>T2</sup>s</add></mod> n'avait<mod type="add" stage="T4" who=""><add><sup>T4</sup>n'avaient</add></mod> rien fait <hi place=" " time="T3" who="Pσ" style="underline">et oui</hi><metamark place=" " time="T3" who="P" style="underline">familier.</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>car</add></mod><lb/>
+il avait juste mi<hi place=" " time="T3" who="Pσ" style="underline">t</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>mis</add></mod> une b<hi place=" " time="T3" who="Pσ" style="underline">a</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>â</add></mod>che <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>r</del></mod></del><add stage="" who=""><sup></sup>p</add></mod>einte de la couleur que monsieur le maire avait<lb/> 
+propos<hi place=" " time="T3" who="Pσ" style="underline">er</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>proposé</add></mod>,alors les deux maço<hi place=" " time="T3" who="Pσ" style="underline">n</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>maçons</add></mod> reparti<hi place=" " time="T3" who="Pσ" style="underline">r</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>repar<mod type="del" stage="T4" who=""><del><sup></sup>tien</del></mod>tirent</add></mod> tranquillement et heureux. <mod type="add" stage="T4" who=""><add><sup>T4</sup>et Pedro se jura de ne plus aimer Nelly</add></mod> § <lb/>
+<metamark place="" time="T3" who="P" style="underline">Mais que se passe-t-il entre Pédro et Nelly ??</metamark>§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

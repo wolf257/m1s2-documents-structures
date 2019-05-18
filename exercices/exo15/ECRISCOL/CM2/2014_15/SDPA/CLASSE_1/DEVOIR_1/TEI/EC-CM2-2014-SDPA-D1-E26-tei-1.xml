@@ -1,0 +1,121 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E26
+</head>
+<p>
+<pb/>
+
+Harry et Ron <mod type="del" stage="" who=""><del>,</del></mod> vont vite <mod type="del" stage="" who=""><del>chèché</del></mod> <mod type="corr"><orig>cherché</orig><reg>chercher</reg></mod> Hermione<lb/>
+car elle ne <mod type="corr"><orig>sais</orig><reg>sait</reg></mod> pas que il y a un troll … dans les<lb/>
+cachots ... Harry <mod type="subst"><del><mod type="del" stage="" who=""><del>est</del></mod></del><add stage="" who="">et</add></mod> Ron <mod type="corr"><orig>arrive</orig><reg>arrivent</reg></mod> au <mod type="corr"><orig>cachots</orig><reg>cachot</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod><lb/>
+<mod type="corr"><orig>voie</orig><reg>voyent</reg></mod> un troll ils se <mod type="corr"><orig>caché</orig><reg>cachent</reg></mod> derrière un poteau en<lb/>
+<mod type="corr"><orig>métale</orig><reg>métal</reg></mod>. Ils <mod type="del" stage="" who=""><del>XXX#</del></mod> ont trouvé Hermione qui <mod type="corr"><orig>sorté</orig><reg>sortait</reg></mod><lb/>
+des <mod type="corr"><orig>toillettes</orig><reg>toilettes</reg></mod> et puis elle <mod type="corr"><orig>voie</orig><reg>voit</reg></mod> le troll qui casse <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod><lb/>
+les <mod type="corr"><orig>toillettes</orig><reg>toilettes</reg></mod>. Ron qui pas très fort en magie <mod type="corr"><orig>est</orig><reg>et</reg></mod><lb/> 
+il prend <mod type="corr"><orig>ca</orig><reg>sa</reg></mod> <mod type="corr"><orig>baquette</orig><reg>baguette</reg></mod> magique il dit wingarduim<lb/>
+leviosa il bouge lentement sa <mod type="corr"><orig>baquette</orig><reg>baguette</reg></mod> et il arrive<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>controlé</orig><reg>contrôler</reg></mod> le <mod type="corr"><orig>goudrin</orig><reg>gourdin</reg></mod> du troll. Harry <mod type="corr"><orig>mais</orig><reg>met</reg></mod> <mod type="corr"><orig>ca</orig><reg>sa</reg></mod> §<lb/>
+
+<pb/>
+<mod type="corr"><orig>baquette</orig><reg>baguette</reg></mod> dans <mod type="corr"><orig>sont</orig><reg>son</reg></mod> <mod type="corr"><orig>née</orig><reg>nez</reg></mod> et le troll tombe<lb/>
+<mod type="corr"><orig>parter</orig><reg>par terre</reg></mod> et Harry <mod type="corr"><orig>enleve</orig><reg>enlève</reg></mod> <mod type="corr"><orig>ca</orig><reg>sa</reg></mod> <mod type="corr"><orig>baquette</orig><reg>baguette</reg></mod> magique<lb/>
+du <mod type="corr"><orig>nèe</orig><reg>nez</reg></mod> du troll. Tous les professeurs <mod type="corr"><orig>arrive</orig><reg>arrivent</reg></mod><lb/>
+et le professeur Mac Gonagall <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> 5 <mod type="corr"><orig>point</orig><reg>points</reg></mod><lb/>
+<mod type="corr"><orig>perdue</orig><reg>perdus</reg></mod> pour <mod type="corr"><orig>griffodore</orig><reg>Gryffondor</reg></mod> et 5 <mod type="corr"><orig>point</orig><reg>points</reg></mod> de plus pour<lb/>
+<mod type="corr"><orig>avoie</orig><reg>avoir</reg></mod> <mod type="del" stage="" who=""><del>ba battu</del></mod> battu le troll des montagnes. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

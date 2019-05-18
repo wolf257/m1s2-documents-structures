@@ -1,0 +1,132 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E24
+</head>
+<p>
+<pb/>
+
+Les élèves sont <mod type="corr"><orig>appeuré</orig><reg>apeurés</reg></mod>. Mais le professeur<lb/>
+Dumbledore les calma et dit aux préfets de<lb/>
+raccompagner les élèves de <mod type="corr"><orig>premières</orig><reg>première</reg></mod> année<lb/>
+dans leur dortoir. Puis dit aux professeurs<lb/>
+de l'accompagner au cachot. Mais Harry<lb/>
+et Ron partent du rang pour <mod type="corr"><orig>prevenir</orig><reg>prévenir</reg></mod><lb/>
+Hermione. Mais s'était trop tard le troll était<lb/>
+dans les toilettes des filles. Hermione avait<lb/>
+été <mod type="corr"><orig>assomer</orig><reg>assommée</reg></mod> <mod type="del" stage="" who=""><del>par</del></mod> par le gourdin du troll.<lb/>
+Elle était par terre. Harry et Ron arrivèrent §<lb/>
+
+<pb/>
+Ils essayèrent d'arrêter le <mod type="corr"><orig>troll<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>troll</reg></mod> alors<lb/>
+Ron <mod type="corr"><orig>pris</orig><reg>prit</reg></mod> <mod type="del" stage="" who=""><del>sa</del></mod> sa baguette et fit <mod type="subst"><del><mod type="del" stage="" who=""><del>le</del></mod></del><add stage="" who="">un</add></mod> <mod type="corr"><orig>sors</orig><reg>sort</reg></mod>.<lb/>
+Le gourdin du troll s'<mod type="del" stage="" who=""><del>evola</del></mod> s'envola puis<lb/>
+Harry <mod type="del" stage="" who=""><del>lui</del></mod> sauta <mod type="subst"><del><mod type="del" stage="" who=""><del>dessus</del></mod></del><add stage="" who="">sur le troll</add></mod> puis lui metta sa<lb/>
+baguette dans le nez. <mod type="subst"><del><mod type="del" stage="" who=""><del>le</del></mod></del><add stage="" who="">Le</add></mod> Le <mod type="subst"><del><mod type="del" stage="" who=""><del>toll</del></mod></del><add stage="" who="">troll</add></mod> tomba<lb/>
+par terre lui aussi. Les deux amis <mod type="corr"><orig>alla</orig><reg>allèrent</reg></mod><lb/>
+voir Hermione. Heureusement elle était <mod type="corr"><orig>évanoui<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>évanouie</reg></mod>.<lb/>
+Les professeurs arrivèrent et <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>vurent vuent</del></mod></del><add stage="" who="">vurent</add></mod></orig><reg>virent</reg></mod><lb/>
+les trois enfants. Le professeur Mac Gonagall<lb/>
+<mod type="del" stage="" who=""><del>enn</del></mod> emmena Hermione à l'infirmerie puis<lb/>
+<mod type="corr"><orig>revena</orig><reg>revint</reg></mod> dans les toilettes des filles Harry et<lb/>
+Ron raconta au professeur Mac Gonagall ce qui<lb/>
+<mod type="corr"><orig><mod type="add" stage="" who=""><add>c'était passer.</add></mod></orig><reg>c'était passé.</reg></mod> Elle enleva 5 <mod type="del" stage="" who=""><del>point poingt</del></mod> points à Hermione<lb/>
+puis donna 10 <mod type="corr"><orig>point</orig><reg>points</reg></mod> à Ron et Harry.<lb/>
+Ils <mod type="corr"><orig>regagna</orig><reg>regagnèrent</reg></mod> tous <mod type="corr"><orig>leur</orig><reg>leurs</reg></mod> <mod type="corr"><orig>dortoir</orig><reg>dortoirs</reg></mod>. Le lendemain<lb/>
+ils <mod type="corr"><orig>alla</orig><reg>allèrent</reg></mod> voir Hermione elle allait beaucoup<lb/>
+mieux puis ils allèrent au cours de potion. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

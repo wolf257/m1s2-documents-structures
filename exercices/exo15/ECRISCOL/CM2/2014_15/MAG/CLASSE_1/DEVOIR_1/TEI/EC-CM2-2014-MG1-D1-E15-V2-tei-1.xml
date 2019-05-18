@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E15-V2
+</head>
+<p>
+Le matin L'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> a disparu. Lili est <mod type="corr"><orig>tres</orig><reg>très</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>inquiet</del></mod><lb/></del><add stage="" who="">inquiète</add></mod> puis elle part chercher l'oncle Jo. Lili<lb/>
+cherche partout elle demande aux voisins, aucune trace<lb/>
+de lui. Elle cherche dans le terrain vague <mod type="add" stage="" who="P"><add>,</add></mod><lb/>
+enfin l'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> <mod type="corr"><orig>e<mod type="add" stage="" who="P"><add>s</add></mod>t</orig><reg>est</reg></mod> là. <mod type="subst"><del>elle</del><add stage="" who=""><mod type="del" stage="" who=""><del>je</del></mod></add></mod> <mod type="corr"><orig>cout</orig><reg>court</reg></mod> dans ses bras<lb/>
+et <hi place=" " time="" who="Pσ" style="underline">l'oncle Jo <mod type="add" stage="" who=""><add>et lili</add></mod></hi> <mod type="add" stage="" who="P"><add>ils</add></mod> <mod type="corr"><orig>rentre<mod type="add" stage="" who="P"><add>nt</add></mod></orig><reg>rentrent</reg></mod> chez eux. <mod type="del" stage="" who=""><del>Tata Denis pleure dans le salon</del></mod>.<lb/>
+Pendant <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">c</add></mod>e</orig><reg>ce</reg></mod> temps<lb/>
+tata <mod type="corr"><orig>Denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>part</del></mod></del><add stage="" who="">pleur</add></mod></orig><reg>pleure</reg></mod> dans <mod type="corr"><orig>le<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>le</reg></mod> salon elle est <mod type="corr"><orig>tr<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">è</add></mod>s</orig><reg>très</reg></mod><lb/> 
+inquiète pour l'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> et <mod type="del" stage="" who=""><del>pour</del></mod> <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">S</add></mod>oudain</orig><reg>Soudain</reg></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>elle</del></mod></del><add stage="" who="">elle</add></mod> <mod type="corr"><orig>entends</orig><reg>entend</reg></mod> sonner <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> la porte<lb/>
+tata <mod type="corr"><orig>Denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod> se <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">è</add></mod>ve</orig><reg>lève</reg></mod> en <mod type="corr"><orig>pleur<mod type="subst"><del><mod type="del" stage="" who="P"><del>ant</del></mod></del><add stage="" who="P">en</add></mod></orig><reg>pleurant</reg></mod> quand<lb/>
+elle a <mod type="del" stage="" who=""><del>veu</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>vu</del></mod></del><add stage="" who="">vue</add></mod> l'oncle et <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod> elle<lb/> 
+a <mod type="corr"><orig>saut<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>sauté</reg></mod> eux. Depuis ce jour l'oncle<lb/>
+<mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> n'as plus jamais disparu. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

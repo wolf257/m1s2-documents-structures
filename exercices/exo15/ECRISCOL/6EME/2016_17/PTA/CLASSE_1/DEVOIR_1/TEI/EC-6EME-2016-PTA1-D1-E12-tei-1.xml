@@ -1,0 +1,127 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E12
+</head>
+<p>
+<pb/>	
+J'aimerais développeur chez "FreeJam" dans le <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>disgne</del></mod></del><add stage="" who="">disigne</add></mod></orig><reg>design</reg></mod><lb/>
+car j'adore la créativité et specialement dans le jeux<lb/>
+Robocraft. §<lb/>
+<mod type="del" stage="" who=""><del>Aujour'dhui</del></mod> §<lb/>
+Aujour'hui il est treize heure <mod type="corr"><orig>pille</orig><reg>pile</reg></mod> et dans <mod type="subst"><del><mod type="del" stage="" who=""><del>5</del></mod></del><add stage="" who="">cinq</add></mod> <mod type="corr"><orig>minute</orig><reg>minutes</reg></mod><lb/>
+une <mod type="corr"><orig>maitenance</orig><reg>maintenance</reg></mod> aura <mod type="corr"><orig>lui</orig><reg>lieu</reg></mod> pour ajouter 2 <mod type="corr"><orig>patche</orig><reg>patch</reg></mod> elle est estimée pour<lb/>
+une <mod type="corr"><orig>sencisse</orig><reg>cent six</reg></mod> en comptent cinq heures par jour c'est un cas rare.<lb/>
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>travailler</orig><reg>travaillerai</reg></mod> le premier patch <mod type="corr"><orig>nomée</orig><reg>nommé</reg></mod> "RobotShield" <mod type="del" stage="" who=""><del>XXX#</del></mod> avec une équipe<lb/>
+de 12 <mod type="corr"><orig>personne</orig><reg>personnes</reg></mod> <mod type="corr"><orig>tatdit</orig><reg>tandis</reg></mod> que les autres <mod type="corr"><orig>travailler</orig><reg>travaillent</reg></mod> <mod type="del" stage="" who=""><del>travailler</del></mod> sur le<lb/>
+"Plasma Golaithon". §<lb/>
+Je me <mod type="corr"><orig>mit</orig><reg>mets</reg></mod> au travail mais juste une chose je pense que<lb/>
+vous êtes <mod type="corr"><orig>demander</orig><reg>demandés</reg></mod> <mod type="corr"><orig>ques'que</orig><reg>qu'est-ce que</reg></mod> le "RobotShield<mod type="del" stage="" who=""><del>Galon</del></mod>" c'est un<lb/>
+module qui servira <mod type="corr"><orig>a</orig><reg>à</reg></mod> vous, <mod type="corr"><orig>protéger</orig><reg>protegez</reg></mod> pendant 10 <mod type="corr"><orig>seconde</orig><reg>secondes</reg></mod><lb/>
+et une <mod type="corr"><orig>semain</orig><reg>semaine</reg></mod> plus tard le "RobotShield" est <mod type="corr"><orig>opperationnelle</orig><reg>opérationnel</reg></mod><lb/>
+et le Plasma Golaithon était <mod type="corr"><orig>terminée</orig><reg>terminé</reg></mod> 2 <mod type="corr"><orig>jour</orig><reg>jours</reg></mod> <mod type="corr"><orig>apprès</orig><reg>après</reg></mod><lb/>
+les deux seront <mod type="corr"><orig>classer</orig><reg>classés</reg></mod> LEGENDARY. §<lb/>
+
+<pb/>
+et deux 2 ans après je <mod type="corr"><orig>peut</orig><reg>peux</reg></mod> travailler <mod type="corr"><orig>dan</orig><reg>dans</reg></mod> le <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">i</add></mod>s<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">i</add></mod>gne</orig><reg>design</reg></mod><lb/>
+sur les <mod type="corr"><orig>système</orig><reg>systèmes</reg></mod> des <mod type="corr"><orig>déplacement</orig><reg>déplacements</reg></mod> toujours chez FreeJam. §<lb/>
+J'<mod type="corr"><orig>adoré</orig><reg>adorais</reg></mod> mon métier j'ai <mod type="corr"><orig>travailler</orig><reg>travaillé</reg></mod> <mod type="corr"><orig>veingt</orig><reg>vingt</reg></mod> ans chez FreeJam<lb/>
+même <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who=""><del>a</del></mod>la</orig><reg>la</reg></mod> <mod type="corr"><orig>retreit</orig><reg>retraite</reg></mod> je venais <mod type="add" stage="" who=""><add>prendre</add></mod> des <mod type="corr"><orig>nouelle</orig><reg>nouvelles</reg></mod>. <mod type="corr"><orig>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>travailler</orig><reg>travaillerai</reg></mod> encore<lb/>
+mais chez moi de temps et temps je <mod type="corr"><orig>travailler</orig><reg>travaillerai</reg></mod> <mod type="del" stage="" who=""><del>sur</del></mod> sur les<lb/>
+<mod type="corr"><orig>easter-eggs</orig><reg>Easter eggs</reg></mod> de <mod type="corr"><orig>noël</orig><reg>Noël</reg></mod>, <mod type="corr"><orig>hallowen</orig><reg>Halloween</reg></mod>, la nouvelle année, 14 juillet,<lb/>
+voilà <mod type="corr"><orig>se</orig><reg>ce</reg></mod> que j'aimerais faire plus tard. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

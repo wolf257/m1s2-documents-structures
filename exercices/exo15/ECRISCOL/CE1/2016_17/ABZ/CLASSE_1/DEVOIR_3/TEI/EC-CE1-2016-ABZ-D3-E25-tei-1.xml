@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>
+</head>
+<p>EC-CE1-2016-ABZ-D3-E25
+
+<mod type="corr"><orig>Li</orig><reg>Il</reg></mod> se <mod type="corr"><orig>touver</orig><reg>trouvait</reg></mod> la maîtresse <mod type="add" stage="T2" who="P"><add>.</add></mod> <mod type="add" stage="" who=""><add><mod type="corr"><orig>le</orig><reg>La</reg></mod> maîtresse f#X#is <mod type="corr"><orig>cocodit</orig><reg>Cocodi</reg></mod></add></mod> <mod type="corr"><orig>la</orig><reg>La</reg></mod> maman dit <mod type="corr"><orig>tout</orig><reg>tu</reg></mod> <mod type="corr"><orig>sera</orig><reg>seras</reg></mod><lb/>
+<mod type="corr"><orig>pi<mod type="subst"><del><mod type="del" stage="" who=""><del>m</del></mod></del><add stage="" who="">ni</add></mod></orig><reg>puni</reg></mod> de <mod type="corr"><orig>télévison</orig><reg>télévision</reg></mod> <mod type="corr"><orig>pandan</orig><reg>pendant</reg></mod> deux <mod type="corr"><orig>semaine</orig><reg>semaines</reg></mod> <mod type="add" stage="T2" who="P"><add>.</add></mod> <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">l</hi>e</orig><reg>Le</reg></mod> <mod type="corr"><orig>lendema</orig><reg>lendemain</reg></mod><lb/>
+<mod type="corr"><orig>cocodi</orig><reg>Cocodi</reg></mod> rentra <mod type="corr"><orig>plu<mod type="del" stage="" who=""><del>t</del></mod></orig><reg>plus</reg></mod> tôt la maman a dit tu <mod type="corr"><orig>et</orig><reg>es</reg></mod><lb/>
+<mod type="corr"><orig>renté</orig><reg>rentré</reg></mod> <mod type="corr"><orig>plu</orig><reg>plus</reg></mod> tôt <mod type="add" stage="T2" who="P"><add>.</add></mod> <mod type="corr"><orig>maman</orig><reg>Maman</reg></mod> <mod type="corr"><orig>ouver</orig><reg>ouvrit</reg></mod> la bouche il<lb/>
+<mod type="corr"><orig><mod type="del" stage="T2" who="P"><del>ouvrila</del></mod><mod type="add" stage="T2" who="P"><add>ouvri la</add></mod></orig><reg>ouvrit la</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>c</del></mod></del><add stage="" who="">b</add></mod>ouche</orig><reg>bouche</reg></mod> il <mod type="corr"><orig>aver</orig><reg>avait</reg></mod> <mod type="corr"><orig>personno</orig><reg>personne</reg></mod> <mod type="corr"><orig>dan</orig><reg>dans</reg></mod>#X#<lb/>
+sa <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>c</del></mod></del><add stage="" who="">b</add></mod>ouche</orig><reg>bouche</reg></mod> <mod type="add" stage="T2" who="P"><add>.</add></mod> <mod type="corr"><orig>maman</orig><reg>Maman</reg></mod> le <mod type="corr"><orig>faisita</orig><reg>félicita</reg></mod> elle <mod type="corr"><orig>luidit</orig><reg>lui dit</reg></mod><lb/>
+tu <mod type="corr"><orig>a</orig><reg>as</reg></mod> le <mod type="corr"><orig>droua</orig><reg>droit</reg></mod> le <mod type="corr"><orig>droua</orig><reg>droit</reg></mod> <mod type="corr"><orig>dovoiare</orig><reg>d’avoir</reg></mod> un <mod type="corr"><orig>bonbo#X#</orig><reg>bonbon</reg></mod><lb/>
+petit <mod type="corr"><orig>cocodi</orig><reg>Cocodi</reg></mod> dit c'est <mod type="corr"><orig>tou</orig><reg>tout</reg></mod> la maman <mod type="corr"><orig>lu#X#dit</orig><reg>lui dit</reg></mod> c'est<lb/>
+déjà <mod type="corr"><orig>à c'e<mod type="subst"><del><mod type="del" stage="" who=""><del>n</del></mod></del><add stage="" who="">s</add></mod> <mod type="add" stage="T2" who="P"><add>assez</add></mod></orig><reg>assez</reg></mod> le papa ! dit #XXX# <mod type="corr"><orig>tuser</orig><reg>tu sais</reg></mod> qui tu <mod type="corr"><orig>orarien</orig><reg>auras rien</reg></mod><lb/>
+petit <mod type="corr"><orig>rallere</orig><reg>râleur</reg></mod> et <mod type="corr"><orig>cocodi</orig><reg>Cocodi</reg></mod> <mod type="corr"><orig>manger</orig><reg>mange</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>per#X#ss</del></mod><lb/>
+</del><add stage="" who="">personne</add></mod></orig><reg>personne</reg></mod> à <mod type="corr"><orig>eclo</orig><reg>l’école</reg></mod> §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

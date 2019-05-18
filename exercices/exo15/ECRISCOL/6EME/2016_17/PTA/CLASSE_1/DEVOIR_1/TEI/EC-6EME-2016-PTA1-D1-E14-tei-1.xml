@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E14
+</head>
+<p>
+Quand je <mod type="corr"><orig>serais</orig><reg>serai</reg></mod> adulte je <mod type="corr"><orig>serais</orig><reg>serai</reg></mod> infirmière. Je vais<lb/>
+vous <mod type="corr"><orig>ixpliquer</orig><reg>expliquer</reg></mod> une de <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>journée</orig><reg>journées</reg></mod> adulte "là <mod type="corr"><orig>javais</orig><reg>j'avais</reg></mod> de<lb/>
+la chance <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>jour là</orig><reg>jour-là</reg></mod> je <mod type="corr"><orig>terminée</orig><reg>terminais</reg></mod> à midi plutôt <mod type="corr"><orig>midi-trente</orig><reg>midi trente</reg></mod><lb/>
+trop de <mod type="corr"><orig>pacciance</orig><reg>patience</reg></mod> à <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>soisée</del></mod></del><add stage="" who="">soigné</add></mod></orig><reg>soigner</reg></mod>. <mod type="corr"><orig>Aprés</orig><reg>Après</reg></mod> avec mes <mod type="corr"><orig>copine</orig><reg>copines</reg></mod><lb/>
+on <mod type="corr"><orig>n'est</orig><reg>est</reg></mod> <mod type="corr"><orig>aller</orig><reg>allées</reg></mod> manger au restaurant, on <mod type="corr"><orig>n'est</orig><reg>est</reg></mod> <mod type="corr"><orig>aller</orig><reg>allées</reg></mod> faire les<lb/>
+soldes (car <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>jour la</orig><reg>jour-là</reg></mod> c'était les soldes) on <mod type="corr"><orig>n'est</orig><reg>est</reg></mod> <mod type="corr"><orig>aller</orig><reg>allées</reg></mod> boire<lb/>
+un <mod type="corr"><orig>cou</orig><reg>coup</reg></mod> on <mod type="corr"><orig>n'a</orig><reg>a</reg></mod> <mod type="corr"><orig>parler</orig><reg>parlé</reg></mod> de tout <mod type="corr"><orig>est</orig><reg>et</reg></mod> n'importe quoi. On <mod type="corr"><orig>n'est</orig><reg>est</reg></mod> <mod type="corr"><orig>aller</orig><reg>allées</reg></mod><lb/>
+chez moi <mod type="corr"><orig>est</orig><reg>et</reg></mod> ça n'est terminée par une soirée pyjama<lb/>
+aussi j'avais que 20 ans je <mod type="corr"><orig>venez</orig><reg>venais</reg></mod> de <mod type="corr"><orig>terminée</orig><reg>terminer</reg></mod> <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>étude</orig><reg>études</reg></mod>." §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

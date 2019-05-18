@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E17-V2
+</head>
+<p>
+<mod type="corr"><orig>Cest</orig><reg>C'est</reg></mod> l'histoire d'un petit garçon qui s'<mod type="corr"><orig>appellait</orig><reg>appelait</reg></mod> <lb/> 
+Gabriel et d'une petite fille qui s'<mod type="corr"><orig>appellait</orig><reg>appelait</reg></mod> Anne-Lise. Ils<lb/> 
+jouaient ensemble<mod type="add" stage="" who="P"><add>s</add></mod> et rentraient <mod type="corr"><orig>ensemble<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>ensemble</reg></mod>. Tu as perdu<lb/>
+quelque chose? lui demande Anne-Lise. Ma toupie<lb/>
+chinoise sur le chemin de l'école. Anne-Lise rentre chez elle,<lb/>
+et Gabriel aussi. Mais sur son chemin il passe devant, la<lb/>
+maison de l'oubli. Le gardien de l'oubli est un homme qui<lb/>
+garde les <mod type="corr"><orig><mod type="subst"><del>joué<mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">ts</add></mod></orig><reg>jouets</reg></mod> <mod type="corr"><orig>perdu</orig><reg>perdus</reg></mod>. Gabriel entre chez lui, et ils vont dans<lb/>
+la <mod type="corr"><orig>sal<mod type="add" stage="" who="P"><add>l</add></mod>e</orig><reg>salle</reg></mod> des <mod type="corr"><orig><mod type="subst"><del>joué<mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">ts</add></mod></orig><reg>jouets</reg></mod> <mod type="corr"><orig>perdu<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>perdus</reg></mod>. Et il lui <mod type="corr"><orig>ren<mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">d</add></mod></orig><reg>rend</reg></mod> la toupie; <mod type="corr"><orig>Mai<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>Mais</reg></mod> il la<lb/>
+reprend. <mod type="corr"><orig>Dabord</orig><reg>D'abord</reg></mod> <mod type="add" stage="" who="P"><add>D'abord</add></mod> il le met <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'épreuve et c'est<lb/>
+de retrouver une <mod type="subst"><del><mod type="del" stage="" who=""><del>cléf</del></mod></del><add stage="" who="">clé</add></mod> dans toute sa cape<mod type="add" stage="" who="P"><add>.</add></mod> <mod type="add" stage="" who="P"><add>(cela)</add></mod>. Oui bravo.<lb/>
+Tu peux partir avec ta toupie. <mod type="corr"><orig>Aurevoir</orig><reg>Au revoir</reg></mod> ! §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

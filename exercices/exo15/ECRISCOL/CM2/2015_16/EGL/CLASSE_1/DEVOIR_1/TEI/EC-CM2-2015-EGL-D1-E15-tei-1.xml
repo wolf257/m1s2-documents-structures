@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D1-E15
+</head>
+<p>
+<mod type="corr"><orig>est</orig><reg>Et</reg></mod> cette année le jour de <mod type="corr"><orig>noël</orig><reg>Noël</reg></mod> maman <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod><lb/>
+acheté un chien et <mod type="corr"><orig>j'ai</orig><reg>je suis</reg></mod> rentré dans ma <mod type="corr"><orig>chembre</orig><reg>chambre</reg></mod><lb/>
+et j'ai planté mon chien le dimanche. <mod type="corr"><orig>maman</orig><reg>Maman</reg></mod><lb/>
+<mod type="corr"><orig>étai</orig><reg>était</reg></mod> pas <mod type="corr"><orig>content</orig><reg>contente</reg></mod> elle <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="corr"><orig>di</orig><reg>dit</reg></mod> dans la <mod type="corr"><orig>chembre</orig><reg>chambre</reg></mod><lb/>
+et moi je me <mod type="corr"><orig>suit</orig><reg>suis</reg></mod> <mod type="corr"><orig>jeter</orig><reg>jeté</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la <mod type="corr"><orig>fenètre</orig><reg>fenêtre</reg></mod> papa <mod type="corr"><orig>mai</orig><reg>m'a</reg></mod><lb/>
+<mod type="corr"><orig>emmener</orig><reg>emmené</reg></mod> à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod> et j'ai eu un <mod type="corr"><orig>platre</orig><reg>plâtre</reg></mod>.<lb/>
+<mod type="corr"><orig>jé étai</orig><reg>J'ai été</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'<mod type="corr"><orig>écol</orig><reg>école</reg></mod> ma <mod type="corr"><orig>métresse</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="corr"><orig>mi</orig><reg>mis</reg></mod> un<lb/>
+15/20. <mod type="corr"><orig>et</orig><reg>Et</reg></mod> un mois plus tard maman <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod><lb/>
+<mod type="corr"><orig>acheter</orig><reg>acheté</reg></mod> un cadeau <mod type="corr"><orig>tré</orig><reg>très</reg></mod> <mod type="corr"><orig>gro</orig><reg>gros</reg></mod> <mod type="corr"><orig>le</orig><reg>je</reg></mod> <mod type="corr"><orig>les</orig><reg>l'ai</reg></mod> <mod type="corr"><orig>ouver</orig><reg>ouvert</reg></mod> moto<lb/>
+<mod type="corr"><orig>trés</orig><reg>très</reg></mod> belle <mod type="corr"><orig>étai</orig><reg>était</reg></mod> partie avec <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>grand parent</orig><reg>grands-parents</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>parent</del></mod>. <mod type="corr"><orig>j'</orig><reg>J'</reg></mod>ai <mod type="corr"><orig>grandis</orig><reg>grandi</reg></mod> <mod type="corr"><orig>javais</orig><reg>j'avais</reg></mod> <mod type="corr"><orig>étai</orig><reg>été</reg></mod> <mod type="corr"><orig>acompagner</orig><reg>accompagner</reg></mod> ma<lb/>
+soeur au <mod type="corr"><orig>coifeur</orig><reg>coiffeur</reg></mod> pour son mariage moi j'étais<lb/>
+<mod type="corr"><orig>trés</orig><reg>très</reg></mod> content pour elle <mod type="corr"><orig>mai</orig><reg>mais</reg></mod> <mod type="corr"><orig>mai</orig><reg>mes</reg></mod> <mod type="corr"><orig>grand parent</orig><reg>grands-parents</reg></mod><lb/>
+<mod type="corr"><orig>aité</orig><reg>étaient</reg></mod> <mod type="corr"><orig>mort</orig><reg>morts</reg></mod> <mod type="corr"><orig>alor</orig><reg>alors</reg></mod> <mod type="corr"><orig>jé</orig><reg>j'ai</reg></mod> <mod type="corr"><orig>pa</orig><reg>pas</reg></mod> <mod type="corr"><orig>étai</orig><reg>été</reg></mod> au mariage de ma<lb/>
+soeur <mod type="corr"><orig>domage</orig><reg>dommage</reg></mod> ma mère <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>pleurer</orig><reg>pleuré</reg></mod> de joie papa<lb/>
+aussi et moi je me <mod type="corr"><orig>sui</orig><reg>suis</reg></mod> <mod type="corr"><orig>marier</orig><reg>marié</reg></mod>. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

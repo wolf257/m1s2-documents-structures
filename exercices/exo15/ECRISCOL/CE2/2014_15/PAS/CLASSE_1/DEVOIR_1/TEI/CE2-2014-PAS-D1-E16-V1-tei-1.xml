@@ -1,0 +1,126 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-PAS-D1-E16-V1
+</head>
+<p>
+<pb/>
+
+Il était une fois un garçon qui s'<mod type="corr"><orig>appel<mod type="del" stage="" who="P"><del>l</del></mod>ait</orig><reg>appelait</reg></mod> <lb/>
+Gabriel <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>,</del></mod></del><add stage="" who="P">.</add></mod></orig><reg>.</reg></mod> Gabriel va à l'école avec <lb/>
+sa toupie chinoise. Maintenant <mod type="add" stage="" who="P"><add>,</add></mod> il est dans <lb/>
+la cour avec une amie qui s'appelle <lb/>
+Anne-Lise - Tu as perdu quelque chose? <lb/>
+lui demanda Anne-Lise. - Ma toupie chinoise <lb/>
+sur le chemin de l'école. Anne-Lise et <lb/>
+Gabriel <mod type="corr"><orig>von<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>vont</reg></mod> dans une maison mais <lb/>
+Anne-Lise <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>ve</del></mod></del><add stage="" who="P">ne veut</add></mod></orig><reg>ne veut</reg></mod> pas y entrer <mod type="add" stage="" who="P"><add>,</add></mod>, alors <lb/>
+elle <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>attant</del></mod></del><add stage="" who="P">attend</add></mod></orig><reg>attend</reg></mod> dehors. Il y a un Monsieur <lb/>
+qui <mod type="del" stage="" who=""><del>l'</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>acompagné</del></mod></del><add stage="" who="P">accompagne</add></mod></orig><reg>accompagne</reg></mod> Gabriel dans une <lb/>
+salle et il <mod type="corr"><orig><mod type="del" stage="" who="P"><del>tener</del></mod></orig><reg>tient</reg></mod> <hi place=" " time="" who="Pσ" style="underline">beaucoup sa toupie</hi>
+chinoise <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">I</add></mod>ls</orig><reg>Ils</reg></mod> sont <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>r'entrer</del></mod></del><add stage="" who="P">entrés</add></mod></orig><reg>entrés</reg></mod> dans la salle <mod type="add" stage="" who="P"><add>.</add></mod> <lb/>
+
+<pb/>
+
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">S</add></mod>a</orig><reg>La</reg></mod> toupie était sur une table mais <lb/>
+Gabriel ne la trouve pas. Le monsieur
+est méchant parce <mod type="del" stage="" who="P"><del>que le monsieur</del></mod> <mod type="add" stage="" who="P"><add>qu'il ne</add></mod> <mod type="corr"><orig>veu<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>veut</reg></mod> <lb/>
+pas dire <mod type="corr"><orig>o<mod type="subst"><del><mod type="del" stage="" who="P"><del>û</del></mod></del><add stage="" who="P">ù</add></mod></orig><reg>où</reg></mod> est la toupie de Gabriel. <lb/>
+<mod type="del" stage="" who="P"><del>Après ,</del></mod> Gabriel <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>chercher</del></mod></del><add stage="" who="P">cherche</add></mod></orig><reg>cherche</reg></mod> toujours sa toupie <lb/>
+<mod type="del" stage="" who="P"><del>Puis après</del></mod> <mod type="add" stage="" who="P"><add>Enfin ,</add></mod> il la <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>trover</del></mod></del><add stage="" who="P">trouve</add></mod></orig><reg>trouve</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>est</del></mod></del><add stage="" who="P">et</add></mod></orig><reg>et</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>maintenant</del></mod></del><add stage="" who="P">ensuite</add></mod></orig><reg>ensuite</reg></mod> <lb/>
+il va <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>r'entrer</del></mod></del><add stage="" who="P">rentrer</add></mod></orig><reg>rentrer</reg></mod> chez lui avec le sourire. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

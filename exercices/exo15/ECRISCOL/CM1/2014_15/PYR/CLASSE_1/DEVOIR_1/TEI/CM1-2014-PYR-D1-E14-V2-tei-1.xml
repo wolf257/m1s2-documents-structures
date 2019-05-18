@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E14-V2
+</head>
+<p>
+Il était une fois un garçon qui allait à l'école en<lb/>
+<mod type="corr"><orig><mod type="del" stage="" who="P"><del>amenant</del></mod></orig><reg>emportant</reg></mod> <mod type="add" stage="T2" who=""><add>emportant</add></mod> sa toupie chinoise. Et par mégarde il l'oublia<lb/>
+dans la rue. Enfin à l'école Anne Lise lui demanda<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>,</del></mod></del><add stage="" who="P">:</add></mod></orig><reg>:</reg></mod> Tu as<lb/>
+perdu quelque chose? <mod type="corr"><orig>Oùi</orig><reg>Oui</reg></mod> ma toupie chinoise sur le chemin de<lb/>
+l'école. Bon, <mod type="corr"><orig>vien<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>viens</reg></mod>, je <mod type="corr"><orig>vai<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>vais</reg></mod> t'<mod type="corr"><orig>emmenér</orig><reg>amener</reg></mod> <mod type="corr"><orig>ch<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ez</add></mod></orig><reg>chez</reg></mod> <mod type="add" stage="" who="P"><add>le</add></mod> gardien de l'<mod type="corr"><orig>oubli<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>oubli</reg></mod>
+<mod type="add" stage="" who="P"><add>-</add></mod> <mod type="corr"><orig>Vien<mod type="add" stage="" who="P"><add>s,</add></mod></orig><reg>Viens</reg></mod> <mod type="corr"><orig>di<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>dit</reg></mod> le magicien, on <mod type="corr"><orig>va<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>va</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">vouar</hi></orig><reg>voir</reg></mod> <mod type="add" stage="" who="P"><add>voir</add></mod> dans mon <mod type="corr"><orig>espa<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">ce</add></mod></orig><reg>espace</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> <mod type="corr"><orig>jou<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ets</add></mod></orig><reg>jouets</reg></mod>.<lb/>
+Il <mod type="corr"><orig>cherch<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">a</add></mod></orig><reg>chercha</reg></mod> <mod type="corr"><orig>longtem<mod type="add" stage="" who="P"><add>ps</add></mod></orig><reg>longtemps</reg></mod> dans <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">lépase</hi></orig><reg>l'espace</reg></mod> <mod type="add" stage="T2" who=""><add>l'espace</add></mod>. <mod type="corr"><orig>Cinq<mod type="del" stage="" who=""><del>ue</del></mod></orig><reg>Cinq</reg></mod> <mod type="corr"><orig>minut<mod type="add" stage="" who="P"><add>es</add></mod></orig><reg>minutes</reg></mod> plus <mod type="corr"><orig>tar<mod type="add" stage="" who="P"><add>d</add></mod></orig><reg>tard</reg></mod> il la<lb/>
+retrouva et <mod type="corr"><orig>di<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>dit</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">merssi</hi></orig><reg>merci</reg></mod> <mod type="add" stage="" who="P"><add>merci</add></mod> au <mod type="corr"><orig>magi<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">c</add></mod>ien</orig><reg>magicien</reg></mod> et rentra <mod type="corr"><orig>ch<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ez</add></mod></orig><reg>chez</reg></mod> lui. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

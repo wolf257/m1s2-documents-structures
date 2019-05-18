@@ -1,0 +1,132 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E15
+</head>
+<p>
+<pb/>
+
+-Il est magnifique! cria à nouveau la sage-femme.<lb/>
+Lucien était inconfortablement <mod type="corr"><orig>étendue</orig><reg>étendu</reg></mod> §<lb/>
+sur les mains d'une infirmière. Il ne s'était<lb/>
+jamais senti aussi incomplet...Comme si<lb/>
+il lui manquait une partie de lui <mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">ê</add></mod>me</orig><reg>même</reg></mod>. §<lb/>
+Sa <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">me</hi>re</orig><reg>mère</reg></mod> attrapa le petit bonhomme, il <mod type="corr"><orig>p<hi place=" " time="" who="Pσ" style="underline">ris</hi></orig><reg>prit</reg></mod><lb/>
+une grande <mod type="corr"><orig>bouf<hi place=" " time="" who="Pσ" style="underline">fé</hi></orig><reg>bouffée</reg></mod> d'air, et se <mod type="corr"><orig>sen<hi place=" " time="" who="Pσ" style="underline">tis</hi></orig><reg>sentit</reg></mod> chez lui.<lb/>
+La <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">meme</hi></orig><reg>même</reg></mod> impression que l'on sent après §<lb/>
+une dure journée quand l'on peut enfin s'<mod type="corr"><orig>assoir</orig><reg>asseoir</reg></mod><lb/>
+dans son canapé et respirer le bon air de<lb/>
+chez soi. La mere, <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">hereose</hi></orig><reg>heureuse</reg></mod> et comblée, se mit<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>à</reg></mod> pleure<hi place=" " time="" who="Pσ" style="underline">r. A</hi>lors que les larmes coulaient le long<lb/>
+du corps du petit être. L'<mod type="corr"><orig>infir<hi place=" " time="" who="Pσ" style="underline">miere</hi></orig><reg>infirmière</reg></mod> prit l'<mod type="corr"><orig>enfent</orig><reg>enfant</reg></mod><lb/>
+et l'<mod type="corr"><orig>enmena</orig><reg>emmena</reg></mod>. §<lb/>
+
+<pb/>
+
+Lucien fut lavé puis habillé. On le mit dans<lb/>
+un petit <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">pagné</hi></orig><reg>panier</reg></mod> où il s'endormit. <mod type="corr"><orig>quelques</orig><reg>Quelques</reg></mod><lb/>
+heures plus tard, le petit il se <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">reve</hi>illa</orig><reg>réveilla</reg></mod> et se mit à<lb/>
+crier, très fort. Les infirmières accoururent,<lb/>
+les cris se <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">stopè</hi>rent</orig><reg>stoppèrent</reg></mod>...Sa poitrine ne<lb/> 
+bougeait plus. Et rien ne <mod type="corr"><orig>pus</orig><reg>put</reg></mod> faire remarcher<lb/>
+son petit coeur. §<lb/>
+Lucien était mort... §<lb/>
+ §<lb/>
+ §<lb/>
+<metamark place=" " time="" who="P" style="underline">pas trop long d'écrire ainsi?</metamark> §<lb/>
+Un avis sur ma nouvelle écriture? §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

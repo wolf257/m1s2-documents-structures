@@ -1,0 +1,107 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D1-E14
+</head>
+<p>
+J'ai <mod type="corr"><orig>mi</orig><reg>mis</reg></mod> du <mod type="corr"><orig>sirot</orig><reg>sirop</reg></mod> de <mod type="corr"><orig>péche</orig><reg>pêche</reg></mod> dans la gamelle de<lb/>
+mon chat et il a <mod type="corr"><orig>vomit</orig><reg>vomi</reg></mod>. <mod type="corr"><orig>et</orig><reg>Et</reg></mod> a eu le <mod type="subst"><del><mod type="del" stage="" who=""><del>oc</del></mod></del><add stage="" who="">hoquet</add></mod> tout le<lb/>
+dimanche elle <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="corr"><orig>mit</orig><reg>mis</reg></mod> 6/10 le <mod type="subst"><del><mod type="del" stage="" who=""><del>dina</del></mod></del><add stage="" who="">dimanche</add></mod> d'après<lb/>
+j'ai <mod type="corr"><orig>mi</orig><reg>mis</reg></mod> une <mod type="corr"><orig>chene</orig><reg>chaîne</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>sur</del></mod></del><add stage="" who="">sur</add></mod> <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">'</add></mod>atelage</orig><reg>l'attelage</reg></mod> de la voiture<lb/>
+et je <mod type="subst"><del><mod type="del" stage="" who=""><del>lai</del></mod></del><add stage="" who="">les</add></mod> <mod type="corr"><orig>intalles</orig><reg>installe</reg></mod> sur la boîte <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>lettre</orig><reg>lettres</reg></mod><lb/>
+derrière la voiture j'ai<mod type="del" stage="" who=""><del>u</del></mod> eu un 9/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

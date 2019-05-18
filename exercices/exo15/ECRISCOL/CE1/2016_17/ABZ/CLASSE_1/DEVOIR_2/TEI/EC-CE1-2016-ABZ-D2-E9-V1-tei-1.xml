@@ -1,0 +1,103 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2016-ABZ-D2-E9-V1
+</head>
+<p>
+<mod type="corr"><orig>j<mod type="add" stage="T2" who="P"><add>J</add></mod>e</orig><reg>Je</reg></mod> <mod type="corr"><orig>feuraie</orig><reg>ferai</reg></mod> pompier<lb/>je <mod type="corr"><orig>fraie</orig><reg>ferai</reg></mod> <mod type="corr"><orig>jouere</orig><reg>joueur</reg></mod><lb/>de <mod type="corr"><orig>foute</orig><reg>foot</reg></mod> <mod type="corr"><orig>proféssionéle</orig><reg>professionnel</reg></mod><mod type="add" stage="T2" who="P"><add>.</add></mod><lb/><mod type="corr"><orig>an</orig><reg>En</reg></mod> <mod type="corr"><orig>véicule</orig><reg>véhicule</reg></mod> <mod type="add" stage="T2" who="P"><add>je ferai</add></mod> <mod type="corr"><orig>motos</orig><reg>moto</reg></mod><mod type="add" stage="T2" who="P"><add>.</add></mod> §<lb/><mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">j</hi>e</orig><reg>J’</reg></mod> <mod type="corr"><orig>irrai</orig><reg>irai</reg></mod> dans les<lb/><mod type="corr"><orig>alpe</orig><reg>Alpes</reg></mod> dans les <mod type="corr"><orig>préné</orig><reg>Pyrénées</reg></mod><lb/><mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>pari</orig><reg>Paris</reg></mod> <mod type="corr"><orig>oubin</orig><reg>ou bien</reg></mod> <mod type="corr"><orig>voge</orig><reg>les Vosges</reg></mod><mod type="add" stage="T2" who="P"><add>.</add></mod> §<lb/> §<lb/><mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline"></hi>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>seré</orig><reg>serai</reg></mod> <mod type="corr"><orig>selibatere</orig><reg>célibataire</reg></mod><lb/><mod type="corr"><orig>joré</orig><reg>j’aurai</reg></mod> #XXX# vache<lb/>2 <mod type="corr"><orig>brebi</orig><reg>brebis</reg></mod> 4 <mod type="corr"><orig>cheval</orig><reg>chevaux</reg></mod><lb/>15 <mod type="corr"><orig>poule</orig><reg>poules</reg></mod> et<lb/>2 <mod type="corr"><orig>chent</orig><reg>chiens</reg></mod> 3 <mod type="corr"><orig>chat</orig><reg>chats</reg></mod><lb/>4 <mod type="corr"><orig>cocho</orig><reg>cochons</reg></mod> <mod type="corr"><orig>d<mod type="del" stage="" who=""><del>X#</del></mod>inde</orig><reg>d’Inde</reg></mod> §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

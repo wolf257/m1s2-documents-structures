@@ -1,0 +1,106 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E11
+</head>
+<p>
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> me <mod type="corr"><orig>reivelle</orig><reg>réveille</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> 7h00 du matin si <mod type="corr"><orig>doit</orig><reg>dois</reg></mod> aller au <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod> je <mod type="corr"><orig>dêjeune</orig><reg>déjeune</reg></mod><lb/>
+des <mod type="corr"><orig>trésor</orig><reg>trésors</reg></mod> et je <mod type="corr"><orig>mabille</orig><reg>m'habille</reg></mod> et je <mod type="corr"><orig>par</orig><reg>pars</reg></mod> au <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> pied je vais <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'<mod type="corr"><orig>ecole</orig><reg>école</reg></mod><lb/>
+oups je suis en retard la <mod type="corr"><orig>bariére</orig><reg>barrière</reg></mod> <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>fermé</orig><reg>fermée</reg></mod> <mod type="corr"><orig>mé</orig><reg>mais</reg></mod> il a les <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="del" stage="" who=""><del>j'</del></mod> oh oh je<lb/>
+suis en retard bon <mod type="corr"><orig>ré</orig><reg>c'est</reg></mod> pas <mod type="corr"><orig>crave</orig><reg>grave</reg></mod> le <mod type="corr"><orig>ten</orig><reg>temps</reg></mod> que les <mod type="corr"><orig>éléree</orig><reg>élèves</reg></mod> <mod type="corr"><orig>neson</orig><reg>ne sont</reg></mod> pas <mod type="corr"><orig>rentre</orig><reg>rentrés</reg></mod> 6h <mod type="corr"><orig>plutar</orig><reg>plus tard</reg></mod><lb/>
+ah quelle <mod type="corr"><orig>journé</orig><reg>journée</reg></mod> <mod type="corr"><orig>tin</orig><reg>tiens</reg></mod> je vais <mod type="corr"><orig>gouter</orig><reg>goûter</reg></mod> dermapolitis §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

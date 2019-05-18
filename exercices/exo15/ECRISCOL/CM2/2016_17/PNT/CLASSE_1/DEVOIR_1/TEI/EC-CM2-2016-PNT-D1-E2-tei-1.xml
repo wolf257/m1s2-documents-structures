@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D1-E2
+</head>
+<p>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>mon</del></mod></del><add stage="" who="">Mon</add></mod> idée est de <mod type="corr"><orig>poussé</orig><reg>pousser</reg></mod> mon petit<lb/>
+frère par le fenêtre du troisième<lb/>
+<mod type="corr"><orig>étages</orig><reg>étage</reg></mod> (mon petit frère à trois ans). Mon<lb/>
+frère <mod type="corr"><orig>étais</orig><reg>était</reg></mod> <mod type="corr"><orig>obliget</orig><reg>obligé</reg></mod> d'aller à l'<mod type="corr"><orig>opital</orig><reg>hôpital</reg></mod> parce<lb/>
+que il <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> <mod type="corr"><orig>cassés</orig><reg>cassé</reg></mod> la jambe et le bras.<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>ducoup</del></mod></del><add stage="" who="">Ducoup</add></mod></orig><reg>Du coup</reg></mod> j'ai eu 10/10. Et donc le dimanche<lb/>
+d'après j'ai <mod type="del" stage="" who=""><del>pas</del></mod> <mod type="corr"><orig>demander</orig><reg>demandé</reg></mod> à ma cousine de<lb/>
+jouer <mod type="add" stage="" who=""><add>avec moi</add></mod> et elle <mod type="subst"><del><mod type="del" stage="" who=""><del>à</del></mod></del><add stage="" who="">a</add></mod> dit oui et je l'ai <mod type="corr"><orig>poussé</orig><reg>poussée</reg></mod> contre<lb/>
+le mur,<mod type="del" stage="" who=""><del>et</del></mod> elle <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>set</del></mod></del><add stage="" who="">c'est</add></mod></orig><reg>s'est</reg></mod> of <mod type="del" stage="" who=""><del>v</del></mod> <mod type="corr"><orig>ouvert<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>ouverte</reg></mod> la tête, j'ai<lb/>
+eu 9,9/10 et <mod type="corr"><orig>ducoup</orig><reg>du coup</reg></mod> j'ai pleuré toute la nuit et<lb/>
+<mod type="del" stage="" who=""><del>ducoup</del></mod> après j'ai eu un 10/10 car mes parents<lb/>
+on <mod type="corr"><orig>étais</orig><reg>étais</reg></mod> voir <mod type="subst"><del><mod type="del" stage="" who=""><del>la</del></mod></del><add stage="" who="">ma</add></mod> maîtresse. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

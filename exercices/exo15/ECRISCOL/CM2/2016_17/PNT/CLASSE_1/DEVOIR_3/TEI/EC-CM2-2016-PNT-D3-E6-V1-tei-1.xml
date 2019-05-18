@@ -1,0 +1,139 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D3-E6-V1
+</head>
+<p>
+<pb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>quand</del></mod></del><add stage="" who="">Quand</add></mod> je serai adulte, je <mod type="subst"><del><mod type="del" stage="" who=""><del>ferais</del></mod></del><add stage="" who="">serai</add></mod><lb/>
+chercheur. Un ami m'aidera,<lb/>
+pour aller sur l'île des <mod type="corr"><orig>trangl<hi place=" " time="" who="Pσ" style="underline">e</hi></orig><reg>triangles</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>tr</add></mod>P#i<mod type="add" stage="" who=""><add>angles</add></mod></orig><reg>traingles</reg></mod><lb/>
+des perdues, <mod type="subst"><del><mod type="del" stage="" who=""><del>Car</del></mod></del><add stage="" who="">car</add></mod> cette île m'<lb/>
+intrigue. <mod type="add" stage="" who="P"><add>Je</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>V</del></mod></del><add stage="" who="P">v</add></mod>ais</orig><reg>vais</reg></mod> y aller en <mod type="corr"><orig>bâteau<mod type="del" stage="" who="P"><del>x</del></mod></orig><reg>bâteau</reg></mod><lb/>
+le matin à la première heure. §<lb/>
+Je vais me lever pour prendre le §<lb/>
+
+<pb/>
+navire et naviguer vers le <mod type="corr"><orig>triongle<mod type="add" stage="T3" who=""><add>s</add></mod></orig><reg>triangles</reg></mod><lb/>
+des perdus. Je regarderai la carte<lb/>
+que j'ai emmenée. Je <mod type="corr"><orig>va<hi place=" " time="" who="Pσ" style="underline">i</hi></orig><reg>vais</reg></mod> <mod type="add" stage="T3" who=""><add>vais</add></mod><lb/>
+<mod type="add" stage="T3" who=""><add>naviguer</add></mod> dans le <mod type="corr"><orig>bateau</orig><reg>bâteau</reg></mod>, le soir. Je mettrai<lb/>
+un pas sur la terre ferme. Mon<lb/>
+<mod type="corr"><orig>bateau</orig><reg>bâteau</reg></mod> coulera. <mod type="del" stage="T3" who=""><del>J'ai</del></mod> j'aurai<lb/>
+froid dans le dos parce qu'une<lb/>
+légende dit que si l'on met un<lb/>
+pas sur cette île on meurt. §<lb/>
+Personne <hi place=" " time="" who="Pσ" style="underline">ne s'en sorti.</hi> <mod type="add" stage="" who="P"><add>ne va s'en sortir</add></mod> <mod type="corr"><orig>ca<hi place=" " time="" who="Pσ" style="underline">r</hi></orig><reg>car</reg></mod> <mod type="add" stage="" who="P"><add>car on</add></mod> n'a<lb/>
+jamais revu les <mod type="del" stage="T3" who=""><del>a</del></mod> aventuriers <mod type="corr"><orig>alor<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>alors</reg></mod> §<lb/>
+
+<pb/>
+je vais <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>couvrir</orig><reg>découvrir</reg></mod>. Cette histoire<lb/>
+est-elle vraie? Je me <mod type="del" stage="" who=""><del>ra</del></mod> <mod type="corr"><orig>rend<hi place=" " time="" who="Pσ" style="underline">s</hi></orig><reg>rendrai</reg></mod> <mod type="add" stage="" who="P"><add>rendrai</add></mod><lb/>
+à la chasse aux animaux<lb/>
+parce que <mod type="subst"><del><mod type="del" stage="" who=""><del>j'ai</del></mod></del><add stage="" who="">j'aurai</add></mod> <mod type="corr"><orig>oubli<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>oublié</reg></mod> la<lb/>
+nourriture. Un après-midi <mod type="add" stage="" who="P"><add>,</add></mod> il n'y<lb/>
+aura rien <mod type="add" stage="" who="P"><add>...</add></mod> ça m'intriguera §<lb/>
+parce j'aurai de la nourriture à<lb/>
+côté de moi <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>p</del></mod></del><add stage="" who="P">P</add></mod>eut-être</orig><reg>Peut-être</reg></mod> <mod type="add" stage="" who="P"><add>que</add></mod> je ne serai<lb/>
+pas seul sur cette île. §<lb/>
+<mod type="del" stage="" who=""><del>Ece</del></mod> <mod type="corr"><orig>Est-ce<mod type="del" stage="" who="P"><del>-</del></mod>qu<mod type="add" stage="" who="P"><add>'</add></mod>il</orig><reg>Est-ce qu'il</reg></mod> y a quelqu'un<lb/>
+ici? Demain <mod type="add" stage="" who="P"><add>,</add></mod> je mourrai de faim et §<lb/>
+
+<pb/>
+<mod type="del" stage="" who=""><del>j'ai</del></mod> je <mod type="add" stage="" who="P"><add>ne</add></mod> serai plus là. <mod type="del" stage="" who=""><del>j</del></mod><lb/>
+J'aurai <mod type="corr"><orig>dispar<hi place=" " time="" who="Pσ" style="underline">u</hi></orig><reg>disparu</reg></mod> <mod type="add" stage="T3" who=""><add>disparu</add></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

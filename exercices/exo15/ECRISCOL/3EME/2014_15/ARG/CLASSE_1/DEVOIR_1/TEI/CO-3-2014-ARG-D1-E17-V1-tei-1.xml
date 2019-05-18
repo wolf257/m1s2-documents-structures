@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E17
+</head>
+<p>
+<metamark place=" " time="T2" who="P" style="underline">Il faut garder le même système de temps</metamark> §<lb/>
+Je criais, je <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">sentait</hi></orig><reg>sentais</reg></mod> des mains qui me <mod type="corr"><orig>port<hi place=" " time="T2" who="Pσ" style="underline">ait</hi></orig><reg>portaient</reg></mod>, puis les<lb/>
+sages femmes <mod type="corr"><orig>mon<mod type="add" stage="T2" who="P"><add>t</add></mod></orig><reg>m'ont</reg></mod> <hi place=" " time="T2" who="Pσ" style="underline">emmené</hi> dans une salle pour me<lb/>
+peser, mesurer...et ma maman m<mod type="add" stage="T2" who=""><add>'</add></mod>a porté, mon père<lb/>
+ensuite m<mod type="add" stage="T2" who="P"><add>'</add></mod>a porté <mod type="add" stage="T2" who="P"><add>,</add></mod> toutes les personnes présente<mod type="add" stage="T2" who="P"><add>s</add></mod><lb/>
+<mod type="corr"><orig>dis<hi place=" " time="T2" who="Pσ" style="underline">ait</hi></orig><reg>disaient</reg></mod> que je <mod type="corr"><orig>ressembl<hi place=" " time="T2" who="Pσ" style="underline">ait</hi></orig><reg>ressamblais</reg></mod> à mon père, <hi place=" " time="T2" who="Pσ" style="underline">j'ai</hi> été gard<mod type="add" stage="T2" who="P"><add>é</add></mod><lb/>
+#XXX# à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod> car j'avais des problèmes de poumons<lb/>
+et puis toute ma famille <hi place=" " time="T2" who="Pσ" style="underline">est</hi> inquiète une <mod type="add" stage="" who=""><add>semaine</add></mod> plus tard<lb/>
+je suis parti<mod type="del" stage="T2" who="P"><del>e</del></mod> faire des examens. <metamark place=" " time="T2" who="P" style="underline">Attention à ton système de temps</metamark> Les <mod type="corr"><orig>result<hi place=" " time="T2" who="Pσ" style="underline">at</hi></orig><reg>résultats</reg></mod> <mod type="corr"><orig>all<hi place=" " time="T2" who="Pσ" style="underline">ait</hi></orig><reg>allaient</reg></mod><lb/>
+<hi place=" " time="T2" who="Pσ" style="underline">être dit</hi><metamark place=" " time="T2" who="P" style="underline">mal dit</metamark> quelque temps après. Tout me semblait bizarre<lb/>
+car dans le ventre de ma mère c'était diffèrent. §<lb/>
+C'était le premier jour de ma vie. Les sage<mod type="add" stage="T2" who="P"><add>s-</add></mod>femmes<lb/>
+di<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">r</add></mod>ent "<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">C</add></mod>e n'est pas possible" et je m'<mod type="corr"><orig><mod type="del" stage="T2" who="P"><del>inquiet</del></mod></orig><reg>inquiète</reg></mod> de plus<lb/>
+en plus puis j'ai une douleur at<mod type="del" stage="T2" who="P"><del>t</del></mod>roce soudain, au<lb/>
+<hi place=" " time="T2" who="Pσ" style="underline">dos</hi><metamark place=" " time="T2" who="P" style="underline">?</metamark> je suis <mod type="del" stage="T2" who="P"><del>siamois mon frère siamois se nomme<lb/>
+Valentin on est collé <mod type="corr"><orig>serrer</orig><reg>serrés</reg></mod> comme des "sardines"<lb/>
+je <mod type="corr"><orig>sent</orig><reg>sens</reg></mod> que je suis tout <mod type="corr"><orig>moite</orig><reg>moitié</reg></mod> et que mon frère<lb/>
+<mod type="corr"><orig>as</orig><reg>a</reg></mod> un problème aussi de poumons puis nous avons<lb/>
+fait aussi des analyses pour mon frère et puis [mon</del></mod> les<lb/>
+<mod type="corr"><orig>sage<mod type="del" stage="" who=""><del>s</del></mod> femmes</orig><reg>sages-femmes</reg></mod> nous ont laissé <mod type="corr"><orig>rentré</orig><reg>rentrer</reg></mod> et nous <mod type="corr"><orig>as</orig><reg>ont</reg></mod><lb/>
+donné un rendez-vous à plus tard.]<metamark place=" " time="T2" who="P" style="underline">Tu débordes ton sujet.</metamark> §<lb/>
+<metamark place=" " time="T2" who="P" style="underline">-Essaie de bien #XXX# ton sujet pour ne traiter que le sujet<lb/>
+-Attention à ton système de temps (passé et non présent)<lb/>
+Il manque les éléments attendus du texte</metamark> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

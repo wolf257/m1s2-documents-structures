@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E3
+</head>
+<p>
+<pb/>
+
+Le <mod type="corr"><orig>trol<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>troll</reg></mod> <mod type="corr"><orig>viens</orig><reg>vient</reg></mod> crier pour prendre Harry et Hagrid<lb/>
+lui dit non il <mod type="corr"><orig>resteras</orig><reg>restera</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>là</del></mod></del><add stage="" who="">la</add></mod></orig><reg>là</reg></mod> le <mod type="corr"><orig>trol<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>troll</reg></mod> crie sur Hagrid<lb/>
+et Hagrid lui <mod type="corr"><orig>crier</orig><reg>crie</reg></mod> <mod type="corr"><orig>encor</orig><reg>encore</reg></mod> plus fort et les deux<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>arréte</del></mod></del><add stage="" who="">arrete</add></mod></orig><reg>arrêtent</reg></mod> de parler et donc le <mod type="corr"><orig>trol</orig><reg>troll</reg></mod> part sans prendre<lb/>
+Harry <mod type="del" stage="" who=""><del>XXX#</del></mod> mais une <mod type="corr"><orig>heure<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>heure</reg></mod> <mod type="corr"><orig>aprés</orig><reg>après</reg></mod> il <mod type="corr"><orig>viens</orig><reg>vient</reg></mod> pour<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> prendre <mod type="corr"><orig>Ronn</orig><reg>Ron</reg></mod> mais #XXX# Hagrid lui dit <mod type="del" stage="" who=""><del>non</del></mod><lb/>
+non tu le prendras pas mais le <mod type="corr"><orig>trol</orig><reg>troll</reg></mod> lui dit<lb/> 
+mais <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>sufuie</orig><reg>suffit</reg></mod> maitenant et il demande <mod type="subst"><del><mod type="del" stage="" who=""><del>à</del></mod></del><add stage="" who="">à</add></mod><lb/> 
+Hagrid bon alors je <mod type="corr"><orig>pe</orig><reg>peux</reg></mod> prendre la petite<lb/>
+Hermione et Hagrid lui dit non maintenant tu §<lb/>
+
+<pb/>
+<mod type="corr"><orig>rentre</orig><reg>rentres</reg></mod> <mod type="del" stage="" who=""><del>chétoi</del></mod> chez toi et tout de suite et<lb/>
+ne reviens pas <mod type="corr"><orig>tas</orig><reg>tu as</reg></mod> compris. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

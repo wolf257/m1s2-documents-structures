@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<meta>
+<id>EC-CE2-2016-BSZ</id>
+<m type="RUB">ETABLISSEMENT</m>
+<m type="Etablissement rural/urbain">indisp.</m>
+<m type="Département">indisp.</m>
+<m type="Etablissement en centre ville/périphérie">indisp.</m>
+<m type="Etablissement hétérogénéité/homogénéité">indisp.</m>
+<m type="Etablissement favorisé/défavorisé/mixte">indisp.</m>
+<m type="Etablissement ZEP / hors ZEP (ou REP)">indisp.</m>
+<m type="Taille établissement (nombre d'élèves, de classes)">indisp.</m>
+<m type="Etablissement privé/public">indisp.</m>
+<m type="RUB">CLASSE</m>
+<m type="Nombre d'élèves (filles/garçons)">indisp.</m>
+<m type="Structure spécialisée (Ulis, Segpa…)">indisp.</m>
+<m type="Langue(s) enseignée(s)">indisp.</m>
+<m type="RUB">ENSEIGNANT</m>
+<m type="M/F">indisp.</m>
+<m type="Age">indisp.</m>
+<m type="Ancienneté dans l'enseignement">indisp.</m>
+<m type="Titres professionnels">indisp.</m>
+<m type="Formation initiale">indisp.</m>
+<m type="Travail en équipe">indisp.</m>
+<m type="Utilisation de manuels, d'ouvrages didactiques">indisp.</m>
+</meta>

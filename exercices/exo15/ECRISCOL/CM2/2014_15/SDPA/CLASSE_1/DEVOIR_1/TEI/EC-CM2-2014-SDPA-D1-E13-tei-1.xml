@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E13
+</head>
+<p>
+Harry et Ron vont dans les <mod type="corr"><orig>toilette</orig><reg>toilettes</reg></mod> et le troll arrive Hermione se <mod type="corr"><orig>besse</orig><reg>baisse</reg></mod><lb/>
+pour pas qu'elle se blesse quand soudain les deux <mod type="corr"><orig>garçon</orig><reg>garçons</reg></mod> <mod type="corr"><orig>arrive</orig><reg>arrivent</reg></mod> et ils <mod type="corr"><orig>crie</orig><reg>crient</reg></mod>.<lb/>
+Et Harry saute <mod type="del" stage="" who=""><del>XXX#</del></mod> et  <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>de</del></mod></del><add stage="" who="">a</add></mod>terie</orig><reg>atterit</reg></mod> sur le gourdin, Hermione se cache<lb/>
+sous les <mod type="corr"><orig>lave à baux</orig><reg>lavabos</reg></mod> Ron <mod type="corr"><orig>jéte</orig><reg>jette</reg></mod> un sort et le troll s'<mod type="corr"><orig>asome</orig><reg>assomme</reg></mod> avec le gourdin<lb/>
+Le professeur Mc Gonagall arrive et enlève des <mod type="corr"><orig>point</orig><reg>points</reg></mod> à <mod type="corr"><orig>griffondor</orig><reg>Gryffondor</reg></mod> et en<lb/>
+rajoute des <mod type="corr"><orig>point</orig><reg>points</reg></mod> parce que Ron <mod type="corr"><orig>à</orig><reg>a</reg></mod> jeté un sort. Le lendemain le<lb/> 
+<mod type="corr"><orig>professeure</orig><reg>professeur</reg></mod> Rogue montre <mod type="del" stage="" who=""><del>q'il</del></mod> qu'il <mod type="corr"><orig>ni</orig><reg>n'y</reg></mod> a pas de baguette ni de potion mais pour<lb/>
+l'instant Harry recopie tous #XXX# qu'il dit. Ensuite <mod type="del" stage="" who=""><del>ils</del></mod> Hermione, Ron, et Harry<lb/>
+<mod type="corr"><orig>découvre</orig><reg>découvrent</reg></mod> une porte ils <mod type="corr"><orig>ouvre</orig><reg>ouvrent</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>voye</orig><reg>vouyant</reg></mod> <mod type="corr"><orig>rusard</orig><reg>Rusard</reg></mod> oh ! <mod type="corr"><orig>Ils</orig><reg>Il</reg></mod> nous <mod type="corr"><orig>à</orig><reg>a</reg></mod> vus ils<lb/>
+<mod type="corr"><orig>sort<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>sortent</reg></mod> et <mod type="corr"><orig>retourne</orig><reg>retournent</reg></mod> en cours. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

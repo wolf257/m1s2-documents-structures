@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D3-E4-V1
+</head>
+<p>
+<pb/>
+Quand je serai adulte, je <mod type="del" stage="" who="P"><del>...</del></mod> <mod type="corr"><orig>s<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>rai</orig><reg>serai</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>inventore</del></mod></del><add stage="" who="">inventerr</add></mod></orig><reg>inventeur</reg></mod><lb/>
+de robot ou de <mod type="corr"><orig>jou<hi place=" " time="" who="Pσ" style="underline">é</hi></orig><reg>jouets</reg></mod> <mod type="add" stage="T3" who=""><add>jouer</add></mod>. Le matin <mod type="add" stage="T3" who=""><add>,</add></mod> j'irai<lb/>
+dans mon <mod type="corr"><orig>l'ab<hi place=" " time="" who="Pσ" style="underline">o</hi></orig><reg>laboratoire</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>laboratiore</add></mod></orig><reg>laboratoire</reg></mod> construire des inventions<lb/>.
+Le midi <mod type="add" stage="T3" who=""><add>,</add></mod> j'irai chez mon voisin <mod type="corr"><orig>jou<hi place=" " time="" who="Pσ" style="underline">é</hi></orig><reg>jouer</reg></mod> <mod type="add" stage="T3" who=""><add>jouer</add></mod><lb/>
+à la <mod type="corr"><orig>console</orig><reg>consolle</reg></mod>. L'<mod type="del" stage="" who=""><del>a A</del></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">A</hi>prés</orig><reg>Après</reg></mod> <mod type="add" stage="" who="P"><add>après</add></mod> midi <mod type="add" stage="" who="P"><add>.</add></mod> je<lb/>
+ferai des <mod type="corr"><orig>je<hi place=" " time="" who="Pσ" style="underline">u</hi></orig><reg>jeux</reg></mod> <mod type="add" stage="T3" who=""><add>jeux</add></mod> de <mod type="del" stage="" who=""><del>s</del></mod> <mod type="corr"><orig>sociét<hi place=" " time="" who="Pσ" style="underline">er</hi></orig><reg>société</reg></mod> <mod type="add" stage="T3" who=""><add>société</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>avec mes</del></mod></del><add stage="" who="">avec mes</add></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>frères</del></mod></del><add stage="" who="">enfants</add></mod>. Le soir <mod type="add" stage="T3" who=""><add>,</add></mod> j'aiderai <mod type="subst"><del><mod type="del" stage="" who=""><del>ma mère</del></mod></del><add stage="" who="">ma chérie</add></mod> §<lb/>
+
+<pb/>
+à <mod type="del" stage="" who=""><del>fe</del></mod> faire la cuisine. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

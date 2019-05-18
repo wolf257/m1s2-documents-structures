@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E27
+</head>
+<p>
+<mod type="del" stage="" who=""><del>Il était une foi, une jeune fille</del></mod> Je me lève, <mod type="corr"><orig>l'alume</orig><reg>j'allume</reg></mod> ma lampe sur mon <mod type="corr"><orig>reveille</orig><reg>réveil</reg></mod><lb/>
+8h00, je <mod type="corr"><orig>désen</orig><reg>descends</reg></mod> <mod type="corr"><orig>en-bas</orig><reg>en bas</reg></mod>, je bois mon <mod type="corr"><orig>bole</orig><reg>bol</reg></mod> de <mod type="corr"><orig>séreale</orig><reg>céréales</reg></mod> je <mod type="corr"><orig>mabille</orig><reg>m'habille</reg></mod> jean, <mod type="corr"><orig>maillo</orig><reg>maillot</reg></mod>, <mod type="corr"><orig>chossette</orig><reg>chaussettes</reg></mod><lb/>
+<mod type="corr"><orig>pui</orig><reg>puis</reg></mod> je <mod type="corr"><orig>mais</orig><reg>mets</reg></mod> mes <mod type="corr"><orig>chaussure</orig><reg>chaussures</reg></mod>, mon <mod type="corr"><orig>manto</orig><reg>manteau</reg></mod>, je <mod type="corr"><orig>franchie</orig><reg>franchis</reg></mod> la porte <mod type="corr"><orig>deore</orig><reg>dehors</reg></mod> il <mod type="corr"><orig>pleu</orig><reg>pleut</reg></mod>, je <mod type="corr"><orig>mes</orig><reg>mets</reg></mod> ma<lb/>
+capuche je marche et j'ouvre mon <mod type="corr"><orig>portaille</orig><reg>portail</reg></mod>, je vais <mod type="corr"><orig>ore</orig><reg>hors</reg></mod> de mon jardin,<lb/>
+je <mod type="corr"><orig>pren</orig><reg>prends</reg></mod> ma voiture je <mod type="corr"><orig>roules</orig><reg>roule</reg></mod> <mod type="corr"><orig>jusqué a</orig><reg>jusqu'à</reg></mod> mon école mes <mod type="corr"><orig>él<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">è</add></mod>ve</orig><reg>élèves</reg></mod> m'<mod type="corr"><orig>attende</orig><reg>attendent</reg></mod>!<lb/>
+<mod type="corr"><orig>deore</orig><reg>dehors</reg></mod> puis nous <mod type="corr"><orig>rentons</orig><reg>rentrons</reg></mod> en classe, <mod type="del" stage="" who=""><del>ce que n</del></mod> je fais faire à mes élèves:<lb/>
+de l'<mod type="corr"><orig>anglait</orig><reg>anglais</reg></mod>, de la lecture, de la conjugaison puis ils font une récréation<lb/>
+puis <mod type="corr"><orig>retoure</orig><reg>retour</reg></mod> en classe: dictée, mots <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>déjeune</orig><reg>déjeunent</reg></mod> 1h00 <mod type="corr"><orig>appret</orig><reg>après</reg></mod>: copie des <mod type="corr"><orig>devoir</orig><reg>devoirs</reg></mod>,<lb/>
+<mod type="corr"><orig>calcule</orig><reg>calcul</reg></mod> rapide, <mod type="corr"><orig>numeration</orig><reg>numération</reg></mod>, musique et récréation puis je rentre chez moi et mes<lb/>
+<mod type="corr"><orig>élève</orig><reg>élèves</reg></mod> <mod type="corr"><orig>aussie</orig><reg>aussi</reg></mod> je <mod type="corr"><orig>fait</orig><reg>fais</reg></mod> mon <mod type="corr"><orig>gouter</orig><reg>goûter</reg></mod> puis je mange je regarde la télé <mod type="corr"><orig>est</orig><reg>et</reg></mod> je vais<lb/>
+me coucher et ma femme rentre elle fait <mod type="corr"><orig>pareille</orig><reg>pareil</reg></mod> que moi <mod type="corr"><orig>saufe</orig><reg>sauf</reg></mod> elle ne<lb/>
+regarde pas la télé comme moi je l'<mod type="corr"><orig>est</orig><reg>ai</reg></mod> fait. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

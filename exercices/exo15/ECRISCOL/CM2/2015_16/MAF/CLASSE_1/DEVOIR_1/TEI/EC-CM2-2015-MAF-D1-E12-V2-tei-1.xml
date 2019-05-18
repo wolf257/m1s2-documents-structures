@@ -1,0 +1,121 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E12-V2
+</head>
+<p>
+Je me suis dit: il <mod type="corr"><orig>falait</orig><reg>fallait</reg></mod> quelque chose qui fasse plus<lb/>
+aventure...d'abord, j'ai essayé de convaincre mes <mod type="corr"><orig>parants</orig><reg>parents</reg></mod><lb/>
+de m'emmener en Amazonie; mais ils n'ont pas accepté. §<lb/>
+Alors, j'ai <mod type="corr"><orig>commencer</orig><reg>commencé</reg></mod> à désespérer. Mais après le déjeuner, mes<lb/>
+parents m'ont proposé d'aller au zoo. Bof! La fôret Ama<mod type="add" stage="T2" who=""><add>z</add></mod>onienne<lb/>
+était sûrement mieux; mais bon...Nous sommes partis<lb/>
+vers 14h30. Le voyage a <mod type="corr"><orig>durée</orig><reg>duré</reg></mod> à peine 1/4 d'heure. Il<lb/>
+y avait un grand <mod type="corr"><orig>paneau</orig><reg>panneau</reg></mod> avec écrit dessus "Zoo de Beauval."<lb/>
+Le <mod type="corr"><orig>paneau</orig><reg>panneau</reg></mod> était décoré par une tête de Lion <mod type="corr"><orig>dessiner</orig><reg>dessinée</reg></mod>. Des<lb/>
+<mod type="corr"><orig>panda</orig><reg>pandas</reg></mod> <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> au rendez-vous avec des loups, des perroquets,<lb/>
+et même des petits scorpions! C'était bien, même<lb/>
+super, mais <mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">ç</add></mod>a ne suffirait pas pour un 10/10. Et puis,<lb/>
+j'ai eu une idée, une idée folle. J'<mod type="corr"><orig>allé</orig><reg>allais</reg></mod> <mod type="corr"><orig>libéré</orig><reg>libérer</reg></mod> un<lb/>
+panda. J'était sur le point d'ouvrir et,et...Un<lb/>
+monsieur <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="corr"><orig>arrêter</orig><reg>arrêté</reg></mod>. Mes parents <mod type="corr"><orig>fâcher</orig><reg>fâchés</reg></mod> <mod type="corr"><orig>T2#désiderent</orig><reg>décidèrent</reg></mod> de<lb/>
+rentrer j'<mod type="corr"><orig>était</orig><reg>étais</reg></mod> <mod type="corr"><orig>traquacer</orig><reg>tracassé</reg></mod> <mod type="corr"><orig>toutes</orig><reg>toute</reg></mod> la nuit pour ma<lb/>
+rédac de lendemain c'était le trac total. J'ai écrit<lb/>
+<mod type="corr"><orig>se</orig><reg>ce</reg></mod> que j'ai vu au zoo. Et l'histoire de la libération<lb/>
+du panda et du monsieur. Finalement j'ai eu un<lb/>
+10/10 avec en plus <mod type="del" stage="" who=""><del>DESSIN</del></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

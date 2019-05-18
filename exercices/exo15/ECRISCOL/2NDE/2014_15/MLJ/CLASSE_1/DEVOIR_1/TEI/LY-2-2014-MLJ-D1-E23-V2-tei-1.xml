@@ -1,0 +1,208 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E23-V2
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles, d'une obscurité et d'une épaisseur<lb/>
+
+d'encre, l'homme dépuis un moment déjà marchait quand il<lb/>
+
+aperçut au loin la lumière d'un réverbère. Ce réverbère a <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">'</add></mod>air</orig><reg>l'air</reg></mod><lb/>
+
+<mod type="corr"><orig>vieu</orig><reg>vieux</reg></mod> et <mod type="corr"><orig>abimé</orig><reg>abîmé</reg></mod> par le temps, la lumière jaune orangé qui <mod type="add" stage="T2" who=""><add>s</add></mod>'y échappe<lb/>
+
+clignote <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les cinq secondes.  Le <mod type="corr"><orig>regard<mod type="del" stage="" who=""><del>XXX#</del></mod></orig><reg>regard</reg></mod> de l'homme <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX# #XXX# #XXX#</del></mod></del><add stage="" who="">dérive sur le métal</add></mod><lb/>
+
+et arrivé jusqu'en bas. Il finit pour observer le parc situé derrière,<lb/>
+
+il regarde les arbres gravés par les couples qui ont besoin de ça pour se prouver<lb/>
+
+que leur amour sera éternel, sans savoir que, comme toujours, il se<lb/>
+
+détruiront mutuellement. Il <mod type="corr"><orig>s'av<mod type="subst"><del><mod type="del" stage="" who="e"><del>XXX#</del></mod></del><add stage="" who="">ance</add></mod></orig><reg>s'avance</reg></mod>  et se <mod type="corr"><orig>dirige<mod type="del" stage="" who=""><del>XXX#</del></mod></orig><reg>dirige</reg></mod> et vers le petit chemin,<lb/>
+
+à peine, voyant, qui mène au petit parc de la ville. Il marche sans<lb/>
+
+destination précise, le regard vide, le visage sans la moindre expression. Au<lb/>
+
+<mod type="corr"><orig>fil<mod type="del" stage="T2" who=""><del>e</del></mod></orig><reg>fil</reg></mod> du chemin, il se rappelle avoir joué ici avec sa petite soeur savant<lb/>
+
+à peine marcher et quelques cousins, la petite riait dès <mod type="corr"><orig>que</orig><reg>qu'</reg></mod> un des §<lb/>
+
+<pb/>
+<mod type="corr"><orig>enfant<mod type="subst"><del><mod type="del" stage="T2" who=""><del>XXX#</del></mod></del><add stage="T2" who="">s</add></mod></orig><reg>enfant</reg></mod> trébuchait. Il se souvient d'un banc, où il avait<lb/>
+
+amené une de ses amies et décide de le retouver. Le jeune homme<lb/>
+
+cherche pendant un long moment avant d'enfin l'apercevoir au loin,<lb/>
+
+sous un rayon de lumière provenant <mod type="corr"><orig>surment</orig><reg>sûrement</reg></mod> d'un réverbère situé derrière<lb/>
+
+les arbres. Il se rapproche <mod type="corr"><orig>h<mod type="subst"><del><mod type="del" stage="T2" who=""><del>a</del></mod></del><add stage="T2" who="">â</add></mod>tivement</orig><reg>hâtivement</reg></mod> de lui mais, au <mod type="corr"><orig>fil<mod type="del" stage="T2" who=""><del>e</del></mod></orig><reg>fil</reg></mod> des<lb/>
+
+pas, distingue une jeune fille seule. Elle parait petite et possède<lb/>
+
+quelques fines formes <mod type="corr"><orig>misent</orig><reg>mises</reg></mod> en valeur dans sa robe assez moulante et<lb/>
+
+son <mod type="corr"><orig>légés</orig><reg>léger</reg></mod> décolté qui laisse entrevoir une partie de son cou. Elle est<lb/>
+
+vêtue d'une robe noire, très sombre longue qui lui arrive <mod type="corr"><orig>surment</orig><reg>sûrement</reg></mod> aux<lb/>
+
+chevilles. Elle comporte des manches longues en dentelle avec des motifs de<lb/>
+
+fleures et de formes étranges elles aussi sombres. Sous une des manches<lb/>
+
+relevée, on <mod type="del" stage="" who=""><del>XXX#</del></mod> peut voir du sang, des traces qui ne laissent qu'à supporter que la<lb/>
+
+jeune fille a laissé une larme <mod type="corr"><orig>gliss<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">er</add></mod></orig><reg>glisser</reg></mod> sur sa peau en apparence si fragile<lb/>
+
+il <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">y a peu de temps</add></mod>. Elle a replié ses deux jambes contre sa poitrine, garde sa<lb/>
+
+tête <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">posée</add></mod> sur ses <mod type="corr"><orig>genous</orig><reg>genoux</reg></mod> et ses bras <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">tout minces</add></mod> enroules autour de<lb/>
+
+ses jambes. Ses cheveux longs et lisses chatains retombent en cascade sur §<lb/>
+
+
+<pb/>
+ses épaules. De là où l'homme est placé, il peut entendre ses<lb/>
+
+pleures en abondances, sans retenue. Il se déplace et marche sur une<lb/>
+
+branche qui se brise sous son poids, se qui fait relever la tête de la jeune<lb/>
+
+filles. §<lb/>
+Elle est vraiment magnifique, <mod type="corr"><orig>malgrées</orig><reg>malgré</reg></mod> le maquillage <mod type="corr"><orig>noir<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>noir</reg></mod> étalé partout<lb/>
+	
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">sous</add></mod> ses yeux et sur ses joues. Ses yeux, rougis et gonflés, possède une<lb/>
+
+anomalie: <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX# #XXX#</del></mod></del><add stage="" who="">elle a un soit</add></mod> bleu et l'autre est vert, par l'homme, ce<lb/>
+
+n'est pas la première fois qu'il les voit. Elle possède une bouche pulpeuse<lb/>
+
+et rosée, des dents parfaitement droites et des pomettes bien dessinées.<lb/>
+
+L'homme se rapproche d'elle en scotchant un sourire sur son visage, de peur<lb/>
+
+qu'elle soit effrayée et parte en pensant qu'il a de mauvaises<lb/>
+
+intentions. Le jeune homme est lui-même beau garçon, <mod type="del" stage="" who=""><del>jeune</del></mod>, en<lb/>
+
+costard noir et blanc. Il voit à côté d'elle, par terre, ses chaussures<lb/>
+
+noires (comme le reste) à talon, la lame de rasoir couverte de sang et des<lb/>
+
+lunettes de soleil à verres <mod type="corr"><orig>sombre</orig><reg>sombres</reg></mod> (qui ne permettent pas de voir à travers)<lb/>
+
+et c'est là qu'il comprit. Il l'avait déjà vu aujourd'hui, plus tôt dans §<lb/>
+
+<pb/>
+la journée. Ces yeux vérons, cette robe, ces cheveux, cette paire de<lb/>
+
+<mod type="corr"><orig>lunette</orig><reg>lunettes</reg></mod>: elle était elle aussi à la cérémonie pour l'enterrement de son<lb/>
+
+amie, décédée quelques jours <mod type="corr"><orig>plu<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">s</add></mod></orig><reg>plus</reg></mod> tôt <mod type="del" stage="" who=""><del>XXX#</del></mod> aux urgences après avoir été<lb/>
+
+sous les <mod type="corr"><orig>coup</orig><reg>coups</reg></mod> de <mod type="corr"><orig>sabot</orig><reg>sabots</reg></mod> de son cheval, <mod type="subst"><del><mod type="del" stage="" who=""><del>à</del></mod></del><add stage="" who="">a</add></mod> à peine quinze ans.<mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+
+la jeune fille , prise se panique, prit ses affaires et partie en courant<lb/>
+	
+le plus vite possible en dehors du parc, sans dire un mot. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

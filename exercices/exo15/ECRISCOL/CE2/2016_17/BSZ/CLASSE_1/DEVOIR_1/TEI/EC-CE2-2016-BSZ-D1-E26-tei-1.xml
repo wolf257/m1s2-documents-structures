@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E26
+</head>
+<p>
+<pb/>
+<mod type="corr"><orig>le</orig><reg>Le</reg></mod> matin je me <mod type="corr"><orig>léve</orig><reg>lève</reg></mod> et je vais regarder la <mod type="corr"><orig>telé</orig><reg>télé</reg></mod><lb/>
+<mod type="corr"><orig>pui</orig><reg>puis</reg></mod> je déjeune je <mod type="corr"><orig>mabille</orig><reg>m'habille</reg></mod> et je vais <mod type="corr"><orig>a</orig><reg>à</reg></mod> mon <mod type="corr"><orig>travalle</orig><reg>travail</reg></mod><lb/>
+<mod type="corr"><orig>jarive</orig><reg>j'arrive</reg></mod> au <mod type="corr"><orig>travalle</orig><reg>travail</reg></mod> je <mod type="corr"><orig>di</orig><reg>dis</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>voi</orig><reg>voix</reg></mod> <mod type="corr"><orig>aute</orig><reg>haute</reg></mod><lb/>
+je monte qui! <mod type="del" stage="" who=""><del>et</del></mod> tu <mod type="corr"><orig>monte</orig><reg>montes</reg></mod> Kalloune! OK. <mod type="corr"><orig>tu</orig><reg>Tu</reg></mod> <mod type="corr"><orig>va</orig><reg>vas</reg></mod> le<lb/>
+<mod type="corr"><orig>prépare</orig><reg>préparer</reg></mod>. <mod type="corr"><orig>oui</orig><reg>Oui</reg></mod> oui <mod type="corr"><orig>jivai</orig><reg>j'y vais</reg></mod>. <mod type="corr"><orig>salu</orig><reg>Salut</reg></mod> mon <mod type="corr"><orig>bau</orig><reg>beau</reg></mod>. <mod type="corr"><orig>tu</orig><reg>Tu</reg></mod> <mod type="corr"><orig>et</orig><reg>es</reg></mod> joli<lb/>
+<mod type="corr"><orig>aujourd'huid</orig><reg>aujourd'hui</reg></mod>. <mod type="corr"><orig>je</orig><reg>Je</reg></mod> te <mod type="corr"><orig>monte</orig><reg>montes</reg></mod>. <mod type="corr"><orig>on</orig><reg>On</reg></mod> fait <mod type="del" stage="" who=""><del>S</del></mod>CS0<lb/>
+tu <mod type="corr"><orig>va</orig><reg>vas</reg></mod> <mod type="corr"><orig>émé</orig><reg>aimer</reg></mod>. <mod type="corr"><orig>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>lacroche</orig><reg>l'accroche</reg></mod> et je le <mod type="corr"><orig>brose</orig><reg>brosse</reg></mod>. §<lb/>
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> le <mod type="corr"><orig>séle</orig><reg>selle</reg></mod> c'est bon. <mod type="corr"><orig>va</orig><reg>Vas</reg></mod> au <mod type="corr"><orig>manége</orig><reg>manège</reg></mod>. §<lb/>
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>fait</orig><reg>fais</reg></mod> le <mod type="corr"><orig>prémier</orig><reg>premier</reg></mod> <mod type="corr"><orig>sotostagle</orig><reg>saut à obstacles</reg></mod>. <mod type="corr"><orig>pui</orig><reg>Pui</reg></mod> je <mod type="corr"><orig>fait</orig><reg>fais</reg></mod><lb/>
+un <mod type="corr"><orig>parcour</orig><reg>parcours</reg></mod> <mod type="corr"><orig>asé</orig><reg>assez</reg></mod> <mod type="corr"><orig>dificile</orig><reg>difficile</reg></mod>. <mod type="corr"><orig>et</orig><reg>Et</reg></mod> j'ai<lb/>
+<mod type="corr"><orig>réusi</orig><reg>réussi</reg></mod>. <mod type="corr"><orig>j'ai</orig><reg>J'ai</reg></mod> fini le <mod type="corr"><orig>cour</orig><reg>cours</reg></mod>. <mod type="corr"><orig>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>désen</orig><reg>descends</reg></mod> je le<lb/>
+<mod type="corr"><orig>raméne</orig><reg>ramène</reg></mod>. <mod type="corr"><orig>je</orig><reg>Je</reg></mod> déselle je le <mod type="corr"><orig>brose</orig><reg>brosse</reg></mod>. <mod type="corr"><orig>parfai</orig><reg>Parfait</reg></mod>.<lb/>
+<mod type="corr"><orig>il</orig><reg>Il</reg></mod> <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>nicelle</orig><reg>nickel</reg></mod>. <mod type="corr"><orig>je</orig><reg>Je</reg></mod> le <mod type="corr"><orig>ranmene</orig><reg>ramène</reg></mod><lb/>
+au pré §<lb/>
+
+<pb/>
+et je <mod type="corr"><orig>repare</orig><reg>repars</reg></mod> <mod type="corr"><orig>chémoi</orig><reg>chez moi</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

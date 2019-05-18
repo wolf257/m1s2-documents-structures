@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E4-V2
+</head>
+<p>
+<mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">j</hi>e</orig><reg>Je</reg></mod> <mod type="corr"><orig>ser<hi place=" " time="T3" who="Pσ" style="underline">a</hi></orig><reg>serai</reg></mod> avec mon <mod type="corr"><orig>fi<hi place=" " time="T3" who="Pσ" style="underline">ss</hi>e <mod type="add" stage="T4" who=""><add>fils</add></mod></orig><reg>fils</reg></mod> <mod type="corr"><orig>f<hi place=" " time="T3" who="Pσ" style="underline">ère</hi> <mod type="add" stage="T4" who=""><add>féree</add></mod></orig><reg>faire</reg></mod> les <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del>sélagage</del></mod></del><add stage="T2" who="">élagag<hi place=" " time="T3" who="Pσ" style="underline">e</hi></add></mod></orig><reg>élagages</reg></mod> <mod type="del" stage="T3" who="P"><del>épuis</del></mod> <mod type="subst"><del><mod type="del" stage="T3" who="P"><del>.</del></mod></del><add stage="T3" who="P">,</add></mod> et ma<lb/>
+fille elle <hi place=" " time="T3" who="Pσ" style="underline">et</hi> avec sa mère et <mod type="corr"><orig>aprés</orig><reg>après</reg></mod> <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">jiré</hi> <metamark place=" " time="T3" who="P" style="underline">V aller à l'IND. futur simple</metamark></orig><reg>j'irai</reg></mod> manger <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">ala</hi> <mod type="add" stage="T3" who="P"><add>à la</add></mod> <mod type="add" stage="T4" who=""><add> à la</add></mod></orig><reg>à la</reg></mod><lb/>
+<mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">pidzryaia</hi><mod type="add" stage="T3" who="P"><add>pizzeria</add></mod></orig><reg>pizzeria</reg></mod> avec <mod type="corr"><orig>toute<mod type="del" stage="T4" who=""><del><hi place=" " time="T3" who="Pσ" style="underline">s</hi></del></mod></orig><reg>toute</reg></mod> ma famille <mod type="add" stage="T3" who="P"><add>.</add></mod> <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">a</hi>prées</orig><reg>Après</reg></mod> <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">jira</hi> <mod type="add" stage="T3" who=""><add>j'irai</add></mod></orig><reg>j'irai</reg></mod> au cinéma<lb/>
+avec ma famille <mod type="add" stage="T3" who="P"><add>,</add></mod> <mod type="corr"><orig>ensuite<mod type="del" stage="T3" who="P"><del>s</del></mod></orig><reg>ensuite</reg></mod> je <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">vé</hi> <metamark place=" " time="T3" who="P" style="underline">V aller au futur simple</metamark><mod type="add" stage="T4" who=""><add>vais j'irai</add></mod></orig><reg>irai</reg></mod> <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">a</hi>la</orig><reg>à la</reg></mod> chasse avec mon <mod type="corr"><orig>fil<hi place=" " time="T3" who="Pσ" style="underline">lsse</hi> <mod type="add" stage="T4" who=""><add>fils</add></mod></orig><reg>fils</reg></mod><lb/>
+et mon <mod type="corr"><orig>pére</orig><reg>père</reg></mod> on ira <mod type="corr"><orig>tu<hi place=" " time="T3" who="Pσ" style="underline">é</hi><metamark place=" " time="T3" who="P" style="underline">2 verbe</metamark><mod type="add" stage="T4" who=""><add>tuer</add></mod></orig><reg>tuer</reg></mod> des <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">fésant</hi><mod type="add" stage="T4" who=""><add>faisan</add></mod></orig><reg>faisans</reg></mod> et <mod type="corr"><orig>aprés</orig><reg>après</reg></mod> on ira<lb/>
+au <mod type="corr"><orig>foot<mod type="del" stage="T3" who="P"><del>e</del></mod></orig><reg>foot</reg></mod> avec mon <mod type="corr"><orig>f<hi place=" " time="T3" who="Pσ" style="underline">isse</hi><mod type="add" stage="T4" who=""><add>fils</add></mod></orig><reg>fils</reg></mod> <mod type="add" stage="T3" who="P"><add>,</add></mod> et ma <mod type="corr"><orig>fill<hi place=" " time="T3" who="Pσ" style="underline">et</hi><mod type="add" stage="T3" who="P"><add>ira</add></mod></orig><reg>fille</reg></mod> <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">ala</hi><mod type="add" stage="T4" who=""><add>à la</add></mod></orig><reg>à la</reg></mod> danse <mod type="add" stage="T3" who="P"><add>.</add></mod><lb/>
+et <mod type="corr"><orig>pouer</orig><reg>pour</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T3" who="P"><del>n</del></mod></del><add stage="T3" who="P">N</add></mod>oël</orig><reg>Noël</reg></mod> mon <mod type="corr"><orig>fi<hi place=" " time="T3" who="Pσ" style="underline">sse</hi><mod type="add" stage="T4" who=""><add>fils</add></mod></orig><reg>fils</reg></mod> <mod type="del" stage="T3" who="P"><del>il</del></mod> <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">o</hi>ra<metamark place=" " time="T3" who="P" style="underline">V avoir au futur simple</metamark></orig><reg>aura</reg></mod> une <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">père</hi><mod type="add" stage="T3" who="P"><add>paire</add></mod></orig><reg>paire</reg></mod> de <mod type="corr"><orig>cranpon<mod type="add" stage="T3" who="P"><add>s</add></mod></orig><reg>crampons</reg></mod><lb/>
+et pour ma fille <mod type="add" stage="T4" who=""><add>je prendrai</add></mod> une <mod type="corr"><orig>ten<hi place=" " time="T3" who="Pσ" style="underline">u</hi><mod type="add" stage="T4" who=""><add>ténue</add></mod></orig><reg>tenue</reg></mod> de danse <mod type="add" stage="T3" who="P"><add>.</add></mod> et on <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">yra</hi><metamark place=" " time="T3" who="P" style="underline">V aller au futur simple</metamark> <mod type="add" stage="T4" who=""><add>j'irai</add></mod></orig><reg>ira</reg></mod><lb/>
+<mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">o</hi><mod type="add" stage="T4" who=""><add>au</add></mod></orig><reg>au</reg></mod> foot avec mon <mod type="corr"><orig>fi<hi place=" " time="T3" who="Pσ" style="underline">ss</hi> <mod type="add" stage="T4" who=""><add>fils</add></mod></orig><reg>fils</reg></mod> <mod type="add" stage="T3" who="P"><add>,</add></mod> avec <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">sé</hi><mod type="add" stage="T3" who="P"><add>les siens</add></mod> <mod type="add" stage="T4" who=""><add>ses</add></mod></orig><reg>ses</reg></mod> <mod type="corr"><orig>nouve<hi place=" " time="" who="Pσ" style="underline">le</hi><mod type="add" stage="T4" who=""><add>nouvelles</add></mod></orig><reg>nouvelles</reg></mod> <mod type="corr"><orig>cra<hi place=" " time="T3" who="Pσ" style="underline">npon</hi><mod type="add" stage="T4" who=""><add>crampons</add></mod></orig><reg>crampons</reg></mod> et<lb/>
+ma <mod type="corr"><orig>f<hi place=" " time="T3" who="Pσ" style="underline">a</hi>mme<mod type="add" stage="T4" who=""><add>femme</add></mod></orig><reg>femme</reg></mod> a été <mod type="corr"><orig>voir<hi place=" " time="T3" who="Pσ" style="underline">e</hi><mod type="add" stage="T4" who=""><add>voir</add></mod></orig><reg>voir</reg></mod> <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">sé</hi><mod type="add" stage="T4" who=""><add>s</add></mod></orig><reg>ses</reg></mod> <mod type="corr"><orig>copin<hi place=" " time="T3" who="Pσ" style="underline">e</hi></orig><reg>copines</reg></mod> <mod type="add" stage="T3" who="P"><add>les siennes</add></mod> <mod type="add" stage="T3" who="P"><add>.</add></mod> <mod type="del" stage="T3" who="P"><del>et mois et</del></mod><lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T3" who="P"><del>m</del></mod></del><add stage="T3" who="P">M</add></mod>on</orig><reg>Mon</reg></mod> <mod type="corr"><orig>pére</orig><reg>père</reg></mod> <mod type="add" stage="T3" who="P"><add>, et moi</add></mod> on a été <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">ala</hi><mod type="add" stage="T4" who=""><add>à la</add></mod></orig><reg>à la</reg></mod> chasse <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">o</hi></orig><reg>aux</reg></mod> <mod type="add" stage="T3" who="P"><add>aux</add></mod> <mod type="corr"><orig>songl<hi place=" " time="T3" who="Pσ" style="underline">ié</hi><mod type="add" stage="T4" who=""><add>sangliers</add></mod></orig><reg>sangliers</reg></mod> §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

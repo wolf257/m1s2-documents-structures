@@ -1,0 +1,108 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E23-V2
+</head>
+<p>
+Il était une fois un enfant du <mod type="corr"><orig>no<mod type="subst"><del><mod type="del" stage="" who="P"><del>n</del></mod></del><add stage="" who="P">m</add></mod></orig><reg>nom</reg></mod> de <mod type="corr"><orig>Gabriels</orig><reg>Gabriel</reg></mod>. §<lb/>
+Comme la <mod type="corr"><orig>plu<mod type="del" stage="" who="P"><del>s</del></mod>part</orig><reg>plupart</reg></mod> des <mod type="corr"><orig>enfant<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>enfants</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod> il <mod type="corr"><orig>allai<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>allait</reg></mod> à l'école. Un matin<lb/>
+<mod type="add" stage="" who="P"><add>il partit</add></mod> sur le chemin de l'école avec sa <mod type="corr"><orig>toupi</orig><reg>toupie</reg></mod> <mod type="corr"><orig>chinois<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>chinoise</reg></mod> (il voulait la<lb/>
+pr<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>senter à sa <mod type="corr"><orig>cllase<mod type="add" stage="" who="P"><add>classe</add></mod></orig><reg>classe</reg></mod>.)<mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>m</del></mod></del><add stage="" who="P">M</add></mod>ais</orig><reg>Mais</reg></mod> <mod type="del" stage="" who=""><del>quand quand il</del></mod> une <mod type="corr"><orig>foi<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>fois</reg></mod> <mod type="del" stage="" who=""><del>arive</del></mod> <mod type="corr"><orig>ar<mod type="add" stage="" who="P"><add>r</add></mod>ivé<mod type="del" stage="" who=""><del>r</del></mod></orig><reg>arrivé</reg></mod><lb/>
+il s'<mod type="corr"><orig>aper<mod type="del" stage="" who="P"><del>c</del></mod><mod type="add" stage="" who="P"><add>ç</add></mod>ut</orig><reg>aperçut</reg></mod> <mod type="del" stage="" who=""><del>qil</del></mod> qu'il l'avait perdue. A la récréation <mod type="corr"><orig>son<mod type="del" stage="" who="P"><del>t</del></mod></orig><reg>son</reg></mod> <mod type="corr"><orig>ami<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>amie</reg></mod><lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="" who="">A</add></mod>nne-<mod type="subst"><del><mod type="del" stage="" who=""><del>l</del></mod></del><add stage="" who="">L</add></mod>ise</orig><reg>Anne-Lise</reg></mod> lui demanda: <mod type="del" stage="" who=""><del>"tu a à p</del></mod> - <mod type="del" stage="" who=""><del>t</del></mod> Tu <mod type="corr"><orig>a<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>as</reg></mod> perdu quelque §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

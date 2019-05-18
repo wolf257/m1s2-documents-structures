@@ -1,0 +1,137 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E19
+</head>
+<p>
+<pb/>
+
+Dumbledore <mod type="corr"><orig>eu</orig><reg>eut</reg></mod> l'idée <mod type="del" stage="" who=""><del>de</del></mod> d'emmener<lb/>
+les enfants dans leur bâtiment. Harry<lb/>
+et Ronald <mod type="corr"><orig>suivi</orig><reg>suivirent</reg></mod> les <mod type="corr"><orig>Grifondors</orig><reg>Gryffondor</reg></mod>, mais à
+peine <mod type="corr"><orig>entrer</orig><reg>entrés</reg></mod> dans leurs chambres, <mod type="add" stage="" who=""><add>Harry</add></mod> <mod type="corr"><orig>penssa</orig><reg>pensa</reg></mod><lb/>
+d'aller prévenir Hermione qui n'<mod type="corr"><orig>avais</orig><reg>avait</reg></mod><lb/>
+pas eu d'information qu'un troll était<lb/>
+dans le <mod type="corr"><orig>châteaux</orig><reg>château</reg></mod>. <mod type="del" stage="" who=""><del>I</del></mod> Ils <mod type="corr"><orig>s'ortir</orig><reg>sortirent</reg></mod> de leurs<lb/>
+<mod type="corr"><orig>proprieter</orig><reg>propriétés</reg></mod> et <mod type="corr"><orig>aller</orig><reg>allèrent</reg></mod> chercher Hermione dans<lb/>
+les toilettes des filles. Harry et Ron<lb/>
+<mod type="corr"><orig>entra</orig><reg>entrèrent</reg></mod> dans les <mod type="corr"><orig>toilette</orig><reg>toilettes</reg></mod> et <mod type="corr"><orig>prévient</orig><reg>previennent</reg></mod> §<lb/>
+
+<pb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> la fille de onze ans qu'il y avait<lb/>
+un <mod type="corr"><orig>énorment</orig><reg>énorme</reg></mod> <mod type="del" stage="" who=""><del>mor</del></mod> monstre sorti des<lb/>
+cachots. Ils coururent mais 1 <mod type="del" stage="" who=""><del>kl</del></mod> km<lb/>
+plus loin Ron se <mod type="del" stage="" who=""><del>tord</del></mod> <mod type="corr"><orig>tordi</orig><reg>tordit</reg></mod> la cheville.<lb/>
+Ron resta à l'endroit où il <mod type="corr"><orig>ses</orig><reg>s'est</reg></mod><lb/>
+fait mal. Harry <mod type="del" stage="" who=""><del>es</del></mod> et Hermione <mod type="corr"><orig>partir</orig><reg>partirent</reg></mod><lb/>
+à la recherche du troll. Mais tout<lb/>
+à coup ils <mod type="corr"><orig>entendire</orig><reg>entendirent</reg></mod> Ron crier<lb/>
+d'une voix de petite fille. Ils furent<lb/>
+<mod type="corr"><orig>obliger</orig><reg>obligés</reg></mod> de faire <mod type="del" stage="" who=""><del>den</del></mod> demi tour et ils <mod type="corr"><orig>vurent</orig><reg>virent</reg></mod><lb/>
+le troll qui <mod type="corr"><orig>aller</orig><reg>allait</reg></mod> <mod type="corr"><orig>fraper</orig><reg>frapper</reg></mod> Ron. Hermione<lb/>
+<mod type="corr"><orig>pris</orig><reg>prit</reg></mod> sa baguette <mod type="corr"><orig>est</orig><reg>et</reg></mod> dit « Wingardium<lb/>
+leviosa ! » <mod type="del" stage="" who=""><del>Cl</del></mod> Cela fit <mod type="corr"><orig>roulet</orig><reg>rouler</reg></mod> son gourdin.<lb/>
+A <mod type="corr"><orig>se</orig><reg>ce</reg></mod> moment même Harry dit « petrificus<lb/>
+totalus ». Cela pétrifia le monstre et tomba<lb/>
+par terre. Le professeur <mod type="corr"><orig>Mc gonagale</orig><reg>McGonagall</reg></mod><lb/>
+arriva et enleva 10 <mod type="corr"><orig>point</orig><reg>points</reg></mod> à Hermione<lb/>
+et en <mod type="corr"><orig>m'étta</orig><reg>metta</reg></mod> 20 à Harry est Ron. §<lb/>
+ §<lb/>
+Hermione, Harry <mod type="subst"><del><mod type="del" stage="" who=""><del>est</del></mod></del><add stage="" who="">et</add></mod> Ron <mod type="corr"><orig>devient</orig><reg>deviennent</reg></mod> amis et<lb/>
+<mod type="corr"><orig>ise</orig><reg>ils se</reg></mod> <mod type="corr"><orig>pardona</orig><reg>pardonnèrent</reg></mod> pour <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les <mod type="corr"><orig>méchanster</orig><reg>méchancetés</reg></mod><lb/>
+<mod type="corr"><orig>dit</orig><reg>dites</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

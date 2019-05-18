@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="application/xml" href="index.xsl"?>
+
+<sommaire>
+    
+    <bouton>
+        <titre> Accueil </titre>
+        <lien> # </lien>
+    </bouton>
+
+    <bouton>
+        <titre> 1 </titre>
+        <lien> ./exercices/exo1.xml </lien>
+        <description> Structuration de l’information (vers une grammaire de document) concernant des bouteilles d'eau. </description>    
+    </bouton>
+    
+    <bouton>
+        <titre> 2 </titre>
+        <lien> ./exercices/exo2.xml </lien>
+        <description> Construction de DTD (Document Type Definition) pour une bibliographie. </description>
+    </bouton>
+    
+    <bouton>
+        <titre> 3 </titre>
+        <lien> ./exercices/exo3.xml </lien>
+        <description> (obligatoire) Application de la convention Text Encoding Initiative (TEI) sur deux portions du 'Dictionnaire universel' d'Antoine Furetière (1701). </description>
+    </bouton>    
+    
+    <bouton>
+        <titre> 6 </titre>
+        <lien> ./exercices/exo6.xml </lien>
+        <description> Exploration d'un fichier TEI : le dormeur du Val. </description>
+    </bouton>
+
+    <bouton>
+        <titre> 7 </titre>
+        <lien> ./exercices/exo7.xml </lien>
+        <description> Modification d'une feuille xsl pour construire un tableau. </description>
+    </bouton>  
+    
+    <bouton>
+        <titre> 9 </titre>
+        <lien> ./exercices/exo9.xml </lien>
+        <description> Fichier clientèle Air France. </description>
+    </bouton>  
+    
+    <bouton>
+        <titre> 11 </titre>
+        <lien> ./exercices/exo11.xml </lien>
+        <description> "Un conte à votre façon". </description>
+    </bouton>  
+    
+    <bouton>
+        <titre> 13 </titre>
+        <lien> ./exercices/exo13.xml </lien>
+        <description> (obligatoire) Extraction dans fils RSS du journal Monde. </description>
+    </bouton> 
+
+    <bouton>
+        <titre> 15 </titre>
+        <lien> ./exercices/exo15.xml </lien>
+        <description> Requêtes sur le corpus ECRISCOL. </description>
+    </bouton>  
+    
+    <bouton>
+        <titre> 16 </titre>
+        <lien> ./exercices/exo16.xml </lien>
+        <description> (obligatoire) Travail sur dictionnaire. </description>
+    </bouton>  
+    
+    
+</sommaire>

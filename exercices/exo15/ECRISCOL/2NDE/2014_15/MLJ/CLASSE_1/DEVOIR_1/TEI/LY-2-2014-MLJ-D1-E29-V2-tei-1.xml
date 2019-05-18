@@ -1,0 +1,219 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E29-V2
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles, d'une obscurité et d'une épaisseur<lb/>
+#XXX# §<lb/>
+d'encre, l'homme depuis un moment déjà marchait quand il aperçut au loin<lb/>
+
+la lumière d'un réverbère. §<lb/>
+
+Il sourit, pensa enfin au moment ou il serait dans un lit<lb/>
+
+douillet après avoir mangé, il savait qu'il approchait d'un village<lb/>
+
+dont il avait oublié le nom et qu'à l'entrée de celui-ci se situait<lb/>
+
+une auberge. §<lb/>
+
+Depuis que sa femme était partie <mod type="add" stage="T2" who=""><add>,</add></mod> il ne s'était pas rasé, n'avait<lb/>
+
+pas changé d'<mod type="corr"><orig>habit</orig><reg>habits</reg></mod>, n'avait presque pas <mod type="corr"><orig>domi</orig><reg>dormis</reg></mod> et cela depuis <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">trois</add></mod><lb/>
+
+jours. Il savait <mod type="corr"><orig>qu<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">'</add></mod>après</orig><reg>qu'après</reg></mod> qu'elle soit partie de la maison,<lb/>
+
+elle avait pris la route qui menait vers ce village. <mod type="corr"><orig>Peut être</orig><reg>peut-être</reg></mod> est-elle §<lb/>
+
+<pb/>
+allée plus loin, à la ville qui se trouvait à 20 km de<lb/>
+
+ce petit village, <mod type="corr"><orig>peut être</orig><reg>peut-être</reg></mod> est-elle rentrée, il ne savait pas,<lb/>
+
+ne savait plus et de toute manière, il <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">était</add></mod> <mod type="corr"><orig>perdu</orig><reg>perdue</reg></mod>,<lb/>
+
+de nuit il était impossible de faire demi-tour.<lb/>
+
+Il marcha donc jusqu'à l'auberge en traînant <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del>s</del></mod></del><add stage="T2" who="">d</add></mod>es</orig><reg>des</reg></mod> pieds,<lb/>
+
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">il</add></mod> <mod type="subst"><del><mod type="del" stage="T2" who=""><del>pourrait</del></mod></del><add stage="T2" who="">pouvait</add></mod> donner ses vêtements à laver et va avoir une<lb/>
+
+nuit de sommeil sur un matelas confortable et <mod type="subst"><del><mod type="del" stage="T2" who=""><del>pourrait</del></mod></del><add stage="T2" who="">pouvait</add></mod><lb/>
+
+repartir le lendemain matin <mod type="corr"><orig>de-plus-belle</orig><reg>de plus belle</reg></mod>. §<lb/>
+
+Il observa le ciel <mod type="corr"><orig>av<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">a</add></mod>nt</orig><reg>avant</reg></mod> de rentrer dans ce bâtiment,<lb/>
+
+le ciel était noir, aucune étoile à <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">observer</add></mod> ce soir.<lb/>
+
+Il franchit le pas de la porte s'essuya les pieds, zigzaga<lb/>
+
+entre les tables, s'assit au comptoir et demanda une<lb/>
+
+eau de vie. Le serveur vêtu très joliment <mod type="add" stage="T2" who=""><add>qui</add></mod> s'apprêtait <mod type="corr"><orig>surement</orig><reg>sûrement</reg></mod><lb/>
+
+à aller voir sa bien-aimée <mod type="corr"><orig><mod type="del" stage="" who=""><del>XXX#</del></mod>s'exécut<mod type="subst"><del><mod type="del" stage="" who=""><del>â</del></mod></del><add stage="" who="">a</add></mod>t</orig><reg>s'exécuter</reg></mod> <mod type="del" stage="" who=""><del>l'eau de</del></mod><lb/>
+
+la boisson qu'il lui servit était d'un vert très lèger,<lb/>
+
+presque trensparent, la femme à <mod type="corr"><orig>cotè</orig><reg>côté</reg></mod> de lui avait un martini §<lb/>
+
+<pb/>
+dans lequel flottaient deux glaçons entre ses mains, elle<lb/>
+
+avait de très beaux poignets mais des doigts très abîmés.<lb/>
+
+Il se concentra sur son verre et sur la petite boîte carrée<lb/>
+
+qu'il avait dans sa poche, il s'était répété des centaines de<lb/>
+
+fois ce qu'il allait lui-dire. <mod type="corr"><orig>Malgr<mod type="subst"><del><mod type="del" stage="" who=""><del>er</del></mod></del><add stage="" who="">é</add></mod></orig><reg>Malgré</reg></mod> le fait que leur dernière<lb/>
+
+dispute ait été très animée il l'aimait plus que sa propre vie, sa<lb/>
+
+femme était <mod type="corr"><orig>ex<mod type="add" stage="" who=""><add>e</add></mod>ptionelle<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">e</add></mod></orig><reg>exceptionnelle</reg></mod>. §<lb/>
+
+Tout à coup il sentit un regard se poser sur lui, <mod type="subst"><del><mod type="del" stage="T2" who=""><del>se</del></mod></del><add stage="T2" who="">ce</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>re</del></mod></del><add stage="" who="">regard</add></mod><lb/>
+
+le fixait, pour démasquer son observateur il fit volte-face et se<lb/>
+
+trouva face à face avec la femme <mod type="add" stage="T2" who=""><add> au martini</add></mod> qui s'était levée et qui en fait<lb/>
+
+était sa femme. Les yeux de sa femme d'un bleu cristalin<lb/>
+
+étaient plantés dans les siens. <mod type="corr"><orig>Stupèfait</orig><reg>Stupéfait</reg></mod>, il laissa tomber<lb/>
+
+son verre et au bout de quelques secondes, son regard <mod type="corr"><orig>changeat</orig><reg>changea</reg></mod>,<lb/>
+
+emplit de tendresse il la regarda toute entière, il était tellement<lb/>
+
+heureux de la retrouver. Il se leva de son tabouret, lui<mod type="del" stage="" who=""><del>XXX#</del></mod> prit<lb/>
+
+les mains, la supplia de revenir <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">à</add></mod> la maison car sans elle §<lb/>
+
+<pb/>
+il n'est rien. Puis elle <mod type="corr"><orig>changeat</orig><reg>changea</reg></mod> d'expression, son visage qui<lb/>
+
+paraissait radieux devint terne et elle lui Réponda: "- écoute, <lb/>
+je dois réfléchir <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">après</add></mod> ce qu'il s'est passé ce n'est pas facile<lb/>
+
+pour moi de te faire confiance à nouveau". §<lb/>
+
+Le sourire de cet homme aux épaules carrées disparut mais une<lb/>
+
+lueur d'espoir resta dans ses yeux. Il l'invita alors à danser<lb/>
+
+sur la musique des musiciens qui avaient <mod type="corr"><orig>étés</orig><reg>été</reg></mod> conviés pour la soirée.<lb/>
+
+Il s'arrêta en plein milieu de la musique, s'agenouilla et il<lb/>
+
+lui dit:"Ma chérie, <mod type="corr"><orig>veu<mod type="subst"><del><mod type="del" stage="" who=""><del>t</del></mod></del><add stage="" who="">x</add></mod>-tu</orig><reg>veux-tu</reg></mod> m'épouser ?" elle resta sans voix<lb/>
+
+durant une dizaine de <mod type="corr"><orig>seconde</orig><reg>secondes</reg></mod>, puis une larme s'échappa<lb/>
+
+de son oeil gauche, elle courut jusqu'à la sortie et §<lb/>
+
+lui <mod type="corr"><orig>essayât</orig><reg>essaya</reg></mod> de la rattraper mais elle <mod type="corr"><orig>dispar<mod type="subst"><del><mod type="del" stage="T2" who=""><del>û</del></mod></del><add stage="T2" who="">u</add></mod>t</orig><reg>disparut</reg></mod> et §<lb/>
+
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">sous</add></mod> la nuit sans étoiles, d'une obscurité et d'une<lb/>
+
+épaisseur d'encre, l'homme depuis un moment déjà marchait<lb/>
+
+quand il aperçut au loin la lumière d'un réverbère. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D2-E18-V2
+</head>
+<p>
+<pb/>
+<mod type="corr"><orig>Nu</orig><reg>Un</reg></mod> jour le petit <mod type="corr"><orig>frére</orig><reg>frère</reg></mod> de <mod type="corr"><orig>louis</orig><reg>Louis</reg></mod> est malade. §<lb/>
+<mod type="corr"><orig>donc</orig><reg>Donc</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> fait que <mod type="corr"><orig>louis</orig><reg>Louis</reg></mod> n'aimerait bien pas aller à<lb/>
+<mod type="corr"><orig>lécol</orig><reg>l'école</reg></mod>. §<lb/>
+Mais <mod type="corr"><orig>Aujourd'hui</orig><reg>aujourd'hui</reg></mod> <mod type="corr"><orig>Dehors</orig><reg>dehors</reg></mod>, il <mod type="corr"><orig>fesai</orig><reg>faisait</reg></mod> <mod type="corr"><orig>trais</orig><reg>très</reg></mod> <mod type="corr"><orig>frois</orig><reg>froid</reg></mod>. Et <mod type="corr"><orig>Dehor</orig><reg>dehors</reg></mod>, il<lb/>
+<mod type="corr"><orig>pleuver</orig><reg>pleuvait</reg></mod> beaucoup. Et d'un coup <mod type="corr"><orig>loui</orig><reg>Louis</reg></mod> <mod type="corr"><orig>avér</orig><reg>avait</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod><lb/>
+<mod type="corr"><orig>frois</orig><reg>froid</reg></mod>. Donc <mod type="corr"><orig>luis</orig><reg>Louis</reg></mod> se met <mod type="corr"><orig>sou</orig><reg>sous</reg></mod> la <mod type="corr"><orig>goutier</orig><reg>gouttière</reg></mod> qui <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>deborder</orig><reg>débordé</reg></mod>.<lb/>
+<mod type="del" stage="" who=""><del>Et</del></mod> Et <mod type="corr"><orig>loui</orig><reg>Louis</reg></mod> <mod type="corr"><orig>aver</orig><reg>avait</reg></mod> <mod type="corr"><orig>telement</orig><reg>tellement</reg></mod> <mod type="corr"><orig>frois</orig><reg>froid</reg></mod> qui <mod type="del" stage="" who=""><del>non</del></mod> <mod type="corr"><orig>tonba</orig><reg>tomba</reg></mod> sur §<lb/>
+
+<pb/>
+la <mod type="corr"><orig>tété</orig><reg>tête</reg></mod>. <mod type="corr"><orig>Don</orig><reg>Donc</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>fai</orig><reg>fait</reg></mod> que <mod type="corr"><orig>louis</orig><reg>Louis</reg></mod> rentre <mod type="corr"><orig>a</orig><reg>à</reg></mod> la maison.<lb/>
+En <mod type="corr"><orig>grelotant</orig><reg>grelottant</reg></mod>. <mod type="corr"><orig>Mes</orig><reg>Mais</reg></mod> il <mod type="corr"><orig>avec</orig><reg>avait</reg></mod> <mod type="corr"><orig>toujour</orig><reg>toujours</reg></mod> mal à la <mod type="corr"><orig>téte</orig><reg>tête</reg></mod>.<lb/>
+Et comme il <mod type="corr"><orig>aver</orig><reg>avait</reg></mod> <mod type="corr"><orig>tonbé</orig><reg>tombé</reg></mod> sur la tête et qui la <mod type="corr"><orig>tonbé</orig><reg>tombé</reg></mod><lb/>
+malade. Le <mod type="corr"><orig>docteure</orig><reg>docteur</reg></mod> <mod type="corr"><orig>arive</orig><reg>arrive</reg></mod> enfin et <mod type="corr"><orig>prepar</orig><reg>prépare</reg></mod> la <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig><mod type="add" stage="" who=""><add>picure</add></mod></orig><reg>piqûre</reg></mod><lb/>
+et comme il <mod type="corr"><orig>aver</orig><reg>avait</reg></mod> peur vraiment peur. Donc<lb/>
+il <mod type="corr"><orig>pleur</orig><reg>pleure</reg></mod>. §<lb/>
+Donc finalement il <mod type="corr"><orig>prefér</orig><reg>préfère</reg></mod> aller à l'<mod type="corr"><orig>êcole</orig><reg>école</reg></mod>. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

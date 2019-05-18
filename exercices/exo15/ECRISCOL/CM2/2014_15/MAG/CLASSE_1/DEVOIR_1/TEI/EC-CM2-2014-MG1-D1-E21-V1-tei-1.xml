@@ -1,0 +1,146 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E21-V1
+</head>
+<p>
+La <mod type="corr"><orig>port</orig><reg>porte</reg></mod> <mod type="corr"><orig>souvre</orig><reg>s'ouvre</reg></mod> toute §<lb/>
+seule §<lb/>
+
+Aujourd'hui Lili se demande si l'oncle Jo
+a <mod type="corr"><orig>trouv<mod type="del" stage="" who="P"><del>er</del></mod><mod type="add" stage="" who="P"><add>é</add></mod></orig><reg>trouvé</reg></mod> un <mod type="corr"><orig>travail<mod type="del" stage="" who="P"><del>le</del></mod></orig><reg>travail</reg></mod> ou <mod type="corr"><orig>si il</orig><reg>s'ils</reg></mod> <mod type="corr"><orig>l'on</orig><reg>l'ont</reg></mod> <mod type="corr"><orig>l'aiss<mod type="del" stage="" who="P"><del>ait</del></mod><mod type="add" stage="" who="P"><add>é</add></mod></orig><reg>laissé</reg></mod>
+tomber<mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">Mes</hi></orig><reg>Mais</reg></mod> Lili <mod type="subst"><del><mod type="del" stage="" who="P"><del>ses</del></mod></del><add stage="" who="P">s'est</add></mod> dit que <mod type="corr"><orig><mod type="del" stage="" who="P"><del>s</del></mod><mod type="add" stage="" who="P"><add>c</add></mod>e</orig><reg>ce</reg></mod> ne serait <mod type="corr"><orig>pos<mod type="add" stage="" who="P"><add>ss</add></mod>ible</orig><reg>possible</reg></mod>
+<mod type="corr"><orig>qui<mod type="add" stage="" who="P"><add>qu'ils</add></mod></orig><reg>qu'ils</reg></mod> <mod type="corr"><orig>la<mod type="add" stage="" who="P"><add>l’a</add></mod></orig><reg>la</reg></mod> <mod type="corr"><orig>l'aisse<mod type="add" stage="" who="P"><add>nt</add></mod></orig><reg>laissent</reg></mod> tomber.  §<lb/>
+Le Matin Tata <mod type="corr"><orig>Denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod> <mod type="corr"><orig>ét<mod type="del" stage="" who="P"><del>é</del></mod><mod type="add" stage="" who="P"><add>ait</add></mod></orig><reg>était</reg></mod> dehors en train de
+pleurer<mod type="add" stage="" who="P"><add>,</add></mod> alors <mod type="corr"><orig><mod type="del" stage="" who="P"><del>l</del></mod><mod type="add" stage="" who="P"><add>L</add></mod>ili</orig><reg>Lili</reg></mod> est sortie dehors pour <mod type="corr"><orig>essay<mod type="del" stage="" who="P"><del>ai</del></mod><mod type="add" stage="" who="P"><add>er</add></mod></orig><reg>essayer</reg></mod>
+de la <mod type="corr"><orig>réconfort<metamark place=" " time="" who="P" style="underline">é</metamark><mod type="add" stage="" who="P"><add>er</add></mod></orig><reg>réconforter</reg></mod><mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">Mes</hi></orig><reg>Mais</reg></mod> <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> voulait retrouver <mod type="corr"><orig>son<mod type="del" stage="" who="P"><del>t</del></mod></orig><reg>son</reg></mod>
+oncle alors <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> enfila ses <mod type="corr"><orig>affaire<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>affaires</reg></mod> de 
+voyageuse et <mod type="corr"><orig>parti<mod type="del" stage="" who="P"><del>a</del></mod><mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>partit</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>a</del></mod><mod type="add" stage="" who="P"><add>à</add></mod></orig><reg>à</reg></mod> la <mod type="corr"><orig>recherche<mod type="del" stage="" who="P"><del>r</del></mod></orig><reg>recherche</reg></mod> de l'oncle
+Jo<mod type="add" stage="" who="P"><add>.</add></mod> §<lb/>
+
+<mod type="add" stage="" who="P"><add>(</add></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>a</del></mod><mod type="add" stage="" who="P"><add>A</add></mod>ussitôt</orig><reg>Aussitôt</reg></mod> <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> <mod type="corr"><orig>parta</orig><reg>partit</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> sa recherche Lili <mod type="corr"><orig>commance</orig><reg>commence</reg></mod> <mod type="add" stage="" who="P"><add>)</add></mod>
+<mod type="corr"><orig><mod type="del" stage="" who="P"><del>d</del></mod><mod type="add" stage="" who="P"><add>D</add></mod>'abord</orig><reg>D'abord</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="add" stage="" who="P"><add>elle</add></mod> <mod type="corr"><orig>all<mod type="del" stage="" who="P"><del>er</del></mod><mod type="add" stage="" who="P"><add>a</add></mod></orig><reg>alla</reg></mod> chercher sur <hi place=" " time="" who="Pσ" style="underline">plin de</hi><mod type="add" stage="T2" who=""><add>plint par</add></mod> de <mod type="corr"><orig>ban<mod type="del" stage="" who="P"><del>s</del></mod><mod type="add" stage="" who="P"><add>cs</add></mod></orig><reg>bancs</reg></mod> car
+<mod type="corr"><orig><mod type="del" stage="" who="P"><del>s</del></mod><mod type="add" stage="" who="P"><add>ç</add></mod>a</orig><reg>ça</reg></mod> se pourrait qu'il <mod type="corr"><orig>serais</orig><reg>serait</reg></mod> <mod type="add" stage="" who="P"><add>soit</add></mod> allé sur un <mod type="corr"><orig>ban<mod type="del" stage="" who="P"><del>s</del></mod><mod type="add" stage="" who="P"><add>c</add></mod></orig><reg>banc</reg></mod>
+avec <mod type="corr"><orig>tou<mod type="del" stage="" who="P"><del>s</del></mod><mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>tout</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">s</hi>e<mod type="add" stage="" who="P"><add>ce</add></mod></orig><reg>ce</reg></mod> soleil et <mod type="corr"><orig>son<mod type="del" stage="" who="P"><del>t</del></mod></orig><reg>son</reg></mod> <mod type="corr"><orig>chapeau<mod type="del" stage="" who="P"><del>x</del></mod></orig><reg>chapeau</reg></mod>. §<lb/>
+
+Quelques <mod type="corr"><orig>heure<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>heures</reg></mod> plus tard Lili en avait Marre donc elle
+s'<mod type="corr"><orig>assi<mod type="del" stage="" who="P"><del>s</del></mod><mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>s'assit</reg></mod> sur un <mod type="corr"><orig><mod type="del" stage="" who="P"><del>p</del></mod><mod type="add" stage="" who="P"><add>b</add></mod>an<mod type="del" stage="" who="P"><del>s</del></mod><mod type="add" stage="" who="P"><add>c</add></mod></orig><reg>banc</reg></mod>. <mod type="corr"><orig><mod type="del" stage="" who="P"><del>l</del></mod><mod type="add" stage="" who="P"><add>L</add></mod>ili</orig><reg>Lili</reg></mod> <mod type="del" stage="" who="P"><del><mod type="corr"><orig>an</orig><reg>en</reg></mod></del></mod> avait trop chaud donc elle
+rentra <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">Mes</hi></orig><reg>Mais</reg></mod> avant de rentrer <mod type="corr"><orig><mod type="del" stage="" who="P"><del>l</del></mod><mod type="add" stage="" who="P"><add>L</add></mod>ili</orig><reg>Lili</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>cetter</del></mod><mod type="add" stage="" who="P"><add>s'est</add></mod></orig><reg>s'est</reg></mod> <mod type="corr"><orig>rap<mod type="add" stage="" who="P"><add>p</add></mod>el<mod type="del" stage="" who="P"><del>er</del></mod><mod type="add" stage="" who="P"><add>ée</add></mod></orig><reg>rappelé</reg></mod>
+<mod type="corr"><orig>qu<mod type="del" stage="" who="P"><del>e</del></mod><mod type="add" stage="" who="P"><add>'</add></mod></orig><reg>qu '</reg></mod>il y avait un endroit <mod type="corr"><orig>ou</orig><reg>où</reg></mod> elle <mod type="add" stage="" who="P"><add>n'</add></mod> avait pas <mod type="del" stage="" who=""><del>XXX#</del></mod>
+<mod type="corr"><orig>cherch<mod type="del" stage="" who="P"><del>er</del></mod><mod type="add" stage="" who="P"><add>é</add></mod></orig><reg>cherché</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>s</del></mod><mod type="add" stage="" who="P"><add>s</add></mod>'était</orig><reg>c'était</reg></mod> au Terrain <mod type="corr"><orig><mod type="del" stage="" who="P"><del>a</del></mod></orig><reg>à</reg></mod> Vague. §<lb/>
+
+<mod type="corr"><orig>Anfin</orig><reg>Enfin</reg></mod> <mod type="corr"><orig>arrive<mod type="del" stage="" who="P"><del>r</del></mod><mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>arrivée</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>a</del></mod><mod type="add" stage="" who="P"><add>au</add></mod></orig><reg>au</reg></mod> Terrain <mod type="corr"><orig><mod type="del" stage="" who="P"><del>a</del></mod></orig><reg>à</reg></mod> Vague. Lili <mod type="corr"><orig>commenca</orig><reg>commença</reg></mod>
+<mod type="corr"><orig><mod type="del" stage="" who="P"><del>a</del></mod><mod type="add" stage="" who="P"><add>à</add></mod></orig><reg>à</reg></mod> courir <mod type="corr"><orig>jusqu<mod type="add" stage="" who="P"><add>'</add></mod>au</orig><reg>jusqu'au</reg></mod> fond du Terrain <mod type="del" stage="" who="P"><del>a Vague</del></mod> pour voir 
+<mod type="del" stage="" who="P"><del>voir</del></mod> <mod type="corr"><orig>s<mod type="del" stage="" who="P"><del>i</del></mod><mod type="add" stage="" who="P"><add>'</add></mod>il</orig><reg>s'il</reg></mod> <mod type="add" stage="" who="P"><add>y</add></mod> <mod type="corr"><orig>ét<mod type="del" stage="" who="P"><del>é</del></mod><mod type="add" stage="" who="P"><add>ait</add></mod></orig><reg>était</reg></mod> <mod type="del" stage="" who="P"><del>pas au fond</del></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">Mes</hi></orig><reg>Mais</reg></mod> Non donc Lili 
+<mod type="corr"><orig>aband<metamark place=" " time="" who="P" style="underline">ona</metamark><mod type="add" stage="" who="P"><add>onna</add></mod></orig><reg>abandonna</reg></mod> pour de <mod type="corr"><orig>bon<mod type="del" stage="" who="P"><del>d</del></mod></orig><reg>bon</reg></mod>. <mod type="corr"><orig><mod type="del" stage="" who="P"><del>a</del></mod><mod type="add" stage="" who="P"><add>A</add></mod>lors</orig><reg>Alors</reg></mod> elle rentra pour de
+<mod type="corr"><orig>vrai<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>vrai</reg></mod>. §<lb/>
+
+<pb/>
+
+<mod type="corr"><orig><mod type="del" stage="" who="P"><del>l</del></mod><mod type="add" stage="" who="P"><add>L</add></mod></orig><reg>Le</reg></mod> lendemain Lili se réveilla et <mod type="corr"><orig>entend<mod type="del" stage="" who="P"><del>a</del></mod><mod type="add" stage="" who="P"><add>it</add></mod></orig><reg>entendit</reg></mod> du <mod type="corr"><orig>brui<mod type="del" stage="" who="P"><del>d</del></mod><mod type="add" stage="" who=""><add>t</add></mod></orig><reg>bruit</reg></mod>
+donc elle se leva et voit que la <mod type="corr"><orig>port</orig><reg>porte</reg></mod> de l'entrée
+puis <mod type="corr"><orig>tout a coup</orig><reg>tout à coup</reg></mod> <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> <mod type="corr"><orig>vis</orig><reg>vit</reg></mod> une <mod type="corr"><orig>port</orig><reg>porte</reg></mod> bouger <mod type="corr"><orig>tout</orig><reg>toute</reg></mod>
+<mod type="corr"><orig>seul</orig><reg>seule</reg></mod> et il y avait l'oncle Jo <mod type="corr"><orig>derier</orig><reg>derrière</reg></mod> <mod type="corr"><orig>apéne</orig><reg>à peine</reg></mod> l'oncle
+Jo avait <mod type="corr"><orig>paser</orig><reg>passé</reg></mod> la <mod type="corr"><orig>port</orig><reg>porte</reg></mod> que <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> lui sauta dans 
+<mod type="corr"><orig>c'est</orig><reg>ses</reg></mod> bras. §<lb/>
+
+<mod type="corr"><orig>quelque</orig><reg>Quelques</reg></mod> <mod type="corr"><orig>minute</orig><reg>minutes</reg></mod> plus tard l'oncle Jo avait fini de
+<mod type="corr"><orig>remétre</orig><reg>remettre</reg></mod> la <mod type="corr"><orig>nouvel</orig><reg>nouvelle</reg></mod> <mod type="corr"><orig>port</orig><reg>porte</reg></mod> puis <mod type="corr"><orig>aprés</orig><reg>après</reg></mod> il raconta
+tout <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>que il</orig><reg>qu'il</reg></mod> <mod type="corr"><orig>cetter</orig><reg>s'était</reg></mod> <mod type="corr"><orig>passer</orig><reg>passé</reg></mod> et il lui dit qu'il <mod type="corr"><orig>été</orig><reg>était</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>leroi</orig><reg>Leroy</reg></mod> Merlin <mod type="corr"><orig>port</orig><reg>pour</reg></mod> acheter des vis et
+une <mod type="corr"><orig>port</orig><reg>porte</reg></mod> §<lb/>
+Fin §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

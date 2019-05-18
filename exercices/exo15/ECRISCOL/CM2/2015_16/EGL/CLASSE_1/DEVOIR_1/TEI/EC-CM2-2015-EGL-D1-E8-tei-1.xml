@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D1-E8
+</head>
+<p>
+J'ai eu une bonne <mod type="corr"><orig>idee</orig><reg>idée</reg></mod> pourquoi pas <mod type="corr"><orig>édé</orig><reg>aider</reg></mod><lb/>
+les gens mais je ne pense pas parce que j'ai<lb/>
+fait tomber ma soeur <mod type="corr"><orig>s'</orig><reg>c'</reg></mod>était <mod type="corr"><orig>trés</orig><reg>très</reg></mod> grave<lb/>
+on était <mod type="corr"><orig>oubliger</orig><reg>obligés</reg></mod> de l'<mod type="corr"><orig>emener</orig><reg>emmener</reg></mod> à l'<mod type="corr"><orig>Opital</orig><reg>hôpital</reg></mod>.<lb/>
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>pourer</orig><reg>pourrais</reg></mod> me dire <mod type="corr"><orig>ci</orig><reg>si</reg></mod> <mod type="corr"><orig>s'</orig><reg>c'</reg></mod>était des <mod type="corr"><orig>perssone</orig><reg>personnes</reg></mod><lb/>
+<mod type="corr"><orig>ager</orig><reg>âgées</reg></mod> comme <mod type="corr"><orig>le</orig><reg>les</reg></mod> <mod type="corr"><orig>personne</orig><reg>personnes</reg></mod> <mod type="corr"><orig>ager</orig><reg>âgées</reg></mod> sont <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>fragile</orig><reg>fragiles</reg></mod><lb/>
+sinon <mod type="corr"><orig>sen</orig><reg>sans</reg></mod> faire <mod type="corr"><orig>exeprer</orig><reg>exprès</reg></mod> je <mod type="corr"><orig>pourer</orig><reg>pourrais</reg></mod> le <mod type="corr"><orig>plaser</orig><reg>blesser</reg></mod><lb/>
+même pire il peut être <mod type="corr"><orig>ondicaper</orig><reg>handicapé</reg></mod> ' <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> que<lb/>
+je ne suis pas <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>p</del></mod></del><add stage="" who="">b</add></mod>ons</orig><reg>bon</reg></mod> mais sinon je fais<lb/>
+<mod type="corr"><orig>attensiont</orig><reg>attention</reg></mod> je <mod type="corr"><orig>pourer</orig><reg>pourrais</reg></mod> pas leur <mod type="corr"><orig>fai</orig><reg>faire</reg></mod> mal!<lb/>
+<mod type="corr"><orig>et</orig><reg>Et</reg></mod> le <mod type="corr"><orig>bleser</orig><reg>blesser</reg></mod> comme j'ai <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> peur<lb/>
+je pense que je <mod type="corr"><orig>doit</orig><reg>dois</reg></mod> m'<mod type="corr"><orig>entréner</orig><reg>entraîner</reg></mod> pas pour<lb/>
+faire <mod type="corr"><orig>tros</orig><reg>trop</reg></mod> de <mod type="corr"><orig>bléser</orig><reg>blessés</reg></mod>. <mod type="corr"><orig>mais</orig><reg>Mais</reg></mod> je <mod type="corr"><orig>doit</orig><reg>dois</reg></mod> me dire<lb/>
+que sinon je <mod type="corr"><orig>fait</orig><reg>fais</reg></mod> ma rédaction <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>et</del></mod> que <mod type="corr"><orig>jerai</orig><reg>j'aurais</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>u</del></mod></del><add stage="" who="">un</add></mod> 0 pourquoi je <mod type="corr"><orig>peut</orig><reg>peux</reg></mod> faire beaucoup de <mod type="corr"><orig>bleser</orig><reg>blessés</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

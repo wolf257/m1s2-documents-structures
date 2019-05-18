@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E22
+</head>
+<p>
+<pb/>
+Une fois levée je suis allée déjeuner avec mon <mod type="subst"><del><mod type="del" stage="" who=""><del>enfant</del></mod></del><add stage="" who="">fils</add></mod> "Eliot"<lb/>
+ensuite direction la salle de bain. Je me lave, m'habille, me<lb/>
+maquille. J'<mod type="corr"><orig>emmaine</orig><reg>emmene</reg></mod> mon <mod type="del" stage="" who=""><del>e</del></mod> fils à l'école (il est déjà en CE1.)<lb/>
+Je lui <mod type="corr"><orig>dit</orig><reg>dis</reg></mod> au revoir et <mod type="del" stage="" who=""><del>le</del></mod> après <mod type="corr"><orig>le<mod type="del" stage="" who=""><del>t</del></mod></orig><reg>le</reg></mod> travail. Je suis "<mod type="corr"><orig>Disgner</orig><reg>designer</reg></mod><lb/>
+architecte". Plus jeune c'était le <mod type="corr"><orig>bouleau</orig><reg>boulot</reg></mod> de mes <mod type="corr"><orig>réve</orig><reg>rêves</reg></mod>. <mod type="corr"><orig>Arriver</orig><reg>Arrivée</reg></mod><lb/>
+à mon bureau je <mod type="corr"><orig>commance</orig><reg>commence</reg></mod> à recevoir des clients pour<lb/>
+qui ils veulent que je leur <mod type="del" stage="" who=""><del>foss-</del></mod>crée des <mod type="corr"><orig>meuble</orig><reg>meubles</reg></mod>, <mod type="corr"><orig>de</orig><reg>des</reg></mod> <mod type="corr"><orig>chaise</orig><reg>chaises</reg></mod> <mod type="corr"><orig>éct</orig><reg>etc</reg></mod><lb/>
+personnaliser. J'ai même <mod type="corr"><orig>recontrée</orig><reg>rencontré</reg></mod> le maire de la ville<lb/>
+J'habite à New York car j'ai fait mes <mod type="corr"><orig>étudiè</orig><reg>études</reg></mod> <mod type="del" stage="" who=""><del>à</del></mod><lb/>
+4 ans à Harvard et 2 ans à Yale, <mod type="del" stage="" who=""><del>bref</del></mod> donc maintenant §<lb/>
+
+<pb/>
+j'habite <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>Etats Unis</orig><reg>Etats-Unis</reg></mod>. La Pause déjeuner<lb/>
+<mod type="corr"><orig>et</orig><reg>est</reg></mod> là. Je vais chercher mon fils et pour lui faire<lb/>
+plaisir je l'<mod type="corr"><orig>emmaine</orig><reg>emmene</reg></mod> manger au Mc donalds <mod type="corr"><orig>la</orig><reg>là</reg></mod><lb/>
+où mon mari <mod type="add" stage="" who=""><add>m'<mod type="corr"><orig>attends</orig><reg>attend</reg></mod></add></mod> <mod type="del" stage="" who=""><del>l'</del></mod>. De retour au travail. Les<lb/>
+<mod type="corr"><orig>même</orig><reg>mêmes</reg></mod> <mod type="corr"><orig>personne</orig><reg>personnes</reg></mod> <mod type="corr"><orig>attendait</orig><reg>attendaient</reg></mod> bref rien de très<lb/>
+intéressant à 19h je rentre chez moi, mon mari et<lb/>
+mon fils avaient <mod type="corr"><orig>préparer</orig><reg>préparé</reg></mod> une belle table avec<lb/>
+un très bon repas et après avoir <mod type="corr"><orig>terminer</orig><reg>terminé</reg></mod> de manger<lb/>
+<mod type="del" stage="" who=""><del>o</del></mod> je suis allé coucher mon fils <mod type="del" stage="" who=""><del>et</del></mod> A mon tour d'aller me<lb/>
+coucher. ça y est tout le <mod type="del" stage="" who=""><del>mon dor</del></mod> monde dort. §<lb/>
+Fin §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

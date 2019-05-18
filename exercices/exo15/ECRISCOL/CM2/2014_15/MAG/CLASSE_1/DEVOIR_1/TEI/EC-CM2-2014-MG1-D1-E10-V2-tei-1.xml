@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E10-V2
+</head>
+<p>
+La porte <mod type="corr"><orig>souve</orig><reg>s'ouvre</reg></mod> toute seule §<lb/>
+
+Un matin Lili se <mod type="corr"><orig>demand<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>demande</reg></mod> <mod type="corr"><orig>ou</orig><reg>où</reg></mod> est l'oncle Jo elle a peur qu'il<lb/>
+lui arrive quelque chose de <mod type="corr"><orig>gr<mod type="subst"><del><mod type="del" stage="" who="P"><del>â</del></mod></del><add stage="" who="P">a</add></mod>ve</orig><reg>grave</reg></mod> alors elle dit <mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod> tata<lb/>
+Denise: §<lb/>
+-"ne bouge pas je vais chercher <mod type="corr"><orig>ou</orig><reg>où</reg></mod> il peut être."<lb/>
+-"<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>soua</del></mod></del><add stage="" who="P">soit</add></mod></orig><reg>sois</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>b</del></mod></del><add stage="" who="P">p</add></mod>rud<mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">e</add></mod>nte</orig><reg>prudente</reg></mod> et va pas trop <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>long</del></mod></del><add stage="" who="P">loin</add></mod></orig><reg>loin</reg></mod>."<lb/>
+-oui <mod type="corr"><orig>promi<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>promis</reg></mod> §<lb/>
+Lili est partie en <mod type="corr"><orig>cour<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">a</add></mod>nt</orig><reg>courant</reg></mod> et <mod type="corr"><orig>aller</orig><reg>alla</reg></mod> <mod type="add" stage="" who=""><add>voir</add></mod> au <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">terrent</hi></orig><reg>terrain</reg></mod> <mod type="add" stage="" who="P"><add>terrain</add></mod> vague si l'oncle<lb/>
+Jo y était. Elle <mod type="corr"><orig>arriv<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">a</add></mod></orig><reg>arriva</reg></mod> en <mod type="corr"><orig>cour<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">a</add></mod>nt</orig><reg>courant</reg></mod> et <mod type="corr"><orig>voi<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">t</add></mod></orig><reg>voit</reg></mod> <mod type="corr"><orig>l'ongle</orig><reg>l'oncle</reg></mod> Jo assis<lb/>
+sur une chaise avec le chapeau sur la tête. Elle lui a <mod type="corr"><orig>demand<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>demandé</reg></mod><lb/>
+<mod type="corr"><orig>s<mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">'</add></mod> il</orig><reg>s'il</reg></mod> pouvait <mod type="corr"><orig>revenir<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>revenir</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> la maison. Il <mod type="corr"><orig>s'est  lev<mod type="subst"><del><mod type="del" stage="" who="P"><del>ait</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>s'est levé</reg></mod><lb/>
+et <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">parti</hi></orig><reg>partit</reg></mod> chez lui. Pour finir tout le monde <mod type="corr"><orig>e<mod type="add" stage="" who="P"><add>s</add></mod>t</orig><reg>est</reg></mod><lb/>
+heureux. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

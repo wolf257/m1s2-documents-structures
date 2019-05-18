@@ -1,0 +1,151 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E10
+</head>
+<p>
+<pb/>
+<mod type="del" stage="" who=""><del>Moi plus tard</del></mod> Je je prépare pour partir au travail.<lb/>
+Lundi matin 10 heures? <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>j</del></mod></del><add stage="" who="">J</add></mod>e</orig><reg>Je</reg></mod> vais au <mod type="corr"><orig>marcher</orig><reg>marché</reg></mod><lb/>
+<mod type="corr"><orig>achter</orig><reg>acheter</reg></mod>: des carottes, de pommes de terre, des <mod type="corr"><orig>courgette</orig><reg>courgettes</reg></mod>, <mod type="corr"><orig>de</orig><reg>des</reg></mod> <mod type="corr"><orig>conconbre</orig><reg>concombres</reg></mod><lb/>
+de la salade, du boeuf, du mouton...Ensuite, je rentrerai avec<lb/>
+tous les aliments <mod type="corr"><orig>acheter</orig><reg>achetés</reg></mod> ce matin sur le marché pour<lb/>
+mon restaurant et je <mod type="corr"><orig>l'ai</orig><reg>les</reg></mod> <mod type="corr"><orig>rengerai</orig><reg>rangerai</reg></mod> dans la cuisine.<lb/>
+A midi <mod type="corr"><orig>moin</orig><reg>moins</reg></mod> le quart je commence à me<lb/>
+<mod type="corr"><orig>préparé</orig><reg>préparer</reg></mod> pour le service de midi qui est entre 12h et<lb/>
+14h. Une fois le service de midi passé je <mod type="corr"><orig>nettoyrai</orig><reg>nettoierai</reg></mod><lb/>
+<mod type="corr"><orig>toute<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>tous</reg></mod> <mod type="corr"><orig>les<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>les</reg></mod> affaires qui ont <mod type="corr"><orig>servit</orig><reg>servi</reg></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> midi et je me<lb/>
+reposerai <mod type="corr"><orig>1</orig><reg>une</reg></mod> heure mais pas plus car il va <mod type="corr"><orig>faloir</orig><reg>falloir</reg></mod><lb/>
+préparer les <mod type="corr"><orig>couvers</orig><reg>couverts</reg></mod> pour le service du soir mais<lb/>
+aussi nettoyer les <mod type="corr"><orig>machine</orig><reg>machines</reg></mod>: cafetière, machine à bière,<lb/>
+four <mod type="corr"><orig>a</orig><reg>à</reg></mod> pizza: se préparer, manger et bien <mod type="corr"><orig>acceuillir</orig><reg>accueillir</reg></mod><lb/>
+les personnes qui viennent <mod type="corr"><orig>mangée</orig><reg>manger</reg></mod>. §<lb/>
+
+<pb/>
+<mod type="del" stage="" who=""><del>Et</del></mod> Le restaurant va commencer à <mod type="corr"><orig>ce</orig><reg>se</reg></mod> remplir et au fur et<lb/>
+à <mod type="corr"><orig>mezure</orig><reg>mesure</reg></mod> que les gens <mod type="corr"><orig>rentre</orig><reg>rentrent</reg></mod> il va falloir <mod type="corr"><orig>accelerer</orig><reg>accélerer</reg></mod> la<lb/>
+vitesse à <mod type="corr"><orig>la qu'elle</orig><reg>laquelle</reg></mod> les <mod type="corr"><orig>serveur</orig><reg>serveurs</reg></mod> <mod type="corr"><orig>serve</orig><reg>servent</reg></mod> pour ne<lb/>
+pas <mod type="corr"><orig>decevoir</orig><reg>décevoir</reg></mod> les gens de ce restaurant et pour essayer<lb/>
+qu'ils reviennent dans ce lieu et pour<lb/>
+peut-être qu'<mod type="corr"><orig>il</orig><reg>ils</reg></mod> conseillent le restaurant à des<lb/>
+amis ou à d'<mod type="corr"><orig>autre</orig><reg>autres</reg></mod> gens. Une fois le restaurant<lb/>
+<mod type="corr"><orig>remplis</orig><reg>rempli</reg></mod> il va falloir aussi se dépecher au<lb/>
+fourneau comme le pizzaiolo, le barman ou au comptoir<lb/>
+car bien entendu si les gens viennent <mod type="corr"><orig>il</orig><reg>ils</reg></mod> repartent.<lb/>
+Pendant le service tout le personnel y est<lb/>
+<mod type="corr"><orig>mobiliset</orig><reg>mobilisé</reg></mod> car, il faut être à la plonge, au fourneau,<lb/>
+au service, au comptoir ou bien encore au bar. §<lb/>
+Il faut aussi débarasser les tables quand<lb/>
+les gens viennent pour avoir d'autre place<lb/>
+de libre comme ça nous (le personnel) <mod type="corr"><orig>travail</orig><reg>travaillons</reg></mod><lb/>
+plus. Au <mod type="corr"><orig>fin</orig><reg>fur</reg></mod> <mod type="corr"><orig>etàmezure</orig><reg>et à mesure</reg></mod> que le temps<lb/>
+passe les gens s'<mod type="corr"><orig>ennaillent</orig><reg>en aillent</reg></mod> et donc il. §<lb/>
+
+
+<pb/>
+faut remettre les tables à <mod type="corr"><orig>leurs</orig><reg>leur</reg></mod> place, remettre les<lb/>
+<mod type="corr"><orig>couvers</orig><reg>couverts</reg></mod> sur les tables pour le lendemain. Vers<lb/>
+<mod type="corr"><orig>envron</orig><reg>environ</reg></mod> 23h30 le <mod type="del" stage="" who=""><del>l</del></mod> restaurant n'<mod type="corr"><orig>à</orig><reg>a</reg></mod> plus<lb/>
+de <mod type="corr"><orig>personne</orig><reg>personnes</reg></mod> <mod type="corr"><orig>dedant</orig><reg>dedans</reg></mod> <mod type="corr"><orig>aurmit</orig><reg>hormis</reg></mod> le personnel qui y<lb/>
+<mod type="corr"><orig>travail</orig><reg>travaille</reg></mod>. A minuit je rentre chez moi (au dessus du<lb/>
+restaurant). Je <mod type="corr"><orig>mais</orig><reg>mets</reg></mod> mon <mod type="corr"><orig>réveille</orig><reg>réveil</reg></mod> pour le lendemain,<lb/>
+me <mod type="corr"><orig>mais</orig><reg>mets</reg></mod> en pyjama, je m'<mod type="corr"><orig>avachie</orig><reg>avachis</reg></mod> dans<lb/>
+mon fauteuil pour regarder la télévision. Puis<lb/>
+je pars dans mon <mod type="corr"><orig>lits</orig><reg>lit</reg></mod>. 6 heures, le lendemain je<lb/>
+me lève, je mange, je m'habille, et je <mod type="corr"><orig>repart</orig><reg>repars</reg></mod> au <mod type="corr"><orig>marcher</orig><reg>marché</reg></mod><lb/>
+pour les produits du <mod type="corr"><orig>restaurants</orig><reg>restaurant</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

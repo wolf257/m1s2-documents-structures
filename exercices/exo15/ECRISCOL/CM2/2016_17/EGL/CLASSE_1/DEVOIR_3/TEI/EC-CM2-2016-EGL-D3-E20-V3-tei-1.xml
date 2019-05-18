@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E20-V3
+</head>
+<p>
+<mod type="corr"><orig>Cand</orig><reg>Quand</reg></mod> je serais grand je <mod type="corr"><orig>voudrai</orig><reg>voudrais</reg></mod> <mod type="corr"><orig>aoir</orig><reg>avoir</reg></mod> mon <mod type="corr"><orig>permier</orig><reg>permis</reg></mod> pour <mod type="corr"><orig>ne</orig><reg>amener</reg></mod><lb/>
+ma fille mon <mod type="corr"><orig>garton</orig><reg>garçon</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> Walt Disney avec mon mari mais irons <mod type="corr"><orig>fair</orig><reg>faire</reg></mod><lb/>
+avec mon <mod type="corr"><orig>marie</orig><reg>mari</reg></mod> sur l'eau du <mod type="corr"><orig>daufine</orig><reg>dauphine</reg></mod> et de <mod type="corr"><orig>touchée</orig><reg>toucher</reg></mod> un roquin <mod type="corr"><orig>alles</orig><reg>aller</reg></mod><lb/>
+Punta Cana <mod type="corr"><orig>devas</orig><reg>d'avoir</reg></mod> un perroquet sur le bras et un <mod type="corr"><orig>ecle</orig><reg>aigle</reg></mod> et <mod type="corr"><orig>cemonmmarie</orig><reg>c'est mon mari</reg></mod><lb/>
+<mod type="corr"><orig>machet</orig><reg>m'achète</reg></mod> du <mod type="corr"><orig>macage</orig><reg>maquillage</reg></mod> Mac et <mod type="corr"><orig>chanel</orig><reg>Chanel</reg></mod> un rouge à <mod type="corr"><orig>l'evres</orig><reg>lèvres</reg></mod> Michel Corse,<lb/>
+elle <mod type="del" stage="" who=""><del>vavoir au</del></mod> future <mod type="corr"><orig>eras</orig><reg>aura</reg></mod> des <mod type="corr"><orig>talon</orig><reg>talons</reg></mod> une robe assortie à sa voiture télé<lb/>
+<mod type="corr"><orig>commendée</orig><reg>commandée</reg></mod> et pour la fin de pour <mod type="corr"><orig>mond</orig><reg>mon</reg></mod> <mod type="corr"><orig>carçon</orig><reg>garçon</reg></mod> une chambre<lb/>
+comme il <mod type="corr"><orig>lesne</orig><reg>l'en</reg></mod> il a rêvé <mod type="corr"><orig>toutesavier</orig><reg>toute sa vie</reg></mod> et pour <mod type="subst"><del><mod type="del" stage="" who=""><del>mons</del></mod></del><add stage="" who="">mon</add></mod> <mod type="corr"><orig>marie</orig><reg>mari</reg></mod> un<lb/>
+beau <mod type="corr"><orig>parfin</orig><reg>parfum</reg></mod> de marque Puis nous <mod type="corr"><orig>valler</orig><reg>irons</reg></mod> un <mod type="corr"><orig>restoren</orig><reg>restaurant</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

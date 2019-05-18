@@ -1,0 +1,137 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E19
+</head>
+<p>
+<pb/>
+-7h20 Elle <mod type="corr"><orig>sont</orig><reg>sort</reg></mod> de <mod type="corr"><orig>chez-elle</orig><reg>chez elle</reg></mod> et <mod type="del" stage="" who=""><del>pare a</del></mod> commence <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>marchez</orig><reg>marcher</reg></mod><lb/>
+<mod type="corr"><orig>jusque qu'au</orig><reg>jusqu'au</reg></mod> collège. 7h40 elle marche toujours et <mod type="corr"><orig>la</orig><reg>là</reg></mod> elle <mod type="corr"><orig>vois</orig><reg>voit</reg></mod> un train<lb/>
+Le <mod type="corr"><orig>meussieu</orig><reg>monsieur</reg></mod> <mod type="corr"><orig>lui-dit</orig><reg>lui dit</reg></mod> "-jeune fille tu <mod type="corr"><orig>est</orig><reg>es</reg></mod> <mod type="del" stage="" who=""><del>e</del></mod> toute <mod type="corr"><orig>seul</orig><reg>seule</reg></mod>?" oui <mod type="corr"><orig>meussieu</orig><reg>monsieur</reg></mod> "<mod type="corr"><orig>vien</orig><reg>viens</reg></mod><lb/>
+je vais <mod type="corr"><orig>temener</orig><reg>t'emmener</reg></mod> <mod type="corr"><orig>la</orig><reg>là</reg></mod> <mod type="corr"><orig>ou</orig><reg>où</reg></mod> tu <mod type="corr"><orig>desire</orig><reg>désires</reg></mod> aller". La jeune fille rentra dans le train<lb/>
+elle <mod type="corr"><orig>vois</orig><reg>voit</reg></mod> une <mod type="corr"><orig>television</orig><reg>télévision</reg></mod> elle demanda "je <mod type="corr"><orig>pourais</orig><reg>pourrais</reg></mod> allumer la <mod type="corr"><orig>television</orig><reg>télévision</reg></mod>?" <mod type="corr"><orig>le<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>le</reg></mod><lb/>
+<mod type="corr"><orig>chaufeur</orig><reg>chauffeur</reg></mod> lui "<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>demanda</del></mod></del><add stage="" who="">disa</add></mod></orig><reg>dit</reg></mod> oui <mod type="corr"><orig>vasi</orig><reg>vas-y</reg></mod>." et elle <mod type="corr"><orig>vois</orig><reg>voit</reg></mod> tous ses <mod type="corr"><orig>souvenir</orig><reg>souvenirs</reg></mod> d'enf<lb/>
+ance <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>mème</orig><reg>même</reg></mod> elle se <mod type="corr"><orig>voilla</orig><reg>voyait</reg></mod> tout petite." <mod type="corr"><orig>Meussieu</orig><reg>Monsieur</reg></mod> pourquoi vous<lb/>
+<mod type="corr"><orig>mavér</orig><reg>m'avez</reg></mod> <mod type="corr"><orig>émmèner</orig><reg>emmenée</reg></mod> ici?" "pourquoi il y a que moi dans <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="del" stage="" who=""><del>ce</del></mod> train?" §<lb/>
+
+<pb/>
+"Car il y a que toi qui <mod type="corr"><orig>peut</orig><reg>peux</reg></mod> me voir <mod type="del" stage="" who=""><del>et</del></mod>" "Pourquoi que moi?"<lb/>
+"car il y a que toi qui me <mod type="corr"><orig>connait</orig><reg>connais</reg></mod> toi <mod type="corr"><orig>est</orig><reg>et</reg></mod> ta famille <mod type="corr"><orig>biensur</orig><reg>bien sûr</reg></mod>".<lb/>
+"bon <mod type="corr"><orig>laiser moi</orig><reg>laissez-moi</reg></mod> <mod type="corr"><orig>partire</orig><reg>partir</reg></mod> <mod type="corr"><orig>meintenen</orig><reg>maintenant</reg></mod> <mod type="corr"><orig>sil vous plai</orig><reg>s'il vous plaît</reg></mod>". Et le <mod type="corr"><orig>chàufeur</orig><reg>chauffeur</reg></mod><lb/>
+la <mod type="corr"><orig>laiça</orig><reg>laissa</reg></mod> <mod type="corr"><orig>sortire</orig><reg>sortir</reg></mod> et elle <mod type="corr"><orig>coura</orig><reg>courut</reg></mod> pour <mod type="corr"><orig>re<mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">j</add></mod>oindre</orig><reg>rejoindre</reg></mod> ses <mod type="corr"><orig>copine</orig><reg>copines</reg></mod><lb/>
+Carla et Martine <mod type="corr"><orig>est</orig><reg>et</reg></mod> raconta <mod type="corr"><orig>se</orig><reg>ce</reg></mod> qui lui est <mod type="corr"><orig>arriver</orig><reg>arrivé</reg></mod>." Vous <mod type="corr"><orig>savais</orig><reg>savez</reg></mod><lb/>
+les <mod type="corr"><orig>copine</orig><reg>copines</reg></mod> j'ai <mod type="corr"><orig>rencontrer</orig><reg>rencontré</reg></mod> un <mod type="corr"><orig>chaufeur</orig><reg>chauffeur</reg></mod> dans un train et il <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> dit qu'il<lb/>
+me <mod type="corr"><orig>connaisez</orig><reg>connaissait</reg></mod> "Martine rigola et <mod type="corr"><orig>disa</orig><reg>dit</reg></mod> "<mod type="corr"><orig>mes</orig><reg>mais</reg></mod> non tu <mod type="corr"><orig>a</orig><reg>as</reg></mod> <mod type="corr"><orig>du</orig><reg>dû</reg></mod> <mod type="corr"><orig>revez</orig><reg>rêver</reg></mod>".<lb/>
+<mod type="corr"><orig>et</orig><reg>Et</reg></mod> Laurie entra en classe triste. 12h00 elle rentra <mod type="corr"><orig>chez-elle</orig><reg>chez elle</reg></mod><lb/>
+<mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>rencontra</orig><reg>raconta</reg></mod> <mod type="corr"><orig>toute</orig><reg>toute</reg></mod> son <mod type="corr"><orig>histoir</orig><reg>histoire</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> sa mère et son père et <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>diser</orig><reg>dirent</reg></mod><lb/>
+"oui oui ma puce on te <mod type="corr"><orig>croi</orig><reg>croit</reg></mod> va dans ta chambre" la petite fille alla<lb/>
+vite dans <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>l</del></mod></del><add stage="" who="">s</add></mod>a</orig><reg>sa</reg></mod> chambre et les parents <mod type="corr"><orig>discutaire</orig><reg>discutèrent</reg></mod> "tu <mod type="corr"><orig>croi</orig><reg>crois</reg></mod> que <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> vrai?"<lb/>
+"je la <mod type="corr"><orig>croi</orig><reg>crois</reg></mod> <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> ma fille oui c'est <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> alors <mod type="corr"><orig>ces</orig><reg>c'est</reg></mod> qui <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>meusieu</orig><reg>monsieur</reg></mod>?"<lb/>
+"c'est peut-être son oncle qui lui a fait une <mod type="corr"><orig>blage</orig><reg>blague</reg></mod>"? "<mod type="corr"><orig>mes</orig><reg>mais</reg></mod> non avec un §<lb/>
+
+<pb/>
+<mod type="corr"><orig>chau feur</orig><reg>chauffeur</reg></mod> de train <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> non <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> pas possible oui <mod type="corr"><orig>est</orig><reg>et</reg></mod> on va la suivre<lb/>
+demain matin "Oui." <mod type="subst"><del><mod type="del" stage="" who=""><del>7h5</del></mod></del><add stage="" who="">7h05</add></mod> le <mod type="corr"><orig>reivell</orig><reg>réveil</reg></mod> <mod type="corr"><orig>sona</orig><reg>sonna</reg></mod> elle se<lb/>
+<mod type="corr"><orig>prepara</orig><reg>prépara</reg></mod> elle alla <mod type="corr"><orig>a<mod type="del" stage="" who=""><del>u</del></mod></orig><reg>à</reg></mod> l'<mod type="corr"><orig>ecole</orig><reg>école</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> ses parents la <mod type="corr"><orig>suivi</orig><reg>suivirent</reg></mod> le train <mod type="corr"><orig>rapar</orig><reg>repart</reg></mod><lb/>
+la fille rentra dans le train et les <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> la <mod type="corr"><orig>suivi</orig><reg>suivirent</reg></mod>. <mod type="corr"><orig>Furieu</orig><reg>Furieux</reg></mod> rentra<lb/>
+dans le train le père (<mod type="corr"><orig>david</orig><reg>David</reg></mod>) <mod type="corr"><orig>luis</orig><reg>lui</reg></mod> <mod type="corr"><orig>disa</orig><reg>dit</reg></mod> "vous <mod type="corr"><orig>être</orig><reg>êtes</reg></mod> qui stop <mod type="corr"><orig>disa</orig><reg>dit</reg></mod> la mère<lb/>
+(<mod type="corr"><orig>carolina</orig><reg>Carolina</reg></mod>) <mod type="corr"><orig>laiçer</orig><reg>laissez</reg></mod> <mod type="del" stage="" who=""><del>les parent</del></mod> le parler". "Je suis l'oncle de Laurie<lb/>
+<mod type="corr"><orig>patrique</orig><reg>Patrique</reg></mod> tu te <mod type="corr"><orig>rappelle</orig><reg>rappelles</reg></mod> de moi David?" "oui mon <mod type="corr"><orig>frere</orig><reg>frère</reg></mod> dit <mod type="corr"><orig>sa</orig><reg>ça</reg></mod><lb/>
+fait longtemps", "oui 9 ans que l'on <mod type="corr"><orig>c'est</orig><reg>s'est</reg></mod> pas vus <mod type="del" stage="" who=""><del>"</del></mod> <mod type="corr"><orig>t</orig><reg>et</reg></mod> <mod type="corr"><orig>desoler</orig><reg>désolé</reg></mod> Laurie de<lb/>
+<mod type="corr"><orig>tavoir</orig><reg>t'avoir</reg></mod> fait <mod type="corr"><orig>peu</orig><reg>peur</reg></mod> que je suis content de vous revoir". <mod type="corr"><orig>Est</orig><reg>Et</reg></mod> voilà<lb/>
+la fin de l'<mod type="corr"><orig>histoir</orig><reg>histoire</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

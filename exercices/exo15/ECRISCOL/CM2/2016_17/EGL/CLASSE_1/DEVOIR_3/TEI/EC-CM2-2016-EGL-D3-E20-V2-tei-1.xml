@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E20-V2
+</head>
+<p>
+<pb/>
+<mod type="del" stage="" who=""><del>Cane je seres crande je voues dre avoir mone permie #XXX#</del></mod><lb/>
+<mod type="corr"><orig>Cone</orig><reg>Quand</reg></mod> <mod type="add" stage="T2" who=""><add>Quand</add></mod> je <mod type="corr"><orig>seires</orig><reg>serai</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="add" stage="T2" who=""><add>serais</add></mod></hi></orig><reg>serai</reg></mod> <mod type="corr"><orig>grandre</orig><reg>grande</reg></mod> <mod type="add" stage="T2" who=""><add>grande</add></mod> je <mod type="corr"><orig>vou dre</orig><reg>voudrai</reg></mod> <mod type="add" stage="T2" who=""><add>voudrai</add></mod> avoir <mod type="corr"><orig>mone</orig><reg>mon</reg></mod> <mod type="add" stage="T2" who=""><add>mon</add></mod> <mod type="corr"><orig>permi</orig><reg>permis</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>permi</add></mod></orig><reg>permis</reg></mod> <mod type="corr"><orig>poue</orig><reg>pour</reg></mod> <mod type="add" stage="T2" who=""><add>pour</add></mod> <mod type="corr"><orig>anere</orig><reg>amener</reg></mod> <mod type="add" stage="T2" who=""><add>amener</add></mod><lb/>
+ne <mod type="add" stage="T2" who=""><add>ma</add></mod> fille <mod type="add" stage="T2" who=""><add>fille</add></mod> <mod type="del" stage="" who=""><del>ou</del></mod><hi place=" " time="" who="Pσ" style="underline"><mod type="add" stage="" who=""><add>et</add></mod></hi> <mod type="corr"><orig>moncarçone</orig><reg>mon garçon</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>mon cargone</add></mod></orig><reg>mon garçon</reg></mod> <mod type="add" stage="T2" who=""><add>garçon</add></mod> <mod type="add" stage="" who=""><add>a</add></mod> <mod type="corr"><orig>aole</orig><reg>Walt</reg></mod> <mod type="subst"><del><mod type="del" stage="" who="P"><del><mod type="add" stage="T2" who=""><add>wald</add></mod></del></mod></del><add stage="" who="P">Walt</add></mod> <mod type="corr"><orig>Disner</orig><reg>Disney</reg></mod> <mod type="subst"><del><mod type="del" stage="" who="P"><del><mod type="add" stage="T2" who=""><add>disnet</add></mod></del></mod></del><add stage="" who="P">Disney,</add></mod> et <mod type="del" stage="T2" who=""><del>et vaie</del></mod> <mod type="add" stage="T2" who=""><add>avec</add></mod> <mod type="corr"><orig>mone</orig><reg>mon</reg></mod> <mod type="add" stage="T2" who=""><add>mon</add></mod> <mod type="corr"><orig>mrie</orig><reg>mari</reg></mod> <mod type="add" stage="T2" who=""><add>mari</add></mod><lb/>
+#XXX# <mod type="add" stage="T2" who=""><add>nous <mod type="subst"><del><mod type="del" stage="" who=""><del>allons</del></mod></del><add stage="" who="">irons</add></mod></add></mod> <mod type="corr"><orig>fere</orig><reg>faire</reg></mod> <mod type="add" stage="T2" who=""><add>faire</add></mod> <mod type="del" stage="" who=""><del>avaire des enfants</del></mod> <mod type="corr"><orig>mone</orig><reg>mon</reg></mod> <mod type="corr"><orig>marie</orig><reg>mari</reg></mod> <mod type="corr"><orig>sure</orig><reg>sur</reg></mod> l'eau du <mod type="add" stage="" who=""><add>T2du</add></mod><lb/>
+<mod type="corr"><orig>dolfine</orig><reg>dauphine</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>daufine</add></mod></orig><reg>dauphine</reg></mod> et de <mod type="corr"><orig>touchée</orig><reg>toucher</reg></mod> un <mod type="corr"><orig>roan</orig><reg>requin</reg></mod> <mod type="add" stage="T2" who=""><add>requin</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>et</del></mod></del><add stage="T2" who="">.Puis</add></mod> <mod type="corr"><orig>all<mod type="subst"><del><mod type="del" stage="T2" who=""><del>e</del></mod></del><add stage="T2" who="">é</add></mod></orig><reg>aller</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>patacanae</orig><reg>Punta Cana</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>Putacana</add></mod></orig><reg>Punta Cana</reg></mod> <mod type="add" stage="" who="P"><add>Punta Cana</add></mod> et <mod type="corr"><orig>avoi</orig><reg>avoir</reg></mod> <mod type="add" stage="T2" who=""><add>devoir</add></mod><lb/>
+<mod type="del" stage="T2" who=""><del>ne</del></mod> <mod type="corr"><orig>inpiroqué</orig><reg>un perroquet</reg></mod> <mod type="subst"><del><mod type="del" stage="" who="P"><del><mod type="add" stage="T2" who=""><add>inperroquet</add></mod></del></mod></del><add stage="" who="P">un perroquet</add></mod> <mod type="corr"><orig>sure</orig><reg>sur</reg></mod> <mod type="corr"><orig><mod type="add" stage="" who=""><add>sure</add></mod></orig><reg>sur</reg></mod> le <mod type="add" stage="" who=""><add>le</add></mod><mod type="del" stage="T2" who=""><del>XXX</del></mod><mod type="add" stage="" who=""><add>bras</add></mod> et un <mod type="corr"><orig>ecle</orig><reg>aigle</reg></mod> et <mod type="corr"><orig>cemmonmarie</orig><reg>c'est mon mari</reg></mod> <mod type="corr"><orig>m<lb/>achet</orig><reg>m'achète</reg></mod> du <mod type="corr"><orig>moalage</orig><reg>maquillage</reg></mod> <mod type="corr"><orig>Mace</orig><reg>Mac</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>Moca</add></mod></orig><reg>Mac</reg></mod> et <mod type="corr"><orig>chanele</orig><reg>Chanel</reg></mod> un <mod type="corr"><orig>rouejalerre</orig><reg>rouge à lèvres</reg></mod> <mod type="add" stage="" who="P"><add>rouge à lèvres</add></mod> rouge Mate et<lb/>
+un <mod type="corr"><orig>resile</orig><reg>résille</reg></mod> noire bouane <mod type="corr"><orig>avaie</orig><reg>avec</reg></mod> un <mod type="corr"><orig>sac<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>sac</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>Mich</del></mod></del><add stage="" who="">Michel</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>c</del></mod></del><add stage="" who="P">C</add></mod>orse</orig><reg>Corse</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod><lb/>
+et <mod type="del" stage="" who="P"><del>s</del></mod> une <mod type="corr"><orig>ferari</orig><reg>Ferrari</reg></mod> <mod type="add" stage="" who="P"><add>Ferrari</add></mod> rouge <mod type="corr"><orig>borbeau</orig><reg>bordeaux</reg></mod> <mod type="add" stage="" who="P"><add>bordeaux</add></mod> et mes 2 <mod type="corr"><orig>p<hi place=" " time="" who="Pσ" style="underline">euti</hi></orig><reg>petits</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>petiers</add></mod></orig><reg>petits</reg></mod> <mod type="del" stage="" who="P"><del>il</del></mod> <mod type="corr"><orig>ser<hi place=" " time="" who="Pσ" style="underline">on</hi></orig><reg>seront</reg></mod> <mod type="corr"><orig>allor</orig><reg>alors</reg></mod><lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">mafielle</hi></orig><reg>ma fille</reg></mod> <mod type="add" stage="" who="P"><add>ma fille</add></mod> elle <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">erae</hi></orig><reg>aura</reg></mod> des <mod type="corr"><orig>talo<hi place=" " time="" who="Pσ" style="underline">n</hi></orig><reg>talons</reg></mod> une robe <mod type="corr"><orig>asortea</orig><reg>assortie</reg></mod> <mod type="add" stage="" who="P"><add>assortie</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">asavoiture</hi></orig><reg>à sa voiture</reg></mod> <mod type="corr"><orig>téslos</orig><reg>télé</reg></mod> <mod type="add" stage="" who="P"><add>télé</add></mod><lb/>
+<mod type="corr"><orig>comand<mod type="subst"><del><mod type="del" stage="" who="P"><del>es</del></mod></del><add stage="" who="P">ée</add></mod></orig><reg>commandée</reg></mod> et pour la <mod type="corr"><orig>fin<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>fin</reg></mod> de <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">pour</hi></orig><reg>pour</reg></mod> <mod type="corr"><orig>mon<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>mon</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">c</hi>arçon</orig><reg>garçon</reg></mod> une chambre<lb/>
+comme il <mod type="corr"><orig>lesne et</orig><reg>l'en avait et</reg></mod> <mod type="corr"><orig>cil la</orig><reg>jusque là</reg></mod> <mod type="add" stage="" who="P"><add>il a</add></mod> <mod type="corr"><orig>revei</orig><reg>rêvé</reg></mod> <mod type="add" stage="" who="P"><add>rêvé</add></mod> <mod type="corr"><orig>tout<hi place=" " time="" who="Pσ" style="underline">esavoi</hi><mod type="add" stage="T3" who=""><add>er</add></mod></orig><reg>toute sa vie</reg></mod> et pour <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">monmari</hi><mod type="add" stage="T3" who=""><add>mon marier</add></mod></orig><reg>mon mari</reg></mod> §<lb/>
+
+<pb/>
+un <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>bou</del></mod></del><add stage="" who="">beaur<mod type="del" stage="" who="P"><del>e</del></mod></add></mod></orig><reg>beau</reg></mod> <mod type="add" stage="T3" who=""><add>beau</add></mod> <mod type="corr"><orig>pou<hi place=" " time="" who="Pσ" style="underline">r fin</hi></orig><reg>parfum</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>parfin</add></mod></orig><reg>parfum</reg></mod> au 2 de marque <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="del" stage="" who="P"><del>et que</del></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">onseyfis</hi></orig><reg>Puis nous</reg></mod> <mod type="add" stage="" who="P"><add>Puis nous</add></mod><lb/>
+un <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">retsorom</hi></orig><reg>restaurant</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>restauran</add></mod></orig><reg>restaurant</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

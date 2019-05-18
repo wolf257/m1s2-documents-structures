@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E5-V2
+</head>
+<p>
+<mod type="del" stage="" who="P"><del>Il était une fois</del></mod> <mod type="add" stage="" who="P"><add>C'est l'histoire d'</add></mod> un petit garçon qui s'appelle Gabriel. Il est sur le chemin <lb/>
+de l'école, il fait tomber sa toupie. <mod type="corr"><orig>10</orig><reg>Dix</reg></mod> <mod type="add" stage="" who="P"><add>Dix</add></mod> heures plus tard il <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="del" stage="" who="P"><del>avait vu</del></mod></hi></orig><reg>voit</reg></mod> <mod type="add" stage="" who="P"><add>voit</add></mod> que sa <lb/>
+toupie <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">était</hi></orig><reg>n'est</reg></mod> <mod type="add" stage="" who="P"><add>n'est</add></mod> plus là. <mod type="corr"><orig>Alor<mod type="subst"><del><mod type="del" stage="" who="P"><del>d</del></mod></del><add stage="" who="P">s</add></mod></orig><reg>Alors</reg></mod> il va voir son amie. §<lb/>
+-Tu as perdu quelque chose? demanda <mod type="del" stage="" who=""><del>A</del></mod> Anne-Lise. §<lb/>
+-Ma toupie chinoise sur le chemin de l'école<mod type="add" stage="" who="P"><add>,</add></mod> répond Gabriel tout triste.<lb/>
+Mais Anne-Lise sait où sont les jouets perdus dans la rue.Gabriel<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">suivait</hi></orig><reg>suit</reg></mod> <mod type="add" stage="" who="P"><add>suit</add></mod> Anne-Lise. Elle s'arrête devant un immeuble et dit: §<lb/>
+-Entre et tu verras un magicien. §<lb/>
+Il entre et voit un homme avec une cape blanche avec des clés dessus. §<lb/>
+Gabriel monte les <mod type="corr"><orig>escalier<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>escaliers</reg></mod> et voit plein de jouets. Il retrouve sa toupie
+chinoise. Il <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">partait</hi></orig><reg>repart</reg></mod> <mod type="add" stage="" who="P"><add>repart</add></mod> tout content. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

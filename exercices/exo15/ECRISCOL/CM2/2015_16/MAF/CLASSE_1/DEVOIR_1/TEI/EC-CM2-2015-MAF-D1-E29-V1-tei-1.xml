@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E29-V1
+</head>
+<p>
+Il <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="corr"><orig>falut</orig><reg>fallut</reg></mod> trois <mod type="corr"><orig>bonne</orig><reg>bonnes</reg></mod> <mod type="corr"><orig>heure</orig><reg>heures</reg></mod> pour <mod type="corr"><orig>préparé</orig><reg>préparer</reg></mod> une de mes plus<lb/>
+stupides <mod type="corr"><orig>bétises</orig><reg>bêtises</reg></mod>. J'ai mis au <mod type="corr"><orig>poins</orig><reg>point</reg></mod> <mod type="add" stage="T2" who=""><add>une</add></mod> <mod type="corr"><orig>stratégis</orig><reg>stratégie</reg></mod> pour que ma bétise<lb/>
+soit la meilleure, cette <mod type="add" stage="T3" who=""><add>fois></add></mod> j'ai accroché trois <mod type="corr"><orig>gros</orig><reg>grosses</reg></mod> <mod type="corr"><orig>corde</orig><reg>cordes</reg></mod> à<lb/>
+<mod type="corr"><orig>lentré</orig><reg>l'entrée</reg></mod> de la maison et j'ai <mod type="corr"><orig>antendu</orig><reg>attendu</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>atendu</add></mod></orig><reg>attendu</reg></mod> que maman <mod type="corr"><orig>reviene</orig><reg>revienne</reg></mod><lb/>
+du marché. Et quand elle est <mod type="corr"><orig>revenus</orig><reg>revenue</reg></mod> je me suis caché <mod type="corr"><orig>derière</orig><reg>derrière</reg></mod> la<lb/>
+porte et quand elle a <mod type="corr"><orig>franchit</orig><reg>franchi</reg></mod> la porte elle est <mod type="corr"><orig>tombé</orig><reg>tombée</reg></mod> à<lb/>
+plat ventre et <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les courses <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> par terre et <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod><lb/>
+<mod type="corr"><orig>écrasé</orig><reg>écrasées</reg></mod>. Maman <mod type="corr"><orig>cétait</orig><reg>s'était</reg></mod> cassé le poignet <mod type="add" stage="" who=""><add>et</add></mod> était <mod type="corr"><orig>allé</orig><reg>allée</reg></mod> le lendemain<lb/>
+à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod>. Le lundi, quand j'ai raconté mon dimanche<lb/>
+à la maîtresse; elle a dit que c'était un peu de<lb/>
+la torture mais j'ai eu un 10/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

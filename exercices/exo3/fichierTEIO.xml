@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<!-- ============================================================= -->
+    <teiHeader>
+        <fileDesc>
+            
+            <!-- (mention de titre) regroupe les informations sur 
+                le titre d’une œuvre et les personnes ou institutions responsables de son contenu intellectuel. -->
+            <titleStmt>
+                <title> Entrées 'Rogue - Rogne' du dictionnaire numérisé de Furetière </title>
+                <author> Ousseynou GUEYE </author>
+                <respStmt>
+                    <resp> numérisé par </resp>
+                    <name type="org">Bibliothèque Nationale de France</name>
+                </respStmt>
+            </titleStmt>
+
+            <!-- (mention de publication) regroupe des informations concernant 
+                la publication ou la diffusion d’un texte électronique ou d’un autre type de texte. -->
+            
+            <publicationStmt>
+                <publisher>Bibliothèque Nationale de France</publisher>
+                <pubPlace>Paris</pubPlace>
+                <ref target='https://gallica.bnf.fr/ark:/12148/bpt6k5795138h'></ref>
+                <availability status="free"><p>droits</p></availability>
+            </publicationStmt>
+
+            <!-- (description de la source) décrit la source à partir de laquelle un texte électronique
+                a été dérivé ou produit, habituellement une description bibliographique pour un texte numérisé, 
+                ou une expression comme "document numérique natif " pour un texte qui n'a aucune existence précédente. -->
+            
+            <sourceDesc>
+                <p> Travail basé sur le
+                    <bibl>
+                        <title>Dictionnaire universel</title> de
+                        <author>Furetière, Antoine</author>,
+                        <edition> Seconde édition, <date when="1701">1701</date> </edition>,
+                        revue, corrigée et augmentée par <author>de Beauval, Henri Basnage</author>,
+                        <publisher> Arnoud ET Reinier LEERS (La Haye) </publisher>
+                    </bibl>
+                </p>
+            </sourceDesc>
+
+        </fileDesc>
+
+
+
+    </teiHeader>
+    <!-- ============================================================= -->
+    <text>
+        <body>
+            <div n="tome_O-R">
+                <div n="R">
+                    <div n="ROG">
+                    <!-- ======================================== -->
+                        <entry xml:lang="fr" xml:id="rogneur">
+<!--                            <hom n="1"> <!-\- SI HOMOGRAPHE -\->-->
+                            <!-- information on the written and spoken forms of one headword -->
+                            <form>
+                                <orth>ROGNEUR</orth>
+                            </form>
+                            <!-- grammatical information group -->
+                            <gramGrp>
+                                <gram type="pos">nom</gram>
+                                <gram type="gen">masculin</gram>
+                                <gram type="num">singulier</gram>
+                            </gramGrp>
+                            <!-- groups together all information relating to one word sense in a dictionary entry, 
+                                for example definitions, examples -->
+                            <sense>
+                                <def>Celui qui a rogné.</def>
+                               <cit type="example" n="1">
+                                   <quote> 
+                                       Les <hi>rogneurs</hi> de pistoles sont punis de mort. 
+                                   </quote>
+                               </cit>
+                                <cit type="example" n="2" >
+                                       <quote>
+                                           Ces <hi>rogneurs</hi> de pitances qui font les bons Oeconomes, 
+                                   sont fort odieux dans les Communautez.  
+                                       </quote>
+                               </cit>
+                            </sense>
+<!--                            </hom>  SI HOMOGRAPHE -->
+                        </entry>
+                        
+                        <!-- ======================================== -->
+                        <entry xml:lang="fr" xml:id="rogneure">
+                            <!-- information on the written and spoken forms of one headword -->
+                            <form>
+                                <orth>ROGNEURE</orth>
+                                <form>
+                                    <orth> ROGNURE</orth>
+                                </form>
+                            </form>
+                            <!-- grammatical information group -->
+                            <gramGrp>
+                                <gram type="pos">nom</gram>
+                                <gram type="gen">féminin</gram>
+                                <gram type="num">singulier</gram>
+                            </gramGrp>
+                            <!-- groups together all information relating to one word sense in a dictionary entry, 
+                                for example definitions, examples -->
+                            <sense>
+                                <def> Ce qui a été retranché ou rogné de quelque chose. </def>
+                                <cit type="example" n="1">
+                                    <quote> 
+                                        Il a fait rogner son manteau long, &amp; de la <hi>rognure</hi>
+                                        il a fait faire un haut-de-chausse.
+                                    </quote>
+                                </cit>
+                                <cit type="example" n="2" >
+                                    <quote>
+                                        Les <hi> rognûres </hi> de papier servent à faire du carton; 
+                                        celles de parchemin, de cuir, &amp; de gants, à faire de la colle.
+                                    </quote>
+                                </cit>
+                            </sense>
+                        </entry>
+                        
+                        <!-- ======================================== -->
+                        <entry xml:lang="fr" xml:id="rogneux">
+                            <!-- information on the written and spoken forms of one headword -->
+                            <form>
+                                <orth>ROGNEUX</orth>
+                                <form>
+                                    <orth> -euse </orth>
+                                </form>
+                            </form>
+                            <!-- grammatical information group -->
+                            <gramGrp>
+                                <gram type="pos">adj</gram>
+                                <gram type="num">singulier</gram>
+                            </gramGrp>
+                            <!-- groups together all information relating to one word sense in a dictionary entry, 
+                                for example definitions, examples -->
+                            <sense>
+                                <def> Qui a de la rogne. </def>
+                                <cit type="example" n="1">
+                                    <quote> 
+                                        Cheval <hi> rogneux </hi>, farcineux
+                                    </quote>
+                                </cit>
+                            </sense>
+                        </entry>
+                        
+                        <!-- ======================================== -->
+                        <entry xml:lang="fr" xml:id="rognon">
+                            <!-- information on the written and spoken forms of one headword -->
+                            <form>
+                                <orth>ROGNON</orth>
+                                <form>
+                                    <orth> -euse </orth>
+                                </form>
+                            </form>
+                            <!-- grammatical information group -->
+                            <gramGrp>
+                                <gram type="pos">adj</gram>
+                                <gram type="num">singulier</gram>
+                            </gramGrp>
+                            <!-- groups together all information relating to one word sense in a dictionary entry, 
+                                for example definitions, examples -->
+                            <sense n="1">
+                                <def> 
+                                    Partie double de l'animal où se fait la separation de l'urine. 
+                                    On l'appelle autrement le <hi> rein </hi>.
+                                    Ils sont situez sur les muscles des lombes des deux côtez de l'artere aorte &amp; de la veine cave, 
+                                    l'un sous le foye, &amp; l'autre sous la rate. 
+                                    Dans l'homme le droit est plus bas que le gauche, 
+                                    mais le contraire arrive le plus souvent dans les quadrupedes. 
+                                    Ils sont attaches aux lombes &amp; au diaphragme par leur membrane exterieure, 
+                                    &amp; à la vessie par les ureteres; le droit est aussi attaché à l'intestin caecum, &amp; le gauche 
+                                    au colon &amp; à la rate. Leur figure ressemble à une phaseole, ou
+                                    à un croissant; car ils sont courbes du côté de la veine cave,
+                                    &amp; par dehors ils sont gibbeux. Il n'y a d'ordinaire
+                                    que deux <hi>rognons</hi>, cependant on en a trouvé quelquefois trois, 
+                                    &amp; même quatre; quelquefois on en trouvé qu'un.
+                                    Leur substance est composée de glandes 
+                                    &amp; de conduits fort petits: les glandes en occupent la
+                                    circonference, &amp; servent à la separation de l'urine;
+                                    les conduits forment la partie interieure, ils sortent des
+                                    glandes, &amp; portent l'urine dans une cavité qu'on non-
+                                    me le bassin, d'où elle passe par les ureteres dans la
+                                    vessie. Les <hi> rognons </hi> sont couverts de deux membranes :
+                                    ils ont chacun une artere &amp; une veine, qu'on appelle
+                                    <hi> emulgentes </hi> : les arteres viennent de l'aorte, &amp; les veines 
+                                    vont se rendre à la veine cave. Ils ont aussi des nerfs
+                                    qui prennent leur origine du plexus renal formé de rameaux 
+                                    du nerf intercostal &amp; des nerfs lombaires. Les
+                                    ureteres sont des vaisseaux assez gros &amp; nerveur qui
+                                    viennent des reins, &amp; qui se terminent à la vessie.
+                                    On appelle aussi <hi> rognons de veau </hi>, la partie antérieure
+                                    de la longe où est le <hi> rognon </hi>.
+                                </def>
+                                <cit type="example" n="1">
+                                    <quote> 
+                                        
+                                    </quote>
+                                </cit>
+                            </sense>
+                                                        
+                            <sense n="2">
+                                <def> Rognon signifie quelquefois, Testicules.
+                                </def>
+                                <cit type="example" n="1">
+                                    <quote> 
+                                        Des <hi>rognons</hi> de belier. 
+                                    </quote>
+                                </cit>
+                                <cit type="example" n="2">
+                                    <quote>
+                                        Les <hi>rogons de cou</hi> sont fort bons dans les ragoûts.
+                                    </quote>
+                                </cit>
+                            </sense>
+
+                            <sense n="3">
+                                <form>
+                                    <orth> ROGNON-DE-COQ</orth>
+                                </form>
+                                <def> Sorte de Prune qui ressemble un rognon. C'est aussi une espece de raisin.
+                                </def>
+                            </sense>
+                            
+                            <sense n="4">
+                            <usg type="proverb" n="1">
+                                On dit proverbialement, Mettre la main sur les <hi> rognons </hi>,
+                                sur les côtez, faire le pot à deux anses: ce qui le
+                                fait par les gens du peuple qui se querellent ou menacent.
+                            </usg>
+                            </sense>
+                        </entry>
+                        
+                        <!-- ======================================== -->
+                        <entry xml:lang="fr" xml:id="rognoner">
+                            <!-- information on the written and spoken forms of one headword -->
+                            <form>
+                                <orth>ROGNONER</orth>
+                            </form>
+                            <!-- grammatical information group -->
+                            <gramGrp>
+                                <gram type="pos">verbe</gram>
+                                <gram type="type">neutre</gram>
+                            </gramGrp>
+                            <!-- groups together all information relating to one word sense in a dictionary entry, 
+                                for example definitions, examples -->
+                            <sense>
+                                <def> Gronder entre ses dents. </def>
+                                <cit type="example" n="1">
+                                    <quote> 
+                                        Quand on commande quelque chose à cette vieille, elle
+                                        <hi> rognone </hi> toûjours.
+                                    </quote>
+                                </cit>
+                                <note type="usage"> Ce mot est bas &amp; populaire. </note>
+                            </sense>
+                        </entry>
+                        
+                        <!-- ======================================== -->
+                        <entry xml:lang="fr" xml:id="rogue">
+                            <!-- information on the written and spoken forms of one headword -->
+                            <form>
+                                <orth>ROGUE</orth>
+                            </form>
+                            <!-- grammatical information group -->
+                            <gramGrp>
+                                <gram type="pos">adjectif</gram>
+                                <gram type="genre">masculin et féminin</gram>
+                            </gramGrp>
+                            <!-- groups together all information relating to one word sense in a dictionary entry, 
+                                for example definitions, examples -->
+                            <sense>
+                                <def> Superbe, fier, altier, méprisant peu courtois. 
+                                </def>
+                                <cit type="example" n="1">
+                                    <quote> 
+                                        L'esprit le plus bas est souvent <hi>le plus rogue</hi>. 
+                                    </quote>
+                                </cit>
+                                                                
+                                <cit type="example" n="2">
+                                    <quote> 
+                                        Un Marchand qui est <hi> rogue </hi> dechalande bientôt sa boutique. 
+                                    </quote>
+                                </cit>
+                                
+                                <cit type="example" n="3">
+                                    <quote> 
+                                        On ne s'attache gueres aux femmes <hi>rogues</hi> &amp; fieres, qui ont l'air dedaigneux. 
+                                    </quote>
+                                </cit>
+                                
+                                <note type="usage"> Il n'a d'usage que dans le stile familier. </note>
+                            </sense>
+                        </entry>
+                        
+                        <!-- ======================================== -->
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+<!-- ============================================================= -->
+</TEI>

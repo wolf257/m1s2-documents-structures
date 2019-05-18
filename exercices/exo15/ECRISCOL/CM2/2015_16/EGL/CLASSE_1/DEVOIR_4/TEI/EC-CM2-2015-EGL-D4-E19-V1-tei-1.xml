@@ -1,0 +1,140 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E19-V1
+</head>
+<p>
+<pb/>
+il <mod type="corr">
+<orig>
+<mod type="subst">
+<del><mod type="del" stage="T2" who=""><del><sup>T2</sup>ressille</del></mod></del>
+<add><mod type="del" stage="T2" who=""><del><sup>T2</sup>retente</del></mod></add>
+</mod>
+<mod type="del" stage="T2" who=""><del><mod type="add" stage="T2" who=""><add><sup>T2</sup>resayer</add></mod></del></mod>
+<mod type="del" stage="T2" who=""><del><mod type="add" stage="T2" who=""><add><sup>T2</sup>r<hi place=" " time="T3" who="Pσ" style="underline">esaye</hi></add></mod></del></mod>
+<metamark place=" " time="T3" who="P" style="underline">passé simple</metamark> 
+</orig><reg>reéssaya</reg></mod> <mod type="add" stage="T4" who=""><add><sup>T4</sup>réssaya</add></mod> 
+
+<mod type="del" stage="" who=""><del><sup></sup>sur</del></mod> tout ce qui il avait <mod type="add" stage="" who=""><add><sup></sup>fait</add></mod> auparavant<lb/>
+mais Nelly ne <mod type="corr"><orig>repon<hi place=" " time="T3" who="Pσ" style="underline">d</hi></orig><reg>répond</reg></mod><metamark place=" " time="T3" who="P" style="underline">passé simple</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup><mod type="del" stage="" who=""><del><sup></sup>repondit</del></mod>répondit</add></mod> toujours pas. Cependant il a u l'idée <mod type="del" stage="T2" who=""><del><sup>T2</sup>di</del></mod><lb/>
+<mod type="del" stage="" who=""><del><sup></sup>faire</del></mod>§<lb/>
+<mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>faire</del></mod></del><add stage="T2" who=""><sup>T2</sup>d'écrire</add></mod> <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>une plus petite</del></mod></del><add stage="T2" who=""><sup>T2</sup>une</add></mod> lettre <mod type="del" stage="" who=""><del><sup></sup>en en</del></mod> en disant «Nelly je t'aime».<lb/>
+Et Nelly <mod type="add" stage="T4" who=""><add><sup>T4</sup>ne</add></mod> <mod type="corr"><orig>repon<hi place=" " time="T3" who="Pσ" style="underline">d</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>ais</add></mod></orig><reg>répondit</reg></mod><metamark place=" " time="T3" who="P" style="underline">temps</metamark> toujours <hi place=" " time="T3" who="Pσ" style="underline">pas</hi><mod type="add" stage="T2" who=""><add><sup>T2</sup>.</add></mod> <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>il</del></mod></del><add stage="T2" who=""><sup>T2</sup>Il</add></mod> pense qu'elle<lb/>
+<mod type="corr"><orig>enten<hi place=" " time="T3" who="Pσ" style="underline">d</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>ai</add></mod></orig><reg>entendait</reg></mod><metamark place=" " time="T3" who="P" style="underline">temps</metamark> <mod type="del" stage="" who=""><del><sup></sup>ma</del></mod> mais elle répond pas. 
+
+<mod type="subst">
+<del><mod type="del" stage="T2" who=""><del><sup>T2</sup>et il a réson</del></mod></del>
+<add><mod type="del" stage="T2" who=""><del><sup>T2</sup>1 heure plus tard</del></mod></add>
+</mod>
+<mod type="add" stage="T2">
+<add stage="T2" who=""><sup>T2</sup>Deux heur<hi place=" " time="T3" who="Pσ" style="underline">e</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>s</add></mod> plus tard</add>
+</mod>
+<lb/>
+
+
+<mod type="del" stage="" who=""><del><sup></sup>car un jour il</del></mod> ses <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> l'<mod type="corr"><orig>appelle</orig><reg>appellent</reg></mod> en lui dis<hi place=" " time="T3" who="Pσ" style="underline">san</hi>t<mod type="add" stage="T4" who=""><add><sup>T4</sup>disant</add></mod><lb/>
+que Nelly ne le répond pas car elle fait <mod type="del" stage="T2" who=""><del><sup>T2</sup>faisai</del></mod> ses §<lb/>
+
+<pb/>
+devoi<hi place=" " time="T3" who="Pσ" style="underline">r</hi><mod type="del" stage="T4" who=""><del><sup>T4</sup><mod type="add" stage="T4" who=""><add>devoir devoir</add></mod></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>devoirs</add></mod> 
+
+
+et sa <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>m#x#re</del></mod></del><add stage="" who=""><sup></sup>mére</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup>interdis<hi place=" " time="T3" who="Pσ" style="underline">è</hi></del></mod></del><add stage="T4" who=""><sup>T4</sup>interdisai</add></mod></orig><reg>interdisait</reg></mod> a<mod type="del" stage="T4" who=""><del><sup>T4</sup><mod type="add" stage="T4" who=""><add>à</add></mod></del></mod> <mod type="del" stage="" who=""><del><sup></sup>de répondere</del></mod> Nelly de <mod type="corr"><orig>repondre</orig><reg>répondre</reg></mod> 
+<mod type="del" stage="T4" who=""><del><sup>T4</sup><mod type="add" stage="T4" who=""><add>de répondre</add></mod></del></mod> 
+<mod type="del" stage="T3" who="P"><del><sup>T3P</sup>mais</del></mod>elle t'aime <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">pa</hi></orig><reg>pas</reg></mod>§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

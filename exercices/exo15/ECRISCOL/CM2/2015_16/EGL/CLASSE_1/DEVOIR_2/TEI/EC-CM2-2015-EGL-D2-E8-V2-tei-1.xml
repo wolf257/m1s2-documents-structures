@@ -1,0 +1,123 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D2-E8-V2
+</head>
+<p>
+<pb/>
+La voiture <mod type="corr"><orig>roulée</orig><reg>roulait</reg></mod> à 120 km/h les filles <mod type="corr"><orig>étaits</orig><reg>étaient</reg></mod> <mod type="corr"><orig>in-<lb/>
+quetées</orig><reg>inquiètes</reg></mod> elles sont <mod type="corr"><orig>sortis</orig><reg>sorties</reg></mod> de la voiture près de la voie<lb/>
+<mod type="corr"><orig>férrét</orig><reg>férrée</reg></mod> au même moment le train passé devant la<lb/>
+voiture le train <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>perquté</orig><reg>percuté</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>à</orig><reg>a</reg></mod> fait<lb/>
+<mod type="corr"><orig>escploser</orig><reg>exploser</reg></mod> la voiture et dans le train il y a<lb/>
+eu 55 morts et 37 <mod type="corr"><orig>blésées</orig><reg>blessés</reg></mod>. Les filles n'<mod type="corr"><orig>avais</orig><reg>avaient</reg></mod> rien<lb/>
+les fillettes <mod type="corr"><orig>étais</orig><reg>étaient</reg></mod> à 35 km du <mod type="corr"><orig>maguasin</orig><reg>magasin</reg></mod>. Elles<lb/>
+<mod type="corr"><orig>voullue</orig><reg>voulurent</reg></mod> appeler au téléphone mais <mod type="corr"><orig>il</orig><reg>elles</reg></mod> n'<mod type="corr"><orig>avait</orig><reg>avaient</reg></mod> pas<lb/>
+de réseau et de <mod type="corr"><orig>batrie</orig><reg>batterie</reg></mod>. Il était dans les bois il §<lb/>
+
+<pb/>
+était 19h il <mod type="corr"><orig>fesait</orig><reg>faisait</reg></mod> nuit. La <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> était <mod type="corr"><orig>sortis</orig><reg>sortie</reg></mod><lb/>
+du magasin à 9h elle a <mod type="corr"><orig>appelée</orig><reg>appelé</reg></mod> la gendarmerie.<lb/>
+Les filles <mod type="corr"><orig>étais</orig><reg>étaient</reg></mod> dans une grotte elles <mod type="corr"><orig>entendées</orig><reg>entendaient</reg></mod> des <mod type="corr"><orig>bruis</orig><reg>bruits</reg></mod><lb/>
+c'était des ours; des <mod type="corr"><orig>loup</orig><reg>loups</reg></mod>; des chevaux <mod type="corr"><orig>sauvage</orig><reg>sauvages</reg></mod>...<lb/>
+La <mod type="corr"><orig>mére</orig><reg>mère</reg></mod>, ne <mod type="corr"><orig>mangée</orig><reg>mangeait</reg></mod> pas ne <mod type="corr"><orig>buvée</orig><reg>buvait</reg></mod> pas; ne <mod type="corr"><orig>dormée</orig><reg>dormait</reg></mod><lb/>
+pas depuis 3 jours 3 jours plus tard la gendarmerie<lb/>
+Ils <mod type="corr"><orig>avait</orig><reg>avaient</reg></mod> retrouvé les filles <mod type="corr"><orig>étais</orig><reg>étaient</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>triste</orig><reg>tristes</reg></mod> penda<lb/>
+nt 1 ans. <mod type="subst"><del><mod type="del" stage="" who=""><del>Il</del></mod></del><add stage="" who="">Elles</add></mod> <mod type="corr"><orig>habiter</orig><reg>habitaient</reg></mod> chez leur pére et la<lb/>
+<mod type="corr"><orig>filles</orig><reg>fille</reg></mod> <mod type="corr"><orig>allé</orig><reg>allait</reg></mod> voir la <mod type="corr"><orig>tompe</orig><reg>tombe</reg></mod> de leur <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> tous les<lb/>
+<mod type="corr"><orig>dimanche</orig><reg>dimanches</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

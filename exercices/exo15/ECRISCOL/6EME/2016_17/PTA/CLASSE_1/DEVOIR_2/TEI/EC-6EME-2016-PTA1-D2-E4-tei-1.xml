@@ -1,0 +1,152 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E4
+</head>
+<p>
+<pb/>
+Laurie se dirige vers son car, elle rentre<lb/>
+dedans, elle sent que la tension est plus pesante.<lb/>
+Elle <mod type="del" stage="" who=""><del>veut dire bonjour a sa meilleure amie<lb/>
+va vers son</del></mod> §<lb/>
+va vers sa meilleur amie: §<lb/>
+-"Coucou Jeanne." §<lb/>
+Et s'<mod type="corr"><orig>assois</orig><reg>assoit</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>coté</orig><reg>côté</reg></mod> de son amie §<lb/>
+-"Euh bonjour? <mod type="del" stage="" who=""><del>dit Jean</del></mod> §<lb/>
+-Tu <mod type="corr"><orig>est</orig><reg>es</reg></mod> étrange aujourd'hui? <mod type="corr"><orig>Sa</orig><reg>ça</reg></mod> ne <mod type="corr"><orig>vas</orig><reg>va</reg></mod> pas? §<lb/>
+-Si mais on se connait?" §<lb/>
+Laurie vexée se lève de <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>sa chaise</del></mod></del><add stage="" who="">son siege</add></mod></orig><reg>son siège</reg></mod>. §<lb/>
+Elle se met toute seule. §<lb/>
+<mod type="corr"><orig>Arrivé</orig><reg>Arrivée</reg></mod> au <mod type="corr"><orig>college</orig><reg>collège</reg></mod> <mod type="del" stage="" who=""><del>,elle voit de personne avec des<lb/>
+magnifique chevaus longs avec une causonne</del></mod> §<lb/>
+
+<pb/>
+elle dit bonjour aux surveillants §<lb/>
+<mod type="del" stage="" who=""><del>de princesse faisant #XXX# ne peut pas savoir<lb/>
+#XXX# étais une fille ou un garçon</del></mod> §<lb/>
+Bon il faut savoir si <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> n'est qu'une vulgaire<lb/>
+blague de mauvais goût ou un lavage de<lb/>
+cerveau <mod type="del" stage="" who=""><del>(ce qui)</del></mod> (ce qui est impossible). §<lb/>
+Je vais aller voir mon ami Jean. §<lb/>
+-"Salut Jean, tu n'<mod type="corr"><orig>est</orig><reg>es</reg></mod> plus malade? §<lb/>
+-Ah je t'attendais. <mod type="del" stage="" who=""><del>San</del></mod> §<lb/>
+-Ouf tu me <mod type="corr"><orig>rassure</orig><reg>rassures</reg></mod>. §<lb/>
+-Pourquoi? §<lb/>
+-Et bien <mod type="corr"><orig>figure toi</orig><reg>figure-toi</reg></mod> que Jeanne s'est amusée <mod type="corr"><orig>a</orig><reg>à</reg></mod> faire<lb/>
+semblant de ne pas me connaitre. §<lb/>
+-Oui mais tu la connais avec ses blagues un peu <mod type="corr"><orig>nuls</orig><reg>nulles</reg></mod>.<lb/>
+-Je suppose que tu as raison. §<lb/>
+-Bon je dois y aller <mod type="corr"><orig>a</orig><reg>à</reg></mod> plus tard Sara. §<lb/>
+-QUOI mais attends je ne suis pas Sa..." §<lb/>
+Et Jean fila vers son rang salle 204. §<lb/>
+La journée <mod type="corr"><orig>fini</orig><reg>finit</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> être toute <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>seul</del></mod></del><add stage="" who="">seul</add></mod></orig><reg>seule</reg></mod> pendant 9 <mod type="corr"><orig>jeures</orig><reg>jours</reg></mod><lb/>
+.On peut <mod type="corr"><orig>dir</orig><reg>dire</reg></mod> qu'il y <mod type="corr"><orig>avais</orig><reg>avait</reg></mod> mieux dans sa vie. §<lb/>
+Laurie reprend son car elle voit une bande <mod type="add" stage="" who=""><add>qui lui est inconnue</add></mod> de trois <mod type="corr"><orig>fille</orig><reg>filles</reg></mod><lb/>
+et deux garçons. <mod type="corr"><orig>Il</orig><reg>Ils</reg></mod> lui font signe de venir. §<lb/>
+
+<pb/>
+Laurie, <mod type="corr"><orig>plutot</orig><reg>plutôt</reg></mod> heureuse de se refaire des amis <mod type="corr"><orig>viens</orig><reg>vient</reg></mod><lb/>
+<mod type="corr"><orig>volontiere</orig><reg>volentiers</reg></mod>. Deux semaines plus tard, Laurie s'est<lb/>
+<mod type="corr"><orig>fait</orig><reg>faite</reg></mod> une bande complètement géniale, ils trouvent<lb/>
+des jeux, font tout <mod type="corr"><orig>ensembles</orig><reg>ensemble</reg></mod>. Et en plus, ils ont<lb/>
+prévu une soirée <mod type="corr"><orig>pyjama</orig><reg>piyama</reg></mod>. 23h45, toujours pas<lb/>
+fatigués mais ils ont un <mod type="corr"><orig>pettit</orig><reg>petit</reg></mod> creux. Akim et Laurie<lb/>
+<mod type="corr"><orig>desandent</orig><reg>descendent</reg></mod> en bas...personne ils en profitent<lb/>
+ils mangent <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les <mod type="corr"><orig>packets</orig><reg>paquets</reg></mod> de bonbons. Ils<lb/>
+s'endorment. "Bonne nuit les <mod type="corr"><orig>Nenfants</orig><reg>enfants</reg></mod>" <mod type="del" stage="" who=""><del>Dit</del></mod><lb/>
+Disent la mère et le père. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

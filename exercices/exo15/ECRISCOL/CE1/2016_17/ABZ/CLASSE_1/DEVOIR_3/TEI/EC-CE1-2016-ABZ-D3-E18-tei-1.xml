@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2016-ABZ-D3-E18
+</head>
+<p>
+Il y <mod type="corr"><orig>a vait</orig><reg>avait</reg></mod> des <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>pon</del></mod></del><add stage="" who="">bonbont</add></mod></orig><reg>bonbons</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>linterieur</orig><reg>l’intérieur</reg></mod> de<lb/>
+sa <mod type="corr"><orig>bouch</orig><reg>bouche</reg></mod> <mod type="del" stage="T2" who="P"><del>estsa</del></mod> <metamark place=" " time="T2" who="P" style="underline">.</metamark> <mod type="del" stage="T2" who="P"><del>cert</del></mod> sa maman <mod type="corr"><orig>été</orig><reg>était</reg></mod> <mod type="corr"><orig>contante</orig><reg>contente</reg></mod><lb/>
+de son <mod type="corr"><orig>fise</orig><reg>fils</reg></mod> <metamark place=" " time="T2" who="P" style="underline">en dictée</metamark><mod type="add" stage="T2" who="P"><add>parce qu'il avait tenu sa promesse.</add></mod> <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>et</del></mod></del><add stage="T2" who="P">.</add></mod> <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">l</hi>u</orig><reg>Elle lui</reg></mod> dit on va au <mod type="corr"><orig>sinema</orig><reg>cinéma</reg></mod> <metamark place=" " time="T2" who="P" style="underline">en dictée</metamark> <mod type="add" stage="T2" who="P"><add>pour te féliciter</add></mod><lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> la <mod type="corr"><orig>fint</orig><reg>fin</reg></mod> du <mod type="corr"><orig>filme</orig><reg>film</reg></mod> <mod type="add" stage="T2" who="P"><add>.</add></mod> <mod type="corr"><orig>il</orig><reg>Ils</reg></mod> <mod type="corr"><orig>rentre</orig><reg>rentrent</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la <mod type="corr"><orig>mason</orig><reg>maison</reg></mod><lb/>
+<mod type="corr"><orig>est</orig><reg>et</reg></mod> sa maman <mod type="corr"><orig>été</orig><reg>était</reg></mod> <mod type="corr"><orig>contante</orig><reg>contente</reg></mod> de <mod type="corr"><orig>lu</orig><reg>lui</reg></mod><lb/>
+parce <mod type="corr"><orig>qu il</orig><reg>qu’il</reg></mod> <mod type="corr"><orig>na vais</orig><reg>n’avait</reg></mod> pas <mod type="corr"><orig>mangér</orig><reg>mangé</reg></mod><lb/>
+des <mod type="corr"><orig>enfan</orig><reg>enfants</reg></mod> <mod type="add" stage="T2" who="P"><add>.</add></mod> <metamark place=" " time="T3" who="P" style="underline"><mod type="corr"><orig>Qa<mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="" who="">n</add></mod>t</orig><reg>Quand</reg></mod> il va <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>l'ecole</orig><reg>l'école</reg></mod> <mod type="del" stage="" who=""><del>X#</del></mod>tous les<lb/> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>enfan</del></mod></del><add stage="" who="">anfan</add></mod></orig><reg>enfants</reg></mod> <mod type="corr"><orig>jous</orig><reg>jouent</reg></mod> <mod type="corr"><orig>ovec</orig><reg>avec</reg></mod> lui et <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> se <mod type="corr"><orig>termi</orig><reg>termine</reg></mod> bX#</metamark> §<lb/>
+ 
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

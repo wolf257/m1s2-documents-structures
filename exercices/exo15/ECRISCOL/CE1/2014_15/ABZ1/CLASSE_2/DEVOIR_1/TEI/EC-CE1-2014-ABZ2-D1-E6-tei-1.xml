@@ -1,0 +1,109 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2014-ABZ2-D1-E6
+</head>
+<p>
+Le soir venu <mod type="add" stage="" who="P"><add>,</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>p</del></mod></del><add stage="" who="P">P</add></mod>orculus</orig><reg>Porculus</reg></mod> <mod type="corr"><orig>étai<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>était</reg></mod> <mod type="corr"><orig><metamark place=" " time="" who="P" style="underline">bin</metamark></orig><reg>bien</reg></mod> <mod type="add" stage="" who="P"><add>bien</add></mod> fatigué<lb/>
+il trouva une <mod type="corr"><orig>gro<mod type="add" stage="" who="P"><add>t</add></mod>te</orig><reg>grotte</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">I</add></mod>l</orig><reg>Il</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>à</del></mod></orig><reg>a</reg></mod> <mod type="corr"><orig>voulu<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>voulu</reg></mod> <mod type="add" stage="" who="P"><add>y</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">e</add></mod>ntrée</orig><reg>entrer</reg></mod> <mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ais</add></mod></orig><reg>mais</reg></mod><lb/>
+un <mod type="corr"><orig>putoi<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>putois</reg></mod> lui <mod type="corr"><orig>di<mod type="add" stage="" who="P"><add>t:</add></mod></orig><reg>dit</reg></mod> «<metamark place=" " time="" who="P" style="underline">te</metamark> #XXX# <mod type="corr"><orig>pa</orig><reg>pas</reg></mod> <mod type="corr"><orig><metamark place=" " time="" who="P" style="underline">sa</metamark></orig><reg>c'est</reg></mod> <mod type="add" stage="" who="P"><add>C'est</add></mod> ma maison<lb/>
+<mod type="del" stage="" who="P"><del>» «</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>j</del></mod></del><add stage="" who="P">J</add></mod>e</orig><reg>Je</reg></mod> <mod type="corr"><orig>sui<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>suis</reg></mod> <mod type="corr"><orig>désolée</orig><reg>désolé</reg></mod> je <mod type="corr"><orig>ve<mod type="add" stage="" who="P"><add>ux</add></mod></orig><reg>veux</reg></mod> <mod type="corr"><orig>just<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>juste</reg></mod> dormir»<lb/>
+<mod type="del" stage="" who="P"><del>«</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">T</add></mod>u</orig><reg>Tu</reg></mod> <mod type="corr"><orig>pouv<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ais</add></mod></orig><reg>pouvais</reg></mod> me le <mod type="corr"><orig>demande<mod type="add" stage="" who="P"><add>r</add></mod></orig><reg>demander</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>j</del></mod></del><add stage="" who="P">J</add></mod>e</orig><reg>Je</reg></mod> <mod type="corr"><orig>conai</orig><reg>connais</reg></mod> <mod type="add" stage="" who="P"><add>connais</add></mod> <mod type="corr"><orig>pl<mod type="add" stage="" who="P"><add>e</add></mod>in</orig><reg>plein</reg></mod> de<lb/>
+<mod type="corr"><orig>maison<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>maisons</reg></mod> <mod type="del" stage="" who="P"><del>»</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>sai</del></mod></del><add stage="" who="P">C'est</add></mod></orig><reg>c’est</reg></mod> vrai <mod type="add" stage="" who="P"><add>?</add></mod> <mod type="del" stage="" who="P"><del>"</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>o</del></mod></del><add stage="" who="P">O</add></mod>ui</orig><reg>Oui</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod> <mod type="corr"><orig>regar<mod type="add" stage="" who="P"><add>de</add></mod></orig><reg>regarde</reg></mod> <mod type="corr"><orig><metamark place=" " time="" who="P" style="underline">mairsi</metamark></orig><reg>merci</reg></mod> <mod type="add" stage="" who="P"><add>merci</add></mod><lb/>
+il y <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>à</del></mod></del><add stage="" who="P">a</add></mod></orig><reg>a</reg></mod> <mod type="corr"><orig>maime</orig><reg>même</reg></mod> <mod type="add" stage="" who="P"><add>même</add></mod> de la <mod type="corr"><orig>bou<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>boue</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

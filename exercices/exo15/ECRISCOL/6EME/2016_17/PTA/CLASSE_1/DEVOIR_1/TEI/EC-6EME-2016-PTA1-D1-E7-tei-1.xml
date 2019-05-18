@@ -1,0 +1,123 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E7
+</head>
+<p>
+<pb/>
+Je fais boulanger comme métier. A 4 heures<lb/>
+du matin je fais cuire le pain. A 7h30 <mod type="corr"><orig>min</orig><reg>minutes</reg></mod> je<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>oure</del></mod></del><add stage="" who="">ouvre</add></mod> la boulangerie. Je vois mon premier<lb/>
+client que je vois tout les <mod type="corr"><orig>mati<mod type="subst"><del><mod type="del" stage="" who=""><del>on</del></mod></del><add stage="" who="">n</add></mod></orig><reg>matins</reg></mod>. Il me dit "Bonjour"<lb/>
+je lui <mod type="corr"><orig>répond</orig><reg>réponds</reg></mod> "Que voulez-vous". Elle me répond<lb/>
+"Je <mod type="corr"><orig>voudrai</orig><reg>voudrais</reg></mod> du pain avec un pain au chocolat". §<lb/>
+Je lui <mod type="del" stage="" who=""><del>dis que sa coute 4,50</del></mod> <mod type="add" stage="" who=""><add><mod type="corr"><orig>repondit</orig><reg>répondis</reg></mod> "<mod type="corr"><orig>Sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>coute</orig><reg>coûte</reg></mod> 4,50"</add></mod>. Elle me donne<lb/>
+les 4,50 <mod type="corr"><orig>E</orig><reg>euros</reg></mod> et <mod type="corr"><orig>reparti</orig><reg>répartit</reg></mod>. A 8 heures et 15 minutes, je<lb/>
+enlève le pain du four. A 8 heures et 22 minutes,<lb/>
+je vois mon deuxième client. Il me demanda "Puis-je<lb/>
+avoir 3 <mod type="corr"><orig>paints</orig><reg>pains</reg></mod>". Je lui <mod type="corr"><orig>répondit</orig><reg>répondis</reg></mod> "Bien <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod>". Il me donna<lb/>
+les 5 euros et <mod type="corr"><orig>reparti</orig><reg>repartit</reg></mod>. A 8 heures et 37 <mod type="corr"><orig>minute</orig><reg>minutes</reg></mod>, je vois<lb/>
+mon troisième client et il me demanda "<mod type="del" stage="" who=""><del>Pourais Pouro</del></mod> Puis-je avoir<lb/>
+6 <mod type="corr"><orig>paints</orig><reg>pains</reg></mod>, <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>3</del></mod></del><add stage="" who="">3</add></mod></orig><reg>trois</reg></mod> <mod type="corr"><orig>croissant</orig><reg>croissants</reg></mod> et <mod type="corr"><orig>1</orig><reg>un</reg></mod> <mod type="corr"><orig>gateaux</orig><reg>gâteau</reg></mod>. Je lui <mod type="corr"><orig>repond</orig><reg>répond</reg></mod> "Oui". §<lb/>
+
+<pb/>
+Et je lui <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> "<mod type="corr"><orig>Sa</orig><reg>ça</reg></mod> coûte 9 euros et 32 centimes. §<lb/>
+Il me donna les 9 euros et 32 centimes et il <mod type="corr"><orig>reparti</orig><reg>repartit</reg></mod>.<lb/>
+A 10 heures c'est la pause. Je reprend mon <mod type="del" stage="" who=""><del>et</del></mod> boulot et<lb/>
+je continue mon <mod type="corr"><orig>bouleau</orig><reg>boulot</reg></mod> jusqu'<mod type="corr"><orig>a</orig><reg>à</reg></mod> la fin de la journée<lb/>
+<mod type="corr"><orig>cette à dire</orig><reg>c'est-à-dire</reg></mod> 19 heures. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

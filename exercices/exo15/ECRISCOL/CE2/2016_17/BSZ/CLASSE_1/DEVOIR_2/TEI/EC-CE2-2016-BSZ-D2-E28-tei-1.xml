@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E28 
+</head>
+<p>
+<pb/>
+8h00. Il arrive à l’école <mod type="corr"><orig>rejoin</orig><reg>rejoint</reg></mod> ses copains et discute avec eux. §<lb/>
+8h10. La cloche sonne les enfants <mod type="corr"><orig>rentre</orig><reg>rentrent</reg></mod> en classe. La <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod> annonce:<lb/>
+« Bonjour les enfants <mod type="subst"><del><mod type="del" stage="" who=""><del>aujoud’hui</del></mod></del><add stage="" who="">aujourd’hui</add></mod> c’est la photo de<lb/>
+classe! » Fabien avait <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>conple</del></mod></del><add stage="" who="">completement</add></mod></orig><reg>complètement</reg></mod> oublié <mod type="del" stage="" who=""><del>I</del></mod>Il se dit: « <mod type="del" stage="" who=""><del>Oh<lb/>
+zut</del></mod>Génial j’<mod type="corr"><orig>avait</orig><reg>avais</reg></mod> oublié on ne va pas travailler! » §<lb/>
+8h15. C’est l’heure de la photo de classe les enfants <mod type="corr"><orig>sorte</orig><reg>sortent</reg></mod> dehors.<lb/>
+Il fait beau le photographe arrive il dit: « Asseyez vous sur<lb/>
+les bancs. » Fabien  s’assoit <mod type="corr"><orig>dérrière</orig><reg>derrière</reg></mod> car il est grand. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>le</del></mod></del><add stage="" who="">L</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>L</del></mod></del><add stage="" who="">Le</add></mod></orig><reg>Le</reg></mod><lb/>
+photographe dit : « <mod type="corr"><orig>Faite</orig><reg>Faîtes</reg></mod> un sourire les enfants! » <mod type="subst"><del><mod type="del" stage="" who=""><del>l</del></mod></del><add stage="" who="">La</add></mod> <mod type="corr"><orig>matinée</orig><reg>mâtinée</reg></mod> est<lb/>
+<mod type="corr"><orig>terminé</orig><reg>terminée</reg></mod> Fabien va à la cantine. Il mange des <mod type="corr"><orig>frite</orig><reg>frites</reg></mod> aujourd’hui.<lb/>
+<mod type="corr"><orig>Sa</orig><reg>Ça</reg></mod> aussi il avait oublié. §<lb/>
+2h00. Le repas est terminé les enfants <mod type="corr"><orig>reviène</orig><reg>reviennent</reg></mod> en classe la <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod><lb/>
+annonce: §<lb/>
+
+<pb/>
+«Cette <mod type="del" stage="" who=""><del>apé</del></mod> après-midi nous allons faire art plastique et sciences nous<lb/>
+allons faire notre <mod type="corr"><orig>expèrience</orig><reg>expérience</reg></mod>. » Fabien se dit : « Génial j’adore <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> décidément<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>auj’a</del></mod></del><add stage="" who="">aujourd’hui</add></mod> je m’amuse! » <mod type="subst"><del><mod type="del" stage="" who=""><del>la</del></mod></del><add stage="" who="">La</add></mod> fin de l’après-midi arrive<lb/>
+Fabien rentre chez lui ses parents <mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>la</orig><reg>là</reg></mod>. Il prend son <mod type="corr"><orig>gouter</orig><reg>goûter</reg></mod> <mod type="del" stage="" who=""><del>va jouer</del></mod> et<lb/>
+va jouer. Il mange et va se coucher. Quelle belle journée! §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D1-E7
+</head>
+<p>
+Dimanche dernier, j<mod type="del" stage="" who=""><del>XXX#</del></mod>' ai eu une bonne idée pour<lb/>
+ma rédaction. Dimanche matin j'ai pris<lb/>
+des céréales avec du <mod type="del" stage="" who=""><del>l</del></mod> produit liquide <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>vaisel vail</del></mod></del><add stage="" who="">vaissel</add></mod></orig><reg>vaisselle</reg></mod>,<lb/>
+mon chat <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>manger</orig><reg>mangé</reg></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> qui est <mod type="corr"><orig>parterre</orig><reg>par terre</reg></mod> car<lb/>
+<mod type="corr"><orig>je'ai</orig><reg>j'ai</reg></mod> fait exprès de tout <mod type="del" stage="" who=""><del>XXX#</del></mod> faire <mod type="corr"><orig>tombaient</orig><reg>tomber</reg></mod>, mon<lb/>
+chat est mort <mod type="corr"><orig>empoisoné</orig><reg>empoisonné</reg></mod> et l'après-midi <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+j'ai <mod type="corr"><orig>etait</orig><reg>été</reg></mod> à un aquarium l'aquarium c'est<lb/>
+inondé heureusement j'étais <mod type="corr"><orig>pres</orig><reg>près</reg></mod><lb/>
+d'une sortie de secours. Le lendemain<lb/>
+j'ai <mod type="subst"><del><mod type="del" stage="" who=""><del>au</del></mod></del><add stage="" who="">tout</add></mod> <mod type="corr"><orig><mod type="add" stage="" who=""><add>raconter</add></mod></orig><reg>raconté</reg></mod> et j'ai eu 10/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

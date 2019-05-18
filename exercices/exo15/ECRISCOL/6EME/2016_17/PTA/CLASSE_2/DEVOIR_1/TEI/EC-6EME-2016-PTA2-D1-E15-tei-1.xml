@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E15
+</head>
+<p>
+<mod type="corr"><orig>quand</orig><reg>Quand</reg></mod> je serais adulte je serais famille d'<mod type="corr"><orig>acceuil</orig><reg>accueil</reg></mod> et<lb/>
+j'accueillerais des enfants qui ont des petits <mod type="add" stage="" who=""><add>ou</add></mod>, gros <mod type="corr"><orig>problème</orig><reg>problèmes</reg></mod><lb/>
+qu'ils <mod type="subst"><del><mod type="del" stage="" who=""><del>sont</del></mod></del><add stage="" who="">soient</add></mod> <mod type="corr"><orig>handicapé</orig><reg>handicapés</reg></mod> ou pas je les aimerais quoi qu'il<lb/>
+arrive ou quoi qu'il passe. §<lb/>
+Ma journée: le matin je <mod type="corr"><orig>leverais</orig><reg>léverais</reg></mod> les enfants pour qu'ils<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>aye</del></mod></del><add stage="" who="">aille</add></mod></orig><reg>aillent</reg></mod> à l'école ou au collège ou bien alors au lycée je viendrai<lb/>
+les chercher les midi et les soirs puis on mangera ensemble en<lb/>
+famille. <mod type="corr"><orig>le</orig><reg>Le</reg></mod> soir ils se coucheront dans des chambres<lb/>
+<mod type="corr"><orig>séparée</orig><reg>séparées</reg></mod> et lendemain pareil. Et l'après-midi je les<lb/>
+emmenerais à leurs rendez-vous avec leurs parents ou <mod type="del" stage="" who=""><del>XXX#</del></mod> les membres<lb/>
+de <mod type="corr"><orig>leur<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>leur</reg></mod> <mod type="corr"><orig>famille<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>famille</reg></mod> je ferais le shopping avec eux je jouerais avec<lb/>
+eux je rigolerais aussi et surtout je les câlinerais et je les chouchouterais.<lb/>
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> les consolerais quand <mod type="corr"><orig>il</orig><reg>ils</reg></mod> seront tristes ou qu'ils auront<lb/>
+des <mod type="corr"><orig>petit</orig><reg>petits</reg></mod> problèmes. <mod type="corr"><orig>et</orig><reg>Et</reg></mod> il <mod type="corr"><orig>faudrais</orig><reg>faudrait</reg></mod> qu'<mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>saches</orig><reg>sachent</reg></mod> que en cas de<lb/>
+<mod type="corr"><orig>probleme</orig><reg>problèmes</reg></mod> je serais toujours <mod type="corr"><orig>la</orig><reg>là</reg></mod> pour eux. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,151 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E6-V2
+</head>
+<p>
+<pb/>
+
+Sous la nuit sans étoiles, d'une obscurité et d'une<lb/>
+épaisseur d'encre, l'homme depuis un moment déjà marchait<lb/>
+quand il aperçut au loin la lumière d'un réverbère. §<lb/>
+A ce moment précis, l'oscurité s'estompa. Arrivé devant une<lb/>
+boutique de petit commercant, il observa son reflet dans une<lb/>
+des vitres sales et usées se tenant devant lui. §<lb/>
+Les pommetes rougies et les mains disposées dans chacune des<lb/>
+<mod type="corr"><orig>poche</orig><reg>poches</reg></mod> de son gros manteau noir se mariaient parfaitement avec<lb/>
+ce froid hivernal du mois de janvier. Son triste regard<lb/>
+épia chaque <mod type="corr"><orig>parties</orig><reg>partie</reg></mod> de son corps. De ses petits pieds<lb/>
+jusqu'au haut de son crâne. §<lb/>
+De fines jambes, des bras musclés et une <mod type="add" stage="" who=""><add>maigre</add></mod> carrure §<lb/>
+
+<pb/>
+
+ne pouvaient repousser personne est-ce vrai? §<lb/>
+Pourquoi n'avait-elle pas voulu de lui? Pourquoi avait-elle<lb/>
+refusé sa demande. L'image des lèvres de sa chère et <lb/>
+tendre lui répondant "non", facilement et dénigrées de toute<lb/>
+sensualité, se répétait en boucle dans sa tête, bien<lb/>
+trop grosse pour le reste <mod type="add" stage="" who=""><add>de son</add></mod> corps. §<lb/>
+Peut-être que la raison de son refus était ses cheveux<lb/>
+noir comme l'ébène non <mod type="corr"><orig>coiffès</orig><reg>coiffés</reg></mod>? Ou bien ses yeux<lb/>
+marrons foncés, beaucoup trop banals et où la lecture de<lb/>
+sentiments se faisait difficile, d'après ses proches.<lb/>
+Habitué aux moqueries de ses amis sur sa façon de<lb/>
+faire la cour, comment allait-il leur dire qu'après des<lb/>
+mois de visites, plus qu'<mod type="corr"><orig>amicales</orig><reg>amicale</reg></mod> pour sa part, à mlle Villneuve,<lb/>
+qu'il avait échoué? Sa gentillesse avait manifestement<lb/>
+peu servi. Il avait pourtant été aimable et charmant §<lb/>
+
+<pb/>
+
+avec elle. Etant un homme à femmes et grand joueur à ses<lb/>
+heures perdues, il avait su se montrer à la hauteur, en<lb/>
+vrai gentleman. §<lb/>
+Cette époque était <mod type="corr"><orig>désormais</orig><reg>désormait</reg></mod> résolue. De nouvelles<lb/>
+perspectives faisaient <mod type="corr"><orig>leurs</orig><reg>leur</reg></mod> apparition. §<lb/>
+Son air hautain et son égo surdimentionné allaient faire<lb/>
+<mod type="corr"><orig>leurs</orig><reg>leur</reg></mod> <mod type="corr"><orig>retours</orig><reg>retour</reg></mod>. Sa gentillesse s'envolera et sa méchanceté<lb/>
+réapparaîtera. Il redeviendra ce coureur de jupon, cet<lb/>
+homme avare et égoiste qu'il était. §<lb/>
+Peut-être devra-t-il faire carrière au théâtre? L'expérience<lb/>
+est à son comble et la fortune, pour corrompre les metteurs<lb/>
+en scène aussi. §<lb/>
+C'est donc dans un dernier regard pour son reflet qu'un<lb/>
+sourir malsain se dessina sur son visage. §<lb/>
+Etrangement, la lumière du réverbère s'était éteinte. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

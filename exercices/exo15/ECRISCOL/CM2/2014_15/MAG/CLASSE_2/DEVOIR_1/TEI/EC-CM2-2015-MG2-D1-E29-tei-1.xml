@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MG2-D1-E29
+</head>
+<p>
+C'était le rôdeur qui était dans le Corridor P.P avait très<lb/>
+peur, donc il voulait partir dans sa chambre mais Rémi ne<lb/>
+voulait pas qu'il parte parce qu'il aurait eu très peur<lb/>
+lui aussi donc il voulait qu'il reste. Mais c'était Mathilde<lb/>
+donc il dit: §<lb/>
+"Mais <mod type="corr"><orig>qu'est ce</orig><reg>qu'est-ce</reg></mod> que tu fais là? Mais le <mod type="corr"><orig>cour</orig><reg>cours</reg></mod> de<lb/>
+danse était fini donc elle est revenue avec sa<lb/>
+mobylette. Elle voulait faire la petite enquête<lb/>
+avec Rémi et P.P cul vert. Mais qui est le coupable?<lb/>
+Se <mod type="subst"><del><mod type="del" stage="" who="P"><del>pose</del></mod></del><add stage="" who="P">posent</add></mod> les enquêteurs où peut-il bien être? Ou<lb/>
+se cache-t-il? <mod type="corr"><orig>Allons-voir</orig><reg>Allons voir</reg></mod> sous la chapelle ou<lb/>
+dans la salle de <mod type="corr"><orig>sience-Nat</orig><reg>sciences naturelles</reg></mod>. Dans la chapelle<lb/>
+pour peut-être arriver avant le rôdeur, comme ça §<lb/>
+
+<pb/>
+
+on trouvera le rôdeur qui s'appelle <mod type="corr"><orig>Jaque</orig><reg>Jacques</reg></mod> -Belette,¨<lb/>
+nous trouverons le coupable et l'<mod type="corr"><orig>emener</orig><reg>emmener</reg></mod> chez<lb/>
+Mr le principal. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

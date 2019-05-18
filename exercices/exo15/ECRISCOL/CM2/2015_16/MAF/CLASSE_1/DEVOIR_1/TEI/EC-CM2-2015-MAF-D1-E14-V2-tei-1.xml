@@ -1,0 +1,109 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E14-V2
+</head>
+<p>
+J'ai <mod type="corr"><orig>mi</orig><reg>mis</reg></mod> <mod type="corr"><orig>unetonne</orig><reg>une tonne</reg></mod> de <mod type="corr"><orig>bonbon</orig><reg>bonbons</reg></mod> dans l'assiette du fils de mes voisins<lb/>
+il en <mod type="del" stage="" who=""><del>a</del></mod> <mod type="corr"><orig>n'a</orig><reg>a</reg></mod> <mod type="corr"><orig>mager</orig><reg>mangé</reg></mod> <mod type="del" stage="" who=""><del>o</del></mod> <mod type="corr"><orig>telement</orig><reg>tellement</reg></mod> <mod type="del" stage="" who=""><del>d</del></mod> qu'a<mod type="del" stage="" who=""><del>l</del></mod> <mod type="corr"><orig>explose</orig><reg>explosé</reg></mod>. J'ai eu 5/10.<lb/>
+Le jour d'après, j'ai volé <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les cartes pokemon du monde. <mod type="corr"><orig>j'ai</orig><reg>J'ai</reg></mod><lb/>
+eu 6/10. Le jour d'après, j'ai détruit <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les écoles du monde.<lb/>
+<mod type="corr"><orig>j'ai</orig><reg>J'ai</reg></mod> eu 7/10. Le jour d'après, j'ai volé <mod type="del" stage="" who=""><del>d</del></mod> <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les lego du<lb/>
+monde 8/10. Le jour d'après, j'ai <mod type="del" stage="" who=""><del>vole braq</del></mod> volé <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les<lb/>
+<mod type="corr"><orig>jeu</orig><reg>jeux</reg></mod> vidéo. <mod type="corr"><orig>j'ai</orig><reg>J'ai</reg></mod> eu 9/10. <mod type="del" stage="" who=""><del>se</del></mod> Le jour d'après j<mod type="del" stage="" who=""><del>e</del></mod>'ai braqué<lb/>
+<mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les <mod type="corr"><orig>banque</orig><reg>banques</reg></mod> du monde. J'ai eu 10/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

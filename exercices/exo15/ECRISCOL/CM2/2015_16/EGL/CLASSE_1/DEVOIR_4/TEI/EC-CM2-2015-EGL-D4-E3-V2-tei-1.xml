@@ -1,0 +1,126 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E3-V2
+</head>
+<p>
+Il composa une chanson à son nom «Nelly je t'aime. Le jour<lb/> 
+suivant, il dessina sur le mur un grand coeur où est mar-<lb/>
+qué «Nelly je t'aime, mais Nelly ne répondit jamais. Il<lb/> 
+essaya de l'appeler plusieurs fois, il <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>même</orig><reg>même</reg></mod> <mod type="corr"><orig>tentai</orig><reg>tenté</reg></mod> de se<lb/> 
+déguiser en livreur de pizzas! Mais Nelly ne répondit<lb/>
+jamais. Un jour il la croisa et lui dit<lb/> 
+-«Bonjour Nelly, vous allez bien.»§
+-«Oui et vous, j'ai une petite question à vous poser?§
+-«Mon père, Monsieur le maire voudrait refaire la façade<lb/>
+de la mairie et, comme tu es maçon <mod type="corr"><orig>lu</orig><reg>tu</reg></mod> <mod type="corr"><orig>peut</orig><reg>peux</reg></mod> <mod type="corr"><orig>petaitre</orig><reg>peut-être</reg></mod> le faire<lb/>
+?»dit la jeune fille.§
+Le garçon <mod type="corr"><orig>sens</orig><reg>sans</reg></mod> réfléchir <mod type="corr"><orig>répondut</orig><reg>répondit</reg></mod> soudainement§
+-«Oui <mod type="corr"><orig>daccord</orig><reg>d'accord</reg></mod> je dirai à mon père, <mod type="corr"><orig>sens</orig><reg>s'en</reg></mod> occupera.»affirma le je<mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod>une<lb/>
+homme.§
+Le weekend prochain à l'aube Pedro se prépara.§
+-«Vite <mod type="corr"><orig>reveille toi</orig><reg>réveille-toi</reg></mod> papa on va être en retard pour le <mod type="corr"><orig>chantie</orig><reg>chantier</reg></mod><lb/>
+vite cela ne peut pas <mod type="corr"><orig>attendrel</orig><reg>attendre</reg></mod> s'<mod type="corr"><orig>eclama</orig><reg>exclama</reg></mod> le jeune homme.§
+Quelques mois plus tard le chantier était fini ils<lb/> 
+décidèrent de se racheter une nouvelle maison, mais<lb/> 
+Nelly n'avait jamais <mod type="corr"><orig>parler</orig><reg>parlé</reg></mod> d'argent à Pédro. Ils<lb/> 
+partèrent <mod type="corr"><orig>triste </orig><reg>tristes</reg></mod> mais <mod type="corr"><orig>préparé</orig><reg>préparèrent</reg></mod> une petite surprise à Nelly.<lb/>
+Ils n'avaient rien fait car il avait juste mis une bâche<lb/>
+peinte de la couleur que monsieur le maire avait proposé,<lb/>
+alors les deux maçons repartirent tranquillement et heureux<lb/> 
+et Pedro se jura de ne plus aimer Nelly.§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

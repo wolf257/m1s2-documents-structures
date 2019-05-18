@@ -1,0 +1,157 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E20
+</head>
+<p>
+<pb/>
+Elle partie à l'école toute contente <mod type="corr"><orig>rejouindre</orig><reg>rejoindre</reg></mod> ses <mod type="corr"><orig>amie</orig><reg>amies</reg></mod>. §<lb/>
+La cloche <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>sonner</orig><reg>sonné</reg></mod> les cours <mod type="corr"><orig>commence</orig><reg>commencent</reg></mod>. Et son amie<lb/>
+<mod type="corr"><orig>disa</orig><reg>dit</reg></mod> on <mod type="corr"><orig>à</orig><reg>a</reg></mod> cours de quoi Aujourd'hui. On <mod type="corr"><orig>à</orig><reg>a</reg></mod> cours de maths<lb/>
+de sports et de svt de Français de Histoire geographie <mod type="corr"><orig>est</orig><reg>et</reg></mod><lb/>
+d'anglais. Il vont se ranger le <mod type="corr"><orig>profeseur</orig><reg>professeur</reg></mod> <mod type="corr"><orig>vien</orig><reg>vient</reg></mod> les chercher.<lb/>
+Et elle <mod type="corr"><orig>disa</orig><reg>dit</reg></mod> vivement que la <mod type="corr"><orig>journnès</orig><reg>journée</reg></mod> se <mod type="corr"><orig>finisent</orig><reg>finise</reg></mod> par<lb/>
+ce que je suis <mod type="corr"><orig>fatigué</orig><reg>fatiguée</reg></mod>. Le <mod type="corr"><orig>profeseur</orig><reg>professeur</reg></mod> dit <mod type="corr"><orig>sortait</orig><reg>sortez</reg></mod> vos<lb/>
+<mod type="corr"><orig>cahier</orig><reg>cahiers</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> vos <mod type="corr"><orig>trouse</orig><reg>trousses</reg></mod>. <mod type="corr"><orig>Il</orig><reg>Ils</reg></mod> <mod type="corr"><orig>sortie</orig><reg>sortirent</reg></mod> leurs <mod type="corr"><orig>trouse</orig><reg>trousses</reg></mod> et leurs <mod type="corr"><orig>cahier</orig><reg>cahiers</reg></mod><lb/>
+<mod type="corr"><orig>est</orig><reg>et</reg></mod> se <mod type="corr"><orig>mette</orig><reg>mettent</reg></mod> au travail. Le <mod type="corr"><orig>profeseur</orig><reg>professeur</reg></mod> dit aujourd'hui<lb/>
+on <mod type="corr"><orig>vas</orig><reg>va</reg></mod> faire du <mod type="corr"><orig>calculs</orig><reg>calcul</reg></mod> mental et de <mod type="corr"><orig>gèomètrie</orig><reg>géométrie</reg></mod>. §<lb/>
+Le <mod type="corr"><orig>proffeseur</orig><reg>professeur</reg></mod> dit bon le cours est <mod type="corr"><orig>finie</orig><reg>fini</reg></mod>. <mod type="corr"><orig>vous</orig><reg>Vous</reg></mod> <mod type="corr"><orig>pouvais</orig><reg>pouvez</reg></mod><lb/>
+sortir allez manger. Il rentre chez eux. Le <mod type="corr"><orig>profeseur</orig><reg>professeur</reg></mod><lb/>
+disait <mod type="add" stage="" who=""><add>comme</add></mod> vous avez <mod type="corr"><orig>finie</orig><reg>fini</reg></mod> les cours à midi vous reprenez<lb/>
+à 2h00 de l'après-midi. Les <mod type="corr"><orig>èlèves</orig><reg>élèves</reg></mod> <mod type="corr"><orig>disa</orig><reg>dirent</reg></mod> d'accord<lb/>
+monsieur <mod type="corr"><orig>bonne</orig><reg>bon</reg></mod> <mod type="corr"><orig>app<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">è</add></mod>tit</orig><reg>appétit</reg></mod> à tout à l'heure. <mod type="corr"><orig>Allors</orig><reg>Alors</reg></mod> ils <mod type="corr"><orig>mangea</orig><reg>mangèrent</reg></mod><lb/>
+Et elle dit bon on <mod type="corr"><orig>vas</orig><reg>va</reg></mod> <mod type="corr"><orig>allez</orig><reg>aller</reg></mod> à l'école. <mod type="corr"><orig>par ce</orig><reg>Parce</reg></mod> que je <mod type="corr"><orig>voie</orig><reg>vois</reg></mod><lb/>
+<mod type="corr"><orig>qui les</orig><reg>qu'il est</reg></mod> 1 heure 45. Elle <mod type="corr"><orig>repard</orig><reg>repart</reg></mod> de chez elle en <mod type="corr"><orig>ferment</orig><reg>fermant</reg></mod><lb/>
+bien la porte de la maison. Elle appela sa mère pour<lb/>
+lui dire qu'elle <mod type="corr"><orig>reparta</orig><reg>repartait</reg></mod> à l'école. Sa maman lui<lb/>
+<mod type="corr"><orig>disa</orig><reg>dit</reg></mod> d'accord ma puce travaille bien à l'école. <mod type="corr"><orig>c'est</orig><reg>C'est</reg></mod><lb/>
+moi qui viendras te chercher à l'école. A tout à l'heure<lb/>
+bisous. Elle retourna à l'école revoir sa copine. Et elle<lb/>
+
+<pb/>
+<mod type="corr"><orig>disa</orig><reg>dit</reg></mod> vivement 16h00 comme <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> je vais<lb/>
+rester avec ma mère. Et faire mes devoirs<lb/>
+avec. La cloche à sonner. Et le <mod type="corr"><orig>proffeseur</orig><reg>professeur</reg></mod> <mod type="corr"><orig>vien</orig><reg>vient</reg></mod> chercher<lb/>
+tous les <mod type="corr"><orig>èlève</orig><reg>élèves</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>disa</orig><reg>dit</reg></mod> on aura pas le <mod type="corr"><orig>tant</orig><reg>temps</reg></mod><lb/>
+de Faire tous les cours <mod type="corr"><orig>par ce</orig><reg>parce</reg></mod> que il y a<lb/>
+l'anniversaire à Lola. Donc on <mod type="corr"><orig>à</orig><reg>a</reg></mod> que le cours<lb/>
+D'Histoire-Géographie. D'accord Monsieur. Le prof <mod type="corr"><orig>disa</orig><reg>dit</reg></mod><lb/>
+<mod type="corr"><orig>sorter</orig><reg>sortez</reg></mod> vos <mod type="corr"><orig>affaire</orig><reg>affaires</reg></mod> pour travailler. D'accord monsieur<lb/>
+On <mod type="corr"><orig>vas</orig><reg>va</reg></mod> bien se <mod type="corr"><orig>règaler</orig><reg>régaler</reg></mod> avec <mod type="corr"><orig>le<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>le</reg></mod> <mod type="corr"><orig>gateau</orig><reg>gâteau</reg></mod>. <mod type="corr"><orig>Etr</orig><reg>Et</reg></mod> j'<mod type="corr"><orig>éspère</orig><reg>espère</reg></mod><lb/>
+qui <mod type="corr"><orig>à</orig><reg>a</reg></mod> des bonbons. Le professeur <mod type="corr"><orig>disa</orig><reg>dit</reg></mod> <mod type="del" stage="" who=""><del>X#</del></mod> <mod type="corr"><orig>tes</orig><reg>t'es</reg></mod> une<lb/>
+gourmande toi <mod type="corr"><orig>didonque</orig><reg>dis donc</reg></mod>. Oui monsieur je suis une<lb/>
+gourmande. Bon <mod type="corr"><orig>mettons nous</orig><reg>mettons-nous</reg></mod> au <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod>. On <mod type="corr"><orig>vas</orig><reg>va</reg></mod> faire<lb/>
+du français. Oui j'ai bien <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> le français. <mod type="corr"><orig>Au rosement</orig><reg>Heureusement</reg></mod><lb/>
+que vous <mod type="corr"><orig>aimer</orig><reg>aimez</reg></mod> bien le français. On <mod type="corr"><orig>vas</orig><reg>va</reg></mod> <mod type="corr"><orig>travaille</orig><reg>travailler</reg></mod> sur<lb/>
+le verbe. D'accord monsieur. Le <mod type="corr"><orig>proffesseur</orig><reg>professeur</reg></mod> <mod type="corr"><orig>disa</orig><reg>dit</reg></mod> on <mod type="corr"><orig>vas</orig><reg>va</reg></mod><lb/>
+manger le <mod type="corr"><orig>gateau</orig><reg>gâteau</reg></mod> à Lola maintenant sinon il va être<lb/>
+trop tard. Alors <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> du gâteau au chocolat. Oui on<lb/>
+aime tous <mod type="corr"><orig>sa</orig><reg>ça</reg></mod>. En boisson il y a du coca cola ou<lb/>
+du jus d'orange. Et après il y aura des bonbons le<lb/>
+prof <mod type="corr"><orig>disa</orig><reg>dit</reg></mod>. Bon qui veut aider <mod type="corr"><orig>lola</orig><reg>Lola</reg></mod> à <mod type="corr"><orig>distrubuer</orig><reg>distribuer</reg></mod><lb/>
+les assiettes et les verres. <mod type="corr"><orig>moi</orig><reg>Moi</reg></mod> monsieur d'accord. §<lb/>
+Faustine tu y vas. Bon y reste 10 minutes avant que<lb/>
+la cloche sonne. Bon <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> sonne. Au revoir les<lb/>
+enfants. <mod type="corr"><orig>bonne</orig><reg>Bonne</reg></mod> fin de journée. <mod type="corr"><orig>Au</orig><reg>A</reg></mod> demain au<lb/>
+revoir. Ma maman <mod type="corr"><orig>arrivas</orig><reg>arriva</reg></mod> me chercher. Et ma mère me<lb/>
+<mod type="corr"><orig>disa</orig><reg>dit</reg></mod>. Bon ma puce tu vas <mod type="corr"><orig>ellez</orig><reg>aller</reg></mod> goûter §<lb/>
+
+<pb/>
+d'accord maman. Et après tu feras tes<lb/>
+devoirs <mod type="corr"><orig>par ce</orig><reg>parce</reg></mod> que demain tu as une<lb/>
+<mod type="corr"><orig>èvaluation</orig><reg>évaluation</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

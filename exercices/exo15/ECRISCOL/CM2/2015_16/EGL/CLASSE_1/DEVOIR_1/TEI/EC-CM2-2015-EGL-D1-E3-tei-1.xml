@@ -1,0 +1,123 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D1-E3
+</head>
+<p>
+<pb/>
+J'ai voulu <mod type="corr"><orig>assomer</orig><reg>assommer</reg></mod> ma mère avec une<lb/>
+pierre, <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>jour là</orig><reg>jour-là</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> n'avait pas<lb/>
+<mod type="corr"><orig>marcher</orig><reg>marché</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>.</del></mod></del><add stage="" who="">,</add></mod> la pierre <mod type="corr"><orig>etait</orig><reg>était</reg></mod> <mod type="corr"><orig>tomber</orig><reg>tombée</reg></mod> <mod type="corr"><orig>partere</orig><reg>par terre</reg></mod><lb/>
+il me <mod type="corr"><orig>falais</orig><reg>fallait</reg></mod> vite une autre idée. <mod type="corr"><orig>Est</orig><reg>Et</reg></mod><lb/>
+tout à coup j'ai <mod type="corr"><orig>trouver</orig><reg>trouvé</reg></mod> la solution<lb/>
+arracher les <mod type="corr"><orig>frein</orig><reg>freins</reg></mod> de la voiture <mod type="del" stage="" who=""><del>X#</del></mod> de papa <mod type="subst"><del><mod type="del" stage="" who=""><del>.</del></mod></del><add stage="" who="">,</add></mod><lb/>
+mais sauf que papa roule <mod type="corr"><orig>lemptement</orig><reg>lentement</reg></mod><lb/>
+il me <mod type="corr"><orig>falais</orig><reg>fallait</reg></mod> une autre idée. <mod type="corr"><orig>Mes</orig><reg>Mais</reg></mod> quoi?<lb/>
+<mod type="corr"><orig>j'</orig><reg>J'</reg></mod>ai #XXX# <mod type="corr"><orig>pousser</orig><reg>poussé</reg></mod> ma petite <mod type="corr"><orig>soeurs</orig><reg>soeur</reg></mod> dans la<lb/>
+rivière. <mod type="corr"><orig>le</orig><reg>Le</reg></mod> lendemain en classe j'ai <mod type="corr"><orig>ù</orig><reg>eu</reg></mod> un<lb/>
+10/10, <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> je <mod type="corr"><orig>penser</orig><reg>pensais</reg></mod> à <mod type="corr"><orig>tousque</orig><reg>tout ce que</reg></mod> j'ai <mod type="corr"><orig>fais</orig><reg>fait</reg></mod>, à mes<lb/>
+<mod type="corr"><orig>proche</orig><reg>proches</reg></mod>, juste pour une fichue note. Je <mod type="corr"><orig>nétait</orig><reg>n'étais</reg></mod><lb/>
+pas <mod type="corr"><orig>fiers</orig><reg>fier</reg></mod> de moi. Le dimanche, quand je<lb/>
+<mod type="corr"><orig>parter</orig><reg>partais</reg></mod> chez mes <mod type="corr"><orig>grand-parent</orig><reg>grands-parents</reg></mod>, j'ai<lb/>
+<mod type="corr"><orig>pardonner</orig><reg>pardonné</reg></mod> <mod type="add" stage="" who=""><add><mod type="corr"><orig>tout</orig><reg>tous</reg></mod> mes <mod type="corr"><orig>proche</orig><reg>proches</reg></mod></add></mod> pour tout ce que je leur <mod type="corr"><orig>et</orig><reg>ai</reg></mod> <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> §<lb/>
+
+<pb/>
+alors le <mod type="corr"><orig>lendemcains</orig><reg>lendemain</reg></mod> en classe j'ai <mod type="corr"><orig>raconter</orig><reg>raconté</reg></mod> tout<lb/>
+ce qui <mod type="corr"><orig>c'estatpassé</orig><reg>s'est passé</reg></mod> j'ai <mod type="corr"><orig>u</orig><reg>eu</reg></mod> un 10/10 et je me suis<lb/>
+rendu <mod type="corr"><orig>conte</orig><reg>compte</reg></mod> qu'il ne <mod type="corr"><orig>falais</orig><reg>fallait</reg></mod> pas <mod type="corr"><orig>fair</orig><reg>faire</reg></mod> du mal<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>les</orig><reg>mes</reg></mod> <mod type="corr"><orig>proche</orig><reg>proches</reg></mod> pour avoir un 10/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

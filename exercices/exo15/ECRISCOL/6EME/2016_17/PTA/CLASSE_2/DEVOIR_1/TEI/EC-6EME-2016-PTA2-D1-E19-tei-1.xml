@@ -1,0 +1,146 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E19
+</head>
+<p>
+<pb/>
+Vendredi 16h30: je me lève, je vais prendre ma<lb/>
+douche et après <mod type="corr"><orig>je<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>je</reg></mod> m'habille <mod type="del" stage="" who=""><del>je pr</del></mod> je me coiffe<lb/>
+je mets mes chaussures et mon manteau et ne pas<lb/>
+<mod type="corr"><orig>oublié</orig><reg>oublier</reg></mod> de prendre ma brosse à <mod type="corr"><orig>dent</orig><reg>dents</reg></mod> et mon<lb/>
+dentifrice. <mod type="del" stage="" who=""><del>et</del></mod> Je <mod type="corr"><orig>sort</orig><reg>sors</reg></mod> prendre mon petit déjeuner<lb/>
+dans un café. Je vais chez ma copine pour<lb/>
+aller la chercher et me brosser les dents. §<lb/>
+<mod type="del" stage="" who=""><del>aq</del></mod> <mod type="corr"><orig>A<mod type="del" stage="" who=""><del>o</del></mod>près</orig><reg>Après</reg></mod> on va au travail. §<lb/>
+<mod type="corr"><orig>Arriver</orig><reg>Arrivées</reg></mod> au salon d'esthétique. On se<lb/>
+met tout de suite au <mod type="corr"><orig>boulo</orig><reg>boulot</reg></mod>. §<lb/>
+- <mod type="del" stage="" who=""><del>Jai</del></mod> J'ai ma première cliente à 8h et toi?<lb/>
+dis-je. §<lb/>
+-Moi <mod type="corr"><orig>a</orig><reg>à</reg></mod> 8h comme toi, <mod type="corr"><orig>est ce</orig><reg>est-ce</reg></mod> que tu<lb/>
+as une cliente à 10h? <mod type="corr"><orig>demande-Sara</orig><reg>demande Sara</reg></mod><lb/>
+- <mod type="del" stage="" who=""><del>O Non, je n'est pas de cliente à cet heure là.<lb/>
+Je lui [re</del></mod> <mod type="corr"><orig>répondit</orig><reg>répondis</reg></mod>.<lb/>
+-Ah! super!! On pourra faire une pause<lb/>
+<mod type="corr"><orig>dis-Sara</orig><reg>dit Sara</reg></mod>. §<lb/>
+Ah oui!! ça <mod type="corr"><orig>serai</orig><reg>serait</reg></mod> une super idée! Je lui <mod type="corr"><orig>repondit</orig><reg>répondis</reg></mod><lb/>
+en m'exclamant. §<lb/>
+
+<pb/>
+10h. Sara <mod type="corr"><orig>me<mod type="del" stage="" who=""><del>de</del></mod></orig><reg>me</reg></mod> dit "alors elle <mod type="corr"><orig>c'est</orig><reg>s'est</reg></mod> <mod type="corr"><orig>passé</orig><reg>passée</reg></mod><lb/>
+ta matinée? Elles <mod type="del" stage="" who=""><del>était</del></mod> ont était <mod type="corr"><orig>gentille</orig><reg>gentilles</reg></mod><lb/>
+tes <mod type="corr"><orig>clients</orig><reg>clientes</reg></mod>." §<lb/>
+Je lui <mod type="corr"><orig>répond</orig><reg>réponds</reg></mod> "oui, oui!! Et j'ai eu<lb/>
+<mod type="corr"><orig>casiment</orig><reg>quasiment</reg></mod> que des hommes, j'ai eu M . Legrand<lb/>
+M. Tihy...etc. §<lb/>
+12h. Je demande <mod type="corr"><orig>a</orig><reg>à</reg></mod> Sara si <mod type="subst"><del><mod type="del" stage="" who=""><del>je</del></mod></del><add stage="" who="">elle</add></mod> voulait<lb/>
+qu'on se fasse un <mod type="subst"><del><mod type="del" stage="" who=""><del>restorau</del></mod></del><add stage="" who="">restaurant</add></mod><lb/>
+chinois. §<lb/>
+-Oui! <mod type="corr"><orig>Volontié</orig><reg>Volentiers</reg></mod> avec grand plaisir! §<lb/>
+me <mod type="corr"><orig>répond<mod type="del" stage="" who=""><del>s</del></mod>-elle</orig><reg>répond-elle</reg></mod> avec un grand sourire<lb/>
+13h. On reprend le <mod type="del" stage="" who=""><del>bo</del></mod> travail avec Sara.<lb/>
+19h. ça te dit qu'on <mod type="corr"><orig>a y</orig><reg>aille</reg></mod> en boîte?<lb/>
+Je demande à Sara. §<lb/>
+-Oui!! Avec grand plaisir. On invite<lb/>
+les garçons? <mod type="del" stage="" who=""><del>dans </del></mod> dit-elle. §<lb/>
+-Oui!!! Je lui ai répondu §<lb/>
+On arrive en boîte et les garçons nous ont<lb/>
+<mod type="corr"><orig>réjoinds</orig><reg>réjoint</reg></mod>. On passe une super. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">O</add></mod>n</orig><reg>On</reg></mod> a<lb/>
+<mod type="corr"><orig>bue</orig><reg>bu</reg></mod> <mod type="corr"><orig>1</orig><reg>une</reg></mod> bouteille avec Sara Théo et Baptiste.<lb/>
+5h du matin. On rentre seulement je suis très<lb/>
+<mod type="corr"><orig>fatigué</orig><reg>fatiguée</reg></mod> heureusement que je ne travaille pas. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

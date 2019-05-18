@@ -1,0 +1,103 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2016-ABZ-D2-E10-V1
+</head>
+<p>
+<mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline"></hi>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>frais</orig><reg>ferai</reg></mod> . quand je <mod type="corr"><orig>sar</orig><reg>serai</reg></mod> adulte<lb/><mod type="corr"><orig>j#X#’fras </orig><reg>je ferai</reg></mod> <mod type="corr"><orig>quésinere</orig><reg>cuisinère</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> #XXX# <mod type="add" stage="T2" who="P"><add>.</add></mod> <mod type="corr"><orig>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>fra</orig><reg>ferai</reg></mod><lb/><mod type="corr"><orig>a</orig><reg>à</reg></mod> manger dans mon <mod type="corr"><orig>résotoran</orig><reg>restaurant</reg></mod><lb/><mod type="corr"><orig>é</orig><reg>et</reg></mod> <mod type="corr"><orig>osi</orig><reg>aussi</reg></mod> <mod type="corr"><orig>pronma</orig><reg>pour ma</reg></mod> famille. §<lb/> §<lb/><hi place=" " time="T2" who="Pσ" style="underline"></hi> <mod type="add" stage="T2" who="P"><add>.</add></mod> <mod type="corr"><orig>quan</orig><reg>Quand</reg></mod> je <mod type="corr"><orig>sra</orig><reg>serai</reg></mod> adulte je <mod type="corr"><orig>fra</orig><reg>ferai</reg></mod><lb/><mod type="corr"><orig>quésinere</orig><reg>cuisinière</reg></mod>. §<lb/> §<lb/><mod type="corr"><orig>jé</orig><reg>Je</reg></mod> <mod type="corr"><orig>voud#X#é</orig><reg>voudrais</reg></mod> un chat <mod type="corr"><orig>é</orig><reg>et</reg></mod> un<lb/><mod type="corr"><orig>deschins</orig><reg>chien</reg></mod>. <mod type="corr"><orig>j</orig><reg>Je</reg></mod> <mod type="corr"><orig>voudre</orig><reg>voudrais</reg></mod> <mod type="corr"><orig>uns</orig><reg>une</reg></mod> . maison<lb/><mod type="corr"><orig>é</orig><reg>et</reg></mod> <mod type="corr"><orig>unjardins</orig><reg>un jardin</reg></mod>. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

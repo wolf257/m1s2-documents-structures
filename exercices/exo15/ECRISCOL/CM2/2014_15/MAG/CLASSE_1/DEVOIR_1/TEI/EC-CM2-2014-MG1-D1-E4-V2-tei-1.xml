@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E4-V2
+</head>
+<p>
+Le cabanon de l'oncle Jo. §<lb/>
+L'oncle de Lili <mod type="subst"><del><mod type="del" stage="" who="P"><del>á</del></mod></del><add stage="" who="P">a</add></mod> disparu. §<lb/>
+Tata Denise est <mod type="corr"><orig>bouleverss<mod type="subst"><del><mod type="del" stage="" who="P"><del>ait</del></mod></del><add stage="" who="P">ée</add></mod></orig><reg>bouleversée</reg></mod> son mari a disparu. Elle<lb/> 
+compose tout de suite le 17 on lui demande le nom de<lb/>
+l'oncle Jo son prénom son <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>n'age</del></mod></del><add stage="" who="P">âge</add></mod></orig><reg>âge</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">c'est a bitude</hi></orig><reg>ses habitudes</reg></mod> et<lb/> 
+s'il connaissait quelqu'un de <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">a</add></mod>ngereux</orig><reg>dangereux</reg></mod>. Elle lui <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>à</del></mod></del><add stage="" who="P">a</add></mod></orig><reg>a</reg></mod> bien<lb/>
+sûr dit non : Mais elle ne savait pas qu'il avait <mod type="corr"><orig>empri<mod type="add" stage="" who=""><add>e</add></mod>nter</orig><reg>emprunté</reg></mod> <mod type="add" stage="" who="P"><add>emprunter</add></mod> 5 000 $ <mod type="del" stage="" who="P"><del>mille</del></mod>. §<lb/>
+<mod type="corr"><orig>E<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">n</add></mod>suite</orig><reg>Ensuite</reg></mod> <hi place=" " time="" who="Pσ" style="underline">Et</hi> qu'il n'avait pas <mod type="corr"><orig>rembours<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>remboursé</reg></mod> l'argent. Le monsieur avait<lb/>
+tous ses <mod type="corr"><orig>cordonn#XXX#<mod type="add" stage="" who="P"><add>ées</add></mod></orig><reg>coordonnés</reg></mod> il aurait eu 4 ans pour <mod type="del" stage="" who="P"><del>le</del></mod> <mod type="corr"><orig>rembours<mod type="subst"><del><mod type="del" stage="" who="P"><del>ait</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>rembourser</reg></mod>. §<lb/>
+<mod type="add" stage="" who=""><add>Puis</add></mod> <hi place=" " time="" who="Pσ" style="underline">Et</hi> <mod type="add" stage="" who="P"><add>il</add></mod> lui <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>à</del></mod></del><add stage="" who="P">a</add></mod></orig><reg>a</reg></mod> <mod type="corr"><orig>donn<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>donné</reg></mod> rendez-vous dans un parc <mod type="del" stage="" who="P"><del>et</del></mod>.<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>E</del></mod></del><add stage="" who="P">e</add></mod>nfait</orig><reg>en fait</reg></mod> l'homme est <mod type="corr"><orig>dangeureux</orig><reg>dangereux</reg></mod>. Et l'oncle n'a pas<lb/>
+l'argent et le cabanon <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>doua</del></mod></del><add stage="" who="P">doit</add></mod></orig><reg>doit</reg></mod> bien servir à quelque<lb/>
+chose ... §<lb/>
+<mod type="corr"><orig>Quelque<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>Quelques</reg></mod> <mod type="corr"><orig>semaine<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>semaines</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">plutars</hi></orig><reg>plus tard</reg></mod> <mod type="add" stage="" who="P"><add>plus tard</add></mod> le GIPN groupe intervention<lb/>
+police <mod type="corr"><orig>national<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>nationale</reg></mod> a <mod type="corr"><orig>trouv<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>trouvé</reg></mod> un <mod type="corr"><orig>corp<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>corps</reg></mod> dans un<lb/>
+cabanon dans la <mod type="corr"><orig>foręt</orig><reg>forêt</reg></mod>. Direction 36 quai des<lb/>
+<mod type="corr"><orig>orféve<mod type="add" stage="" who="P"><add>es</add></mod></orig><reg>orfèvres</reg></mod>. Les <mod type="corr"><orig>anal<mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">y</add></mod>se<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>analyses</reg></mod> ADN ont <mod type="corr"><orig>rélev<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>révélé</reg></mod> leur secret.<lb/>
+C'est bien l'oncle Jo. <mod type="corr"><orig>Mai<mod type="add" stage="" who="P"><add>n</add></mod>tenant</orig><reg>Maintenant</reg></mod> le <mod type="add" stage="" who="P"><add>la</add></mod> PJ <mod type="corr"><orig>doua</orig><reg>doit</reg></mod> <mod type="add" stage="" who="P"><add>doit</add></mod> se<lb/>
+charger de l'<mod type="corr"><orig>enqu<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ê</add></mod>te</orig><reg>enquête</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> §<lb/>
+L'homme <mod type="corr"><orig>e<mod type="add" stage="" who="P"><add>s</add></mod>t</orig><reg>est</reg></mod> <mod type="corr"><orig>soumis</orig><reg>soumis</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> 10 ans de prison dont<lb/>
+5 <mod type="corr"><orig>ferme<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>fermes</reg></mod>. Il est bien connu des <mod type="corr"><orig>servi<mod type="subst"><del><mod type="del" stage="" who="P"><del>se</del></mod></del><add stage="" who="P">ces</add></mod></orig><reg>services</reg></mod> de Police<lb/>
+. Pour <mod type="corr"><orig>b<mod type="add" stage="" who="P"><add>r</add></mod>aquage</orig><reg>braquage</reg></mod> puis prise d'<mod type="corr"><orig>otage</orig><reg>otages</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> §<lb/>
+<mod type="corr"><orig>Voila</orig><reg>voilà</reg></mod> la fin de cette triste histoire. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

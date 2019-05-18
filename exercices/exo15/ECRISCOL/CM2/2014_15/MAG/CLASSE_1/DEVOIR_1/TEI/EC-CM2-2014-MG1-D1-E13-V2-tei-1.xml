@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E13-V2
+</head>
+<p>
+<mod type="corr"><orig>aujourd'hui</orig><reg>Aujourd'hui</reg></mod> Lili se <mod type="corr"><orig>reveil<mod type="add" stage="" who="P"><add>le</add></mod></orig><reg>réveille</reg></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">E</add></mod>lle <mod type="del" stage="" who=""><del>a</del></mod> entend un<lb/>
+bruit de feraille elle <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="del" stage="" who=""><del>XXX</del></mod> court dans toute la maison<lb/>
+elle voit Tata Denise mais elle ne voit <mod type="add" stage="" who="P"><add>pas</add></mod> l'Oncle JO<lb/>
+elle va sur le fauteuil de l'oncle JO soudain elle <mod type="subst"><del><mod type="del" stage="" who=""><del>va</del></mod></del><add stage="" who="">voit</add></mod><lb/>
+par la fenêtre une porte qui avance toute <mod type="corr"><orig>seul</orig><reg>seule</reg></mod> §<lb/><lb/>
+
+Ce <mod type="corr"><orig>jour la</orig><reg>jour-là</reg></mod> Lili reste sur le terrain vague en <mod type="corr"><orig>pensene</orig><reg>pensant</reg></mod><lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> la Porte elle rentre à la maison que pour<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> manger "peut-être <mod type="del" stage="" who=""><del>travail</del></mod> qu'il <mod type="corr"><orig>s'énnuit</orig><reg>s'ennuie</reg></mod> l'oncle<lb/>
+JO. Lili rentre chez tata Denise maintenant<lb/> 
+c'est triste chez tata Denise. C'est le<lb/>
+soir tout le monde s'endort. Le matin <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod><lb/>
+entend un autre bruit de feraille<lb/>
+elle voit l'oncle JO. Tout est bien qui <mod type="corr"><orig>fini</orig><reg>finit</reg></mod> bien §<lb/>
+A suivre §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

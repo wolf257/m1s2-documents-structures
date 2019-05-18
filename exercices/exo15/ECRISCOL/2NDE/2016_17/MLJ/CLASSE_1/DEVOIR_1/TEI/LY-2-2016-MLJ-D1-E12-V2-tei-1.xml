@@ -1,0 +1,127 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2016-MLJ-D1-E12-V2
+</head>
+<p>
+Julie après <mod type="corr"><orig>quelque</orig><reg>quelques</reg></mod> <mod type="corr"><orig>instant</orig><reg>instants</reg></mod> de marche, c'est <mod type="corr"><orig>abrité</orig><reg>abrité</reg></mod> sous l'abri<mod type="del" stage="" who=""><del>t</del></mod> de<lb/>
+bus qu'elle prenait habituellement. 15 min après elle vit son bus de couleur<lb/>
+violette s'arrêtant dans l'abri de bus gris. <mod type="corr"><orig>elle</orig><reg>Elle</reg></mod> était seule à<lb/>
+attendre. §<lb/>
+<mod type="corr"><orig>elle</orig><reg>Elle</reg></mod> monte dans le magicobus, seul face au contrôleur lui demandant<lb/>
+sa destination. Julie répondit: "Le <mod type="corr"><orig>chauchou</orig><reg>chaudron</reg></mod> <mod type="corr"><orig>buveur</orig><reg>baveur</reg></mod>" d'une voix timide.<lb/>
+Soudainement, une des têtes accrochées au rétroviseur du bus, se mit<lb/>
+à parler puis à dire « Ok, alors direction le <mod type="corr"><orig>chauchon</orig><reg>chaudron</reg></mod> <mod type="corr"><orig>baveur</orig><reg>baveur</reg></mod>! »<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>d</del></mod></del><add stage="" who="">D</add></mod>'un coup sec, le conducteur <mod type="corr"><orig>app<mod type="subst"><del><mod type="del" stage="" who=""><del>y</del></mod></del><add stage="" who="">u</add></mod>a</orig><reg>appuia</reg></mod> sur l'accélérateur, le bus<lb/>
+parti d'aussitôt. <mod type="corr"><orig>il</orig><reg>Il</reg></mod> allait à une vitesse fulgurante, au bout<lb/>
+d'un quart de trajet, le bus desservit à l'arrêt que Julie<lb/>
+avait <mod type="corr"><orig>demandée</orig><reg>demandé</reg></mod>. §<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">E</add></mod>lle</orig><reg>Elle</reg></mod> les remercia, <mod type="corr"><orig>pris</orig><reg>prit</reg></mod> son sac et sa valise et descendit du<lb/>
+magicobus. Et là, elle <mod type="corr"><orig>é<mod type="del" stage="" who=""><del>s</del></mod>tait</orig><reg>était</reg></mod> figée devant <mod type="corr"><orig>se</orig><reg>ce</reg></mod> fameux bâtiment.<lb/>
+<mod type="corr"><orig>il</orig><reg>Il</reg></mod> est sombre et peu lumineux.<lb/>
+<mod type="corr"><orig>elle</orig><reg>Elle</reg></mod> observa la pancarte de l'auberge qui était de couleur<lb/>
+verte sombre, quand soudain des inscriptions se <mod type="corr"><orig>mis</orig><reg>misent</reg></mod> à<lb/>
+apparaître:"Le <mod type="corr"><orig>chauchou</orig><reg>chautron</reg></mod> baveur". §<lb/>
+Julie entra dans le bâtiment en question, arrivée dans une<lb/> 
+grande salle dans les ton gris sombre, caché par une<lb/>
+multitude de portraits qui s'animaient, parlaient avec<lb/>
+<mod type="corr"><orig>certain</orig><reg>certains</reg></mod> <mod type="corr"><orig>client</orig><reg>clients</reg></mod> de l'auberge. §<lb/>
+Soudain elle entendit:"Attention!" elle tourna la tête <mod type="corr"><orig>est</orig><reg>et</reg></mod><lb/>
+la baissa de suite, une assiette lui arrivait sur elle, puis<lb/>
+elle se rendait dans une armoire massive, suivi de plusieurs<lb/>
+<mod type="corr"><orig>assiette</orig><reg>assiettes</reg></mod> et autres couverts. <mod type="corr"><orig>c'est</orig><reg>C'est</reg></mod> de la magie. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,109 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E29
+</head>
+<p>
+Fabien prend le bus pour aller <mod type="corr"><orig>a</orig><reg>à</reg></mod> l’école le bus <mod type="corr"><orig>sarerte</orig><reg>s’arrête</reg></mod> <mod type="corr"><orig>d’évent</orig><reg>devant</reg></mod><lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>l</del></mod></del><add stage="" who="">l’</add></mod>arer</orig><reg>l’arret</reg></mod> de l’école. Fabien <mod type="del" stage="" who=""><del>rantre</del></mod> rentre en classe et <mod type="corr"><orig>comence</orig><reg>commence</reg></mod><lb/>
+la journée. Il <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> des <mod type="corr"><orig>mathématique</orig><reg>mathématiques</reg></mod> et après c’est la<lb/>
+<mod type="corr"><orig>recreation</orig><reg>récréation</reg></mod> après <mod type="del" stage="" who=""><del>la recreation</del></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> font la dictée après. <mod type="del" stage="" who=""><del>la dicte</del></mod><lb/>
+<mod type="corr"><orig>tous</orig><reg>tout</reg></mod> le monde va manger après il <mod type="corr"><orig>ses</orig><reg>se</reg></mod> <mod type="corr"><orig>remer</orig><reg>remet</reg></mod> au <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod>.<lb/>
+Et après <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>rentre</orig><reg>rentrent</reg></mod> chez <mod type="corr"><orig>seut</orig><reg>eux</reg></mod>.Et puis il prend sont 4 <mod type="corr"><orig>eure</orig><reg>heures</reg></mod><lb/>
+<mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>c’est</orig><reg>ses</reg></mod> parents <mod type="corr"><orig>rentre</orig><reg>rentrent</reg></mod> du <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod>. Fabien <mod type="corr"><orig>parent</orig><reg>part</reg></mod> au<lb/>
+foot. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

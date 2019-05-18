@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E2-V2
+</head>
+<p>
+Pedro redit <mod type="add" stage="" who=""><add><sup></sup>«</add></mod>Nelly je T'aime<mod type="add" stage="" who=""><add><sup></sup>»</add></mod>. Mais Nelly <mod type="corr"><orig>repond</orig><reg>répond</reg></mod>. Et Pedro <mod type="corr"><orig>commenc</orig><reg>commence</reg></mod><lb/>
+à être <mod type="corr"><orig>trisete</orig><reg>triste</reg></mod> parce que Nelly ne veut pas répondre. Il se <mod type="corr"><orig>dema<mod type="add" stage="" who=""><add><sup></sup>n</add></mod>ds</orig><reg>demande</reg></mod><lb/>
+pourquoi Nelly refuse de lui <mod type="corr"><orig>repondre</orig><reg>répondre</reg></mod> donc il va la voir et<lb/>
+<mod type="corr"><orig>repete</orig><reg>répète</reg></mod> <mod type="add" stage="" who=""><add><sup></sup>"</add></mod>Nelly je T'aime<mod type="add" stage="" who=""><add><sup></sup>»</add></mod>. Mais elle ne <mod type="corr"><orig>re<mod type="del" stage="" who=""><del><sup></sup>#xxx#</del></mod><mod type="add" stage="" who=""><add><sup></sup>po</add></mod>nd</orig><reg>répond</reg></mod> toujours pas. Il<lb/> 
+est vraimant <mod type="corr"><orig>desespèré</orig><reg>désepéré</reg></mod>. Il pe<mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod>nse qu<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>e</del></mod></del><add stage="" who=""><sup></sup>'</add></mod>elle ne l'aime pas<lb/>
+comme il l'a<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod></del><add stage="" who=""><sup></sup>i</add></mod>me alors il crie <mod type="add" stage="" who=""><add><sup></sup>«</add></mod>Nelly je T'aime<mod type="add" stage="" who=""><add><sup></sup>»</add></mod>.Et elle<lb/> 
+<mod type="corr"><orig>repond</orig><reg>répond</reg></mod> <mod type="corr"><orig>enfen</orig><reg>enfin</reg></mod> et lui demande§
+<mod type="add" stage="" who=""><add><sup></sup>«</add></mod>Oui Pedro tu veux me <mod type="corr"><orig>parle</orig><reg>parler</reg></mod><mod type="add" stage="" who=""><add><sup></sup>»</add></mod>? dit Nelly.§
+Pedro <mod type="corr"><orig>repond</orig><reg>répond</reg></mod>.§
+<mod type="add" stage="" who=""><add><sup></sup>«</add></mod>Oui je veux te demande une chose<mod type="del" stage="" who=""><del><sup></sup>.</del></mod><mod type="add" stage="" who=""><add><sup></sup>»</add></mod>dit Pedro§
+<mod type="add" stage="" who=""><add><sup></sup>«</add></mod>Oui<mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod>vas<mod type="add" stage="" who=""><add><sup></sup>»</add></mod>dit Nelly.§
+<mod type="add" stage="" who=""><add><sup></sup>«</add></mod>je veux te dire que je t'aime Nelly<mod type="add" stage="" who=""><add><sup></sup>»</add></mod>dit <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>N</del></mod></del><add stage="" who=""><sup></sup>P</add></mod>edro.<lb/>
+<mod type="add" stage="" who=""><add><sup></sup>«</add></mod>Moi aus<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>i</del></mod></del><add stage="" who=""><sup></sup>s</add></mod>i Pedro, tu es <mod type="corr"><orig>trèmionions</orig><reg>très mignon</reg></mod> je t'aime <mod type="corr"><orig>aus<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>e</del></mod></del><add stage="" who=""><sup></sup>i</add></mod></orig><reg>aussi</reg></mod>. <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>#xxx#</del></mod></del><add stage="T2" who=""><sup>T2</sup>dit Nelly</add></mod>.§
+<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod></del><add stage="" who=""><sup></sup>P</add></mod>edro <mod type="corr"><orig>repond</orig><reg>répond</reg></mod>.§
+<mod type="add" stage="" who=""><add><sup></sup>«</add></mod>Moi aussi mais moi je t'aime de tout mon coeur Nelly tu<lb/>
+veux te <mod type="corr"><orig>ma<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>i</del></mod></del><add stage="" who=""><sup></sup>r</add></mod>ie</orig><reg>marier</reg></mod> avec moi.<mod type="add" stage="" who=""><add><sup></sup>»</add></mod>dit Pedro§
+<mod type="add" stage="" who=""><add><sup></sup>«</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod></del><add stage="" who=""><sup></sup>O</add></mod>ui Pedro.<mod type="add" stage="" who=""><add><sup></sup>»</add></mod>dit Nelly.§
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

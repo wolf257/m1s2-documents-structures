@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E5-V2
+</head>
+<p>
+Il avait une <mod type="corr"><orig>envi<mod type="del" stage="" who=""><del><sup></sup>t</del></mod></orig><reg>envie</reg></mod> folle de <mod type="corr"><orig>dan<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>s</del></mod></del><add stage="" who=""><sup></sup>c</add></mod>e</orig><reg>danser</reg></mod> avec elle de <mod type="corr"><orig>non§
+§
+veau</orig><reg>nouveau</reg></mod>, mais il avait <mod type="del" stage="" who=""><del><sup></sup>une</del></mod> <mod type="corr"><orig>vut</orig><reg>vu</reg></mod> une chose <mod type="corr"><orig>au qu'e</orig><reg>à laquelle</reg></mod><lb/>
+il <mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod>avait pas <mod type="corr"><orig>p<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>e</del></mod></del><add stage="" who=""><sup></sup>r</add></mod>évu</orig><reg>prévu</reg></mod>. Nelly était en couple avec<lb/>
+Jaques son<mod type="del" stage="" who=""><del><sup></sup>l</del></mod> <mod type="corr"><orig>pir</orig><reg>pire</reg></mod> <mod type="corr"><orig>enemi</orig><reg>ennemi</reg></mod>. Alors il rentra chez lui tri<lb/>
+ste, <mod type="corr"><orig>mai</orig><reg>mais</reg></mod> il aimait toujours <mod type="del" stage="" who=""><del><sup></sup>Nelly</del></mod> autant Nelly.<mod type="del" stage="" who=""><del><sup></sup>et elle</del></mod><lb/>
+<mod type="corr"><orig>Ensuit</orig><reg>Ensuite</reg></mod>,il a<mod type="del" stage="" who=""><del><sup></sup>t</del></mod> une idée, il allait tout <mod type="corr"><orig>foire</orig><reg>faire</reg></mod> <mod type="corr"><orig>p<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod></del><add stage="" who=""><sup></sup>o</add></mod>ur</orig><reg>pour</reg></mod> que<lb/> 
+Nelly tombe amoureuse de lui <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>,</del></mod></del><add stage="" who=""><sup></sup>.</add></mod> Le lendemain, il <mod type="corr"><orig>vi</orig><reg>vit</reg></mod><lb/>
+Jaques a<mod type="add" stage="" who=""><add><sup></sup>c</add></mod>hetait des fleures. Jaques <mod type="corr"><orig>mi<mod type="del" stage="" who=""><del><sup></sup>s</del></mod></orig><reg>mit</reg></mod> une bague <mod type="corr"><orig>dan</orig><reg>dans</reg></mod><lb/>
+le bouquet de fleurs. <mod type="corr"><orig>Pendan<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>t</del></mod></del><add stage="" who=""><sup></sup>q</add></mod>ue</orig><reg>Pendant que</reg></mod><mod type="del" stage="" who=""><del><sup></sup>.</del></mod>Jaques attendait Nelly<lb/>
+Pedro <mod type="corr"><orig>pri<mod type="del" stage="" who=""><del><sup></sup>s</del></mod></orig><reg>prit</reg></mod> la bague dans le bouqu<mod type="add" stage="" who=""><add><sup></sup>e</add></mod>t et la <mod type="corr"><orig>remplasa</orig><reg>remplaça</reg></mod> par<lb/> 
+un mot où il y avait marquait§
+-<mod type="add" stage="" who=""><add><sup></sup>«</add></mod>Je t'aime tu es belle comme un #XXX# en<lb/> 
+mai<mod type="add" stage="" who=""><add><sup></sup>»</add></mod>§
+signé Pédro.§
+Il partait avec la bague de <mod type="corr"><orig>marié</orig><reg>mariée</reg></mod>, en regardant<lb/> 
+toujours et sérieusement Jaques. Puis Pédro continua<lb/> 
+à chercher, comment la faire tomber amoureux de lui<lb/>
+L'<mod type="corr"><orig>annés</orig><reg>année</reg></mod> passait et <mod type="corr"><orig>sait</orig><reg>c'est</reg></mod> le 14 juillet<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>.</del></mod></del><add stage="" who=""><sup></sup>,</add></mod>Il redan#xxx#<lb/>
+<mod type="del" stage="" who=""><del><sup></sup>I</del></mod>avec Nelly et elle <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>e#x#</del></mod></del><add stage="" who=""><sup></sup>to</add></mod>aba</orig><reg>tomba</reg></mod> amoureus de l<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>i</del></mod></del><add stage="" who=""><sup></sup>u</add></mod>i et elle ne<lb/> 
+lui a pas <mod type="corr"><orig>dis</orig><reg>dit</reg></mod>. Alors elle <mod type="corr"><orig>écriva</orig><reg>écrivit</reg></mod> sur une <mod type="corr"><orig>pan<lb/>
+carte</orig><reg>panacarte</reg></mod>§
+<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>-</del></mod></del><add stage="" who=""><sup></sup>«</add></mod>Je t'aime <mod type="corr"><orig>Pédro</orig><reg>Pedro</reg></mod> <mod type="add" stage="" who=""><add><sup></sup>»</add></mod> et il répondait<mod type="add" stage="" who=""><add><sup></sup>-</add></mod> <mod type="add" stage="" who=""><add><sup></sup>«</add></mod> moi aussi<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>.</del></mod></del><add stage="" who=""><sup></sup>»</add></mod>§
+<mod type="corr"><orig>Maite<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod></del><add stage="" who=""><sup></sup>n</add></mod>ant</orig><reg>Maintenant</reg></mod> il d<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>a</del></mod></del><add stage="" who=""><sup></sup>o</add></mod>nna la bag<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>e</del></mod></del><add stage="" who=""><sup></sup>u</add></mod>e à Nelly et ils se <mod type="corr"><orig>mariaire</orig><reg>marièrent</reg></mod>§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

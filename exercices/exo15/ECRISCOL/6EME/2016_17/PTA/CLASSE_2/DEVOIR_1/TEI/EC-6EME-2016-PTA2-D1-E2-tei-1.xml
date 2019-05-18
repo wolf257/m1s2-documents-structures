@@ -1,0 +1,140 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E2
+</head>
+<p>
+<pb/>
+J'ai <mod type="corr"><orig>vécus</orig><reg>vécu</reg></mod> un rêve. Quand j'étais petit je <mod type="corr"><orig>révais</orig><reg>rêvais</reg></mod> de faire le<lb/>
+tour du monde et là <mod type="corr"><orig>ca</orig><reg>ça</reg></mod> c'est <mod type="corr"><orig>réaliser</orig><reg>réalisé</reg></mod>. Cela fait déjà trois<lb/>
+mois que je suis <mod type="corr"><orig>partit</orig><reg>parti</reg></mod> de <mod type="corr"><orig>france</orig><reg>France</reg></mod>. Là je suis en Chine après avoir<lb/>
+vu des coraux sous la mer, faire le signe de Christophe <mod type="corr"><orig>Colombs</orig><reg>Colombe</reg></mod><lb/>
+quand j'ai vu pour la première fois l'Amérique,<mod type="del" stage="" who=""><del>vu</del></mod> quand j'ai vu<lb/>
+la fameuse île faite de déchets, vous vous rendez <mod type="subst"><del><mod type="del" stage="" who=""><del>comte</del></mod></del><add stage="" who="">compte</add></mod> une<lb/>
+île faite de déchets c'est désolant je ne pourrais pas en croire à mes<lb/>
+yeux de la grandeur de cette île. Bon revenons <mod type="corr"><orig>ou</orig><reg>où</reg></mod> j'en <mod type="del" stage="" who=""><del>était etais</del></mod><lb/>
+<mod type="corr"><orig><mod type="add" stage="" who=""><add>était</add></mod></orig><reg>étais</reg></mod>. J'ai voulu m'<mod type="corr"><orig>arreté</orig><reg>arrêter</reg></mod> en Chine mais rien que l'odeur de la <mod type="corr"><orig>polution</orig><reg>pollution</reg></mod><lb/>
+je ne pouvais pas. Donc j'ai continué ma route avec mon petit bateau<lb/>
+mon but car je suis un très grand passionné d'orques des <mod type="corr"><orig>mamifères</orig><reg>mammifères</reg></mod><lb/>
+marins, des <mod type="corr"><orig>grand</orig><reg>grands</reg></mod> <mod type="corr"><orig>prédareurs</orig><reg>prédateurs</reg></mod> aussi mais j'en <mod type="corr"><orig>ais</orig><reg>ai</reg></mod> pas peur c'est ma<lb/>
+passion depuis que <mod type="subst"><del><mod type="del" stage="" who=""><del>j'était</del></mod></del><add stage="" who="">je suis</add></mod> <mod type="corr"><orig>tou<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">t</add></mod></orig><reg>tout</reg></mod> petit. Me voilà <mod type="corr"><orig>arrivé</orig><reg>arriver</reg></mod> dans les <mod type="corr"><orig>laux</orig><reg>lacs</reg></mod><lb/>
+glacés, je voyais des glaciers avec des pinguins <mod type="corr"><orig>deçù</orig><reg>dessous</reg></mod>. <mod type="corr"><orig>Biensûr</orig><reg>Bien sûr</reg></mod> j'ai §<lb/>
+
+<pb/>
+une combinaison pour <mod type="corr"><orig>suporter</orig><reg>supporter</reg></mod> ce froid que j'ai eu avant mon départ,<lb/>
+<mod type="del" stage="" who=""><del>car</del></mod> j'ai eu aussi une combinaison de <mod type="corr"><orig>plongé</orig><reg>plongée</reg></mod> qui <mod type="corr"><orig>suporte</orig><reg>supporte</reg></mod> les <mod type="corr"><orig>eux</orig><reg>eaux</reg></mod> très<lb/>
+froides. Il est déjà 14h alors que je suis <mod type="corr"><orig>partis</orig><reg>parti</reg></mod> de Chine à 5h du<lb/>
+matin, <mod type="corr"><orig>à</orig><reg>ah</reg></mod> le temps passe vite quand on fait le tour du monde. On<lb/>
+se croirait dans les film avec les petits #XXX# qui dévalent un<lb/>
+<mod type="corr"><orig>toboguant</orig><reg>toboggans</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>dans</del></mod></del><add stage="" who="">de</add></mod></orig><reg>de</reg></mod> glace. J'avance entre les icebergs. Je vois une<lb/>
+belle famille d'ours blancs avec quatre petits qui suivent leurs mère.<lb/>
+<mod type="corr"><orig>Quelle</orig><reg>Quel</reg></mod> beau <mod type="corr"><orig>moments</orig><reg>moment</reg></mod>, quand soudain la glace se brisa en plusieurs<lb/>
+morceaux, des avalanches de glaces <mod type="corr"><orig>d'évalèrent</orig><reg>dévalèrent</reg></mod> la montagne. Sa mère<lb/>
+<mod type="corr"><orig>crias</orig><reg>cria</reg></mod> de <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> ses forces car <mod type="subst"><del><mod type="del" stage="" who=""><del>le</del></mod></del><add stage="" who="">un</add></mod> morceau de glace se dirigea vers son<lb/>
+petit, elle le bouscula et <mod type="corr"><orig>prena</orig><reg>prit</reg></mod> sa place malheureusement elle ne peut <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>s'<lb/>urvéqur</del></mod></del><add stage="" who="">survécure</add></mod></orig><reg>survivre</reg></mod>, les petits ne <mod type="corr"><orig>savèrent</orig><reg>savaient</reg></mod> pas quoi faire. J'enfila ma <mod type="subst"><del><mod type="del" stage="" who=""><del>combina</del></mod><lb/></del><add stage="" who="">combinaison</add></mod> et <mod type="corr"><orig>gara</orig><reg>garai</reg></mod> mon bateau maison sur un bloc de glace encore <mod type="subst"><del><mod type="del" stage="" who=""><del>scotché</del></mod><lb/></del><add stage="" who="">collé</add></mod> à la montagne. Ses petits étaient en train de se noyer et j'<mod type="corr"><orig>ais</orig><reg>ai</reg></mod> <mod type="corr"><orig>pus</orig><reg>pu</reg></mod><lb/>
+en <mod type="corr"><orig>sauvés</orig><reg>sauver</reg></mod> qu'un. Je l'<mod type="corr"><orig>emmena</orig><reg>emmenai</reg></mod> avec moi sur mon bateau maison. §<lb/>
+Faire le tour du monde c'est parfois cruel quand soudain je voyais<lb/>
+une orque sous mes yeux <mod type="corr"><orig>sautés</orig><reg>sauter</reg></mod> en attaquant des mouettes. J'enfila<lb/>
+ma combinaison de <mod type="corr"><orig>plongé</orig><reg>plongée</reg></mod> et <mod type="corr"><orig>sautèrent</orig><reg>sautai</reg></mod> dans l'eau sans oublier mes lunettes<lb/>
+de plonger. <mod type="del" stage="" who=""><del>Quan</del></mod> C'est magnifique, je <mod type="del" stage="" who=""><del>n'as</del></mod> <mod type="corr"><orig>nagèrent</orig><reg>nageai</reg></mod> avec eux quand<lb/>
+soudain une orque m'<mod type="corr"><orig>attaquer</orig><reg>attaqua</reg></mod> par dessous, <mod type="corr"><orig>ouvri<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>ouvrit</reg></mod> sa gueule et après<lb/>
+plus rien ne <mod type="subst"><del><mod type="del" stage="" who=""><del>sait</del></mod></del><add stage="" who="">s'est</add></mod> passé, je ne voyais plus rien. Avant de partir de France<lb/>
+un homme <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> dit: "Attention gamin". Je ne l'ai pas écouté plus que ça. §<lb/>
+Il était <mod type="corr"><orig>alcolisé</orig><reg>alcoolisé</reg></mod>, mais cette homme n'était pas une personne normale il venait du ciel §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

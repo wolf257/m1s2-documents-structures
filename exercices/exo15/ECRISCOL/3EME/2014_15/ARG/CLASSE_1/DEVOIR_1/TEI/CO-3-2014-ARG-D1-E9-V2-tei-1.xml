@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E9-V2
+</head>
+<p>
+<hi place=" " time="T2" who="Pσ" style="underline">Quand je sors la tête puis les <mod type="corr"><orig>restes</orig><reg>reste</reg></mod> de mon<lb/>
+corps</hi><metamark place=" " time="T2" who="P" style="underline">Très mal exprimé</metamark>, je pousse un cri<mod type="del" stage="T2" who="P"><del>e</del></mod>. La sage<mod type="add" stage="T2" who="P"><add>-</add></mod>femme me<lb/>
+<mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">pause</hi></orig><reg>pose</reg></mod> sur le ventre de ma mère, <mod type="del" stage="T2" who="P"><del>elle</del></mod> qui<lb/>
+pleure de joie. Pour la première fois j'ouvre<lb/>
+mes <hi place=" " time="T2" who="Pσ" style="underline">yeux</hi>, j'ai l'impression que mes yeux se<lb/>
+<mod type="corr"><orig>déchir{T2Ps#e}</orig><reg>déchirent</reg></mod>. Je suis à la fois content de pouvoir<lb/>
+les <mod type="corr"><orig>ouvrir<hi place=" " time="T2" who="Pσ" style="underline">e</hi></orig><reg>ouvrir</reg></mod> <metamark place=" " time="T2" who="P" style="underline">Problème:sujet au singulier et verbe au pluriel</metamark>et à la fois non car <mod type="corr"><orig>ilya</orig><reg>il y a</reg></mod> une<lb/>
+<mod type="corr"><orig>lumiere</orig><reg>lumière</reg></mod> intense <mod type="corr"><orig>etun</orig><reg>et un</reg></mod> petit air<mod type="del" stage="T2" who="P"><del>e</del></mod> frais. La <mod type="corr"><orig>sage<lb/>
+femme</orig><reg>sage-femme</reg></mod> me coupe le cordon <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>obilical</del></mod></del><add stage="T2" who="P">ombilical</add></mod> et me<lb/>
+couvre avec une couverture. Il y avai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">t</add></mod> mon<lb/>
+<mod type="del" stage="" who=""><del>pel</del></mod> père qui me <mod type="corr"><orig>regar<hi place=" " time="T2" who="Pσ" style="underline">de</hi><metamark place=" " time="T2" who="P" style="underline">attention à la concordance des temps</metamark></orig><reg>regardait</reg></mod> avec <hi place=" " time="T2" who="Pσ" style="underline">des yeux</hi> qui<lb/>
+<mod type="corr"><orig>peti<hi place=" " time="T2" who="Pσ" style="underline">lle</hi></orig><reg>pétillent</reg></mod> qui <mod type="corr"><orig>exprime<hi place=" " time="T2" who="Pσ" style="underline"></hi></orig><reg>expriment</reg></mod> de la joie et beaucoup<lb/>
+<mod type="corr"><orig>démotion</orig><reg>d'émotion</reg></mod> §<lb/>
+<metamark place=" " time="T2" who="P" style="underline">On ne retrouve pas tous les éléments attendus à la fin du texte de base.</metamark> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

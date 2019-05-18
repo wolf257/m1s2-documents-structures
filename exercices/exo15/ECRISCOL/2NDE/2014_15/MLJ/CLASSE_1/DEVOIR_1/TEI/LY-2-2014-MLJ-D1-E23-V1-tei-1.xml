@@ -1,0 +1,184 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E23-V1
+</head>
+<p>
+<pb/>
+amuse le narrateur<lb/>
+vieu et abimé §<lb/>
+réverbère lumière qui clignote <mod type="corr"><orig>tt</orig><reg>tous</reg></mod> les <mod type="corr"><orig>5sec</orig><reg>cinq secondes</reg></mod> §<lb/>
+lumière jaune/orangé
+regard <mod type="add" stage="" who=""><add>qui dérive sur le <mod type="corr"><orig>poteau</orig><reg>poto</reg></mod></add></mod> attiré vers le <mod type="subst"><del><mod type="del" stage="" who=""><del>bat</del></mod></del><add stage="" who="">bas</add></mod>.
+qui finit par observer le parc situé à côté.<lb/>
+<mod type="del" stage="" who=""><del>TABLEAU</del></mod>
+regarde les arbres §<lb/>    
+fleures  §<lb/>
+gravés par les §<lb/> 		  		    
+<mod type="del" stage="" who=""><del>amoureu</del></mod> couples §<lb/>   				
+qui veulent se §<lb/>     				
+prouver que leur §<lb/>
+amour <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">durera</add></mod> §<lb/>
+éternellement mais §<lb/>
+qui se détruisent ®<mod type="del" stage="" who=""><del>XXX#</del></mod>||<mod type="corr"><orig>tjr</orig><reg>toujours</reg></mod>||<mod type="subst"><del> §<lb/>
+mutuellement. §<lb/>
+
+fermées §<lb/>
+par le manque §<lb/> 
+de lumière §<lb/>
+
+se dirige ®<mod type="del" stage="" who=""><del>ds</del></mod></del><add stage="" who="">vers</add></mod> le petit chemin <mod type="add" stage="" who=""><add>à peine voyant</add></mod> qui mène <mod type="corr"><orig>a</orig><reg>à</reg></mod> celui-ci.<lb/>
+marche sans destination précise,<mod type="del" stage="" who=""><del>XXX#</del></mod> le regard vide,<lb/>
+le visage sans expression. §<lb/>
+se <mod type="corr"><orig>rapl</orig><reg>rappelle</reg></mod> avoir joué ici <mod type="subst"><del><mod type="del" stage="" who=""><del>avc</del></mod></del><add stage="" who="">avec</add></mod> sa petite soeur savant à peine<lb/>
+marcher <mod type="add" stage="" who=""><add>et ses cousins</add></mod> mais <mod type="subst"><del><mod type="del" stage="" who=""><del>rigolait rian</del></mod></del><add stage="" who="">riait</add></mod> dès que <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">un</add></mod> des enfants <mod type="corr"><orig>trébuchait</orig><reg>tribuchaient</reg></mod><lb/>
+
+se <mod type="corr"><orig>souviens</orig><reg>souvient</reg></mod> d'un banc où il avait amené une de ses amies.<lb/>
+a où il voudrait <mod type="del" stage="" who=""><del>reto</del></mod> retrouver.<lb/>
+
+cherche #XXX# <mod type="del" stage="" who=""><del>de</del></mod> un long moment avant d'enfin l'<mod type="subst"><del><mod type="del" stage="" who=""><del>apercevoire</del></mod></del><add stage="" who="">apercevoir</add></mod><lb/>
+<mod type="add" stage="" who=""><add>au loin</add></mod> sous un rayon de lumière provenant <mod type="corr"><orig>surment</orig><reg>sûrement</reg></mod> d'un lampadaire<lb/>
+<mod type="corr"><orig>derière</orig><reg>derrière</reg></mod> des arbres. §<lb/>
+se rapproche de lui mais <mod type="add" stage="" who=""><add>au <mod type="del" stage="" who=""><del>fure et à mesure</del></mod> fil des pas</add></mod>, <mod type="corr"><orig>crois</orig><reg>croit</reg></mod> distinguer une adolesante de<lb/>
+dos à lui. §<lb/>
+s'avance encore + près d'elle et l'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>aperçu</del></mod></del><add stage="" who="">observe<mod type="del" stage="" who=""><del>XXX#</del></mod></add></mod></orig><reg>observe</reg></mod><lb/>
+et <mod type="del" stage="" who=""><del>XXX#</del></mod> #XXX# des sanglots. §<lb/>
+
+l'ado <mod type="add" stage="" who=""><add>Elle parait petite et possède quelques <mod type="del" stage="" who=""><del>fines</del></mod> formes misent en valeur <mod type="corr"><orig>ds</orig><reg>dans</reg></mod><lb/> sa robe <mod type="del" stage="" who=""><del>XXX#</del></mod> assez moulante et son <mod type="corr"><orig>légés</orig><reg>léger</reg></mod> <mod type="corr"><orig>décol<mod type="del" stage="" who=""><del>l</del></mod>té</orig><reg>décolleté</reg></mod> qui laisse entrevoir<lb/> une partie de<mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> son cou.</add></mod> 
+vêtue d'une robe <mod type="del" stage="" who=""><del>très</del></mod> <mod type="corr"><orig>noir</orig><reg>noire</reg></mod>, <mod type="add" stage="" who=""><add>et</add></mod> très sombre longue qui lui<lb/>
+arrive ®<mod type="del" stage="" who=""><del>aux</del></mod>||<mod type="corr"><orig>surment</orig><reg>sûrement</reg></mod>||<mod type="subst"><del> aux chevilles. Comporte des manches longues en dentelle<lb/>
+avec des motifs de fleurs, de formes étranges elles aussi ®<mod type="del" stage="" who=""><del>noires</del></mod></del><add stage="" who="">sombres</add></mod>. Sous<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>Une décolleté #XXX# #XXX#</del></mod></del><add stage="" who="">une des</add></mod> <mod type="corr"><orig>manche<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>manchse</reg></mod> <mod type="add" stage="" who=""><add><mod type="corr"><orig>relevée</orig><reg>relevées</reg></mod></add></mod>, on peut voir du sang, des traces qui<lb/>
+ne laissent qu'à supposer que la jeune fille a laissé une lame §<lb/>
+
+<pb/>
+glissé sur sa peau qui <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">a une apparence</add></mod> se fragile. §<lb/>
+Elle <mod type="del" stage="" who=""><del>XXX#</del></mod> a replié ses deux jambes contre sa poitrine<lb/>
+<mod type="del" stage="" who=""><del>et</del></mod>, garde sa tête posée sur ses genous et <mod type="corr"><orig>enroul</orig><reg>enroule</reg></mod> ses bras tout <mod type="corr"><orig>mince</orig><reg>minces</reg></mod> autour de ses jambes<lb/>												
+Ses cheveux <mod type="add" stage="" who=""><add>longs et lisses</add></mod> chatains <mod type="del" stage="" who=""><del>XXX#</del></mod> retombent en cascade sur ses épaules.<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> §<lb/>
+de la place où l'homme <mod type="subst"><del><mod type="del" stage="" who=""><del>étai</del></mod></del><add stage="" who="">est</add></mod> il peut <mod type="del" stage="" who=""><del>XXX#</del></mod> entendre <mod type="subst"><del><mod type="del" stage="" who=""><del>tes</del></mod></del><add stage="" who="">ses</add></mod> pleures<lb/>
+sans <mod type="del" stage="" who=""><del>non</del></mod> retenue. §<lb/>
+
+<mod type="subst"><del><mod type="del" stage="" who=""><del>L'homme</del></mod></del><add stage="" who="">Il</add></mod> se déplace et marche sur une banche<lb/>
+qui se brise sous son poids et qui fait rélever la tête à la<lb/>
+jeune fille. §<lb/>
+elle est vraiment magnifique §<lb/>
+<mod type="add" stage="" who=""><add>du maquillage noir étalé partout <mod type="subst"><del><mod type="del" stage="" who=""><del>son</del></mod></del><add stage="" who="">son</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">ses</add></mod> yeux rougis et gonflés</add></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> possède uns de ses yeux bleu et l'autre vert, pour<lb/>
+L'homme, ce<mod type="add" stage="" who=""><add>'</add></mod>est <mod type="add" stage="" who=""><add>pas</add></mod> la première fois qu'il <mod type="add" stage="" who=""><add>les voit</add></mod> <mod type="del" stage="" who=""><del>voit cete #XXX#<lb/>
+une chose, #XXX# se #XXX# yeux #XXX# est</del></mod> §<lb/>
+une bouche pulpeuse et rosée, des dents parfaitement droites<lb/>
+des pomettes bien dessinées §<lb/>
+	
+L'homme se rapproche d'elle en scotchant un <mod type="subst"><del><mod type="del" stage="" who=""><del>sourr</del></mod></del><add stage="" who="">sourire</add></mod> sur son<lb/>
+visage car il ne <mod type="del" stage="" who=""><del>XXX#</del></mod> veut pas qu'elle <mod type="corr"><orig>est</orig><reg>ait</reg></mod> peur en pensant qu'il a de<lb/>
+mauvaises intentions. §<lb/>
+lui même est beau garçon, jeune en costard noir et blanc, 
+<mod type="add" stage="" who=""><add>lui aussi</add></mod> les yeux <mod type="corr"><orig>rougi<mod type="del" stage="" who=""><del>XXX#</del></mod><mod type="add" stage="" who=""><add>s</add></mod></orig><reg>rouges</reg></mod> par la tristesse. §<lb/>
+il voit à côté d'elle, par terre, ses <mod type="subst"><del><mod type="del" stage="" who=""><del>che chosu</del></mod></del><add stage="" who="">chaussures</add></mod> à talons <mod type="del" stage="" who=""><del>,</del></mod><lb/>
+<mod type="del" stage="" who=""><del>(</del></mod> noir <mod type="corr"><orig>c<mod type="subst"><del><mod type="del" stage="" who=""><del>qu</del></mod></del><add stage="" who="">comme</add></mod></orig><reg>comme</reg></mod> <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> le reste) <mod type="del" stage="" who=""><del>et</del></mod>, la lame <mod type="del" stage="" who=""><del>de rasoire</del></mod> couverte de sang et des lunettes<lb/>
+de soleil à verres <mod type="corr"><orig>sombre</orig><reg>sombres</reg></mod> et c'est là qu'il comprit.<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">Il</add></mod> l'avait déjà vu quelque part <mod type="del" stage="" who=""><del>XXX#</del></mod>, <mod type="subst"><del><mod type="del" stage="" who=""><del>ses</del></mod></del><add stage="" who="">ces</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>yeu</del></mod></del><add stage="" who="">yeux</add></mod> #XXX#,<lb/>
+cette robe, ces cheveux, ces lunettes: elle était elle aussi à<lb/>
+L'<mod type="corr"><orig>enterement</orig><reg>enterrement</reg></mod> de son amie, décédée quelques jours plus tôt <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">à</add></mod> l'hôpital, §<lb/>
+
+
+		
+													
+		
+		</p>
+</div>
+﻿</body>
+</text>
+</TEI>

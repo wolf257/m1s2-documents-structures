@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E8
+</head>
+<p>
+"<mod type="corr"><orig>je</orig><reg>Je</reg></mod> me <mod type="corr"><orig>l'aiveré</orig><reg>lèverai</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> 5h00 <mod type="corr"><orig>parla</orig><reg>par là</reg></mod> je <mod type="corr"><orig>mabillerer</orig><reg>m'habillerai</reg></mod><lb/>
+je vais <mod type="del" stage="" who=""><del>cou il</del></mod> <mod type="corr"><orig>déjener</orig><reg>déjeuner</reg></mod> <mod type="corr"><orig>e<mod type="del" stage="" who=""><del>t</del></mod>t</orig><reg>et</reg></mod> je <mod type="corr"><orig>prendrerer</orig><reg>prendrai</reg></mod> <mod type="del" stage="" who=""><del>tou ous</del></mod><lb/>
+<mod type="corr"><orig>dou<mod type="del" stage="" who=""><del>ssqu</del></mod></orig><reg>tout ce</reg></mod> <mod type="corr"><orig>quil</orig><reg>qu'il</reg></mod> faut et je <mod type="corr"><orig>prendrerer</orig><reg>prendrai</reg></mod> <mod type="corr"><orig>mo<mod type="del" stage="" who=""><del>n</del></mod>n</orig><reg>ma</reg></mod> voiture<lb/>
+et je <mod type="corr"><orig>parre</orig><reg>pars</reg></mod> à mon <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod>. "Je vous <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>zé</orig><reg>ai</reg></mod><lb/>
+jamais <mod type="corr"><orig>parler</orig><reg>parlé</reg></mod> de mon travail <mod type="corr"><orig>ve</orig><reg>veux</reg></mod> <mod type="corr"><orig>fer</orig><reg>faire</reg></mod> <mod type="corr"><orig>petétre</orig><reg>peut-être</reg></mod><lb/>
+que <mod type="del" stage="" who=""><del>XXX#</del></mod> je <mod type="corr"><orig>feré</orig><reg>ferai</reg></mod> police, <mod type="corr"><orig>acri<mod type="del" stage="" who=""><del>qu</del></mod>cultor</orig><reg>agriculteur</reg></mod> vous<lb/>
+savez <mod type="corr"><orig>pourcoi<mod type="del" stage="" who=""><del>ce</del></mod></orig><reg>pourquoi</reg></mod> <mod type="corr"><orig>acriculteur</orig><reg>agriculteur</reg></mod> parce que je<lb/>
+<mod type="corr"><orig>pourer</orig><reg>pourrais</reg></mod> avoir des <mod type="corr"><orig>lé<mod type="del" stage="" who=""><del>s</del></mod>gum<mod type="del" stage="" who=""><del>u</del></mod>mes</orig><reg>légumes</reg></mod>, du <mod type="corr"><orig>lai</orig><reg>lait</reg></mod> <mod type="corr"><orig>tou<mod type="del" stage="" who=""><del>set</del></mod></orig><reg>tout</reg></mod><lb/>
+<mod type="corr"><orig>sa</orig><reg>ça</reg></mod> sans acheter et aussi je <mod type="corr"><orig>pourer</orig><reg>pourrais</reg></mod> les<lb/>
+<mod type="corr"><orig>vandre</orig><reg>vendre</reg></mod>, <mod type="corr"><orig>petétre</orig><reg>peut-être</reg></mod> <mod type="corr"><orig>footboleur</orig><reg>footbolleur</reg></mod>, <mod type="corr"><orig>méme</orig><reg>même</reg></mod> être un<lb/>
+<mod type="corr"><orig>nomme</orig><reg>homme</reg></mod> qui fait des <mod type="corr"><orig>cha<mod type="del" stage="" who=""><del>n</del></mod>ntier</orig><reg>chantiers</reg></mod>". <mod type="corr"><orig>pour<mod type="del" stage="" who=""><del>r</del></mod></orig><reg>Pour</reg></mod> <mod type="corr"><orig>lincetau</orig><reg>l'instant</reg></mod><lb/>
+<mod type="corr"><orig>ve</orig><reg>veux</reg></mod> <mod type="corr"><orig>fait</orig><reg>faire</reg></mod> <mod type="corr"><orig>agrigulteur</orig><reg>agriculteur</reg></mod> §<lb/>
+"il est 7h55 <mod type="del" stage="" who=""><del>"</del></mod> bon il <mod type="corr"><orig>f<mod type="del" stage="" who=""><del>X#</del></mod>aut</orig><reg>faut</reg></mod> que je <mod type="del" stage="" who=""><del>ve je</del></mod> #XXX#<lb/>
+les <mod type="corr"><orig>vache</orig><reg>vaches</reg></mod> <mod type="corr"><orig>aprè</orig><reg>après</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>v</del></mod></del><add stage="" who="">J</add></mod>e</orig><reg>je</reg></mod> vais <mod type="corr"><orig>fair</orig><reg>faire</reg></mod> les <mod type="corr"><orig>prlantation</orig><reg>plantations</reg></mod>. §<lb/>
+<mod type="corr"><orig>Mes</orig><reg>Mais</reg></mod> <mod type="corr"><orig>jaimerai</orig><reg>j'aimerais</reg></mod> que <mod type="corr"><orig>martin</orig><reg>Martin</reg></mod> <mod type="add" stage="" who=""><add>learon le brai</add></mod> copain et <mod type="corr"><orig>romain</orig><reg>Romain</reg></mod><lb/>
+le pape mon copain et que <mod type="del" stage="" who=""><del>je beur dir que</del></mod><lb/>
+je les aime. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

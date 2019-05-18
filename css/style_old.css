@@ -1,0 +1,155 @@
+body{
+    border: solid 10px black;
+    padding: 40px;
+    /* background-image:url('../media/img/wallpaper.jpg'); */
+    background-color: #FAECCC;
+    font-family: "Comic Sans MS";
+    max-width: 900px;
+    margin: 20px auto 20px auto;
+    color: black;
+}
+
+
+h1, h2{
+    padding-top: 10px; margin-top: 10px; text-align: right;
+}
+
+h2{
+    text-align: center;
+}
+/* consigne, solution, résultat, ... */
+h3{
+    text-align: left;
+    padding-top: 10px;
+    margin-top: 40px;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+
+h4{ }
+
+table
+{
+    width : auto;
+    border : 3px solid black;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+th, td
+{
+    border : 1px solid black; 
+    padding: 10px 10px 10px 10px;
+}
+
+img
+{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/* ----------------------
+PARTIE MENU 
+------------------------*/
+#menu, #menu ul{
+padding:0;
+margin:0;
+list-style:none;
+text-align:center;
+}
+
+#menu li{
+display:inline-block;
+position:relative;
+border-radius:8px 8px 0 0;
+}
+
+#menu ul li{
+display:inherit;
+border-radius:0;
+}
+
+#menu ul li:hover{
+border-radius:0;
+}
+#menu ul li:last-child{
+border-radius:0 0 8px 8px;
+}
+
+#menu ul{
+position:absolute;
+z-index: 1000;
+max-height:0;
+left: 0;
+right: 0;
+overflow:hidden;
+}
+
+/*#menu li:hover ul{
+    /\* Longueur du déroulant *\/
+max-height:30em;
+}*/
+
+/* background du menu de base */
+#menu li:nth-child(odd){
+background-color: #6192b8;
+}
+#menu li:nth-child(even){
+background-color: #f5a70a;
+}
+
+/* les a href */
+
+    /*Bloc menu */
+#menu a{
+    text-decoration:none;
+    display:block;
+    padding:15px 30px;
+    color:#fff;
+    font-family:arial;
+}
+
+/* ----------------------
+PARTIE Liens
+------------------------*/
+
+.linkup{
+    width: 30%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top : 10px;
+    text-align: center;
+}
+
+.linkCode{
+    width: 30%;
+    margin-left:auto;
+    margin-right:10px;
+    margin-top : 10px;
+    text-align: right;
+}
+
+
+.linkup a:link, a:visited{
+    background-color: orange;
+    color: black;
+    padding: 14px 25px;
+    margin-right: auto;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.linkCode a:link, .linkCode a:visited {
+    background-color: gray;
+    color: white;
+    padding: 14px 25px;
+    margin-right: auto;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 90px;
+}

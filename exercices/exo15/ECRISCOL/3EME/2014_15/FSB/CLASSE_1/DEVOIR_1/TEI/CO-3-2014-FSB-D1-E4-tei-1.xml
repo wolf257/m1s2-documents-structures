@@ -1,0 +1,145 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E4
+</head>
+<p>
+<pb/>
+
+Image publicitaire n°1 <mod type="del" stage="" who=""><del>Parfum Dior</del></mod> §<lb/>
+
+Comment fonctionne cette page? §<lb/>
+L'image est une photographie en format portrait. §<lb/>
+Au premier plan, en haut le nom "Dior est écrit en grand, en <mod type="corr"><orig>noire</orig><reg>noir</reg></mod><lb/>
+En second plan, juste sous le nom "Dior", le bras d'une femme posé sur<lb/>
+(l'arrière plan est en bas) sa tête, qui regarde le spectateur dans les yeux. Le second bras,<lb/>
+positionné hors du cadre, revient sur un gros plan de la main aux<lb/>
+doigts écartés. Le flacon de parfum est posé sur le poignet de la §<lb/>
+femme, sur le parfum il y a marqué en lettre d'<mod type="corr"><orig>ore</orig><reg>or</reg></mod>: hypnotic poison;<lb/>
+Au dessus du parfum, on peut lire en plus gros, "Hypnotic poison"en<lb/>
+lettres d'or. §<lb/>
+Les couleurs sont chaudes et à la fois <mod type="del" stage="" who=""><del>chaude</del></mod>, <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">sombre</hi></orig><reg>sombres</reg></mod>, pour donner<lb/>
+une <mod type="corr"><orig>coté</orig><reg>côté</reg></mod> féerique <mod type="corr"><orig>envoutant</orig><reg>envoûtant</reg></mod>. §<lb/>
+La photo a été prise dans un studio (<mod type="corr"><orig>sa</orig><reg>ça</reg></mod> se voit à la qualité de la photo)<lb/>
+avec une pose du personnage très <mod type="corr"><orig>recherché</orig><reg>recherchée</reg></mod>. §<lb/>
+ §<lb/>
+L'actrice qui pose (Mila Jovovitch) à un regard transperçant et <mod type="corr"><orig>mysté<lb/>rieux</orig><reg>mystérieux</reg></mod>, elle a des yeux <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">vert</hi></orig><reg>verts</reg></mod> mis en valeur; grâce à son maquillage, ces<lb/>
+<mod type="corr"><orig>cheuveux</orig><reg>cheveux</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">noir court</hi></orig><reg>noirs courts</reg></mod> sont <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ébourrifer</hi></orig><reg>ébouriffés</reg></mod> ce qui donne un effet sauvage.<lb/>
+Sa position et son attitude <mod type="corr"><orig>paraît</orig><reg>paraissent</reg></mod> <mod type="corr"><orig>maléfique</orig><reg>maléfiques</reg></mod>, elle donne un air §<lb/>
+provoquant et <mod type="corr"><orig>envoutant</orig><reg>envoûtant</reg></mod>.<lb/>
+ §<lb/>
+<mod type="add" stage="" who=""><add>Arrière plan</add></mod> En arrière plan, le fond de l'affiche est rouge avec une forme circulaire,<lb/>
+floue autour de l'actrice (comme <mod type="corr"><orig>ci</orig><reg>si</reg></mod> qu'il n'y avait une sorte de trou noir)<lb/>
+
+Il n'y a pas d'argument de vente, l'image parle très bien du produit<lb/>
+sans texte. Le titre Dior est écrit en haut, en grand <mod type="corr"><orig>est</orig><reg>et</reg></mod> immédiatement<lb/>
+<mod type="corr"><orig>pércéptible</orig><reg>perceptible</reg></mod>, la marque suffit à entrer dans l'univers du luxe §<lb/>
+ §<lb/>
+<pb/>
+
+Cette image s'adresse aux femmes (d'ou l'icône de l'image).<lb/>
+Cette image passe une sorte de message, montrant ainsi toute<lb/>
+femme qui portera ce parfum s'identifiera <mod type="corr"><orig>a</orig><reg>à</reg></mod> elle (elles seront <mod type="add" stage="" who=""><add>identiques</add></mod><lb/>
+à une femme fatale, <mod type="corr"><orig>envoutante</orig><reg>envoûtante</reg></mod>, secrète, <mod type="corr"><orig>mysterieuse</orig><reg>mystérieuse</reg></mod>, voir inquiétante<lb/>
+mais toujours élégante de grande classe. §<lb/>
+
+Je trouve que cette pub est <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">réussite</hi></orig><reg>réussie</reg></mod> car elle <mod type="corr"><orig>demontre</orig><reg>démontre</reg></mod> bien l'effet du<lb/>
+produit par l'image, mais pour qu'elle soit <mod type="corr"><orig>encor</orig><reg>encore</reg></mod> plus <mod type="corr"><orig>convaincant</orig><reg>convaincante</reg></mod><lb/>
+il y aurait <mod type="corr"><orig>due</orig><reg>dû</reg></mod> avoir un argument de vente. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="application/xml" href="./xsl/q3.xsl" ?>
+
+<PARCOURS>
+<NOM>Serge Fleury, 2017-2018</NOM>
+<FILTRAGE>
+<item number="1">
+<titre><article>
+<element><data type="type">PRO:DEM</data><data type="lemma">ce</data><data type="string">Ce</data></element>
+<element><data type="type">PRO:REL</data><data type="lemma">que</data><data type="string">que</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’on</data><data type="string">l’on</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">savoir</data><data type="string">sait</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’attentat</data><data type="string">l’attentat</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NAM</data><data type="lemma">Nouvel</data><data type="string">Nouvel</data></element>
+<element><data type="type">NAM</data><data type="lemma">An</data><data type="string">An</data></element>
+<element><data type="type">PRP</data><data type="lemma">dans</data><data type="string">dans</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">un</data></element>
+<element><data type="type">NOM</data><data type="lemma">club</data><data type="string">club</data></element>
+<element><data type="type">ADJ</data><data type="lemma">d’Istanbul</data><data type="string">d’Istanbul</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">En</data></element>
+<element><data type="type">NAM</data><data type="lemma">Turquie</data><data type="string">Turquie</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">une</data></element>
+<element><data type="type">ADJ</data><data type="lemma">célèbre</data><data type="string">célèbre</data></element>
+<element><data type="type">NOM</data><data type="lemma">boîte</data><data type="string">boîte</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">nuit</data><data type="string">nuit</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">être</data><data type="string">été</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">viser</data><data type="string">visée</data></element>
+<element><data type="type">PRP</data><data type="lemma">dans</data><data type="string">dans</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">nuit</data><data type="string">nuit</data></element>
+<element><data type="type">PRP</data><data type="lemma">par</data><data type="string">par</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">un</data></element>
+<element><data type="type">NOM</data><data type="lemma">attentat</data><data type="string">attentat</data></element>
+<element><data type="type">PRO:REL</data><data type="lemma">qui</data><data type="string">qui</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">faire</data><data type="string">fait</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">au</data><data type="string">au</data></element>
+<element><data type="type">ADV</data><data type="lemma">moins</data><data type="string">moins</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">39</data></element>
+<element><data type="type">NOM</data><data type="lemma">mort</data><data type="string">morts</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">NAM</data><data type="lemma">L’assaillant</data><data type="string">L’assaillant</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">être</data><data type="string">est</data></element>
+<element><data type="type">ADV</data><data type="lemma">toujours</data><data type="string">toujours</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">rechercher</data><data type="string">recherché</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="2">
+<titre><article>
+<element><data type="type">NOM</data><data type="lemma">tiers</data><data type="string">Tiers</data></element>
+<element><data type="type">ADJ</data><data type="lemma">payant</data><data type="string">payant</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NOM</data><data type="lemma">paquet</data><data type="string">paquet</data></element>
+<element><data type="type">ADJ</data><data type="lemma">neutre</data><data type="string">neutre</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">divorcer</data><data type="string">divorce</data></element>
+<element><data type="type">NOM</data><data type="lemma">…</data><data type="string">…</data></element>
+<element><data type="type">PRO:DEM</data><data type="lemma">ce</data><data type="string">ce</data></element>
+<element><data type="type">PRO:REL</data><data type="lemma">qui</data><data type="string">qui</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">changer</data><data type="string">change</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">janvier</data><data type="string">janvier</data></element>
+<element><data type="type">SENT</data><data type="lemma">@ord@</data><data type="string">2017.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">La</data></element>
+<element><data type="type">ADJ</data><data type="lemma">nouveau</data><data type="string">nouvelle</data></element>
+<element><data type="type">NOM</data><data type="lemma">année</data><data type="string">année</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">annoncer</data><data type="string">annonce</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">l’entrée</data><data type="string">l’entrée</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">vigueur</data><data type="string">vigueur</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">ADJ</data><data type="lemma">nouveau</data><data type="string">nouvelles</data></element>
+<element><data type="type">NOM</data><data type="lemma">réforme</data><data type="string">réformes</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">NOM</data><data type="lemma">précision</data><data type="string">Précisions</data></element>
+<element><data type="type">PRP</data><data type="lemma">sur</data><data type="string">sur</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NOM</data><data type="lemma">mesure</data><data type="string">mesures</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">ADV</data><data type="lemma">plus</data><data type="string">plus</data></element>
+<element><data type="type">ADJ</data><data type="lemma">important</data><data type="string">importantes</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">DET:POS</data><data type="lemma">@ord@</data><data type="string">2017.</data></element>
+</article>
+</description>
+</item>
+<item number="3">
+<titre><article>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">2016</data></element>
+<element><data type="type">PUN</data><data type="lemma">:</data><data type="string">:</data></element>
+<element><data type="type">ADJ</data><data type="lemma">l’année</data><data type="string">l’année</data></element>
+<element><data type="type">PRO:REL</data><data type="lemma">où</data><data type="string">où</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">libre-échange</data><data type="string">libre-échange</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">vaciller</data><data type="string">vacillé</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">NAM</data><data type="lemma">CETA</data><data type="string">CETA</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NAM</data><data type="lemma">TPP</data><data type="string">TPP</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NAM</data><data type="lemma">Tafta</data><data type="string">Tafta</data></element>
+<element><data type="type">PUN</data><data type="lemma">...</data><data type="string">...</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">2016</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">porter</data><data type="string">porté</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">au</data><data type="string">au</data></element>
+<element><data type="type">NOM</data><data type="lemma">libre-échange</data><data type="string">libre-échange</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">un</data></element>
+<element><data type="type">NOM</data><data type="lemma">coup</data><data type="string">coup</data></element>
+<element><data type="type">PRO:REL</data><data type="lemma">dont</data><data type="string">dont</data></element>
+<element><data type="type">PRO:PER</data><data type="lemma">il</data><data type="string">il</data></element>
+<element><data type="type">VER:cond</data><data type="lemma">pouvoir</data><data type="string">pourrait</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">garder</data><data type="string">garder</data></element>
+<element><data type="type">PRP</data><data type="lemma">pour</data><data type="string">pour</data></element>
+<element><data type="type">ADV</data><data type="lemma">longtemps</data><data type="string">longtemps</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">des</data></element>
+<element><data type="type">NOM</data><data type="lemma">séquelle</data><data type="string">séquelles</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="4">
+<titre><article>
+<element><data type="type">NAM</data><data type="lemma">Antonio</data><data type="string">Antonio</data></element>
+<element><data type="type">NAM</data><data type="lemma">Guterres</data><data type="string">Guterres</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">ADJ</data><data type="lemma">nouveau</data><data type="string">nouveau</data></element>
+<element><data type="type">NOM</data><data type="lemma">secrétaire</data><data type="string">secrétaire</data></element>
+<element><data type="type">ADJ</data><data type="lemma">général</data><data type="string">général</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’ONU</data><data type="string">l’ONU</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">vouloir</data><data type="string">veut</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">faire</data><data type="string">faire</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">2017</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">«</data><data type="string">«</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">une</data></element>
+<element><data type="type">NOM</data><data type="lemma">année</data><data type="string">année</data></element>
+<element><data type="type">PRP</data><data type="lemma">pour</data><data type="string">pour</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">paix</data><data type="string">paix</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">»</data><data type="string">»</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">NOM</data><data type="lemma">L’ancien</data><data type="string">L’ancien</data></element>
+<element><data type="type">NUM</data><data type="lemma">premier</data><data type="string">premier</data></element>
+<element><data type="type">NOM</data><data type="lemma">ministre</data><data type="string">ministre</data></element>
+<element><data type="type">ADJ</data><data type="lemma">socialiste</data><data type="string">socialiste</data></element>
+<element><data type="type">ADJ</data><data type="lemma">portugais</data><data type="string">portugais</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">succéder</data><data type="string">succède</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NAM</data><data type="lemma">Ban</data><data type="string">Ban</data></element>
+<element><data type="type">NAM</data><data type="lemma">Ki-moon</data><data type="string">Ki-moon</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">tête</data><data type="string">tête</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">des</data></element>
+<element><data type="type">NOM</data><data type="lemma">nation</data><data type="string">Nations</data></element>
+<element><data type="type">ADJ</data><data type="lemma">uni</data><data type="string">unies</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="5">
+<titre><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Les</data></element>
+<element><data type="type">NOM</data><data type="lemma">temps</data><data type="string">temps</data></element>
+<element><data type="type">ADJ</data><data type="lemma">fort</data><data type="string">forts</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">attendre</data><data type="string">attendus</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">DET:POS</data><data type="lemma">@ord@</data><data type="string">2017.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Les</data></element>
+<element><data type="type">NOM</data><data type="lemma">élection</data><data type="string">élections</data></element>
+<element><data type="type">ADJ</data><data type="lemma">présidentiel</data><data type="string">présidentielle</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">ADJ</data><data type="lemma">législatif</data><data type="string">législatives</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">ADJ</data><data type="lemma">sénatorial</data><data type="string">sénatoriales</data></element>
+<element><data type="type">VER:futu</data><data type="lemma">dominer</data><data type="string">domineront</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’actualité</data><data type="string">l’actualité</data></element>
+<element><data type="type">ADJ</data><data type="lemma">français</data><data type="string">française</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">PRP</data><data type="lemma">dans</data><data type="string">Dans</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">reste</data><data type="string">reste</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NOM</data><data type="lemma">monde</data><data type="string">monde</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’investiture</data><data type="string">l’investiture</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NAM</data><data type="lemma">Donald</data><data type="string">Donald</data></element>
+<element><data type="type">NAM</data><data type="lemma">Trump</data><data type="string">Trump</data></element>
+<element><data type="type">VER:futu</data><data type="lemma">marquer</data><data type="string">marquera</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">début</data><data type="string">début</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NAM</data><data type="lemma">@ord@</data><data type="string">2017.</data></element>
+</article>
+</description>
+</item>
+<item number="6">
+<titre><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">La</data></element>
+<element><data type="type">NOM</data><data type="lemma">frontière</data><data type="string">frontière</data></element>
+<element><data type="type">NAM</data><data type="lemma">Maroc-Espagne</data><data type="string">Maroc-Espagne</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NAM</data><data type="lemma">Ceuta</data><data type="string">Ceuta</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">forcer</data><data type="string">forcée</data></element>
+<element><data type="type">PRP</data><data type="lemma">par</data><data type="string">par</data></element>
+<element><data type="type">ADV</data><data type="lemma">près</data><data type="string">près</data></element>
+<element><data type="type">ADJ</data><data type="lemma">d’un</data><data type="string">d’un</data></element>
+<element><data type="type">NOM</data><data type="lemma">millier</data><data type="string">millier</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">migrant</data><data type="string">migrants</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">NUM</data><data type="lemma">deux</data><data type="string">Deux</data></element>
+<element><data type="type">NOM</data><data type="lemma">personne</data><data type="string">personnes</data></element>
+<element><data type="type">ADV</data><data type="lemma">seulement</data><data type="string">seulement</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">ont</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">être</data><data type="string">été</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">autoriser</data><data type="string">autorisées</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">entrer</data><data type="string">entrer</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NAM</data><data type="lemma">Ceuta</data><data type="string">Ceuta</data></element>
+<element><data type="type">PRP</data><data type="lemma">pour</data><data type="string">pour</data></element>
+<element><data type="type">PRO:PER</data><data type="lemma">y</data><data type="string">y</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">être</data><data type="string">être</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">hospitaliser</data><data type="string">hospitalisées</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">ADJ</data><data type="lemma">autre</data><data type="string">autres</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">ont</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">être</data><data type="string">été</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">renvoyer</data><data type="string">renvoyées</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">au</data><data type="string">au</data></element>
+<element><data type="type">NAM</data><data type="lemma">Maroc</data><data type="string">Maroc</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">Des</data></element>
+<element><data type="type">NOM</data><data type="lemma">policier</data><data type="string">policiers</data></element>
+<element><data type="type">ADJ</data><data type="lemma">marocain</data><data type="string">marocains</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">ont</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">être</data><data type="string">été</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">blesser</data><data type="string">blessés</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="7">
+<titre><article>
+<element><data type="type">VER:pper</data><data type="lemma">fesser</data><data type="string">Fessée</data></element>
+<element><data type="type">PUN</data><data type="lemma">:</data><data type="string">:</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NAM</data><data type="lemma">France</data><data type="string">France</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">devenir</data><data type="string">devient</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">ADJ</data><data type="lemma">52e</data><data type="string">52e</data></element>
+<element><data type="type">NOM</data><data type="lemma">pays</data><data type="string">pays</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’interdire</data><data type="string">l’interdire</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">La</data></element>
+<element><data type="type">NAM</data><data type="lemma">Suède</data><data type="string">Suède</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">être</data><data type="string">été</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">premier</data><data type="string">premier</data></element>
+<element><data type="type">NAM</data><data type="lemma">Etat</data><data type="string">Etat</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">légiférer</data><data type="string">légiférer</data></element>
+<element><data type="type">PRP</data><data type="lemma">contre</data><data type="string">contre</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NOM</data><data type="lemma">châtiment</data><data type="string">châtiments</data></element>
+<element><data type="type">ADJ</data><data type="lemma">corporel</data><data type="string">corporels</data></element>
+<element><data type="type">PRP</data><data type="lemma">sur</data><data type="string">sur</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NOM</data><data type="lemma">enfant</data><data type="string">enfants</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">ADV</data><data type="lemma">désormais</data><data type="string">désormais</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">interdire</data><data type="string">interdits</data></element>
+<element><data type="type">PRP</data><data type="lemma">dans</data><data type="string">dans</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">majorité</data><data type="string">majorité</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">des</data></element>
+<element><data type="type">NOM</data><data type="lemma">pays</data><data type="string">pays</data></element>
+<element><data type="type">NOM</data><data type="lemma">d’Europe</data><data type="string">d’Europe</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">ADV</data><data type="lemma">ainsi</data><data type="string">ainsi</data></element>
+<element><data type="type">ADJ</data><data type="lemma">qu’en</data><data type="string">qu’en</data></element>
+<element><data type="type">NAM</data><data type="lemma">France</data><data type="string">France</data></element>
+<element><data type="type">PRP</data><data type="lemma">depuis</data><data type="string">depuis</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">22</data></element>
+<element><data type="type">NOM</data><data type="lemma">décembre</data><data type="string">décembre</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="8">
+<titre><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">La</data></element>
+<element><data type="type">NAM</data><data type="lemma">Finlande</data><data type="string">Finlande</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">commencer</data><data type="string">commence</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">expérimenter</data><data type="string">expérimenter</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">revenu</data><data type="string">revenu</data></element>
+<element><data type="type">ADJ</data><data type="lemma">universel</data><data type="string">universel</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">NUM</data><data type="lemma">deux</data><data type="string">Deux</data></element>
+<element><data type="type">NUM</data><data type="lemma">mille</data><data type="string">mille</data></element>
+<element><data type="type">NOM</data><data type="lemma">demandeur</data><data type="string">demandeurs</data></element>
+<element><data type="type">NOM</data><data type="lemma">d’emploi</data><data type="string">d’emploi</data></element>
+<element><data type="type">ADJ</data><data type="lemma">âgé</data><data type="string">âgés</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">25</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">58</data></element>
+<element><data type="type">NOM</data><data type="lemma">an</data><data type="string">ans</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">ont</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">être</data><data type="string">été</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">tirer</data><data type="string">tirés</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">au</data><data type="string">au</data></element>
+<element><data type="type">NOM</data><data type="lemma">sort</data><data type="string">sort</data></element>
+<element><data type="type">PRP</data><data type="lemma">pour</data><data type="string">pour</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">percevoir</data><data type="string">percevoir</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">560</data></element>
+<element><data type="type">NOM</data><data type="lemma">euro</data><data type="string">euros</data></element>
+<element><data type="type">PRP</data><data type="lemma">par</data><data type="string">par</data></element>
+<element><data type="type">NOM</data><data type="lemma">moi|mois</data><data type="string">mois</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">lieu</data><data type="string">lieu</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">NOM</data><data type="lemma">place</data><data type="string">place</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">DET:POS</data><data type="lemma">leur</data><data type="string">leur</data></element>
+<element><data type="type">NOM</data><data type="lemma">allocation</data><data type="string">allocation</data></element>
+<element><data type="type">NOM</data><data type="lemma">chômage</data><data type="string">chômage</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRP</data><data type="lemma">pendant</data><data type="string">pendant</data></element>
+<element><data type="type">NUM</data><data type="lemma">deux</data><data type="string">deux</data></element>
+<element><data type="type">NOM</data><data type="lemma">an</data><data type="string">ans</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">partir</data><data type="string">partir</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NUM</data><data type="lemma">1er</data><data type="string">1er</data></element>
+<element><data type="type">NOM</data><data type="lemma">janvier</data><data type="string">janvier</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="9">
+<titre><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Les</data></element>
+<element><data type="type">ADV</data><data type="lemma">plus</data><data type="string">plus</data></element>
+<element><data type="type">ADJ</data><data type="lemma">beau</data><data type="string">beaux</data></element>
+<element><data type="type">NOM</data><data type="lemma">rendez-vous</data><data type="string">rendez-vous</data></element>
+<element><data type="type">ADJ</data><data type="lemma">astronomique</data><data type="string">astronomiques</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">janvier</data><data type="string">janvier</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">PRP:det</data><data type="lemma">au</data><data type="string">Au</data></element>
+<element><data type="type">NOM</data><data type="lemma">programme</data><data type="string">programme</data></element>
+<element><data type="type">PUN</data><data type="lemma">:</data><data type="string">:</data></element>
+<element><data type="type">NAM</data><data type="lemma">Vénus</data><data type="string">Vénus</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">ADV</data><data type="lemma">vraiment</data><data type="string">vraiment</data></element>
+<element><data type="type">ADJ</data><data type="lemma">éblouissant</data><data type="string">éblouissante</data></element>
+<element><data type="type">PRP</data><data type="lemma">dans</data><data type="string">dans</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">ciel</data><data type="string">ciel</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NOM</data><data type="lemma">soir</data><data type="string">soir</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NAM</data><data type="lemma">Jupiter</data><data type="string">Jupiter</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NAM</data><data type="lemma">Saturne</data><data type="string">Saturne</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">NAM</data><data type="lemma">Mercure</data><data type="string">Mercure</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">ADJ</data><data type="lemma">visible</data><data type="string">visibles</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’aube</data><data type="string">l’aube</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRP</data><data type="lemma">par</data><data type="string">par</data></element>
+<element><data type="type">DET:POS</data><data type="lemma">notre</data><data type="string">notre</data></element>
+<element><data type="type">NOM</data><data type="lemma">blogueur</data><data type="string">blogueur</data></element>
+<element><data type="type">NAM</data><data type="lemma">Guillaume</data><data type="string">Guillaume</data></element>
+<element><data type="type">NAM</data><data type="lemma">Cannat</data><data type="string">Cannat</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="10">
+<titre><article>
+<element><data type="type">NAM</data><data type="lemma">Léonore</data><data type="string">Léonore</data></element>
+<element><data type="type">NAM</data><data type="lemma">Baulac</data><data type="string">Baulac</data></element>
+<element><data type="type">ADJ</data><data type="lemma">nommé</data><data type="string">nommée</data></element>
+<element><data type="type">NOM</data><data type="lemma">danseur</data><data type="string">danseuse</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">étoiler</data><data type="string">étoile</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’Opéra</data><data type="string">l’Opéra</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NAM</data><data type="lemma">Paris</data><data type="string">Paris</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">VER:pper</data><data type="lemma">Agée</data><data type="string">Agée</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">26</data></element>
+<element><data type="type">NOM</data><data type="lemma">an</data><data type="string">ans</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">ADJ</data><data type="lemma">jeune</data><data type="string">jeune</data></element>
+<element><data type="type">NOM</data><data type="lemma">femme</data><data type="string">femme</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">être</data><data type="string">été</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">promouvoir</data><data type="string">promue</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">étoiler</data><data type="string">étoile</data></element>
+<element><data type="type">NOM</data><data type="lemma">samedi</data><data type="string">samedi</data></element>
+<element><data type="type">PRP</data><data type="lemma">après</data><data type="string">après</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">une</data></element>
+<element><data type="type">NOM</data><data type="lemma">représentation</data><data type="string">représentation</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">«</data><data type="string">«</data></element>
+<element><data type="type">NAM</data><data type="lemma">Lac</data><data type="string">Lac</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">des</data></element>
+<element><data type="type">NOM</data><data type="lemma">cygne</data><data type="string">cygnes</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">»</data><data type="string">»</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="11">
+<titre><article>
+<element><data type="type">NAM</data><data type="lemma">François</data><data type="string">François</data></element>
+<element><data type="type">NAM</data><data type="lemma">Hollande</data><data type="string">Hollande</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">adresser</data><data type="string">adressé</data></element>
+<element><data type="type">DET:POS</data><data type="lemma">son</data><data type="string">ses</data></element>
+<element><data type="type">ADJ</data><data type="lemma">ultime</data><data type="string">ultimes</data></element>
+<element><data type="type">NOM</data><data type="lemma">vœux</data><data type="string">vœux</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">au</data><data type="string">aux</data></element>
+<element><data type="type">NAM</data><data type="lemma">Français</data><data type="string">Français</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">ADV</data><data type="lemma">lors</data><data type="string">Lors</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">des</data></element>
+<element><data type="type">ADJ</data><data type="lemma">dernier</data><data type="string">derniers</data></element>
+<element><data type="type">NOM</data><data type="lemma">vœux</data><data type="string">vœux</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">DET:POS</data><data type="lemma">son</data><data type="string">son</data></element>
+<element><data type="type">NOM</data><data type="lemma">quinquennat</data><data type="string">quinquennat</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">président</data><data type="string">président</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">mettre</data><data type="string">mis</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NAM</data><data type="lemma">Français</data><data type="string">Français</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">garde</data><data type="string">garde</data></element>
+<element><data type="type">PRP</data><data type="lemma">contre</data><data type="string">contre</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NAM</data><data type="lemma">Front</data><data type="string">Front</data></element>
+<element><data type="type">ADJ</data><data type="lemma">national</data><data type="string">national</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">droit|droite</data><data type="string">droite</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">vue</data><data type="string">vue</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">ADJ</data><data type="lemma">présidentiel</data><data type="string">présidentielle</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="12">
+<titre><article>
+<element><data type="type">KON</data><data type="lemma">que</data><data type="string">Que</data></element>
+<element><data type="type">VER:subi</data><data type="lemma">faut-il</data><data type="string">faut-il</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">retenir</data><data type="string">retenir</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’actualité</data><data type="string">l’actualité</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">2016</data></element>
+<element><data type="type">SENT</data><data type="lemma">?</data><data type="string">?</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">NOM</data><data type="lemma">guerre</data><data type="string">Guerre</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NAM</data><data type="lemma">Syrie</data><data type="string">Syrie</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NAM</data><data type="lemma">Donald</data><data type="string">Donald</data></element>
+<element><data type="type">NAM</data><data type="lemma">Trump</data><data type="string">Trump</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">élire</data><data type="string">élu</data></element>
+<element><data type="type">NOM</data><data type="lemma">président</data><data type="string">président</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NAM</data><data type="lemma">Brexit</data><data type="string">Brexit</data></element>
+<element><data type="type">PUN</data><data type="lemma">...</data><data type="string">...</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">2016</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">être</data><data type="string">été</data></element>
+<element><data type="type">ADJ</data><data type="lemma">riche</data><data type="string">riche</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">événement</data><data type="string">événements</data></element>
+<element><data type="type">ADJ</data><data type="lemma">marquant</data><data type="string">marquants</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">NOM</data><data type="lemma">retour</data><data type="string">Retour</data></element>
+<element><data type="type">PRP</data><data type="lemma">sur</data><data type="string">sur</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’année</data><data type="string">l’année</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">écouler</data><data type="string">écoulée</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NUM</data><data type="lemma">douze</data><data type="string">douze</data></element>
+<element><data type="type">NOM</data><data type="lemma">thème</data><data type="string">thèmes</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="13">
+<titre><article>
+<element><data type="type">NOM</data><data type="lemma">mail</data><data type="string">Mails</data></element>
+<element><data type="type">ADJ</data><data type="lemma">professionnel</data><data type="string">professionnels</data></element>
+<element><data type="type">PUN</data><data type="lemma">:</data><data type="string">:</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">«</data><data type="string">«</data></element>
+<element><data type="type">NAM</data><data type="lemma">Tant</data><data type="string">Tant</data></element>
+<element><data type="type">KON</data><data type="lemma">que</data><data type="string">que</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">déconnexion</data><data type="string">déconnexion</data></element>
+<element><data type="type">ADV</data><data type="lemma">ne</data><data type="string">ne</data></element>
+<element><data type="type">VER:futu</data><data type="lemma">être</data><data type="string">sera</data></element>
+<element><data type="type">ADV</data><data type="lemma">pas</data><data type="string">pas</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">imposer</data><data type="string">imposée</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRO:DEM</data><data type="lemma">cela</data><data type="string">ça</data></element>
+<element><data type="type">ADV</data><data type="lemma">ne</data><data type="string">ne</data></element>
+<element><data type="type">VER:futu</data><data type="lemma">marcher</data><data type="string">marchera</data></element>
+<element><data type="type">ADV</data><data type="lemma">pas</data><data type="string">pas</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">»</data><data type="string">»</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Le</data></element>
+<element><data type="type">NOM</data><data type="lemma">droit</data><data type="string">droit</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">déconnexion</data><data type="string">déconnexion</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">prévoir</data><data type="string">prévu</data></element>
+<element><data type="type">PRP</data><data type="lemma">par</data><data type="string">par</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">loi</data><data type="string">loi</data></element>
+<element><data type="type">NOM</data><data type="lemma">travail</data><data type="string">travail</data></element>
+<element><data type="type">PRP</data><data type="lemma">entre</data><data type="string">entre</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">vigueur</data><data type="string">vigueur</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NUM</data><data type="lemma">1er</data><data type="string">1er</data></element>
+<element><data type="type">NOM</data><data type="lemma">janvier</data><data type="string">janvier</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Le</data></element>
+<element><data type="type">NOM</data><data type="lemma">chemin</data><data type="string">chemin</data></element>
+<element><data type="type">PRP</data><data type="lemma">vers</data><data type="string">vers</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">respect</data><data type="string">respect</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NOM</data><data type="lemma">temps</data><data type="string">temps</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">repos</data><data type="string">repos</data></element>
+<element><data type="type">ADJ</data><data type="lemma">obligatoire</data><data type="string">obligatoire</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">des</data></element>
+<element><data type="type">NOM</data><data type="lemma">salarié</data><data type="string">salariés</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">être</data><data type="string">est</data></element>
+<element><data type="type">ADV</data><data type="lemma">encore</data><data type="string">encore</data></element>
+<element><data type="type">ADJ</data><data type="lemma">long</data><data type="string">long</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="14">
+<titre><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Le</data></element>
+<element><data type="type">NOM</data><data type="lemma">monde</data><data type="string">monde</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">fêter</data><data type="string">fêté</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NAM</data><data type="lemma">Nouvel</data><data type="string">Nouvel</data></element>
+<element><data type="type">NAM</data><data type="lemma">An</data><data type="string">An</data></element>
+<element><data type="type">PUN</data><data type="lemma">@ord@</data><data type="string">2017.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">Un</data></element>
+<element><data type="type">ADJ</data><data type="lemma">feu</data><data type="string">feu</data></element>
+<element><data type="type">NOM</data><data type="lemma">d’artifice</data><data type="string">d’artifice</data></element>
+<element><data type="type">NOM</data><data type="lemma">géant</data><data type="string">géant</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">ouvrir</data><data type="string">ouvert</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">bal</data><data type="string">bal</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">des</data></element>
+<element><data type="type">NOM</data><data type="lemma">festivité</data><data type="string">festivités</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NAM</data><data type="lemma">Nouvel</data><data type="string">Nouvel</data></element>
+<element><data type="type">NAM</data><data type="lemma">An</data><data type="string">An</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NAM</data><data type="lemma">Sydney</data><data type="string">Sydney</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NAM</data><data type="lemma">Australie</data><data type="string">Australie</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">De</data></element>
+<element><data type="type">ADJ</data><data type="lemma">nombreux</data><data type="string">nombreuses</data></element>
+<element><data type="type">ADJ</data><data type="lemma">autre</data><data type="string">autres</data></element>
+<element><data type="type">NOM</data><data type="lemma">célébration</data><data type="string">célébrations</data></element>
+<element><data type="type">PRP</data><data type="lemma">sous</data><data type="string">sous</data></element>
+<element><data type="type">ADJ</data><data type="lemma">haut</data><data type="string">haute</data></element>
+<element><data type="type">NOM</data><data type="lemma">surveillance</data><data type="string">surveillance</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">ont</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">avoir</data><data type="string">eu</data></element>
+<element><data type="type">NOM</data><data type="lemma">lieu</data><data type="string">lieu</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NOM</data><data type="lemma">travers</data><data type="string">travers</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">monde</data><data type="string">monde</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="15">
+<titre><article>
+<element><data type="type">PRP:det</data><data type="lemma">au</data><data type="string">Au</data></element>
+<element><data type="type">ADV</data><data type="lemma">moins</data><data type="string">moins</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">23</data></element>
+<element><data type="type">NOM</data><data type="lemma">mort</data><data type="string">morts</data></element>
+<element><data type="type">PRP</data><data type="lemma">dans</data><data type="string">dans</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">un</data></element>
+<element><data type="type">NOM</data><data type="lemma">incendie</data><data type="string">incendie</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NOM</data><data type="lemma">bord</data><data type="string">bord</data></element>
+<element><data type="type">ADJ</data><data type="lemma">d’un</data><data type="string">d’un</data></element>
+<element><data type="type">NOM</data><data type="lemma">bateau</data><data type="string">bateau</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NAM</data><data type="lemma">Indonésie_</data><data type="string">Indonésie</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Le</data></element>
+<element><data type="type">NOM</data><data type="lemma">bateau</data><data type="string">bateau</data></element>
+<element><data type="type">PRO:PER</data><data type="lemma">se</data><data type="string">se</data></element>
+<element><data type="type">VER:impf</data><data type="lemma">rendre</data><data type="string">rendait</data></element>
+<element><data type="type">PRP</data><data type="lemma">sur</data><data type="string">sur</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’île</data><data type="string">l’île</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NAM</data><data type="lemma">Tidung</data><data type="string">Tidung</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NOM</data><data type="lemma">destination</data><data type="string">destination</data></element>
+<element><data type="type">ADJ</data><data type="lemma">touristique</data><data type="string">touristique</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">50</data></element>
+<element><data type="type">ABR</data><data type="lemma">kilomètre</data><data type="string">km</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NAM</data><data type="lemma">Jakarta</data><data type="string">Jakarta</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">KON</data><data type="lemma">quand</data><data type="string">quand</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">moteur</data><data type="string">moteur</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">avoir</data><data type="string">eu</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">des</data></element>
+<element><data type="type">NOM</data><data type="lemma">problème</data><data type="string">problèmes</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">ADV</data><data type="lemma">puis</data><data type="string">puis</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">exploser</data><data type="string">explosé</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">PRO:PER</data><data type="lemma">il</data><data type="string">Il</data></element>
+<element><data type="type">VER:impf</data><data type="lemma">transporter</data><data type="string">transportait</data></element>
+<element><data type="type">ADV</data><data type="lemma">plus</data><data type="string">plus</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">200</data></element>
+<element><data type="type">NOM</data><data type="lemma">personne</data><data type="string">personnes</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">17</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">être</data><data type="string">sont</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">porter</data><data type="string">portées</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">disparaître</data><data type="string">disparues</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="16">
+<titre><article>
+<element><data type="type">NUM</data><data type="lemma">dix-huit</data><data type="string">Dix-huit</data></element>
+<element><data type="type">NOM</data><data type="lemma">département</data><data type="string">départements</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">placer</data><data type="string">placés</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">vigilance</data><data type="string">vigilance</data></element>
+<element><data type="type">ADJ</data><data type="lemma">orange</data><data type="string">orange</data></element>
+<element><data type="type">PRP</data><data type="lemma">pour</data><data type="string">pour</data></element>
+<element><data type="type">NOM</data><data type="lemma">neige</data><data type="string">neige</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">NOM</data><data type="lemma">verglas</data><data type="string">verglas</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">NAM</data><data type="lemma">L’Aisne</data><data type="string">L’Aisne</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NAM</data><data type="lemma">Ardennes</data><data type="string">Ardennes</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’Eure</data><data type="string">l’Eure</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’Eure-et-Loir</data><data type="string">l’Eure-et-Loir</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NAM</data><data type="lemma">Marne</data><data type="string">Marne</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">Nord</data><data type="string">Nord</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">ADJ</data><data type="lemma">l’Oise</data><data type="string">l’Oise</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NAM</data><data type="lemma">Pas-de-Calais</data><data type="string">Pas-de-Calais</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NAM</data><data type="lemma">Seine-Maritime</data><data type="string">Seine-Maritime</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NAM</data><data type="lemma">Somme</data><data type="string">Somme</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">PRO:IND</data><data type="lemma">tout</data><data type="string">tous</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NOM</data><data type="lemma">département</data><data type="string">départements</data></element>
+<element><data type="type">NOM</data><data type="lemma">d’Ile-de-France</data><data type="string">d’Ile-de-France</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">être</data><data type="string">sont</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">concerner</data><data type="string">concernés</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="17">
+<titre><article>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">Des</data></element>
+<element><data type="type">NOM</data><data type="lemma">idée</data><data type="string">idées</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">sortie</data><data type="string">sorties</data></element>
+<element><data type="type">PRP</data><data type="lemma">pour</data><data type="string">pour</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">ADJ</data><data type="lemma">dernier</data><data type="string">dernier</data></element>
+<element><data type="type">NOM</data><data type="lemma">week-end</data><data type="string">week-end</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’année</data><data type="string">l’année</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">Du</data></element>
+<element><data type="type">NOM</data><data type="lemma">centre</data><data type="string">centre</data></element>
+<element><data type="type">NAM</data><data type="lemma">Pompidou-Metz</data><data type="string">Pompidou-Metz</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">au</data><data type="string">au</data></element>
+<element><data type="type">NAM</data><data type="lemma">Musée</data><data type="string">Musée</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NAM</data><data type="lemma">Quai</data><data type="string">Quai</data></element>
+<element><data type="type">NAM</data><data type="lemma">Branly</data><data type="string">Branly</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NOM</data><data type="lemma">sélection</data><data type="string">sélection</data></element>
+<element><data type="type">NOM</data><data type="lemma">d’expositions</data><data type="string">d’expositions</data></element>
+<element><data type="type">PRO:REL</data><data type="lemma">qui</data><data type="string">qui</data></element>
+<element><data type="type">VER:futu</data><data type="lemma">être</data><data type="string">seront</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">ouvrir</data><data type="string">ouvertes</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NUM</data><data type="lemma">1er</data><data type="string">1er</data></element>
+<element><data type="type">NOM</data><data type="lemma">janvier</data><data type="string">janvier</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="18">
+<titre><article>
+<element><data type="type">NOM</data><data type="lemma">attentat</data><data type="string">Attentat</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NAM</data><data type="lemma">Istanbul</data><data type="string">Istanbul</data></element>
+<element><data type="type">PUN</data><data type="lemma">:</data><data type="string">:</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">«</data><data type="string">«</data></element>
+<element><data type="type">NAM</data><data type="lemma">Elle</data><data type="string">Elle</data></element>
+<element><data type="type">VER:impf</data><data type="lemma">avoir</data><data type="string">avait</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">19</data></element>
+<element><data type="type">NOM</data><data type="lemma">an</data><data type="string">ans</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRO:PER</data><data type="lemma">elle</data><data type="string">elle</data></element>
+<element><data type="type">VER:impf</data><data type="lemma">vouloir</data><data type="string">voulait</data></element>
+<element><data type="type">ADV</data><data type="lemma">simplement</data><data type="string">simplement</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">s’amuser</data><data type="string">s’amuser</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">»</data><data type="string">»</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">NOM</data><data type="lemma">L’attaque</data><data type="string">L’attaque</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NOM</data><data type="lemma">club</data><data type="string">club</data></element>
+<element><data type="type">ADJ</data><data type="lemma">privé</data><data type="string">privé</data></element>
+<element><data type="type">NAM</data><data type="lemma">Reina</data><data type="string">Reina</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRO:REL</data><data type="lemma">qui</data><data type="string">qui</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">faire</data><data type="string">fait</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">39</data></element>
+<element><data type="type">NOM</data><data type="lemma">mort</data><data type="string">morts</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">65</data></element>
+<element><data type="type">NOM</data><data type="lemma">blessé</data><data type="string">blessés</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">nuit</data><data type="string">nuit</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NOM</data><data type="lemma">réveillon</data><data type="string">réveillon</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">être</data><data type="string">est</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">ADJ</data><data type="lemma">dernier</data><data type="string">dernière</data></element>
+<element><data type="type">NOM</data><data type="lemma">d’une</data><data type="string">d’une</data></element>
+<element><data type="type">NOM</data><data type="lemma">demi-douzaine</data><data type="string">demi-douzaine</data></element>
+<element><data type="type">NOM</data><data type="lemma">d’attentats</data><data type="string">d’attentats</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">attribuer</data><data type="string">attribués</data></element>
+<element><data type="type">PRP</data><data type="lemma">depuis</data><data type="string">depuis</data></element>
+<element><data type="type">NUM</data><data type="lemma">dix-huit</data><data type="string">dix-huit</data></element>
+<element><data type="type">NOM</data><data type="lemma">moi|mois</data><data type="string">mois</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’EI</data><data type="string">l’EI</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NAM</data><data type="lemma">Turquie</data><data type="string">Turquie</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="19">
+<titre><article>
+<element><data type="type">NAM</data><data type="lemma">Europe</data><data type="string">Europe</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">1</data></element>
+<element><data type="type">NOM</data><data type="lemma">tente</data><data type="string">tente</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">une</data></element>
+<element><data type="type">NOM</data><data type="lemma">relance</data><data type="string">relance</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">risquer</data><data type="string">risquée</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NOM</data><data type="lemma">mi-saison</data><data type="string">mi-saison</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">VER:pper</data><data type="lemma">confronter</data><data type="string">Confrontée</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">ADJ</data><data type="lemma">mauvais</data><data type="string">mauvais</data></element>
+<element><data type="type">NOM</data><data type="lemma">résultat</data><data type="string">résultats</data></element>
+<element><data type="type">NOM</data><data type="lemma">d’audience</data><data type="string">d’audience</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">radio</data><data type="string">radio</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NOM</data><data type="lemma">groupe</data><data type="string">groupe</data></element>
+<element><data type="type">NAM</data><data type="lemma">Lagardère</data><data type="string">Lagardère</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">être</data><data type="string">été</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">contraindre</data><data type="string">contrainte</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">procéder</data><data type="string">procéder</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">des</data></element>
+<element><data type="type">NOM</data><data type="lemma">changement</data><data type="string">changements</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="20">
+<titre><article>
+<element><data type="type">NAM</data><data type="lemma">Hollande</data><data type="string">Hollande</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NAM</data><data type="lemma">Bagdad</data><data type="string">Bagdad</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NOM</data><data type="lemma">Erbil</data><data type="string">Erbil</data></element>
+<element><data type="type">PRP</data><data type="lemma">pour</data><data type="string">pour</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">affirmer</data><data type="string">affirmer</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">soutien</data><data type="string">soutien</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NAM</data><data type="lemma">France</data><data type="string">France</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’Irak</data><data type="string">l’Irak</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Le</data></element>
+<element><data type="type">NOM</data><data type="lemma">président</data><data type="string">président</data></element>
+<element><data type="type">ADJ</data><data type="lemma">s’est</data><data type="string">s’est</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">rendre</data><data type="string">rendu</data></element>
+<element><data type="type">ADV</data><data type="lemma">près</data><data type="string">près</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NAM</data><data type="lemma">Mossoul</data><data type="string">Mossoul</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">Irak</data><data type="string">Irak</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">PRO:PER</data><data type="lemma">il</data><data type="string">Il</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">annoncer</data><data type="string">annoncé</data></element>
+<element><data type="type">KON</data><data type="lemma">que</data><data type="string">que</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">reconquête</data><data type="string">reconquête</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">«</data><data type="string">«</data></element>
+<element><data type="type">NOM</data><data type="lemma">capitale</data><data type="string">capitale</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">»</data><data type="string">»</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">autoproclamée</data><data type="string">autoproclamée</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’EI</data><data type="string">l’EI</data></element>
+<element><data type="type">VER:impf</data><data type="lemma">être</data><data type="string">était</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">«</data><data type="string">«</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">une</data></element>
+<element><data type="type">NOM</data><data type="lemma">question</data><data type="string">question</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">semaine</data><data type="string">semaines</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">»</data><data type="string">»</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="21">
+<titre><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Les</data></element>
+<element><data type="type">NOM</data><data type="lemma">risque</data><data type="string">risques</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">société</data><data type="string">société</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">«</data><data type="string">«</data></element>
+<element><data type="type">NOM</data><data type="lemma">post-vérité</data><data type="string">post-vérité</data></element>
+<element><data type="type">PUN:cit</data><data type="lemma">»</data><data type="string">»</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">NOM</data><data type="lemma">Editorial</data><data type="string">Editorial</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">En</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">2016</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRO:IND</data><data type="lemma">plusieurs</data><data type="string">plusieurs</data></element>
+<element><data type="type">NOM</data><data type="lemma">personnalité</data><data type="string">personnalités</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">ont</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">annoncer</data><data type="string">annoncé</data></element>
+<element><data type="type">ADV</data><data type="lemma">sciemment</data><data type="string">sciemment</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">des</data></element>
+<element><data type="type">ADJ</data><data type="lemma">faux</data><data type="string">fausses</data></element>
+<element><data type="type">ADJ</data><data type="lemma">nouveau</data><data type="string">nouvelles</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">Un</data></element>
+<element><data type="type">NOM</data><data type="lemma">défi</data><data type="string">défi</data></element>
+<element><data type="type">PRP</data><data type="lemma">pour</data><data type="string">pour</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NOM</data><data type="lemma">médias</data><data type="string">médias</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NOM</data><data type="lemma">personnalité</data><data type="string">personnalités</data></element>
+<element><data type="type">ADJ</data><data type="lemma">politique</data><data type="string">politiques</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NOM</data><data type="lemma">entreprise</data><data type="string">entreprises</data></element>
+<element><data type="type">ADJ</data><data type="lemma">technologique</data><data type="string">technologiques</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="22">
+<titre><article>
+<element><data type="type">ADJ</data><data type="lemma">L’ancien</data><data type="string">L’ancien</data></element>
+<element><data type="type">NOM</data><data type="lemma">skieur</data><data type="string">skieur</data></element>
+<element><data type="type">NAM</data><data type="lemma">Jean</data><data type="string">Jean</data></element>
+<element><data type="type">NAM</data><data type="lemma">Vuarnet</data><data type="string">Vuarnet</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NOM</data><data type="lemma">champion</data><data type="string">champion</data></element>
+<element><data type="type">ADJ</data><data type="lemma">olympique</data><data type="string">olympique</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">descente</data><data type="string">descente</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">1960</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">être</data><data type="string">est</data></element>
+<element><data type="type">NOM</data><data type="lemma">mort</data><data type="string">mort</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Le</data></element>
+<element><data type="type">NOM</data><data type="lemma">skieur</data><data type="string">skieur</data></element>
+<element><data type="type">ADJ</data><data type="lemma">français</data><data type="string">français</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NOM</data><data type="lemma">mort</data><data type="string">mort</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’âge</data><data type="string">l’âge</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">83</data></element>
+<element><data type="type">NOM</data><data type="lemma">an</data><data type="string">ans</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">VER:impf</data><data type="lemma">avoir</data><data type="string">avait</data></element>
+<element><data type="type">ADV</data><data type="lemma">également</data><data type="string">également</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">donner</data><data type="string">donné</data></element>
+<element><data type="type">DET:POS</data><data type="lemma">son</data><data type="string">son</data></element>
+<element><data type="type">NOM</data><data type="lemma">nom</data><data type="string">nom</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">une</data></element>
+<element><data type="type">NOM</data><data type="lemma">marque</data><data type="string">marque</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">lunette|lunettes</data><data type="string">lunettes</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">soleil</data><data type="string">soleil</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">créer</data><data type="string">créé</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">station</data><data type="string">station</data></element>
+<element><data type="type">NOM</data><data type="lemma">d’Avoriaz</data><data type="string">d’Avoriaz</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="23">
+<titre><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Le</data></element>
+<element><data type="type">NOM</data><data type="lemma">djihadiste</data><data type="string">djihadiste</data></element>
+<element><data type="type">ADJ</data><data type="lemma">français</data><data type="string">français</data></element>
+<element><data type="type">NAM</data><data type="lemma">Nicolas</data><data type="string">Nicolas</data></element>
+<element><data type="type">NAM</data><data type="lemma">Moreau</data><data type="string">Moreau</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">condamner</data><data type="string">condamné</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">NUM</data><data type="lemma">dix</data><data type="string">dix</data></element>
+<element><data type="type">NOM</data><data type="lemma">an</data><data type="string">ans</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">prison</data><data type="string">prison</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">PRO:DEM</data><data type="lemma">ce</data><data type="string">Ce</data></element>
+<element><data type="type">NOM</data><data type="lemma">délinquant</data><data type="string">délinquant</data></element>
+<element><data type="type">ADJ</data><data type="lemma">multirécidiviste</data><data type="string">multirécidiviste</data></element>
+<element><data type="type">VER:impf</data><data type="lemma">avoir</data><data type="string">avait</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">passer</data><data type="string">passé</data></element>
+<element><data type="type">ADV</data><data type="lemma">près</data><data type="string">près</data></element>
+<element><data type="type">ADJ</data><data type="lemma">d’un</data><data type="string">d’un</data></element>
+<element><data type="type">NOM</data><data type="lemma">an</data><data type="string">an</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">NOM</data><data type="lemma">demi</data><data type="string">demi</data></element>
+<element><data type="type">PRP</data><data type="lemma">dans</data><data type="string">dans</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NOM</data><data type="lemma">rang</data><data type="string">rangs</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’organisation</data><data type="string">l’organisation</data></element>
+<element><data type="type">NAM</data><data type="lemma">Etat</data><data type="string">Etat</data></element>
+<element><data type="type">ADJ</data><data type="lemma">islamique</data><data type="string">islamique</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NOM</data><data type="lemma">Irak</data><data type="string">Irak</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">PRP</data><data type="lemma">en</data><data type="string">en</data></element>
+<element><data type="type">NAM</data><data type="lemma">Syrie</data><data type="string">Syrie</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="24">
+<titre><article>
+<element><data type="type">NOM</data><data type="lemma">printemps</data><data type="string">Printemps</data></element>
+<element><data type="type">PUN</data><data type="lemma">:</data><data type="string">:</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">un</data><data type="string">un</data></element>
+<element><data type="type">NOM</data><data type="lemma">accord</data><data type="string">accord</data></element>
+<element><data type="type">PRP</data><data type="lemma">sur</data><data type="string">sur</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">NOM</data><data type="lemma">travail</data><data type="string">travail</data></element>
+<element><data type="type">ADJ</data><data type="lemma">dominical</data><data type="string">dominical</data></element>
+<element><data type="type">ADV</data><data type="lemma">finalement</data><data type="string">finalement</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">conclure</data><data type="string">conclu</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">NAM</data><data type="lemma">L’enseigne</data><data type="string">L’enseigne</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">rejoindre</data><data type="string">rejoint</data></element>
+<element><data type="type">ADV</data><data type="lemma">ainsi</data><data type="string">ainsi</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRP</data><data type="lemma">dans</data><data type="string">dans</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">la</data></element>
+<element><data type="type">NOM</data><data type="lemma">capitale</data><data type="string">capitale</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">NAM</data><data type="lemma">Galeries</data><data type="string">Galeries</data></element>
+<element><data type="type">NAM</data><data type="lemma">Lafayette</data><data type="string">Lafayette</data></element>
+<element><data type="type">KON</data><data type="lemma">et</data><data type="string">et</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Le</data></element>
+<element><data type="type">NAM</data><data type="lemma">Bon</data><data type="string">Bon</data></element>
+<element><data type="type">NAM</data><data type="lemma">Marché</data><data type="string">Marché</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">ouvrir</data><data type="string">ouverts</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NOM</data><data type="lemma">dimanche</data><data type="string">dimanches</data></element>
+<element><data type="type">PRP</data><data type="lemma">à</data><data type="string">à</data></element>
+<element><data type="type">VER:infi</data><data type="lemma">partir</data><data type="string">partir</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">PRO:DEM</data><data type="lemma">ce</data><data type="string">cette</data></element>
+<element><data type="type">NOM</data><data type="lemma">année</data><data type="string">année</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+<item number="25">
+<titre><article>
+<element><data type="type">NOM</data><data type="lemma">grippe</data><data type="string">Grippe</data></element>
+<element><data type="type">ADJ</data><data type="lemma">aviaire</data><data type="string">aviaire</data></element>
+<element><data type="type">PUN</data><data type="lemma">:</data><data type="string">:</data></element>
+<element><data type="type">NUM</data><data type="lemma">@card@</data><data type="string">85</data></element>
+<element><data type="type">NOM</data><data type="lemma">cas</data><data type="string">cas</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">recenser</data><data type="string">recensés</data></element>
+<element><data type="type">PRP</data><data type="lemma">dans</data><data type="string">dans</data></element>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">les</data></element>
+<element><data type="type">NOM</data><data type="lemma">élevage</data><data type="string">élevages</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">PRO:PER</data><data type="lemma">le</data><data type="string">le</data></element>
+<element><data type="type">VER:cond</data><data type="lemma">Gers</data><data type="string">Gers</data></element>
+<element><data type="type">ADV</data><data type="lemma">très</data><data type="string">très</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">toucher</data><data type="string">touché</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</titre>
+<description><article>
+<element><data type="type">DET:ART</data><data type="lemma">le</data><data type="string">Le</data></element>
+<element><data type="type">NOM</data><data type="lemma">ministère</data><data type="string">ministère</data></element>
+<element><data type="type">PRP</data><data type="lemma">de</data><data type="string">de</data></element>
+<element><data type="type">NOM</data><data type="lemma">l’agriculture</data><data type="string">l’agriculture</data></element>
+<element><data type="type">VER:pres</data><data type="lemma">avoir</data><data type="string">a</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">recenser</data><data type="string">recensé</data></element>
+<element><data type="type">PRP</data><data type="lemma">depuis</data><data type="string">depuis</data></element>
+<element><data type="type">NOM</data><data type="lemma">vendredi</data><data type="string">vendredi</data></element>
+<element><data type="type">NUM</data><data type="lemma">huit</data><data type="string">huit</data></element>
+<element><data type="type">ADJ</data><data type="lemma">nouveau</data><data type="string">nouveaux</data></element>
+<element><data type="type">NOM</data><data type="lemma">foyer</data><data type="string">foyers</data></element>
+<element><data type="type">PUN</data><data type="lemma">,</data><data type="string">,</data></element>
+<element><data type="type">VER:pper</data><data type="lemma">localiser</data><data type="string">localisés</data></element>
+<element><data type="type">PRP</data><data type="lemma">dans</data><data type="string">dans</data></element>
+<element><data type="type">NUM</data><data type="lemma">sept</data><data type="string">sept</data></element>
+<element><data type="type">NOM</data><data type="lemma">département</data><data type="string">départements</data></element>
+<element><data type="type">PRP:det</data><data type="lemma">du</data><data type="string">du</data></element>
+<element><data type="type">NOM</data><data type="lemma">sud-ouest</data><data type="string">Sud-Ouest</data></element>
+<element><data type="type">SENT</data><data type="lemma">.</data><data type="string">.</data></element>
+</article>
+</description>
+</item>
+</FILTRAGE>
+</PARCOURS>

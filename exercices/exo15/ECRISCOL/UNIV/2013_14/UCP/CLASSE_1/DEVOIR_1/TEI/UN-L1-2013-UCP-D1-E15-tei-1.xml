@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>UN-L1-2013-UCP-D1-S6-2
+</head>
+<p>
+L'apparition soudaine de ce objets, dont la valeur matérielle ne pouvait dépasser leur richesse en
+souvenir, <mod type="corr"><orig>feind</orig><reg>feint</reg></mod> d'entretenir le sentiment de tristesse qui régnait depuis lors. §<lb/>
+Il s'agissait maintenant <mod type="add" stage="" who=""><add>pour</add></mod> nous de surpasser l'épreuve et de ne pas nous laisser ensevelir
+trop longtemps par les émotions. Nous prîmes alors l'initiative de redonner
+un visage moins morose à notre jardin, comme par symbole. Julien se proposa
+pour tailler la haute haie du fond du jardin dans laquelle le chaos était maître. §<lb/>
+Il se servit du vieil <mod type="corr"><orig>escabot</orig><reg>escabeau</reg></mod> en bois de grand-père. Le voir en équilibre à couper les branches
+<mod type="corr"><orig>folle</orig><reg>folles</reg></mod> me rappelait papa qui, lui, s'en servait pour nous fabriquer une cabane dans un vieux et large
+frêne. Il y grimpait et pouvait rester des heures à bricoler pour nous. Il était sévère et
+avait l'air grave, mais ce masque de père autoritaire tombait quand sa tendresse et
+sa dévotion pour nous était trop forte.
+<mod type="corr"><orig>Seule</orig><reg>seul</reg></mod> maman restait comme bloquée, mal à l'aise avec cette histoire de bijoux familiaux.
+Je voyais dans son regard un éternel <mod type="corr"><orig>ressacement</orig><reg>ressassement</reg></mod> des évènements passés qui <mod type="del" stage="" who=""><del>lui</del></mod> décuplait
+sa souffrance. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

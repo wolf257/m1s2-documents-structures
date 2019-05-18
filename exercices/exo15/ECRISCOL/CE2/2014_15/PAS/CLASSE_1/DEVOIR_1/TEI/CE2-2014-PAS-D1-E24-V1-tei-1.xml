@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-PAS-D1-E24-V1
+</head>
+<p>
+Il <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>été</del></mod></del><add stage="" who="P">était</add></mod></orig><reg>était</reg></mod> une fois un petit garçon qui s'appelle <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>Gabrielle</del></mod></del><add stage="" who="P">Gabriel .</add></mod></orig><reg>Gabriel</reg></mod> §<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>Gabielle</del></mod></del><add stage="" who="P">Gabriel</add></mod></orig><reg>Gabriel</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>avai</del></mod></del><add stage="" who="P">avait</add></mod></orig><reg>avait</reg></mod> une toupie chinoise <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>cette</del></mod></del><add stage="" who="P">. Cette</add></mod></orig><reg>Cette</reg></mod> toupie <mod type="corr"><orig>compt<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ait</add></mod></orig><reg>comptait</reg></mod> beaucoup pour lui. <lb/>
+Un jour <mod type="add" stage="" who="P"><add>,</add></mod> il alla à l'école avec sa <mod type="corr"><orig>toupi<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>toupie</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>est</del></mod></del><add stage="" who="P">et</add></mod></orig><reg>et</reg></mod> il la <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>pere</del></mod></del><add stage="" who="P">perdit</add></mod></orig><reg>perdit</reg></mod>. <lb/>
+Anne-Lise lui dit: "Tu as perdu quelque chose?" <mod type="del" stage="" who="P"><del>lui demanda Anne-Lise.</del></mod> <lb/>
+"Ma toupie chinoise sur le chemin de <mod type="del" stage="" who=""><del>le</del></mod> l'école". Ils <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>vois</del></mod></del><add stage="" who="P">voient</add></mod></orig><reg>voient</reg></mod> une grande <lb/>
+maison. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>Gabielle</del></mod></del><add stage="" who="P">Gabriel</add></mod></orig><reg>Gabriel</reg></mod> entre dans la maison mais Anne-Lise <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>aten devant</del></mod></del><add stage="" who="P">attend devant .</add></mod></orig><reg>attend devant</reg></mod> <mod type="del" stage="" who=""><del>la maison .</del></mod> <lb/>
+Il entre et il voit un homme. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>Cette</del></mod></del><add stage="" who="P">Cet</add></mod></orig><reg>Cet</reg></mod> homme avait une cape. §<lb/>
+Sur cette cape il a beaucoup de <mod type="corr"><orig>cl<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>s</orig><reg>clés</reg></mod>. <mod type="del" stage="" who=""><del>Il entre et voi beaucoup de jouets .</del></mod> <lb/>
+<mod type="del" stage="" who=""><del>Sa toupi est sur un meuble mais #XXX# il la voi pas</del></mod> §<lb/>
+Il <mod type="del" stage="" who=""><del>voit</del></mod> <mod type="del" stage="" who="P"><del>vois des</del></mod><mod type="add" stage="" who="P"><add>y avait de</add></mod> <mod type="corr"><orig>grand<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>grands</reg></mod> <mod type="corr"><orig>escalier<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>escaliers</reg></mod> qui <mod type="corr"><orig>tourne<mod type="add" stage="" who="P"><add>nt</add></mod></orig><reg>tournent</reg></mod>. Mais l'homme <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>été</del></mod></del><add stage="" who="P">n'était</add></mod></orig><reg>n'était</reg></mod> pas <lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>comun</del></mod></del><add stage="" who="P">commun</add></mod></orig><reg>commun</reg></mod> on l'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>appeler</del></mod></del><add stage="" who="P">appelle</add></mod></orig><reg>appelle</reg></mod> <mod type="corr"><orig>Le</orig><reg>le</reg></mod> gardien de l'oubli. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>Quan</del></mod></del><add stage="" who="P">Quand</add></mod></orig><reg>Quand</reg></mod> il <mod type="corr"><orig>rendire</orig><reg>rentra</reg></mod> dans une <lb/>
+<mod type="corr"><orig>pi<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">è</add></mod>ce</orig><reg>pièce</reg></mod> il y avait beaucoup de <mod type="corr"><orig>jouet<mod type="add" stage="" who="P"><add>s .</add></mod></orig><reg>jouets .</reg></mod> sur un <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>boufet</del></mod></del><add stage="" who="P">buffet ,</add></mod></orig><reg>buffet</reg></mod> il y <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>sa</del></mod></del><add stage="" who="P">a la</add></mod></orig><reg>a la</reg></mod> <mod type="corr"><orig>toupi<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>toupie</reg></mod> <lb/>
+mai <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>il</del></mod></del><add stage="" who="P">Gabriel</add></mod></orig><reg>Gabriel</reg></mod> ne la <mod type="corr"><orig>voi<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>voit</reg></mod> pas. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>Gabielle</del></mod></del><add stage="" who="P">Il</add></mod></orig><reg>Il</reg></mod> <mod type="corr"><orig>regard<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>regarde</reg></mod> les autres <mod type="corr"><orig>jouet<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>jouets</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

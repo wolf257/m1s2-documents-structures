@@ -1,0 +1,131 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E12
+</head>
+<p>
+<pb/>
+
+Le nourisson est né. Lucien <mod type="corr"><orig>pou<hi place=" " time="" who="Pσ" style="underline">ssai</hi>t</orig><reg>poussa</reg></mod> un<lb/>
+cri aussi fort que le rugissement d'un lion<lb/>
+mais au moment où il <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">vu</hi></orig><reg>vit</reg></mod> sa mère<lb/>
+son sourire <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">eta</hi></orig><reg>était</reg></mod> instantané. Son sourire<lb/>
+était sans doute le plus beau du monde. <mod type="del" stage="" who=""><del>ce<lb/>
+qui</del></mod>. Après la douleur de la <mod type="add" stage="" who=""><add><mod type="corr"><orig>mere</orig><reg>mère</reg></mod></add></mod> pour mettre au<lb/>
+monde un nouvel <mod type="corr"><orig>être-vivant</orig><reg>être vivant</reg></mod>, voilà le soulagement.<lb/>
+Le nourrisson était tout recroquevillé sur lui-<lb/>
+même et <mod type="corr"><orig>enmitoufflér</orig><reg>emmitouflé</reg></mod> dans sa position favorite<lb/>
+dans les bras de sa mère. Lucien <mod type="corr"><orig>ce</orig><reg>se</reg></mod> sentait<lb/>
+bien, il aurait volontiers voulu <mod type="corr"><orig>resté</orig><reg>rester</reg></mod> dans cette position<lb/>
+,qu'il <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">cheri</hi>ssait</orig><reg>chérissait</reg></mod> tant, toute sa vie. Cette position §<lb/>
+
+<pb/>
+
+avec laquelle il est resté pendant huit mois dans<lb/>
+le ventre de sa maman. §<lb/>
+ §<lb/>
+Ce regard qu'il vous lançait quand vous<lb/>
+vous <mod type="corr"><orig>rappro<hi place=" " time="" who="Pσ" style="underline">chait</hi></orig><reg>rapprochiez</reg></mod> de lui <mod type="del" stage="" who=""><del>est</del></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">etait</hi></orig><reg>était</reg></mod> un<lb/>
+regard de peur et de haine, car il avait<lb/>
+l'<mod type="corr"><orig>impressions</orig><reg>impression</reg></mod> que vous veniez <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">gacher</hi></orig><reg>gâcher</reg></mod> ce <mod type="add" stage="" who=""><add>doux</add></mod> moment.<lb/>
+Lucien inanimé <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">fût</hi></orig><reg>fut</reg></mod> placé dans ce qui<lb/>
+<hi place=" " time="" who="Pσ" style="underline">va</hi> être sa boîte pour le reste de sa vie, pauvre<lb/>
+bonhomme. §<lb/>
+Sa respiration baissa d'intensité<lb/>
+et encore baissa jusqu'au moment fatal.<lb/>
+La sieste de quatorze heure §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

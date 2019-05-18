@@ -1,0 +1,158 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E7-V1
+</head>
+<p>
+<pb/>
+
+Sous la nuit sans étoiles, d'une obscurité<lb/>
+et d'une épaisseur d'encre, l'homme<lb/>
+depuis un moment déjà marchait quand<lb/>
+il aperçut au loin la lumière<lb/>
+d'un réverbère. Il s'<mod type="subst"><del><mod type="del" stage="" who=""><del>appocha</del></mod></del><add stage="" who="">aprocha</add></mod> d'un banc<lb/>
+où une jeune femme y était assise. Il <mod type="corr"><orig>l'a</orig><reg>la</reg></mod><lb/>
+trouvait attirante. Elle avait de <mod type="corr"><orig>long</orig><reg>longs</reg></mod><lb/>
+cheveux avec de <mod type="corr"><orig>belle</orig><reg>belles</reg></mod> boucles  blondes,<lb/>
+c'est yeux verts illuminaient <mod type="corr"><orig>sont</orig><reg>son</reg></mod> <mod type="del" stage="" who=""><del>regarde</del></mod><lb/>
+regard. L'homme s'assis à côté d'elle<lb/>
+pour se reposer. La jeune femme portait<lb/>
+une robe <mod type="corr"><orig>bleu</orig><reg>bleue</reg></mod> qui lui serrait à<lb/>
+la taille. Elle se leva du banc. Elle<lb/>
+était grande et <mod type="del" stage="" who=""><del>XXX#</del></mod> assez fine. Elle<lb/>
+s'en alla puis elle monta <mod type="add" stage="" who=""><add>dans</add></mod> sa voiture.<lb/>
+Lorsque la voiture démara, l'homme aperçut<lb/>
+qu'elle avait <mod type="corr"><orig>oublier</orig><reg>oublié</reg></mod> un petit carnet à côté<lb/>
+de lui. Il lui fit des signes pour<lb/>
+l'interpeller mais la voiture était déjà<lb/>
+trop loin. Il prit le carnet puis il<lb/>
+l'ouvrit. C'était un petit journal<lb/>
+où elle notait tous ses rendez-vous. Le<lb/>
+prochain rendez-vous qu'elle avait était<lb/>
+le lendemain à 9h chez le vétérinaire.<lb/>
+L'homme prit le carnet et rentra chez<lb/>
+lui. Le lendemain matin il décida de<lb/>
+se rendre à l'adresse du vétérinaire qui était<lb/>
+notée dans le carnet, pour rendre le carnet<lb/>
+à cette jeune femme. De son côté la jeune<lb/>
+femme se rendit chez le vétérinaire comme<lb/>
+<mod type="corr"><orig>prévut</orig><reg>prévu</reg></mod> avec son chien. Son chien était<lb/>
+
+<pb/>
+
+un très beau labrador. Il boitait de la<lb/>
+patte arrière. Elle le tenait en laisse<lb/>
+lorsque d'un coup le chien se mit à<lb/>
+tirer sur la laisse puis elle <mod type="corr"><orig>l'acha</orig><reg>lâcha</reg></mod><lb/>
+la laisse. Elle coura après son chien<lb/>
+pour le rattraper. Le chien se dirigea vers<lb/>
+un homme. Elle l'avait déjà voit mais<lb/>
+elle ne se rapelait plus de qui il s'agissait.<lb/>
+Il était brun, il avait les yeux très<lb/>
+foncés, il avait un air sympathique et <lb/>
+il s'avança vers elle en lui ramenant<lb/>
+son chien. Elle l'a remercié puis il sortit<lb/>
+un carnet de sa poche. Il lui expliqua qu'elle<lb/>
+l'avait oublié sur le banc la veille. Elle l'a<lb/>
+remercié de nouveaux puis il lui proposa<lb/>
+d'aller déjèuner avec <mod type="subst"><del><mod type="del" stage="" who=""><del>lui</del></mod></del><add stage="" who="">elle</add></mod>. Elle rougit<lb/>
+et accepta. <mod type="corr"><orig>Il</orig><reg>Ils</reg></mod> s'en <mod type="corr"><orig>alla</orig><reg>allèrent</reg></mod> tous les deux<lb/>
+avec le chien. Ils étaient tous les deux<lb/>
+joyeux d'aller <mod type="corr"><orig>dinner</orig><reg>dîner</reg></mod> ensemble et de<lb/>
+s'être <mod type="corr"><orig>rencontré</orig><reg>rencontrés</reg></mod>. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

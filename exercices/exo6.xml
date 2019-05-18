@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+<exercice>
+    
+    <infoPage>
+        <titrePage> exercice_6 </titrePage>
+    </infoPage>
+    
+    <infoExo>
+        <titreExo> Exercice 6 : Le dormeur du Val </titreExo>
+        <sousTitrePerso> Un peu de poésie ne fera pas de mal. </sousTitrePerso>
+    </infoExo>
+    
+    <!--  =============================  -->
+    <question index="1">
+        
+        <bloc>
+            <titre> Consigne </titre>
+            
+            <commentaire> 
+                <ligne> En se basant sur les fichiers 'dormeur{n}.xml', on essayera de répondre aux questions suivantes : </ligne>
+            </commentaire>
+            
+            <pathimage> ./exo6/exo6-c.png </pathimage>
+        </bloc>
+
+        <bloc> 
+            
+            <titre>Tableau résultat</titre>
+            
+            <commentaire> 
+                <ligne> La première colonne correspond aux numéros des questions tels que présents dans l'image précédente. </ligne> 
+                <ligne> Pour chaque question, on peut afficher le fichier XML et le fichier XSL. </ligne>
+                <ligne> Enfin, tous les fichiers sont disponibles sous forme d'archive. </ligne>
+            </commentaire>
+            
+            <tableau>
+                
+                <ligne_t index="0">
+                    <colonne lien="./exo6/dormeur0.xml"> fichier XML originel </colonne>
+                    <colonne> pas de transformation XSL </colonne>
+                </ligne_t>
+                
+                <ligne_t index="1">
+                    <colonne lien="./exo6/dormeur1.xml"> Affichage du fichier XML </colonne>
+                    <colonne lien="./exo6/transfo1.xsl"> Affichage du fichier XSL </colonne>
+                </ligne_t>
+                
+                <ligne_t index="2">
+                    <colonne lien="./exo6/dormeur2.xml"> Affichage du fichier XML </colonne>
+                    <colonne lien="./exo6/transfo2.xsl"> Affichage du fichier XSL </colonne>
+                </ligne_t>
+                
+                <ligne_t index="3">
+                    <colonne lien="./exo6/dormeur3.xml"> Affichage du fichier XML </colonne>
+                    <colonne lien="./exo6/transfo3.xsl"> Affichage du fichier XSL </colonne>
+                </ligne_t>
+                
+                <ligne_t index="4">
+                    <colonne lien="./exo6/dormeur4.xml"> Affichage du fichier XML </colonne>
+                    <colonne lien="./exo6/transfo4.xsl"> Affichage du fichier XSL </colonne>
+                </ligne_t>
+                
+                <ligne_t index="5">
+                    <colonne lien="./exo6/dormeur5.xml"> Affichage du fichier XML </colonne>
+                    <colonne lien="./exo6/transfo5.xsl"> Affichage du fichier XSL </colonne>
+                </ligne_t>
+                
+                <ligne_t index="6">
+                    <colonne lien="./exo6/dormeur6.xml"> Affichage du fichier XML </colonne>
+                    <colonne lien="./exo6/transfo6.xsl"> Affichage du fichier XSL </colonne>
+                </ligne_t>
+                
+                <ligne_t index="7">
+                    <colonne lien="./exo6/dormeur7.xml"> Affichage du fichier XML </colonne>
+                    <colonne lien="./exo6/transfo7.xsl"> Affichage du fichier XSL </colonne>
+                </ligne_t>
+                
+                <ligne_t index="8">
+                    <colonne lien="./exo6/dormeur8.xml"> Affichage du fichier XML </colonne>
+                    <colonne lien="./exo6/transfo8.xsl"> Affichage du fichier XSL </colonne>
+                </ligne_t>
+                
+                <ligne_t index="9">
+                    <colonne lien="./exo6/dormeur9.xml"> Affichage du fichier XML </colonne>
+                    <colonne lien="./exo6/transfo9.xsl"> Affichage du fichier XSL </colonne>
+                </ligne_t>
+                     
+            </tableau>
+            
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo6/exo6.zip </pathZip>
+        </code>
+        
+    </question>
+    
+</exercice>

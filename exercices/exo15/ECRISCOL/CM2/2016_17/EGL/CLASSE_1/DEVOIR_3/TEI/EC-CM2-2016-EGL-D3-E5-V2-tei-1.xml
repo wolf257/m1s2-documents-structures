@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E5-V2
+</head>
+<p>
+<pb/>
+Quand je serai grande j'aurai des<lb/>
+enfants. J'aurai des amis.<lb/>
+Je serai championne de <mod type="corr"><orig>foo<hi place=" " time="" who="Pσ" style="underline">t</hi> ball</orig><reg>football</reg></mod> <mod type="add" stage="T3" who=""><add>football</add></mod> et je ferai<lb/>
+du foot avec mes amis.<lb/>
+J'<mod type="corr"><orig>abiter<hi place=" " time="" who="Pσ" style="underline">er</hi></orig><reg>habiterai</reg></mod> <mod type="add" stage="T3" who=""><add>habiterai</add></mod> en Espagne <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">l'abas</hi></orig><reg>là-bas</reg></mod> <mod type="add" stage="T3" who=""><add>Là-bas</add></mod> je ferai<lb/>
+<mod type="corr"><orig>archit<hi place=" " time="" who="Pσ" style="underline">è</hi>cte</orig><reg>architecte</reg></mod> construire des <mod type="corr"><orig>maison</orig><reg>maisons</reg></mod> <mod type="add" stage="T2" who=""><add>maisons</add></mod> des<lb/>
+<mod type="corr"><orig>piscine<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>piscines</reg></mod> <mod type="add" stage="" who="P"><add>et</add></mod> plein d'<mod type="corr"><orig>autre</orig><reg>autres</reg></mod> <mod type="corr"><orig>chose</orig><reg>choses</reg></mod>. §<lb/>
+Je serai dessinatrice je <mod type="corr"><orig>dessiner<hi place=" " time="" who="Pσ" style="underline">er</hi></orig><reg>dessinerai</reg></mod> <mod type="add" stage="T3" who=""><add>dessinerai</add></mod> des visages<lb/>
+des tableaux. Je veux <mod type="subst"><del><mod type="del" stage="" who=""><del>on</del></mod></del><add stage="" who="">des</add></mod> enfants deux<lb/>
+filles et un garçon. Avec mes enfants <mod type="del" stage="" who=""><del>je</del></mod><lb/>
+j'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">y</hi>rai</orig><reg>irai</reg></mod> <mod type="add" stage="T3" who=""><add>j'irais</add></mod> au parc au magasin <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>ma<hi place=" " time="" who="Pσ" style="underline">gu</hi>asin</add></mod></orig><reg>magasin</reg></mod> avec eux<lb/>
+Et je <mod type="corr"><orig>vai<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>vais</reg></mod> faire une piscine chez moi. §<lb/>
+
+<pb/>
+En Espagne j'<mod type="corr"><orig>achèterer</orig><reg>achèterai</reg></mod> une robe de<lb/>
+<mod type="corr"><orig>flamènko</orig><reg>flamenco</reg></mod> <mod type="add" stage="T2" who=""><add>flamènco flameco</add></mod>. Et je ferai du foot dans<lb/>
+la soirée.</p>
+</div>
+﻿</body>
+</text>
+</TEI>

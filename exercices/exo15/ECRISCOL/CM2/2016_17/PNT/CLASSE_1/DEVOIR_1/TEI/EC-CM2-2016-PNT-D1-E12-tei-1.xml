@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D1-E12
+</head>
+<p>
+Ce dimanche, j'ai pris <mod type="add" stage="" who=""><add>mon chat et</add></mod> je <mod type="corr"><orig>les</orig><reg>l'ai</reg></mod> <mod type="corr"><orig>jeter</orig><reg>jetté</reg></mod>,<lb/>
+avec un coup pied <mod type="del" stage="" who=""><del>XXX#</del></mod> il est mort, <mod type="del" stage="" who=""><del>XXX#</del></mod> j'ai eu<lb/>
+10/10. L'autre dimanche, j'ai vu<lb/>
+mon petit frère, sauter dans une<lb/>
+falaise, j'ai eu 8/10. L'autre<lb/>
+dimanche, J'ai <mod type="subst"><del><mod type="del" stage="" who=""><del>fais</del></mod></del><add stage="" who="">mis</add></mod> une<lb/>
+casserole, <mod type="corr"><orig>plein</orig><reg>pleine</reg></mod> d'oeufs, sur ma soeur,<lb/>
+<mod type="del" stage="" who=""><del>L</del></mod>j'ai eu 9/10. L'autre dimanche,<lb/>
+j'ai vu ma petite soeur faire pipi,<lb/>
+sur le pouf, j'ai eu 10/10. L'autre<lb/>
+dimanche, j'ai <mod type="del" stage="" who=""><del>v</del></mod> pris l'argent de mon<lb/>
+père, pour acheter un <mod type="corr"><orig>joué</orig><reg>jouet</reg></mod>, mon père<lb/>
+<mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="corr"><orig>vue</orig><reg>vu</reg></mod>, et <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> puni j'ai eu 10/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

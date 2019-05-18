@@ -1,0 +1,123 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E1-V2
+</head>
+<p>
+L'oncle Jo a disparu <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> <mod type="corr"><orig>appel<mod type="add" stage="" who="P"><add>le</add></mod></orig><reg>appelle</reg></mod> l'oncle Jo plusieurs <mod type="corr"><orig>foi<mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">s</add></mod></orig><reg>fois</reg></mod> mais 
+il ne <mod type="corr"><orig>r<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>pond</orig><reg>répond</reg></mod> pas <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>l</del></mod></del><add stage="" who="P">L</add></mod>ili</orig><reg>Lili</reg></mod> <mod type="corr"><orig>app<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">è</add></mod>le</orig><reg>appelle</reg></mod> tata <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>d</del></mod></del><add stage="" who="P">D</add></mod>eni<mod type="subst"><del><mod type="del" stage="" who="P"><del>ze</del></mod></del><add stage="" who="P">se</add></mod></orig><reg>Denise</reg></mod> elle répond comme 
+<mod type="corr"><orig>d'<mod type="add" stage="" who="P"><add>h</add></mod>abitude</orig><reg>d'habitude</reg></mod> "oui ma vie l'oncle Jo n'est <mod type="corr"><orig>pus</orig><reg>plus</reg></mod> là" tata <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>d</del></mod></del><add stage="" who="P">D</add></mod>eni<mod type="subst"><del><mod type="del" stage="" who="P"><del>ze</del></mod></del><add stage="" who="P">se</add></mod></orig><reg>Denise</reg></mod> 
+<mod type="corr"><orig>arive</orig><reg>arrive</reg></mod> en courant <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">est</hi><mod type="add" stage="T2" who=""><add>et</add></mod></orig><reg>et</reg></mod> elle ne voit pas l<mod type="del" stage="" who=""><del>e</del></mod>'oncle Jo <mod type="del" stage="" who="P"><del>comme</del></mod> 
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">E</add></mod>nsuite</orig><reg>ensuite</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>lili</del></mod></orig><reg>Lili</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">toute les deux</hi></orig><reg>toutes les deux</reg></mod>  
+<mod type="add" stage="T2" who=""><add>elle</add></mod> <mod type="add" stage="" who="P"><add>s</add></mod> <mod type="corr"><orig>cour<mod type="add" stage="" who="P"><add>ent</add></mod></orig><reg>courent</reg></mod> pour aller sur le terrain vagues <mod type="add" stage="" who="P"><add>,</add></mod> puis 
+<mod type="add" stage="" who="P"><add>elles</add></mod> voi<mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">ent</add></mod> une porte <mod type="corr"><orig>bougé<mod type="add" stage="" who="P"><add>e .</add></mod></orig><reg>bouger</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">T</add></mod>oute<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>Toutes</reg></mod> les deux <mod type="corr"><orig>crie<mod type="add" stage="" who="P"><add>nt</add></mod></orig><reg>crient</reg></mod> " l'oncle Jo ?" 
+puis l'oncle Jo répond <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">s'est</hi></orig><reg>cette</reg></mod> <mod type="add" stage="T2" who=""><add>cette</add></mod> fois <mod type="add" stage="" who="P"><add>!</add></mod> il dit <mod type="add" stage="" who="P"><add>:</add></mod> <mod type="del" stage="" who="q"><del>XXX#</del></mod> "<mod type="corr"><orig>que's ui l'y a</orig><reg>qu'est-ce qu'il y a</reg></mod> 
+<mod type="del" stage="" who=""><del>XXX#</del></mod> les filles <mod type="add" stage="" who="P"><add>?</add></mod> " <mod type="add" stage="" who="P"><add>(</add></mod> tata <mod type="corr"><orig>denize</orig><reg>Denise</reg></mod> et <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> lui <mod type="corr"><orig>demande</orig><reg>demandent</reg></mod> " <mod type="corr"><orig>ques que</orig><reg>qu'est-ce</reg></mod> tu fais " il 
+<mod type="corr"><orig>repond</orig><reg>répond</reg></mod> je <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>construie</orig><reg>construis</reg></mod> un cabanon <mod type="add" stage="" who="P"><add>)</add></mod>  §<lb/>
+" On te <mod type="corr"><orig>cherche<mod type="del" stage="" who="P"><del>r</del></mod></orig><reg>cherche</reg></mod> <mod type="corr"><orig><mod type="subst"><del>partout</del><add stage="" who="">par tout</add></mod></orig><reg>partout</reg></mod> tu aurais <mod type="corr"><orig>pu<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>pu</reg></mod> nous <mod type="add" stage="" who="P"><add>dire</add></mod> <hi place=" " time="" who="Pσ" style="underline">de</hi> <mod type="add" stage="" who="P"><add>que</add></mod> tu <mod type="corr"><orig>construit</orig><reg>construis</reg></mod> 
+un cabanon" <mod type="add" stage="" who="P"><add>!</add></mod> §<lb/>
+
+<pb/>
+
+L'oncle Jo a disparu <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod>  <mod type="corr"><orig>appel<mod type="add" stage="" who="P"><add>le</add></mod></orig><reg>appelle</reg></mod> l'oncle Jo plusieurs <mod type="corr"><orig>foi<mod type="del" stage="" who="P"><del>t</del></mod><mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>fois</reg></mod> mais 
+il ne <mod type="corr"><orig>r<mod type="del" stage="" who="P"><del>e</del></mod><mod type="add" stage="" who="P"><add>é</add></mod>pond</orig><reg>répond</reg></mod> pas <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>l</del></mod><mod type="add" stage="" who="P"><add>L</add></mod>ili</orig><reg>Lili</reg></mod> <mod type="corr"><orig>app<mod type="del" stage="" who="P"><del>e</del></mod><mod type="add" stage="" who="P"><add>è</add></mod>le</orig><reg>appelle</reg></mod> tata <mod type="corr"><orig><mod type="del" stage="" who="P"><del>d</del></mod><mod type="add" stage="" who="P"><add>D</add></mod>eni<mod type="del" stage="" who="P"><del>ze</del></mod><mod type="add" stage="" who="P"><add>se</add></mod></orig><reg>Denise</reg></mod> elle répond comme 
+d'<mod type="corr"><orig><mod type="add" stage="" who="P"><add>h</add></mod>abitude</orig><reg>habitude</reg></mod> « oui ma vie l'oncle Jo n'est <mod type="corr"><orig>pus</orig><reg>plus</reg></mod> là » tata <mod type="corr"><orig><mod type="del" stage="" who="P"><del>d</del></mod><mod type="add" stage="" who="P"><add>D</add></mod>eni<mod type="del" stage="" who="P"><del>ze</del></mod><mod type="add" stage="" who="P"><add>se</add></mod></orig><reg>Denise</reg></mod>
+<mod type="corr"><orig>arive</orig><reg>arrive</reg></mod> en courant <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">est</hi><mod type="add" stage="T2" who=""><add>et</add></mod></orig><reg>et</reg></mod> elle ne voit pas l<mod type="del" stage="" who=""><del>e</del></mod>' oncle Jo <mod type="del" stage="" who="P"><del>comme</del></mod>
+<mod type="corr"><orig><mod type="del" stage="" who="P"><del>e</del></mod><mod type="add" stage="" who="P"><add>E</add></mod>nsuite</orig><reg>Ensuite</reg></mod> <mod type="del" stage="" who="P"><del>lili</del></mod> {Pδ#toute les deux} <mod type="corr"><orig><mod type="add" stage="" who=""><add>T2elle</add></mod><mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>elles</reg></mod> les deux elle <mod type="corr"><orig>cour<mod type="add" stage="" who="P"><add>ent</add></mod></orig><reg>courent</reg></mod> pour aller sur le terrain vagues <mod type="add" stage="" who="P"><add>,</add></mod> puis 
+<mod type="add" stage="" who="P"><add>elles</add></mod> <mod type="corr"><orig>voi<mod type="del" stage="" who="P"><del>t</del></mod><mod type="add" stage="" who="P"><add>ent</add></mod></orig><reg>voient</reg></mod> une porte <mod type="corr"><orig>bougé<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>bouger</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>t</del></mod><mod type="add" stage="" who="P"><add>T</add></mod>oute<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>Toutes</reg></mod> les deux <mod type="corr"><orig>crie<mod type="add" stage="" who="P"><add>nt</add></mod></orig><reg>crient</reg></mod> « l'oncle Jo? » 
+puis l'oncle Jo répond <hi place=" " time="" who="Pσ" style="underline">s'est</hi> <mod type="add" stage="T2" who=""><add>cette</add></mod> fois §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

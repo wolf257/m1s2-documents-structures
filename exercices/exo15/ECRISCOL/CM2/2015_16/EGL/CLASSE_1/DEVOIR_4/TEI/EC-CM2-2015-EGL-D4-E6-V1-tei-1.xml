@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E6-V1
+</head>
+<p>
+Pedro était all<hi place=" " time="T3" who="Pσ" style="underline">er</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>allé</add></mod> à la soiré<mod type="add" stage="T2" who=""><add><sup>T2</sup>e</add></mod> pour revoir<lb/>
+Nelly. Une heure <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>àprès</del></mod></del><add stage="T2" who=""><sup>T2</sup>après</add></mod> <mod type="add" stage="T3" who="P"><add><sup>T3P</sup>,</add></mod>Nelly n'était toujours<lb/> 
+pas <mod type="del" stage="" who=""><del><sup></sup>arriver</del></mod> <mod type="corr"><orig>arriv<hi place=" " time="T3" who="Pσ" style="underline">er</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>arrivé</add></mod></orig><reg>arrivée</reg></mod>.Il n'y avait plus<lb/>
+personne. P<mod type="subst"><del><mod type="del" stage="T3" who="P"><del><sup>T3P</sup>è</del></mod></del><add stage="T4" who="P"><sup>T4P</sup>é</add></mod>dro allait rentrer chez lui<lb/> 
+quand il <mod type="del" stage="" who=""><del><sup></sup>a</del></mod> entendit un bruit. Une<lb/> 
+personne sorti<mod type="add" stage="T2" who=""><add><sup>T2</sup>t</add></mod> des buissons. C'était<lb/> 
+Nelly, comme elle était <mod type="corr"><orig>parti<hi place=" " time="T3" who="Pσ" style="underline">s</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>t</add></mod></orig><reg>partie</reg></mod> elle<lb/> 
+<hi place=" " time="T3" who="Pσ" style="underline">n</hi>'avait <mod type="del" stage="T3" who="P"><del><sup>T3P</sup>pas</del></mod><metamark place=" " time="T3" who="P" style="underline">locution adverbiale de restriction: ne....que.</metamark> <mod type="del" stage="" who=""><del><sup></sup>que quand elle est rentré</del></mod> <mod type="add" stage="" who=""><add><sup></sup>vu que quand elle est <mod type="corr"><orig>rentr<mod type="subst"><del><mod type="del" stage="" who=""><del><sup>T2</sup>è</del></mod></del><add stage="" who=""><sup>T2</sup>é</add></mod>e</orig><reg>rentrée</reg></mod>.</add></mod> <mod type="add" stage="T2" who=""><add><sup>T2</sup>Pedro lui avoua qu'il était amoureux de Nelly et elle aussi.</add></mod><lb/>
+tous les <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>mots</del></mod></del><add stage="" who=""><sup></sup>message</add></mod><mod type="add" stage="T2" who=""><add><sup>T2</sup>s</add></mod>. <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>et</del></mod></del><add stage="" who=""><sup></sup>Et</add></mod> ils <mod type="del" stage="T2" who=""><del><sup>T2</sup>finissent</del></mod><mod type="add" stage="T2" who=""><add><sup>T2</sup>finirent</add></mod><lb/>
+heureux.§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

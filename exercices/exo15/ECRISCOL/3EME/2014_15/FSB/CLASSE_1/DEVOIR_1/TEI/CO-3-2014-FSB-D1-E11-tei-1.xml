@@ -1,0 +1,161 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E11
+</head>
+<p>
+<pb/>
+
+Quelques minutes après l'accouchement le petit Lucien dormit<lb/>
+comme un petit bébé dans une couveuse, avec une grosse <mod type="corr"><orig>couver<lb/>ture</orig><reg>couverture</reg></mod> pour <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">le</hi></orig><reg>lui</reg></mod> <mod type="add" stage="" who="P"><add>lui</add></mod> tenir bien chaud, lui qui avait tellement <mod type="corr"><orig>souf<lb/>fer</orig><reg>souffert</reg></mod> quand il fut né. Quelque <mod type="del" stage="" who=""><del>XXX#</del></mod> minutes après<lb/>
+il vit une femme, dont il ne connaissait pas le<lb/>
+nom, qui lui dit: "Salut toi, c'est maman. C'est<lb/> 
+maman Julie. Je m'appelle Julie et je suis ta mère<lb/>
+et toi mon fils, et tu t'appelles Lucien." Il trouva<lb/>
+sa mère très belle donc il se dit qu'il est sûrement<lb/>
+beau comme sa mère <mod type="add" stage="" who="P"><add>que</add></mod> et son père <hi place=" " time="" who="Pσ" style="underline">sera</hi> sûrement intelligent,<lb/>
+il se faisait des rêves jusqu'à qu'il <mod type="subst"><del><mod type="del" stage="" who=""><del>voit</del></mod></del><add stage="" who="">vit</add></mod> son père. Il était<lb/>
+grand, musclé, brun aux cheveux mi-longs, et il <mod type="corr"><orig>porta</orig><reg>portait</reg></mod><lb/>
+des lunettes ce qui lui <mod type="del" stage="" who=""><del>rend</del></mod><mod type="add" stage="" who=""><add><mod type="corr"><orig>donna</orig><reg>donnait</reg></mod></add></mod> un air intellectuel. Sa mère, §<lb/>
+
+<pb/>
+
+était assez grande aussi, blonde aux yeux bleus et<lb/>
+une peau assez lisse à vue d'oeil. Il était devenu amoureux<lb/>
+de la beauté de sa mère. §<lb/>
+Le lendemain il rentrèrent chez eux en voiture avec le bébé<lb/> 
+à l'arrière ce qui le rendit mal à l'aise car il avait l'<mod type="corr"><orig>im<lb/>pression</orig><reg>impression</reg></mod> d'être kidnappé par la police. Lucien se<lb/>
+sentait éloigné, à l'écart de tout le monde, oublié comme si <mod type="del" stage="" who=""><del>pers</del></mod><lb/>
+personne ne le voyait, comme s'il était invisible, qu'il n'existait<lb/>
+pas, qu'il n'était jamais né par le vagin de sa jolie maman<lb/>
+Julie. §<lb/>
+Sa mère était<mod type="del" stage="" who=""><del>enfin</del></mod> la responsable des infirmières à<lb/>
+l'hôpital Robert-Debré, à Paris XIXè, et son père était le chef<lb/>
+de sa propre entreprise, c'est lui-même qui l'a <mod type="corr"><orig>créé</orig><reg>créée</reg></mod>, qui se<lb/>
+nomme Maxime. Ils roulaient dans la Nissan Quasqai du père, §<lb/>
+
+<pb/>
+
+et la mère avait une audi S1 Sportbach offerte par son mari<lb/>
+le <mod type="add" stage="" who=""><add>jour</add></mod> de son anniversaire. §<lb/>
+Lucien avait une drôle d'imagination, et en même temps<lb/>
+débordante car il s'inventait toujours des scénarios du genre:<lb/>
+quand <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ces</hi></orig><reg>ses</reg></mod> parents souriaient, lui il voyait un rire <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">malef</hi>ique</orig><reg>maléfique</reg></mod>, ou<lb/>
+quand on <mod type="corr"><orig>le</orig><reg>lui</reg></mod> donnait à manger il avait l'impression qu'on<lb/>
+faisait exprès de l'engraisser afin qu'il soit plus appétissant,<lb/>
+plus dodu pour le manger. Puis arrivé à la maison,<lb/>
+il découvrit sa chambre immense: il avait un lit pour<lb/>
+bébé mais assez grand, même trop grand pour lui! Une table<lb/>
+à jouets au cas où il s'ennu<hi place=" " time="" who="Pσ" style="underline">yait</hi>, une table de chevet à côté<lb/>
+du lit sur lequel <hi place=" " time="" who="Pσ" style="underline">on a</hi> placé une veilleuse, et enfin le<lb/>
+meilleur pour la fin une télé dans laquelle <hi place=" " time="" who="Pσ" style="underline">on a</hi> mis des<lb/>
+chaînes pour bébés pour qu'il apprenne rapidement à lire et à<lb/>
+écrire. §<lb/>
+Derrière lui il entendit une voix masculine et enfantine, puis §<lb/>
+
+<pb/>
+
+quand il se retourna il vit un autre garçon! Sa mère lui dit:<lb/>
+"Surprise! Je te présente ton grand frèere!", et son père poursuivit<lb/>
+"-Il s'appelle Marc il a 6 ans, et il sera là pour te protéger<lb/>
+et faire tout ce que les grands frères doivent pour leur<lb/>
+cadet! Je suis <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> que vous allez bien vous entendre, hein<lb/>
+Marc?
+-Oui bien <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> que l'on va bien s'entendre, pas vrai Lucien?"
+Il hocha la tête, mais en vérité n'<mod type="corr"><orig>etait</orig><reg>était</reg></mod> pas du tout<lb/>
+convaincu! §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

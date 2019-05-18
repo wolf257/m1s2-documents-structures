@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E19
+</head>
+<p>
+<pb/>
+Quand je serai adulte. <mod type="del" stage="" who=""><del>déja je serais</del></mod> J'ai 2 jumeaux <mod type="del" stage="" who=""><del>et</del></mod><lb/>
+<mod type="corr"><orig>il</orig><reg>ils</reg></mod> s'<mod type="corr"><orig>appelle</orig><reg>appellent</reg></mod> Léa et Paul. Je suis <mod type="corr"><orig>ésteticine</orig><reg>esthéticienne</reg></mod>, J'aurais <mod type="corr"><orig>1</orig><reg>un</reg></mod><lb/>
+chien (<mod type="corr"><orig>boxerre</orig><reg>boxer</reg></mod>) qui s'appelle Kirra 2 <mod type="corr"><orig>poison</orig><reg>poissons</reg></mod> (<mod type="corr"><orig>combotant</orig><reg>combattant</reg></mod> et rouge).<lb/>
+Le <mod type="corr"><orig>reveille</orig><reg>réveil</reg></mod> sonne je me <mod type="corr"><orig>léve</orig><reg>lève</reg></mod> et je vais <mod type="corr"><orig>rèveiller</orig><reg>réveiller</reg></mod> Paul et<lb/>
+Léa mes enfants <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>ons</orig><reg>ont</reg></mod> 3 ans les deux car <mod type="corr"><orig>il</orig><reg>ils</reg></mod> sont des jumeaux<lb/>
+Je les <mod type="corr"><orig>émenent</orig><reg>emmenent</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la maternelle (école) et je <mod type="corr"><orig>pare</orig><reg>pars</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> mon<lb/>
+<mod type="corr"><orig>traval</orig><reg>travail</reg></mod> qui est <mod type="corr"><orig>éstetisine</orig><reg>esthéticienne</reg></mod> je me <mod type="corr"><orig>mes</orig><reg>mets</reg></mod> en tenue <mod type="del" stage="" who=""><del>j</del></mod> et je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> les<lb/>
+clients <mod type="corr"><orig>a</orig><reg>à</reg></mod> 12h00 <mod type="corr"><orig>mes-amie</orig><reg>mes amies</reg></mod> <mod type="corr"><orig>viene</orig><reg>viennent</reg></mod> me chercher Ambre et Léa<lb/>
+et on va <mod type="corr"><orig>dégener</orig><reg>déjéuner</reg></mod> dans un <mod type="corr"><orig>restorent</orig><reg>restaurant</reg></mod> qui s'appelle Bon <mod type="corr"><orig>apetit</orig><reg>apétit</reg></mod>. §<lb/>
+
+<pb/>
+<mod type="corr"><orig>a</orig><reg>A</reg></mod> 13h05 mes <mod type="corr"><orig>amie</orig><reg>amies</reg></mod> <mod type="del" stage="" who=""><del>manon</del></mod> <mod type="add" stage="" who=""><add>me <mod type="corr"><orig>ramène</orig><reg>ramènent</reg></mod></add></mod> au <mod type="corr"><orig>boule</orig><reg>boulot</reg></mod>. 15h00 fini le traval je<lb/>
+retourne chez moi et je donne <mod type="corr"><orig>a</orig><reg>à</reg></mod> manger au chien et aux<lb/>
+<mod type="corr"><orig>poison</orig><reg>poissons</reg></mod>. 16h09 je <mod type="corr"><orig>repare</orig><reg>repars</reg></mod> pour chercher Léa et Paul. Au<lb/>
+<mod type="corr"><orig>gouter</orig><reg>goûter</reg></mod> on mange 1 banane et 2 ou 3 <mod type="corr"><orig>gateux</orig><reg>gâteaux</reg></mod>. 16h30 Le papa<lb/>
+rentre et on va faire les <mod type="corr"><orig>magasin</orig><reg>magasins</reg></mod> 17h10 on <mod type="corr"><orig>rentres</orig><reg>rentre</reg></mod><lb/>
+chez nous et <mod type="corr"><orig>on-ésail</orig><reg>on essaye</reg></mod> nos nouveaux <mod type="corr"><orig>affaire</orig><reg>affaires</reg></mod>. 18h00 Les enfants<lb/>
+sont <mod type="corr"><orig>parti</orig><reg>partis</reg></mod> se laver et je <mod type="corr"><orig>prepare</orig><reg>prépare</reg></mod> le manger je <mod type="corr"><orig>mes</orig><reg>mets</reg></mod> la table.<lb/>
+<mod type="del" stage="" who=""><del>je</del></mod> 19h00 Léa, Paul, papa, et moi. 20h00 les <mod type="corr"><orig>petit</orig><reg>petits</reg></mod> vont<lb/>
+se cacher, moi je <mod type="corr"><orig>lit</orig><reg>lis</reg></mod> une histoire (la belle <mod type="corr"><orig>est</orig><reg>et</reg></mod> la bête) à<lb/>
+<mod type="corr"><orig>léa</orig><reg>Léa</reg></mod>, et papa lit une histoire (<mod type="corr"><orig>carze</orig><reg>Cars</reg></mod>) <mod type="corr"><orig>a</orig><reg>à</reg></mod> Paul. 21h30<lb/>
+nous aussi <mod type="corr"><orig>vont</orig><reg>allons</reg></mod> <mod type="corr"><orig>se</orig><reg>nous</reg></mod> coucher 23h00 tout le monde dort<lb/>
+FIN §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

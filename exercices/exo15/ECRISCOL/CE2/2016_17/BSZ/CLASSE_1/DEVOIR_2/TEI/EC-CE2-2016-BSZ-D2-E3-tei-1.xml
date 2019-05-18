@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E3
+</head>
+<p>
+Il <mod type="corr"><orig>par</orig><reg>part</reg></mod> à l’école, à <mod type="corr"><orig>pi<mod type="del" stage="" who=""><del>è</del></mod>éd</orig><reg>pieds</reg></mod>, il arrive à l’école il joue avec ses<lb/>
+<mod type="corr"><orig>copins</orig><reg>copains</reg></mod> dans la cour de <mod type="corr"><orig>recréation</orig><reg>récréation</reg></mod>. Il rentre dans la classe il fait de<lb/>
+l'anglais, des <mod type="corr"><orig>mathematiques</orig><reg>mathématiques</reg></mod>, de la numération, de la grammaire ... Il joue<lb/>
+dans la cour et il retravaille donc, de l’anglais, des <mod type="corr"><orig>mathemaitiques</orig><reg>mathématiques</reg></mod>, de la<lb/>
+numération, de la grammaire,...Il va manger « <mod type="corr"><orig>se</orig><reg>ce</reg></mod> midi <mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">c</add></mod>’est <mod type="corr"><orig>pates</orig><reg>pâtes</reg></mod> à la<lb/>
+<mod type="corr"><orig>bolognièses</orig><reg>bolognaise</reg></mod> » dit la <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod>. Et <mod type="corr"><orig>din</orig><reg>d’un</reg></mod> coup il se met à <mod type="corr"><orig>pleuvoire</orig><reg>pleuvoir</reg></mod>,<lb/>
+heureusement j’ai une tenue bien chaude, on rentre dans la classe<lb/>
+et on travaille comme <mod type="corr"><orig>se</orig><reg>ce</reg></mod> matin et c’est <mod type="subst"><del><mod type="del" stage="" who=""><del>lh</del></mod></del><add stage="" who="">l’heure</add></mod> de <mod type="corr"><orig>rentrée</orig><reg>rentrer</reg></mod> à la<lb/>
+maison mes parents sont <mod type="corr"><orig>la</orig><reg>là</reg></mod> et me <mod type="corr"><orig>demande</orig><reg>demandent</reg></mod> si ma journée <mod type="corr"><orig>c’est</orig><reg>s’est</reg></mod> bien<lb/>
+<mod type="corr"><orig>passé</orig><reg>passée</reg></mod> je <mod type="subst"><del><mod type="del" stage="" who=""><del>les</del></mod></del><add stage="" who="">leur</add></mod> <mod type="corr"><orig>dit</orig><reg>dis</reg></mod> oui. <mod type="subst"><del><mod type="del" stage="" who=""><del>je</del></mod></del><add stage="" who="">Je</add></mod> mange et je vais au lit. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

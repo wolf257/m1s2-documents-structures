@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+<exercice>
+    
+    <infoPage>
+        <titrePage> exercice_9 </titrePage>
+    </infoPage>
+    
+    <infoExo>
+        <titreExo> Exercice 9 : Air France </titreExo>
+        <sousTitrePerso> Prenons les airs. </sousTitrePerso>
+    </infoExo>
+    
+    <!--  =============================  -->
+    <question index="1">
+        
+        <bloc>
+            <titre> Consigne </titre>
+                        
+            <pathimage> ./exo9/c1.png </pathimage>
+
+        </bloc>
+
+        <bloc>
+            <titre> Solution </titre>
+            
+            <commentaire>
+                <ligne> Capture d'écran. Télécharger les fichiers pour lire la dtd. </ligne>
+            </commentaire>
+            
+            <pathimage> ./exo9/phase1/e1.png </pathimage>
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo9/phase1/fichiers_phase1.zip </pathZip>
+        </code>
+        
+    </question>
+
+    <!--  =============================  -->
+    <question index="2">
+        
+        <bloc>
+            <titre> Consigne </titre>
+            
+            <pathimage> ./exo9/c2.png </pathimage>
+        </bloc>
+        
+        <bloc>
+            <titre> Note </titre>
+            <commentaire>
+                <ligne> Si on rajoute /text() aux commandes, on a tout le texte de la balise MAIS avec le découpage 'pause, vocal ...'. </ligne>
+            </commentaire>
+        </bloc>
+        
+        <bloc>
+            <titre> Solution - q1 </titre>
+
+            <pathimage> ./exo9/phase2/e2-1-0.png </pathimage>
+            <pathimage> ./exo9/phase2/e2-1-1.png </pathimage>   
+        </bloc>
+        
+        <bloc>
+            <titre> Solution - q2 </titre>
+            
+            <pathimage> ./exo9/phase2/e2-2-0.png </pathimage>   
+            <pathimage> ./exo9/phase2/e2-2-1.png </pathimage>   
+        </bloc>
+
+        <bloc>
+            <titre> Solution - q3 </titre>
+            
+            <pathimage> ./exo9/phase2/e2-3-0.png </pathimage>   
+            <pathimage> ./exo9/phase2/e2-3-1.png </pathimage>   
+        </bloc>
+        
+        <bloc>
+            <titre> Solution - q4 </titre>
+            
+            <pathimage> ./exo9/phase2/e2-4-0.png </pathimage>   
+            <pathimage> ./exo9/phase2/e2-4-1.png </pathimage>   
+        </bloc>
+        
+        <bloc>
+            <titre> Solution - q5 </titre>
+            
+            <pathimage> ./exo9/phase2/e2-5-0.png </pathimage>   
+            <pathimage> ./exo9/phase2/e2-5-1.png </pathimage>   
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo9/phase2/requetes-phase2.zip </pathZip>
+        </code>
+    </question>
+    
+    <!--  =============================  -->
+    <question index="3.1">
+        
+        <bloc>
+            <titre> Consignes </titre>
+            
+            <pathimage> ./exo9/c3-1.png </pathimage>
+        </bloc>
+        
+        <bloc>
+            <titre> Solutions</titre>
+            
+            <tableau>
+                <ligne_t index="3-1-1">
+                    <colonne lien="./exo9/phase3/corpus_airFrance-3-1-1.xml"> 
+                        Voir le rendu xml
+                    </colonne>
+                </ligne_t>
+                
+                <ligne_t index="3-1-2">
+                    <colonne lien="./exo9/phase3/corpus_airFrance-3-1-2.xml"> 
+                        Voir le rendu xml
+                    </colonne>
+                </ligne_t>
+                
+            </tableau>
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo9/phase3/fichiers3-1.zip </pathZip>
+        </code>
+        
+    </question>
+    
+    <!--  =============================  -->
+    <question index="3.2">
+        
+        <bloc>
+            <titre> Consigne </titre>
+            
+            <pathimage> ./exo9/c3-2.png </pathimage>
+            
+        </bloc>
+        
+        <bloc>
+            <titre> Solution </titre>
+            
+            <commentaire>
+                <ligne> Attention : le simple fait d'afficher la page xml ne suffit pas à avoir la transformation. </ligne>
+                <ligne> Cependant, Oxygen nous permet d'appliquer la transformation voulue et d'enregistrer le résultat dans un nouveau fichier, celui dont qui est affiché ci-dessous</ligne>
+            </commentaire>
+            
+            <tableau>
+                <ligne_t index="3-2">
+                    <colonne lien="./exo9/phase3/corpus_airFrance-3-2-output.xml"> 
+                        Voir le rendu xml
+                    </colonne>
+                    <colonne> Penser à regarder le 'code source de la page.'</colonne>
+                </ligne_t>
+            </tableau>
+        </bloc>
+        
+        <bloc>
+            <titre> procédure transformation xml via Oxygen. </titre>
+            
+            <pathimage> ./exo9/phase3/oxygen/1.png </pathimage>
+            <pathimage> ./exo9/phase3/oxygen/2.png </pathimage>
+            <pathimage> ./exo9/phase3/oxygen/3.png </pathimage>
+            <pathimage> ./exo9/phase3/oxygen/4.png </pathimage>
+            <pathimage> ./exo9/phase3/oxygen/5.png </pathimage>
+            <pathimage> ./exo9/phase3/oxygen/6.png </pathimage>
+        </bloc>
+        <code>
+            <pathZip> ./exo9/phase3/fichiers3-2.zip </pathZip>
+        </code>
+    </question>
+</exercice>

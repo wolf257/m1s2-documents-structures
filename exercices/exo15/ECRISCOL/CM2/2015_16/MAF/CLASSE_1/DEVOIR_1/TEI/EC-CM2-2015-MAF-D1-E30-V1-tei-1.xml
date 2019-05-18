@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E30-V1
+</head>
+<p>
+Dimanche, j'ai <mod type="corr"><orig>jété</orig><reg>jeté</reg></mod> toute la <mod type="corr"><orig>colection</orig><reg>collection</reg></mod> de maquillage<lb/>
+de ma grande soeur <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>toilette</orig><reg>toilettes</reg></mod>. <mod type="del" stage="" who=""><del>La maîtresse<lb/>
+ma #X#</del></mod> Lundi la maîtresse me donna un<lb/>
+8,<mod type="del" stage="T3" who=""><del>5</del></mod>/10 pour la <mod type="corr"><orig>rédac#X#</orig><reg>rédaction</reg></mod> <mod type="del" stage="" who=""><del>Après, j'ai</del></mod> mais ma<lb/>
+soeur <mod type="corr"><orig>etait</orig><reg>était</reg></mod> furieuse. <mod type="del" stage="" who=""><del>Après, j'ai du</del></mod> Dimanche,<lb/>
+j'ai <mod type="corr"><orig>jété</orig><reg>jeté</reg></mod> la bande <mod type="corr"><orig>dessiné</orig><reg>dessinée</reg></mod> <mod type="corr"><orig>préféré</orig><reg>préférée</reg></mod> de mon<lb/>
+<mod type="corr"><orig>frére</orig><reg>frère</reg></mod> et Lundi j'ai eu un 0/10, je n'ai §<lb/>
+rien compris puis j'ai juré de ne pas <mod type="add" stage="T2" who=""><add>avoir<lb/> un</add></mod> <mod type="corr"><orig>zero</orig><reg>zéro</reg></mod> lundi. Puis Dimanche arriva et<lb/>
+<mod type="del" stage="" who=""><del>je n'avai pas d'idée</del></mod> j'ai Dessiné sur le<lb/>
+sac <mod type="del" stage="T3" who=""><del>chanael</del></mod> de ma <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> et j'ai eu un 9,<mod type="del" stage="T3" who=""><del>X#</del></mod>/10.<lb/>
+J'<mod type="corr"><orig>était</orig><reg>étais</reg></mod> content. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

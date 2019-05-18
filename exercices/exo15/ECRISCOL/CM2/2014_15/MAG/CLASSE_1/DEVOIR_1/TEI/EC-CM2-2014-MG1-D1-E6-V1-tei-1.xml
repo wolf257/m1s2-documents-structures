@@ -1,0 +1,131 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E6-V1
+</head>
+<p>
+
+L'oncle Jo<mod type="del" stage="" who=""><del>XXX#</del></mod> a disparu<mod type="del" stage="" who="P"><del>t</del></mod> §<lb/>
+
+L'oncle Jo est parti pour <mod type="corr"><orig>all<mod type="del" stage="" who="P"><del>é</del></mod><mod type="add" stage="" who="P"><add>er</add></mod></orig><reg>aller</reg></mod> au terrain vague 
+
+pour réparer des <mod type="corr"><orig>obje<hi place=" " time="" who="Pσ" style="underline">t</hi></orig><reg>objets</reg></mod> il s'est construit un cabanon 
+
+pour se reposer. Lili lui a demandé si elle pouvait 
+
+l'aider. Il lui a dit que oui mais qu'elle commencera 
+
+demain parce qu'il se fait tard. §<lb/>
+
+Elle lui dit qu'elle l'a <mod type="corr"><orig>chercher</orig><reg>cherché</reg></mod> toute la journée 
+
+et que tata Denise était très triste et pleur<hi place=" " time="" who="Pσ" style="underline">er</hi><mod type="corr"><orig><mod type="add" stage="T2" who=""><add>pleur<mod type="subst"><del><mod type="del" stage="" who="P"><del>ée</del></mod></del><add stage="" who="P">ait</add></mod></add></mod></orig><reg>pleurait</reg></mod> tout 
+
+le temps. §<lb/>
+
+Tata Denise : "Jo où <mod type="corr"><orig>éta<hi place=" " time="" who="Pσ" style="underline">it</hi></orig><reg>étais</reg></mod> tu <mod type="corr"><orig>passer</orig><reg>passé</reg></mod> encore ?" §<lb/>
+
+L'oncle Jo lui expli<hi place=" " time="" who="Pσ" style="underline">c</hi>a<mod type="corr"><orig><mod type="add" stage="T2" who=""><add>expliqua<mod type="del" stage="" who="P"><del>t</del></mod></add></mod></orig><reg>expliqua</reg></mod> qu'il était au terrain vague. §<lb/>
+
+Les enfants sont rentr<hi place=" " time="" who="Pσ" style="underline">é</hi><mod type="corr"><orig><mod type="add" stage="T2" who=""><add>rentr<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">és</add></mod></add></mod></orig><reg>rentrés</reg></mod> tout le monde se demande 
+
+"Pourquoi y a t-il- un <mod type="corr"><orig>dixème</orig><reg>dixième</reg></mod> couvert ?" tata Denise 
+
+leurs explique que leur père mange avec eux. §<lb/>
+
+Alors tout le monde va faire un <mod type="corr"><orig>calin</orig><reg>câlin</reg></mod> <hi place=" " time="" who="Pσ" style="underline">a</hi><mod type="add" stage="T2" who=""><add>à</add></mod> l'oncle Jo. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

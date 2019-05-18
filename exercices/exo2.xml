@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+
+<exercice>
+    
+    <infoPage>
+        <titrePage> exercice_2 </titrePage>
+    </infoPage>
+    
+    <infoExo>
+        <titreExo> Exercice 2 : DTD </titreExo>
+        
+    </infoExo>
+    
+    <!--  =============================  -->
+    <question index="1">
+        
+        <bloc>
+            <titre> Consigne </titre>
+            <pathimage> ./exo2/2-1-0-cons.png </pathimage>
+        </bloc>
+        
+        <bloc>
+            <titre> Solution </titre>
+            <pathimage> ./exo2/2-1-1-exo-dtd.png </pathimage>
+        </bloc>
+
+        <bloc>
+            <titre> Résultat </titre>
+            <commentaire> 
+                <ligne>Pour tester notre dtd, on a donc crée le fichier xml ci-dessous, en prenant soin de rajouter la ligne2 pour les associer. </ligne>
+                <ligne>Ensuite, dans Oxygen, il suffit de cliquer sur 'Document / Valider / Valider' pour que le document soit validé ou rejeté. </ligne>
+            </commentaire>
+            <pathimage> ./exo2/2-1-2-xml-test.png </pathimage>
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo2/fichiersPhase1.zip </pathZip>
+        </code>
+        
+<!--        <note> Pour tester la dtd, nous avons deux possibilités :</note>-->
+    </question>
+
+    <!--  =============================  -->
+    <question index="2">
+        <bloc>
+            <titre> Consigne </titre>
+            <pathimage> ./exo2/2-2-0-cons.png </pathimage>
+        </bloc>
+        
+        <bloc>
+            <titre> Solution </titre>            
+            <pathimage> ./exo2/2-2-1-exo-dtd.png </pathimage>
+        </bloc>
+    
+        <bloc>
+            <titre> Résultat </titre>
+            <commentaire> 
+                <ligne> Même démarche que pour la phase 1. </ligne>
+            </commentaire>
+            <pathimage> ./exo2/2-2-2-xml-test.png </pathimage>
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo2/fichiersPhase2.zip </pathZip>
+        </code>
+    </question>
+    
+    <!--  =============================  -->
+    
+</exercice>

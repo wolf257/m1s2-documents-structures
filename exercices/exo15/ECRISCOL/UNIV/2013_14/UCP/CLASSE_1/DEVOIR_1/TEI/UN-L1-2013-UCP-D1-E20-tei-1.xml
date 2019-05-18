@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>UN-L1-2013-UCP-D1-E20
+</head>
+<p>
+Dès lors il ne se sentit plus guidé que par l'amour<lb/>
+de son travail. Et quand bien même sa profession<lb/>
+ne lui valait pas la <mod type="corr"><orig>bonhommie</orig><reg>bonhomie</reg></mod> de <mod type="add" stage="" who=""><add><mod type="corr"><orig>la plus part</orig><reg>la plupart</reg></mod></add></mod> gens alentours,<lb/>
+il se gratifiait tout de même <mod type="corr"><orig>d'entrenir</orig><reg>d'entretenir</reg></mod> d'excellentes<lb/>
+relations avec monsieur le maire et les quelques<lb/>
+dignitaires de la commune. Si par moment sur<lb/>
+son passage les enfants jouant s'effrayaient, ou encore<lb/>
+si quelque ivrogne des bistrots lui lançait <mod type="add" stage="" who=""><add>en riant</add></mod>:«Par<lb/>
+moment mon vieux, t'as une figure d'enterrement!»,<lb/>
+il n'y prenait pas garde et continuait fièrement sa<lb/>
+route dans le noir et brillant corbillard, dirigeant<lb/>
+l'équipage des deux robustes chevaux de mairie avec une<lb/>
+agilité épatante. D'un geste de sa main il faisait<lb/>
+friser ses trois poils de moustache et se redressait,<lb/>
+l'air bravache. Fier de ce que son emploi le<lb/>
+rendait si utile et selon ses termes "si respectable",<lb/>
+il <mod type="corr"><orig>sillonait</orig><reg>sillonnait</reg></mod> les chemins du pays avec tantôt <mod type="del" stage="" who=""><del>dans<lb/>
+son chariot</del></mod> <mod type="add" stage="" who=""><add>pour chargement</add></mod>: le juge, le <mod type="del" stage="" who=""><del>#XXX#</del></mod> médecin, <mod type="add" stage="" who=""><add>l'avocat</add></mod>, le prêtre même...<lb/>
+Julien n'avait jamais été si bien entouré. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

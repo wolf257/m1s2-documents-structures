@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E12-V1
+</head>
+<p>
+Je me suis dit : il <mod type="corr"><orig>falait</orig><reg>fallait</reg></mod> quelque chose <mod type="del" stage="" who=""><del>de q</del></mod> qui <mod type="corr"><orig>fa<mod type="add" stage="T2" who=""><add>sse</add></mod></orig><reg>fasse</reg></mod><lb/>
+plus aventure...d'abord, j'ai <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>e</add></mod>ssayé</orig><reg>essayé</reg></mod> de convaincre<lb/>
+mes parents de m'<mod type="corr"><orig>emmner</orig><reg>emmener</reg></mod> en <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del>a</del></mod></del><add stage="T2" who="">A</add></mod>mazonie</orig><reg>Amazonie</reg></mod> <mod type="add" stage="T2" who=""><add>;</add></mod> mais ça n'a<lb/>
+pas marché. Alors <mod type="add" stage="T2" who=""><add>,</add></mod> j'ai <mod type="corr"><orig>commencer</orig><reg>commencé</reg></mod> à désespérer. Après<lb/>
+le déjeuner, mes parents <mod type="corr"><orig>mon</orig><reg>m'ont</reg></mod> proposé d'aller au zoo.<lb/>
+<mod type="del" stage="" who=""><del>Eff</del></mod> Bof! La <mod type="corr"><orig>fôrêt</orig><reg>forêt</reg></mod> Amazonienne était <mod type="corr"><orig>mieu<mod type="add" stage="T2" who=""><add>x</add></mod></orig><reg>mieux</reg></mod> mais bon...<lb/>
+Nous sommes partis à 14h33 <mod type="add" stage="T2" who=""><add>précises</add></mod>. Le voyage a <mod type="corr"><orig>durer</orig><reg>duré</reg></mod> à<lb/>
+peine un quart d'heure. En <mod type="corr"><orig>faîte</orig><reg>fait</reg></mod> c'était pas mal.<lb/>
+J'ai <mod type="corr"><orig>vut</orig><reg>vu</reg></mod> un ours, deux <mod type="corr"><orig>loup</orig><reg>loups</reg></mod> <mod type="corr"><orig>blanc</orig><reg>blancs</reg></mod>, cinq <mod type="corr"><orig>perroquet</orig><reg>perroquets</reg></mod>...<lb/>
+Mais ça ne suffirait pas pour avoir un 10/10. Un<lb/>
+moment j'ai <mod type="corr"><orig>voulut</orig><reg>voulu</reg></mod> libérer un ours. Mais un monsieur<lb/>
+<mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="corr"><orig>arrêter</orig><reg>arrêté</reg></mod>. Mes parents <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> <mod type="corr"><orig>fâcher</orig><reg>fâchés</reg></mod>, très <mod type="corr"><orig>fâcher</orig><reg>fâchés</reg></mod>. §<lb/>
+<mod type="del" stage="" who=""><del>Après</del></mod> Le lendemain j'<mod type="corr"><orig>était</orig><reg>étais</reg></mod> <mod type="corr"><orig>stésser</orig><reg>stressé</reg></mod> pour la rédac. §<lb/>
+J'ai marqué l'histoire du zoo, de l'ours et même du<lb/>
+monsieur. Finalement j'ai un 10/10 avec en plus <mod type="del" stage="" who=""><del>DESSIN</del></mod><lb/>
+avec "Quelle belle aventure!" §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

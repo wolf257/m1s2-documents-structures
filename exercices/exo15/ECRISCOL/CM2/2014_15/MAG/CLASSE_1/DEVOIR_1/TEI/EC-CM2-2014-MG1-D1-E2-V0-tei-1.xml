@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E2-V0
+</head>
+<p>
+« Le cabanon de l'oncle »<lb/>
+
+Un matin, <mod type="corr"><orig>Je</orig><reg>je</reg></mod> me réveille à dix <mod type="subst"><del><mod type="del" stage="" who=""><del>heureux</del></mod></del><add stage="" who="">heures</add></mod> je n'avais<lb/>
+pas aussi bien dormi de toute la semaine. La maison <mod type="corr"><orig>etait.</orig><reg>était</reg></mod> <mod type="corr"><orig>deserte</orig><reg>déserte</reg></mod>. Les<lb/>
+<mod type="corr"><orig>cousin</orig><reg>cousins</reg></mod> ne <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>m'on</del></mod></del><add stage="" who="">mónt</add></mod></orig><reg>m'ont</reg></mod> pas <mod type="corr"><orig>réveille</orig><reg>réveillé</reg></mod> pour aller au centre aéré.<lb/>
+
+Mais où <mod type="subst"><del><mod type="del" stage="" who=""><del>et</del></mod></del><add stage="" who="">est</add></mod> <mod type="corr"><orig>passé</orig><reg>passée</reg></mod> « tante <mod type="corr"><orig>denise</orig><reg>Denise</reg></mod> ». Je <lb/>
+vais dans la cuisine du lait partout par terre des<lb/>
+miettes <mod type="subst"><del><mod type="del" stage="" who=""><del>ou</del></mod></del><add stage="" who="">aussi</add></mod>. Je <mod type="corr"><orig>recris</orig><reg>reécris</reg></mod> « tante <mod type="corr"><orig>denise</orig><reg>Denise</reg></mod> » « Je suis là ma<lb/>
+vie je suis là ». Je descends les marches je vois tante<lb/>
+Denise pleurer.« Que se <mod type="corr"><orig>passe t-il</orig><reg>passe-t-il</reg></mod> » dis Lili « Oncle Jo<mod type="del" stage="" who=""><del>e</del></mod> a<lb/>
+disparu <mod type="subst"><del><mod type="del" stage="" who=""><del>c</del></mod></del><add stage="" who="">comme</add></mod> pour les enfants » Je commence à<lb/>
+m'inquiéter, moi aussi. §<lb/>
+
+Alors, je <mod type="corr"><orig>vois</orig><reg>vais</reg></mod> sur le terrain vague et je cris « Oncle Jo, <lb/>
+Oncle <mod type="subst"><del><mod type="del" stage="" who=""><del>j</del></mod></del><add stage="" who="">Jo</add></mod> » Je passe la dernière bosse et je vois l'Oncle Jo qui<lb/>
+travaille. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

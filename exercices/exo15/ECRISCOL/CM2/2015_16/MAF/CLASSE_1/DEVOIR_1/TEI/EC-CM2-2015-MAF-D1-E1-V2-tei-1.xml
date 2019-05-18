@@ -1,0 +1,150 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E1-V2
+</head>
+<p>
+<pb/>
+
+Ce dimanche là j'étais bien décidé à avoir un 10/10 à<lb/>
+ma rédaction, alors j'ai fait <mod type="corr"><orig>passé</orig><reg>passer</reg></mod> une <mod type="corr"><orig>anonce</orig><reg>annonce</reg></mod> car j'étais à<lb/>
+<mod type="corr"><orig>cours</orig><reg>court</reg></mod> <mod type="corr"><orig>didét</orig><reg>d'idées</reg></mod>! La première semaine RIEN, la deuxième RIEN<lb/>
+et enfin, la troisième semaine UNE réponse! Il venait du<lb/>
+<mod type="corr"><orig>méxique</orig><reg>Mexique</reg></mod>, (quand je pense que j'<mod type="del" stage="" who=""><del>habi</del></mod> habite à Paris et<lb/>
+que mon <mod type="corr"><orig>anone</orig><reg>annonce</reg></mod> est <mod type="corr"><orig>allé</orig><reg>allée</reg></mod> si loin) Danusios et oui c'est son<lb/>
+nom, c'est <mod type="del" stage="" who=""><del>son</del></mod> <mod type="corr"><orig>bizar</orig><reg>bizarre</reg></mod>, mais bon je dis ça mais le mien aussi<lb/>
+est <mod type="corr"><orig>bizar</orig><reg>bizarre</reg></mod>. <mod type="corr"><orig>A</orig><reg>Ah</reg></mod>, j'avais <mod type="corr"><orig>oublier</orig><reg>oublié</reg></mod> <mod type="corr"><orig>j'mappelle</orig><reg>je m'appelle</reg></mod> T h. Bon<lb/>
+<mod type="corr"><orig>revenon</orig><reg>revenons</reg></mod> à nos moutons, Danusio a eu une <mod type="corr"><orig>idét</orig><reg>idée</reg></mod> <mod type="corr"><orig>GEniale</orig><reg>géniale</reg></mod>!<lb/>
+<mod type="corr"><orig>Atention</orig><reg>Attention</reg></mod>!!! Prépar<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">ez</add></mod>-vous à entendre l'<mod type="corr"><orig>idét</orig><reg>idée</reg></mod> du <mod type="corr"><orig>SiECLE</orig><reg>siècle</reg></mod><lb/>
+(je vous lis sa lettre) "<mod type="corr"><orig>Chere</orig><reg>Cher</reg></mod> T h je pense avoir la<lb/>
+solution à ton problème, (<mod type="corr"><orig>atention</orig><reg>attention</reg></mod> <mod type="del" stage="" who=""><del>X#</del></mod> voilà l'<mod type="corr"><orig>idét</orig><reg>idée</reg></mod> du<lb/>
+siècle), au lieu de faire du mal à ta famille, il ne<lb/>
+faudrait pas couper <mod type="corr"><orig>touts</orig><reg>tous</reg></mod> les doigts de ta maman, <mod type="del" stage="" who=""><del>que</del></mod><lb/>
+que ta soeur se casse la jambe (je lui <mod type="corr"><orig>est</orig><reg>ai</reg></mod> tout <mod type="corr"><orig>raconter</orig><reg>raconté</reg></mod>)<lb/>
+et <mod type="del" stage="" who=""><del>que</del></mod> que ton papa <mod type="corr"><orig>meurt</orig><reg>meure</reg></mod> empoisonné, <mod type="corr"><orig>(etc)</orig><reg>etc</reg></mod> juste pour<lb/>
+une rédaction. Et bien ne <mod type="corr"><orig>fait</orig><reg>fais</reg></mod> pas ça<mod type="del" stage="" who=""><del>s</del></mod> à ta famille<lb/> 
+mais à tes <mod type="del" stage="" who=""><del>voissi</del></mod> <mod type="corr"><orig>voisin</orig><reg>voisins</reg></mod>!!!" Et, <mod type="corr"><orig>sav<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">ez</add></mod> vous</orig><reg>savez-vous</reg></mod> pourquoi<lb/>
+j'ai adoré cette <mod type="corr"><orig>idét</orig><reg>idée</reg></mod> car je DETESTE mes <mod type="corr"><orig>voisiou</orig><reg>voisins</reg></mod>,<lb/>
+<mod type="corr"><orig>vrément</orig><reg>vraiment</reg></mod> je ne <mod type="corr"><orig>l'ai</orig><reg>les</reg></mod> aime pas! Et, <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> surtout leur<lb/>
+<mod type="corr"><orig>vieu</orig><reg>vieux</reg></mod> cleps que j'aime pas, <mod type="corr"><orig>sais</orig><reg>c'est</reg></mod> une <mod type="corr"><orig>saurte</orig><reg>sorte</reg></mod> de<lb/>
+<mod type="corr"><orig>chiwawa</orig><reg>chihuahua</reg></mod> tout <mod type="corr"><orig>nue</orig><reg>nu</reg></mod>! Il <mod type="corr"><orig>ménerve</orig><reg>m'énerve</reg></mod> car il est toujours,<lb/>
+toujours, toujours, toujours, toujours et enfin toujours!!!<lb/>
+<mod type="corr"><orig>En-trin</orig><reg>en train</reg></mod> d'aboyer! Il est <mod type="del" stage="" who=""><del>X#</del></mod> <mod type="corr"><orig>chouchouter</orig><reg>chouchouté</reg></mod> <mod type="corr"><orig>j'usquà</orig><reg>jusqu'à</reg></mod> avoir<lb/>
+<mod type="del" stage="" who=""><del>dou</del></mod> du <mod type="corr"><orig>verni</orig><reg>vernis</reg></mod> et des couettes (il s'appelle Bébé). <mod type="corr"><orig>El</orig><reg>Et</reg></mod> là<lb/>
+<mod type="corr"><orig>jai</orig><reg>j'ai</reg></mod> eu l'idée <mod type="del" stage="" who=""><del>l'idét du siècle</del></mod> la deuxième idée du siècle, §<lb/>
+
+<pb/>
+
+(la première <mod type="del" stage="" who=""><del>ses</del></mod> <mod type="add" stage="" who=""><add>c'est</add></mod> celle de Danusior), quand j'ai dit à papa<lb/>
+mon plan <mod type="corr"><orig>IPER</orig><reg>hyper</reg></mod> intelligent il a cru que je lui <mod type="corr"><orig>faisait</orig><reg>faisait</reg></mod> une<lb/>
+blague et il m'a dit "HEHE, ça c'est mon fiston <mod type="del" stage="" who=""><del>X#</del></mod> autant<lb/>
+d'imagination que son père". On <mod type="corr"><orig>n'était</orig><reg>était</reg></mod> samedi soir et j'<mod type="corr"><orig>alais</orig><reg>allais</reg></mod><lb/>
+accomplir mon plan <mod type="corr"><orig>IPER</orig><reg>hyper</reg></mod> intelligent, je suis allé dans le<lb/>
+jardin, j'ai traversé <mod type="corr"><orig>buison</orig><reg>buisson</reg></mod> pour <mod type="corr"><orig>allé</orig><reg>aller</reg></mod> dans le jardin des <mod type="corr"><orig>voisin</orig><reg>voisins</reg></mod><lb/>
+(j'avais l'impression d'être <mod type="del" stage="" who=""><del>es</del></mod> en mission mèga secrète),<lb/>
+puis j'ai ouvert la petite porte de la petite maison des<lb/>
+<mod type="corr"><orig>voisin</orig><reg>voisins</reg></mod>. Il était là, le <mod type="corr"><orig>vieu</orig><reg>vieux</reg></mod> cleps dans son berceau j'ai<lb/>
+<mod type="corr"><orig>prie</orig><reg>pris</reg></mod> un <mod type="corr"><orig>vieu</orig><reg>vieux</reg></mod> sac à patate, et j'ai jeté Bébé <mod type="corr"><orig>dedant</orig><reg>dedans</reg></mod>!!!<lb/>
+Hop, j'ai jeté le cleps tout <mod type="corr"><orig>nue</orig><reg>nu</reg></mod> dans un trou (dans le jardin) et<lb/> 
+je l'ai <mod type="corr"><orig>reboucher</orig><reg>rebouché</reg></mod> avec de la terre, puis je suis retourné au<lb/>
+lit. Deux jours <mod type="corr"><orig>aprés</orig><reg>après</reg></mod> quand la maîtresse a entendu ça,<lb/>
+elle <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="corr"><orig>mit</orig><reg>mis</reg></mod> un 10/10, puis sans que comprenne pourquoi<lb/>
+elle est <mod type="corr"><orig>parti</orig><reg>partie</reg></mod> en courant en <mod type="corr"><orig>j'étant</orig><reg>jetant</reg></mod> un papier derrière<lb/> 
+elle (<mod type="corr"><orig>cétait</orig><reg>c'était</reg></mod> le numéro d'un psy)! §<lb/>
+FiN §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

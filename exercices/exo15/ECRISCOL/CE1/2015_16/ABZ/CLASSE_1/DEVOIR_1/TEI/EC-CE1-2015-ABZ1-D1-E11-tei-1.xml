@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2015-ABZ1-D1-E11
+</head>
+<p>
+Les <mod type="corr"><orig>oiseau</orig><reg>oiseaux</reg></mod> <mod type="corr"><orig>sons</orig><reg>sont</reg></mod> <mod type="corr"><orig>parti</orig><reg>partis</reg></mod> <mod type="corr"><orig>an</orig><reg>en</reg></mod> <mod type="corr"><orig>îtali</orig><reg>Italie</reg></mod><lb/>
+le professeur <mod type="del" stage="" who=""><del>l</del></mod> <mod type="corr"><orig>chairche</orig><reg>cherche</reg></mod> toute.<lb/>
+la nuit et pas de <mod type="corr"><orig>trasse</orig><reg>traces</reg></mod><lb/>
+le lendemain il les <mod type="corr"><orig>chairche</orig><reg>cherche</reg></mod> <mod type="corr"><orig>tout<lb/>
+jour</orig><reg>toujours</reg></mod> <mod type="corr"><orig>mai<mod type="subst"><del><mod type="del" stage="" who=""><del>t</del></mod></del><add stage="" who="">s</add></mod></orig><reg>mais</reg></mod> il se <mod type="corr"><orig>de mande</orig><reg>demande</reg></mod><lb/>
+oui,<mod type="corr"><orig>il</orig><reg>ils</reg></mod> sont il <mod type="corr"><orig>et</orig><reg>est</reg></mod> il <mod type="del" stage="" who=""><del>et</del></mod> <mod type="corr"><orig>etpuiset</orig><reg>épuisé</reg></mod> il<lb/>
+<mod type="corr"><orig>vat</orig><reg>va</reg></mod> <mod type="del" stage="" who=""><del>se</del></mod> <mod type="corr"><orig>coucher</orig><reg>se coucher</reg></mod>. Les <mod type="corr"><orig>oiseau</orig><reg>oiseaux</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod><lb/>
+<mod type="corr"><orig>samuse</orig><reg>s'amusent</reg></mod> <mod type="corr"><orig>bin</orig><reg>bien</reg></mod> <mod type="corr"><orig>an</orig><reg>en</reg></mod> <mod type="corr"><orig>îtali</orig><reg>Italie</reg></mod> il y a un<lb/>
+<mod type="corr"><orig>parcoure</orig><reg>parcour</reg></mod> d'<mod type="corr"><orig>oiseaus</orig><reg>oiseaux</reg></mod> du <mod type="corr"><orig>cour</orig><reg>coup</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>non</orig><reg>n'ont</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

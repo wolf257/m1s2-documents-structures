@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E10
+</head>
+<p>
+Moi plus tard je <mod type="corr"><orig>soueterait</orig><reg>souhaiterais</reg></mod> être pompier. Car j'aime quand il y a du danger, et<lb/>
+j'ai <mod type="corr"><orig>toujour</orig><reg>toujours</reg></mod> voulu <mod type="corr"><orig>sacriffier</orig><reg>sacrifier</reg></mod> ma vie pour les autres. Aujourd'hui était une <mod type="corr"><orig>journé</orig><reg>journée</reg></mod><lb/>
+<mod type="corr"><orig>particuliere</orig><reg>particulière</reg></mod>, car il y a eu 3 feux de maisons, 2 <mod type="corr"><orig>malaise</orig><reg>malaises</reg></mod>, et un <mod type="corr"><orig>fondrement</orig><reg>effondrement</reg></mod> de falaise.<lb/>
+Aujourd'hui je suis arrivé à 5 heures du matin à la <mod type="corr"><orig>caserne</orig><reg>caserme</reg></mod>. A 7 heures une première<lb/>
+intervention qui <mod type="corr"><orig>néssécite</orig><reg>nécessite</reg></mod> l'équipe du grimpe l'hélicoptère de la securité <mod type="corr"><orig>civille</orig><reg>civile</reg></mod>. A midi pile,<lb/>
+<mod type="corr"><orig>mang<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>r</orig><reg>manger</reg></mod> nous <mod type="corr"><orig>somme</orig><reg>sommes</reg></mod> <mod type="corr"><orig>appeler</orig><reg>appelés</reg></mod> pour un accident de la route, avec l'aide <mod type="subst"><del><mod type="del" stage="" who=""><del>du</del></mod></del><add stage="" who="">du</add></mod> VSAV<lb/>
+nous allons faire les premiers secours et les <mod type="corr"><orig>victime</orig><reg>victimes</reg></mod> vont <mod type="corr"><orig>êtres</orig><reg>être</reg></mod> transporté <mod type="corr"><orig>an</orig><reg>en</reg></mod> <mod type="corr"><orig>urgense</orig><reg>urgence</reg></mod> à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod><lb/>
+de <mod type="corr"><orig>caen</orig><reg>Caen</reg></mod>. §<lb/>
+Bip, Bip, Bip. Une voiture a pris feu dans une casse près de Equemauville allez-<lb/>
+y et prenez les <mod type="corr"><orig>veicules</orig><reg>véhivules</reg></mod> suivants: le fourgon <mod type="corr"><orig>pompe tane</orig><reg>pompe-tonne</reg></mod>, Un <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>veicull</del></mod></del><add stage="" who="">veicule<mod type="del" stage="" who=""><del>s</del></mod></add></mod></orig><reg>véhicule</reg></mod> d'<mod type="corr"><orig>asitance</orig><reg>assistance</reg></mod> <mod type="corr"><orig>au</orig><reg>aux</reg></mod> victimes<lb/>
+<mod type="corr"><orig>aù</orig><reg>au</reg></mod> cas <mod type="corr"><orig>ou</orig><reg>où</reg></mod>: la #XXX# <mod type="corr"><orig>échèles</orig><reg>échelles</reg></mod> <mod type="corr"><orig>pivotente</orig><reg>pivotent</reg></mod>. <mod type="corr"><orig>Arriver</orig><reg>Arrivés</reg></mod> sur les lieux nous voyons <mod type="corr"><orig>de<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>des</reg></mod> montagnes de<lb/>
+voitures <mod type="corr"><orig>embrasé</orig><reg>embrasées</reg></mod> par les flammes, je <mod type="corr"><orig>mé</orig><reg>me</reg></mod> lance les flammes comme un héros et <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> à <mod type="corr"><orig>cous</orig><reg>coup</reg></mod><lb/>
+j'<mod type="corr"><orig>entend</orig><reg>entends</reg></mod> une victime dire à <mod type="corr"><orig>laide</orig><reg>l'aide</reg></mod> au <mod type="corr"><orig>secour</orig><reg>secours</reg></mod> alors <mod type="corr"><orig>s<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>n</orig><reg>sans</reg></mod> <mod type="corr"><orig>hésite</orig><reg>hésiter</reg></mod> je pris mon courage à deux <mod type="corr"><orig>mais</orig><reg>mains</reg></mod> pour<lb/>
+en <mod type="corr"><orig>quelque</orig><reg>quelques</reg></mod> <mod type="corr"><orig>mouvement</orig><reg>mouvements</reg></mod> je la pris dans <mod type="del" stage="" who=""><del>mai</del></mod> mes bras <mod type="corr"><orig>est</orig><reg>et</reg></mod> la sortie des <mod type="corr"><orig>flames</orig><reg>flammes</reg></mod> et la posa sur le<lb/>
+<mod type="corr"><orig>siege</orig><reg>siège</reg></mod> du Voav. Le feu <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>était</del></mod></del><add stage="" who="">étain</add></mod></orig><reg>éteint</reg></mod> nous rentrons à la <mod type="corr"><orig>caserne</orig><reg>caserme</reg></mod>, nous prenons notre douche nous mangeons et<lb/>
+<mod type="corr"><orig>nou</orig><reg>nous</reg></mod> <mod type="corr"><orig>allon</orig><reg>allons</reg></mod> nous coucher. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

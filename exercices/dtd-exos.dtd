@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- -->
+<!ELEMENT exercice (infoPage, infoExo, question+)>
+
+<!-- -->
+<!ELEMENT infoPage (titrePage)>
+    <!ELEMENT titrePage (#PCDATA)>
+
+<!-- -->
+<!ELEMENT infoExo (titreExo, sousTitrePerso?) >
+    <!ELEMENT titreExo (#PCDATA) >
+    <!ELEMENT sousTitrePerso (#PCDATA) >
+
+<!-- -->
+<!ELEMENT question (bloc+, code?) >
+<!ATTLIST question index CDATA #IMPLIED>
+
+    <!ELEMENT bloc (titre?, commentaire?, (pathimage|tableau)*, legende?, code?) >
+        <!ELEMENT titre (#PCDATA) >
+        <!ELEMENT commentaire (ligne+) >
+            <!ELEMENT ligne (#PCDATA) >
+        <!ELEMENT pathimage (#PCDATA) >
+        <!ELEMENT tableau (ligne_t*) >
+            <!ELEMENT ligne_t (colonne*) >
+            <!ATTLIST ligne_t index CDATA #IMPLIED>
+                <!ELEMENT colonne (#PCDATA) >
+                <!ATTLIST colonne lien CDATA #IMPLIED>
+        <!ELEMENT legende (#PCDATA) >
+
+    <!ELEMENT code (pathZip) >
+        <!ELEMENT pathZip (#PCDATA) >
+        
+        
+        
+        

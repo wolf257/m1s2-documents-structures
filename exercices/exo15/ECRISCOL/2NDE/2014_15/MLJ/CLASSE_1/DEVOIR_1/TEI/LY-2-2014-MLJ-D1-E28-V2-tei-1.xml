@@ -1,0 +1,158 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E28-V2
+</head>
+<p>
+<pb/>
+Titre: l'homme disparu §<lb/>
+
+L'homme <mod type="corr"><orig>avancait</orig><reg>avançait</reg></mod> jusqu'au reverbère<lb/>
+et il s'assit là, sur le trottoir, dos au<lb/>
+mur, sous la pluie. Il avait l'air<lb/>
+très fatigué, comme si cela faisait une<lb/>
+semaine qu'il n'avait pas <mod type="corr"><orig>dormit</orig><reg>dormis</reg></mod>. Il<lb/>
+portait en bas de son <mod type="corr"><orig>genoux</orig><reg>genou</reg></mod>, un bonnet<lb/>
+troué et très sale et des bottes très<lb/>
+<mod type="corr"><orig>abimés</orig><reg>abîmées</reg></mod> dont l'une qui n'avait plus de<lb/>
+semelle. Il tenait dans sa main une<lb/>
+bouteille d'alcool qu'il buvait<lb/>
+d'une vitesse incroyable. <mod type="subst"><del><mod type="del" stage="" who=""><del>J'</del></mod></del><add stage="" who="">Il</add></mod> était<lb/>
+plutôt grand et fin. J'<mod type="corr"><orig>essayait</orig><reg>essayais</reg></mod> d'être<lb/>
+la plus discrète possible pour ne pas<lb/>
+qu'il ne remarque car je voyais<lb/>
+qu'il observait la rue comme <mod type="corr"><orig>si il</orig><reg>s'il</reg></mod><lb/>
+était recherché par quelqu'un.<lb/>
+Je ne l'<mod type="corr"><orig>avait</orig><reg>avais</reg></mod> jamais vu auparavant<lb/>
+dans cette rue et je trouvais ça bizarre.<lb/>
+Ce soir là, je n'avais pas <mod type="corr"><orig>someil</orig><reg>sommeil</reg></mod>,<lb/>
+j'étais dans mon balcon, avec une<lb/>
+cigarette à la main. En temps normal, <lb/>
+je ne me saurais pas attardé sur un §<lb/>
+
+<pb/>
+homme comme <mod type="corr"><orig>ca</orig><reg>ça</reg></mod>, mais celui là avait<lb/>
+l<mod type="del" stage="" who=""><del>XXX#</del></mod>'air d'avoir de gros problèmes, et<lb/>
+bizarrement, cela m'intriguait mais<lb/>
+en même temps, me faisait peur.<lb/>
+Soudain, j'entendais une sonnerie. Il<lb/>
+<mod type="corr"><orig>decrocha</orig><reg>décrocha</reg></mod> son télélphone et dit d'une voix<lb/>
+fortement tremblante: §<lb/>
+- Allo ?! ... Mais, mais... Qu'<mod type="corr"><orig>es ce</orig><reg>est-ce</reg></mod><lb/>
+que vous me voulez <mod type="corr"><orig>non</orig><reg>Nom</reg></mod> de Dieu? Je<lb/>
+n'ai rien à voir avec vos histoires<lb/>
+moi!!...Allo?! Allo?! §<lb/>
+Et il jeta son téléphone par terre, d'une<lb/>
+force incroyable. J'entendais ses<lb/>
+sanglots de plus en plus <mod type="corr"><orig>fort</orig><reg>forts</reg></mod>. Et il se<lb/>
+leva et crie: Mais qu'<mod type="corr"><orig>es ce</orig><reg>est-ce</reg></mod> que vous<lb/>
+me voulez ?! Tenez moi, allez y si<lb/>
+ce que vous voulez ! Je préfère <mod type="corr"><orig>mourrir</orig><reg>mourir</reg></mod>,<lb/>
+que de vivre toute ma vie dans l'angoisse.<lb/>
+Et il s'écroulat par terre, comme si toute<lb/>
+sa vie était un échec. Il était<lb/>
+déjà deux heures du matin et la<lb/>
+fatigue m'avait prise. Pendant trente<lb/>
+minutes je suis <mod type="corr"><orig>rester</orig><reg>restée</reg></mod> <mod type="corr"><orig>la</orig><reg>là</reg></mod>, à l'observer<lb/>
+mais il s'était endormi. Je décidais<lb/>
+alors de rentrer me coucher dans ma<lb/>
+chambre, avec un mal de tête horrible,<lb/>
+car ce que j'avais vu ce soir <mod type="corr"><orig>la</orig><reg>là</reg></mod> m'avait<lb/>
+troublé. Le lendemain, je me reveillais la<lb/>
+boule au ventre, j'allais dans mon balcon,<lb/>
+il n'était plus là. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

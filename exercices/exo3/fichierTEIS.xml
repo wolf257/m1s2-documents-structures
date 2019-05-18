@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dictionnaire Universel d'Antoine Furetière numérisé - Section Rum-Runes</title>
+            <author>Sandy Duchemin</author>
+            <respStmt>
+               <resp>numérisé par</resp>
+               <name type="org">Bibliothèque Nationale de France</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bibliothèque Nationale de France</publisher>
+            <pubPlace>Paris</pubPlace>
+            <ref target='https://gallica.bnf.fr/ark:/12148/bpt6k50614b'></ref>
+            <availability status="free"><p>Libre de droits</p></availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Dictionnaire universel, contenant généralement tous les mots françois tant vieux que modernes, et les termes de toutes les sciences et des arts</title>
+               <author>Antoine Furetière</author>
+               <editor>A. et R. Leers (La Haye)</editor>
+               <date when="1701">1701</date>
+               <respStmt>
+                  <resp>augmenté et corrigé par</resp>
+                  <name type="org">Basnage de Beauval</name>
+               </respStmt>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry xml:lang="fr" xml:id="RUM">
+            <form>
+               <orth>RUM</orth>
+               <orth>RUMB</orth>
+            </form>
+            <gramGrp>
+               <pos expand="substantif">subst.</pos>
+               <gen expand="masculin">masc.</gen>
+            </gramGrp>
+            <sense n="1">
+               <def>Terme de Marine, est un espace qu'on prepare dans le fond de cale d'un vaisseau pour les marchandises de sa cargaison.</def>
+            </sense>
+            <sense n="2">
+               <def>On dit aussi reun; &amp; arruner ou arrumer; pour dire, ranger les marchandises; &amp; il y a des Officiers exprès sur les ports pour cela</def>
+            </sense>
+         </entry>
+         <entry xml:lang="fr" xml:id="RUMATISME">
+            <form>
+               <orth>RUMATISME</orth>
+            </form>
+            <xr>Voyez Rheumatisme, ou Rhumatisme.</xr>
+         </entry>
+         <entry xml:lang="fr" xml:id="RUMB">
+            <form>
+               <orth>RUMB</orth>
+            </form>
+            <sense n="1">
+               <def>Terme de Mer; Aire de vent; ligne, ou rayon d'un grand cercle vertical tracé sur le Globe, qui divise l'Horison en trente- deux parties. Sur les artes les rumbs sont tracez en ligne drote. Ce sont des traits d'un vent à l'autre. C'est une division que les Pilotes les plus exacts ont faite des vents qui sont mar- qui sert à marquer la route d'un vaisseau pour aller d'un lieu à un autre. Chaque ligne ou pointe designe un vent. On les divise &amp; subdivise.</def>
+               <usg>Le rumb entier ou quart de vent est celui qui soufle d'un des quatre points cardinaux.</usg>
+               <usg>Le demi-rumb est celui qui soule entre ls points cardinaux, &amp; fait avec eux un angle de a5. d- grez.</usg>
+               <usg>Le quart de rumb est celui qui fait un angle de 2 un de 1i. degrez, 5. minutes.</usg>
+               <usg>Ce mot au reste dans sa propre signification se prend pour la partie du monde vers laquelle on dresse sa route: desorte que quand on dit qu'un navire suit le rumb du Nord, on ne veut pas dire que le vent du Nord soufle, mais que la prouë du vaisseau est tournée vers le Nord, a le cap au Nord. Les rumbs font la même division sur le Globe, que les imuts ou les cercles verticaux.</usg>
+            </sense>
+            <sense n="2">
+               <def>uimb, signifie aussi entre les Mariniers, Rang, ou u ordre.</def>
+               <usg>Ere en bon rumb, c'est-à-dire, Etre en bon ordre.</usg>
+               <usg>Tenir son rumb, c'est garder son rang. C'es en ce sens qu'il est employé dans la derniere Ordonnance de la Marine.</usg>
+            </sense>
+         </entry>
+         <entry xml:lang="fr" xml:id="RUME">
+            <form>
+               <orth>RUME</orth>
+            </form>
+            <xr>Voyez Rheue, ou RnUme.</xr>
+         </entry>
+         <entry xml:lang="fr" xml:id="RUMEUR">
+            <form>
+               <orth>RUMEUR</orth>
+            </form>
+            <gramGrp>
+               <pos expand="substantif">s.</pos>
+               <gen expand="féminin">f.</gen>
+            </gramGrp>
+            <etym>Ce mot vient du Latin rumor.</etym>
+            <sense n="1">
+               <def>Bruit &amp; murmure sourd qui tend à querelle, ou sedition; sorte d'alarme.</def>
+               <usg>Cette nouvelle doctrine a excité bien de la rumeur dans l'Eglise. si cette affaire passe, il y aura bien de la rumeur dans la ville. Cette nouvelle n'est pas certaine, mais j en ar oui quelque rumeur, quelque bruit sourd qui en court par le monde. Cette nouvelle mit toute la Cour en rumeur. Ablan. Par tout il se fait grand rumeur. Bens</usg>
+            </sense>
+            <sense n="2">
+               <def>Runeur, se dit aussi de la querelle même, de la sedition.</def>
+               <usg>J'entends bien du bruit dans la ruë, il faut qu'il y ait quelque rumeur, quelque querelle. Il y a grande rumeur dans l'Hôtel de Ville, tout le monde prend les armes. La contrarieté d'opinions excita une grande rumeur dans l'Assemblée.</usg>
+            </sense>
+         </entry>
+         <entry xml:lang="fr" xml:id="UMINANT">
+            <form>
+               <orth>RUMINANT</orth>
+               <orth>RUMINANTE</orth>
+            </form>
+            <gramGrp>
+               <pos expand="adjectif">adj.</pos>
+            </gramGrp>
+            <sense>
+               <def>Animal qui remâche ce qu'il a mangé.</def>
+               <usg>La Loi de Moise ne permettoit de manger des aniaux quadrupedes que ceux qui étoient ruminans, &amp; qui avoient le pied fourché.</usg>
+            </sense>
+         </entry>
+         <entry xml:lang="fr" xml:id="UMINER">
+            <form>
+               <orth>RUMINER</orth>
+            </form>
+            <gramGrp>
+               <pos expand="verbe d'action">v. act.</pos>
+            </gramGrp>
+            <sense n="1">
+               <def>Mâcher une seconde fois ce qu'on a mangé.</def>
+               <usg>Il s'employe presque toûjours abso lument. Les animaux qui ruminent sont les boeufs, les vaches, les brebis. Ils ont quatre ventricules, le premier est appellé pance ou herbier, en Latin magnus venter; le second, bonnet, en Larin reticulum; le trosiéme, millet, en Latin omasum; le quatriéme, caillette en Latin abmasim. Ils n'ont qu'un oe sophage.</usg>
+            </sense>
+            <sense n="2">
+               <def>Ruu'iner, se dit figurément en Morale, &amp; signiie, Refléchir sur ses premieres pensées, rêver, medit sur la recherche de quelque dessein, invention, ou problême.</def>
+               <usg>Les belles choses ne se trouvent pas d'abord l faut long temps ruminer pour y reussir. Il rumine qul que chose de grand. Scar.</usg>
+            </sense>
+         </entry>
+         <entry xml:lang="fr" xml:id="Ruminé">
+            <form>
+               <orth>Ruminé</orth>
+               <orth>Ruminée</orth>
+            </form>
+            <gramGrp>
+               <pos expand="participe passé">part. pass.</pos>
+               <pos expand="adjectif">adj.</pos>
+            </gramGrp>
+         </entry>
+         <entry xml:lang="fr" xml:id="RUNES">
+            <form>
+               <orth>RUNES</orth>
+            </form>
+            <sense>
+               <def>C'est le nom que les Goths donnoient aur lettres dont ils se servoient. On pretend que l'Evêque ulphila en 0. inventa ces lettres Runes ou oii ques.</def>
+            </sense>
+         </entry>
+      </body>
+  </text>
+</TEI>

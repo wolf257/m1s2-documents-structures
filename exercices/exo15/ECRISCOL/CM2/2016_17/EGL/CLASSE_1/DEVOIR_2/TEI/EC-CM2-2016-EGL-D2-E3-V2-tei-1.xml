@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D2-E3-V2
+</head>
+<p>
+<pb/>
+<mod type="corr"><orig>loui</orig><reg>Louis</reg></mod> et <mod type="corr"><orig>sont</orig><reg>son</reg></mod> petit <mod type="corr"><orig>frére</orig><reg>frère</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> vont <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'école les <mod type="corr"><orig>heur</orig><reg>heures</reg></mod> <mod type="corr"><orig>on</orig><reg>ont</reg></mod> passé il<lb/>
+<mod type="corr"><orig>é</orig><reg>est</reg></mod> midi et <mod type="corr"><orig>sont</orig><reg>son</reg></mod> petit <mod type="corr"><orig><mod type="add" stage="" who=""><add>frer</add></mod></orig><reg>frère</reg></mod> de <mod type="corr"><orig>loui</orig><reg>Louis</reg></mod> <mod type="corr"><orig>di</orig><reg>dit</reg></mod> <mod type="corr"><orig>gémal</orig><reg>j'ai mal</reg></mod> <mod type="corr"><orig>detet</orig><reg>de tête</reg></mod> <mod type="corr"><orig>louis</orig><reg>Louis</reg></mod> dit <mod type="corr"><orig>vient</orig><reg>viens</reg></mod><lb/>
+on va voir le <mod type="corr"><orig>medecin</orig><reg>médecin</reg></mod> le médecin arrive et prépare une<lb/>
+piqûre <mod type="corr"><orig>exque il</orig><reg>est-ce qu'il</reg></mod> <mod type="corr"><orig>fot</orig><reg>faut</reg></mod> qu'il <mod type="subst"><del><mod type="del" stage="" who=""><del>fit</del></mod></del><add stage="" who="">va</add></mod> à l'école dit <mod type="corr"><orig>loui</orig><reg>Louis</reg></mod> et<lb/>
+le médecin <mod type="corr"><orig>di</orig><reg>dit</reg></mod> non il <mod type="corr"><orig>fot</orig><reg>faut</reg></mod> pas qu'il va à l'école. §<lb/>
+<mod type="corr"><orig>le</orig><reg>Le</reg></mod> petit <mod type="corr"><orig>frere</orig><reg>frère</reg></mod> de <mod type="corr"><orig>loui</orig><reg>Louis</reg></mod> <mod type="corr"><orig>di</orig><reg>dit</reg></mod> <mod type="corr"><orig>Woe woe</orig><reg>Wow wow</reg></mod> <mod type="corr"><orig>jirapas</orig><reg>je n'irai pas</reg></mod> à l'école <mod type="corr"><orig>loui</orig><reg>Louis</reg></mod><lb/>
+moi aussi <mod type="corr"><orig>jirapas</orig><reg>je n'irai pas</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'école <mod type="corr"><orig>puit</orig><reg>puis</reg></mod> il <mod type="corr"><orig>la</orig><reg>n'a</reg></mod> pas été à l'école<lb/>
+pendant une semaine toute la semaine il <mod type="corr"><orig>au</orig><reg>a</reg></mod> <mod type="corr"><orig>joyer</orig><reg>joué</reg></mod><lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> la corde <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>soter</orig><reg>sauter</reg></mod> au <mod type="corr"><orig>lout</orig><reg>loup</reg></mod> tout plein de jeux comme<lb/>
+<mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>on</orig><reg>ont</reg></mod> <mod type="corr"><orig>joyer</orig><reg>joué</reg></mod> au <mod type="corr"><orig>lout</orig><reg>loup</reg></mod> <mod type="corr"><orig>loui</orig><reg>Louis</reg></mod> a <mod type="corr"><orig>courut</orig><reg>couru</reg></mod> <mod type="corr"><orig>puit</orig><reg>puis</reg></mod> il avait mal §<lb/>
+
+<pb/>
+<mod type="corr"><orig>ala</orig><reg>à la</reg></mod> <mod type="del" stage="" who=""><del>l</del></mod> <mod type="corr"><orig>gabre</orig><reg>jambe</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>on</orig><reg>ont</reg></mod> été <mod type="corr"><orig>au</orig><reg>à l'</reg></mod> <mod type="corr"><orig>aupitale</orig><reg>hôpital</reg></mod> le <mod type="corr"><orig>medecin</orig><reg>médecin</reg></mod> <mod type="corr"><orig>la</orig><reg>le</reg></mod><lb/>
+<mod type="corr"><orig>sanier</orig><reg>soigna</reg></mod> <mod type="del" stage="" who=""><del>sa</del></mod> <mod type="corr"><orig>pui</orig><reg>puis</reg></mod> sa maman elle <mod type="corr"><orig>la</orig><reg>lui a</reg></mod> <mod type="corr"><orig>crier</orig><reg>crié</reg></mod> <mod type="corr"><orig>desur</orig><reg>dessus</reg></mod>. §<lb/>
+<mod type="corr"><orig>il</orig><reg>Il</reg></mod> <mod type="corr"><orig>été</orig><reg>était</reg></mod> <mod type="corr"><orig>penit</orig><reg>puni</reg></mod> parce que il <mod type="corr"><orig>a</orig><reg>n'a</reg></mod> pas été <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'école. §<lb/>
+de la <mod type="corr"><orig>semain</orig><reg>semaine</reg></mod>..puis <mod type="corr"><orig>lotre</orig><reg>l'autre</reg></mod> semaine aussi il <mod type="corr"><orig>a</orig><reg>n'a</reg></mod> pas. §<lb/>
+été et <mod type="corr"><orig>pui</orig><reg>puis</reg></mod> toute la <mod type="corr"><orig>semain</orig><reg>semaine</reg></mod> il <mod type="corr"><orig>sa</orig><reg>s'est</reg></mod> <mod type="corr"><orig>fai</orig><reg>fait</reg></mod> <mod type="corr"><orig>facher</orig><reg>fâcher</reg></mod> par<lb/>
+sa maman et son papa et <mod type="corr"><orig>loui</orig><reg>Louis</reg></mod> <mod type="corr"><orig>et</orig><reg>a</reg></mod> été triste. §<lb/>
+<mod type="corr"><orig>pui</orig><reg>Puis</reg></mod> <mod type="corr"><orig>aprét</orig><reg>après</reg></mod> il a <mod type="corr"><orig>araprit</orig><reg>reprit</reg></mod> l'école et il <mod type="corr"><orig>pré faire</orig><reg>préfère</reg></mod><lb/>
+l'école. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

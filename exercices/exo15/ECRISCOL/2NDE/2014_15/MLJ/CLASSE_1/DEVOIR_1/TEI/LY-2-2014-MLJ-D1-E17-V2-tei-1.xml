@@ -1,0 +1,158 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E17-V2
+</head>
+<p>
+<pb/>
+Il était là, le réverbère l'<mod type="corr"><orig>eclairait</orig><reg>éclairait</reg></mod>. Ses cheveux toujours aussi<lb/>
+<mod type="corr"><orig>gr<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">is</add></mod></orig><reg>gris</reg></mod>, <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">gras</add></mod>, sans #XXX#ermer: <mod type="corr"><orig>ebouriffés</orig><reg>ébouriffés</reg></mod>, <mod type="corr"><orig>desmécher</orig><reg>déméchés</reg></mod>, <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">allant</add></mod> #XXX# les côtés.<lb/>
+Des morceaux de feuilles <mod type="corr"><orig>aparaissaient</orig><reg>apparaîssaient</reg></mod>, coincées entre deux épis<lb/>
+probablement avait-il dormi dehors. Son regard <mod type="add" stage="" who=""><add>bleu</add></mod> est inexpressif,<lb/>
+souligné par ses grandes cernes: <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">ses nuits</add></mod> d'insomnie laissaient des<lb/>
+traces. Les joues creuses, la barbe longue et mal taillée n'arrangeaient<lb/>
+en rien son allure. <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">Ses fines lèvres</add></mod> pincées, <mod type="corr"><orig>sonnes</orig><reg>sonnent</reg></mod> #XXX# 
+<mod type="subst"><del>T2#amplifié</del><add stage="T2" who="P">amplifiaient</add></mod>
+ son<lb/>
+air naturellement sevère. Sa grande parka, beaucoup trop<lb/>
+grande pour son petit gabari,
+
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">demeurait</add></mod> 
+
+trouée, <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>abimée</orig><reg>abîmée</reg></mod>, <mod type="corr"><orig>deformée</orig><reg>déformée</reg></mod><lb/>
+par ses nuits de grand froid. Son pull bordeau, <mod type="corr"><orig>depassait</orig><reg>dépassait</reg></mod> par<lb/>
+le <mod type="del" stage="" who=""><del>XXX#</del></mod> col et par les manches. Sa grosse <mod type="del" stage="" who=""><del>XXX#</del></mod> main<mod type="del" stage="" who=""><del>XXX#</del></mod>, vulgaire<mod type="del" stage="" who=""><del>XXX#</del></mod>; ses ongles<lb/>
+hernis par la crasse, tenait son enorme #XXX#  <mod type="corr"><orig>taché</orig><reg>tâché</reg></mod> et décousu sur<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del>l</del></mod></del><add stage="T2" who="">l</add></mod>es</orig><reg>les</reg></mod> #XXX#. Vraisemblablement <mod type="add" stage="T2" who=""><add>,</add></mod> il ne devait pas avoir froid. Sa<lb/>
+seconde main, cachée derrière son dos, tenait <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX# #XXX# #XXX#</del></mod></del><add stage="" who="">de #XXX# #XXX# sa fameuse</add></mod> <mod type="add" stage="T2" who=""><add>,</add></mod> bouteille<lb/>
+d'alcool. Il ne s'en <mod type="corr"><orig>separait</orig><reg>séparait</reg></mod> jamais, elle lui avait tenue compagnie dans<lb/>
+ses plus grands moments de solitude. L'<mod type="corr"><orig>al<mod type="del" stage="" who=""><del>XXX#</del></mod>cool</orig><reg>alcool</reg></mod> ne le rendait pas<lb/>
+méchant de toute manière. En revanche, lorsque sa femme l'a quitté et<lb/>
+que #XXX# a <mod type="corr"><orig>commenc<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">er</add></mod></orig><reg>commencé</reg></mod> il n'était pas agréable à vivre. Il n'a jamais<lb/>
+compris comment sa vie à <mod type="corr"><orig>bascul<mod type="subst"><del><mod type="del" stage="T2" who=""><del>er</del></mod></del><add stage="T2" who="">ée</add></mod></orig><reg>basculé</reg></mod> aussi rapidement <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+Quelques années auparavant il ne <mod type="corr"><orig>pr<mod type="subst"><del><mod type="del" stage="T2" who=""><del>e</del></mod></del><add stage="T2" who="">ê</add></mod>tait</orig><reg>prêtait</reg></mod> pas attention à <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del>s</del></mod></del><add stage="T2" who="">c</add></mod>es</orig><reg>ces</reg></mod> sans<lb/>
+domicile fixe. Pour lui, ces gens auraient <mod type="corr"><orig>causés</orig><reg>causé</reg></mod> leurs <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">"chuter"</add></mod></orig><reg>chute</reg></mod>, mais cela<lb/>
+<mod type="corr"><orig>à</orig><reg>a</reg></mod> bien changé: maintenant il est dans le même cas. Cela <mod type="subst"><del><mod type="del" stage="T2" who=""><del>arrivés</del></mod></del><add stage="T2" who="">est arrivé</add></mod> si rapidement<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> Son pantalon, enfin cette frippe usagée <mod type="subst"><del><mod type="del" stage="T2" who=""><del>et</del></mod></del><add stage="T2" who="">et</add></mod> delavée, ne ressemblait<lb/>
+point à ce qu'il portait avant. Son bras de jogging laissait<lb/>
+paraitre ses grosses <mod type="corr"><orig>chausettes</orig><reg>chaussettes</reg></mod> <mod type="corr"><orig>depassant</orig><reg>dépassant</reg></mod>, aussi, par les trous de<lb/>
+ses <mod type="corr">
+<orig>
+<mod type="subst">
+<del>
+<mod type="del" stage="T2" who=""><del>XXX</del></mod>
+</del>
+<add stage="T2" who="">vieilles</add>
+</mod>
+</orig>
+<reg>vieux</reg>
+</mod> mocassins. Elles n'ont <mod type="add" stage="T2" who=""><add>d'ailleur</add></mod> <mod type="corr"><orig>p<mod type="subst"><del><mod type="del" stage="T2" who=""><del>l</del></mod></del><add stage="T2" who="">l</add></mod>us</orig><reg>plus</reg></mod> l'air très #XXX#, §<lb/>
+
+<pb/>
+mais elles sont toutefois <mod type="corr"><orig>sufisamment</orig><reg>suffisamment</reg></mod> #XXX# pour terminer l'hiver.<lb/>
+Il se rendait à l'évidence il fallait en racheter, mais ce n'est<lb/>
+surement pas son <mod type="corr"><orig>effrayente</orig><reg>effrayante</reg></mod> apparence qui l'avantagerait <mod type="add" stage="T2" who=""><add>pour mendier <mod type="del" stage="" who=""><del>un peu #XXX#</del></mod></add></mod><lb/>
+ses bras fluêts, ses jambes frêles #XXX# sous #XXX# ses <mod type="corr"><orig>vetements</orig><reg>vêtements</reg></mod>.<lb/>
+Il n'<mod type="subst"><del><mod type="del" stage="T2" who=""><del>avait</del></mod></del><add stage="T2" who="">osait</add></mod> plus <mod type="corr"><orig>sourir</orig><reg>sourire</reg></mod>, ses dents <mod type="del" stage="" who=""><del>et ou</del></mod> jaunier, <mod type="subst"><del><mod type="del" stage="T2" who=""><del>effrayer</del></mod></del><add stage="T2" who="">effrayent</add></mod> plus qu'autre<lb/>
+#XXX#: cela lui donnait un air malsin. Le <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">souvenir</add></mod> de la brosse à<lb/>
+dents lui est lointain. En <mod type="corr"><orig>depit</orig><reg>dépit</reg></mod> de l'aide qui lui <mod type="corr"><orig>ai</orig><reg>est</reg></mod> parfois proposée<lb/>
+par ses secourismes, <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">ou</add></mod> toute cette bonne volontée: il la refuse. Il <mod type="corr"><orig>r<mod type="subst"><del><mod type="del" stage="T2" who=""><del>â</del></mod></del><add stage="T2" who="">a</add></mod>le</orig><reg>râle</reg></mod>,<lb/>
+grogne ne veut pas qu'on le derange. Son apparence est <mod type="corr"><orig>tres</orig><reg>très</reg></mod> indicatrice de son deplaurable #XXX# #XXX#, <mod type="subst"><del><mod type="del" stage="T2" who=""><del>sans</del></mod></del><add stage="T2" who="">manque</add></mod> hygiène. Cela passait par l'aspect des <mod type="corr"><orig>vetements</orig><reg>vêtements</reg></mod>, autant que par ses cheveux que sa barbe.<lb/>
+Cela fait maintenant un quart d'heure qu'il n'a pas bougé du<lb/>
+<mod type="corr"><orig>reverbère</orig><reg>réverbère</reg></mod>. Ses jambes deviennent lourdes, ses <mod type="corr"><orig>epaules</orig><reg>épaules</reg></mod> se courbent<lb/>
+et cette question revient: où vas-t-il dormir ce soir ? §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

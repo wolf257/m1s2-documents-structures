@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E25-V2
+</head>
+<p>
+Le dimanche suivant, j'ai <mod type="corr"><orig>vulu</orig><reg>voulu</reg></mod> <mod type="corr"><orig>fenesser</orig><reg>défenestrer</reg></mod> ma mère par la<lb/>
+<mod type="corr"><orig>fenetrê</orig><reg>fenêtre</reg></mod> et j'<mod type="corr"><orig>u</orig><reg>eu</reg></mod> 9/10 parce qu'elle m'<mod type="corr"><orig>auit</orig><reg>avait</reg></mod> dit de pas <mod type="corr"><orig>sorti</orig><reg>sortir</reg></mod> de<lb/>
+la maison elle est allée à l'<mod type="corr"><orig>hopnlae</orig><reg>hôpital</reg></mod> elle est restée deux<lb/>
+<mod type="corr"><orig>jerirs</orig><reg>jours</reg></mod> et <mod type="corr"><orig>poui</orig><reg>puis</reg></mod> <mod type="corr"><orig>j a</orig><reg>j'ai</reg></mod> voulu <mod type="corr"><orig>rantre</orig><reg>rentrer</reg></mod> <mod type="corr"><orig>dan</orig><reg>dans</reg></mod> la <mod type="corr"><orig>chanbre</orig><reg>chambre</reg></mod> de ma petite<lb/>
+<mod type="corr"><orig>sere</orig><reg>soeur</reg></mod> et j'<mod type="corr"><orig>ni</orig><reg>ai mis</reg></mod> du <mod type="corr"><orig>poisson</orig><reg>poison</reg></mod> <mod type="corr"><orig>dan</orig><reg>dans</reg></mod> le <mod type="corr"><orig>vere</orig><reg>verre</reg></mod> de et <mod type="corr"><orig>a</orig><reg>à</reg></mod> la bru<lb/>
+et <mod type="corr"><orig>àler</orig><reg>allait</reg></mod> <mod type="corr"><orig>reste</orig><reg>rester</reg></mod> un <mod type="corr"><orig>moi</orig><reg>mois</reg></mod> à <mod type="corr"><orig>lopitle</orig><reg>l'hôpital</reg></mod> et j'<mod type="corr"><orig>u</orig><reg>eu</reg></mod> 10/10. §<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>coté</orig><reg>côté</reg></mod> de <mod type="corr"><orig>ché</orig><reg>chez</reg></mod> <mod type="corr"><orig>mois</orig><reg>moi</reg></mod> il <mod type="corr"><orig>lià</orig><reg>y a</reg></mod> un <mod type="corr"><orig>voissin</orig><reg>voisin</reg></mod> <mod type="corr"><orig>ci</orig><reg>qui</reg></mod> <mod type="corr"><orig>abite</orig><reg>habite</reg></mod> <mod type="corr"><orig>dan</orig><reg>dans</reg></mod> le <mod type="corr"><orig>méme</orig><reg>même</reg></mod><lb/>
+<mod type="corr"><orig>carti</orig><reg>quartier</reg></mod> et <mod type="corr"><orig>ye</orig><reg>je</reg></mod> <mod type="corr"><orig>sois</orig><reg>suis</reg></mod> <mod type="corr"><orig>alé</orig><reg>allé</reg></mod> <mod type="corr"><orig>cheloui</orig><reg>chez lui</reg></mod> <mod type="corr"><orig>j'tocé</orig><reg>je toquais</reg></mod> et il <mod type="corr"><orig>lé</orig><reg>le</reg></mod> sort et <mod type="corr"><orig>j</orig><reg>je</reg></mod> <mod type="corr"><orig>louifoisi</orig><reg>lui ai</reg></mod><lb/>
+balancé une tarte. §<lb/>
+<mod type="corr"><orig>et</orig><reg>Et</reg></mod> je <mod type="corr"><orig>suoui</orig><reg>suis</reg></mod> <mod type="corr"><orig>à lé</orig><reg>allé</reg></mod> dans <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les <mod type="corr"><orig>mésanr</orig><reg>maisons</reg></mod> et <mod type="corr"><orig>j'volé</orig><reg>j'ai volé</reg></mod> <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod><lb/>
+<mod type="corr"><orig>le</orig><reg>les</reg></mod> <mod type="corr"><orig>carte</orig><reg>cartes</reg></mod> POKEMON. <mod type="corr"><orig>et</orig><reg>Et</reg></mod> j'<mod type="corr"><orig>u</orig><reg>eu</reg></mod> 9;5/10 §<lb/>
+<mod type="corr"><orig>le</orig><reg>Le</reg></mod> <mod type="corr"><orig>lande</orig><reg>lendemain</reg></mod> j'<mod type="corr"><orig>e</orig><reg>ai</reg></mod> <mod type="corr"><orig>fer</orig><reg>fait</reg></mod> <mod type="corr"><orig>disparatre</orig><reg>disparaître</reg></mod> <mod type="corr"><orig>toule</orig><reg>tout le</reg></mod> monde et <mod type="corr"><orig>can</orig><reg>quand</reg></mod> je <mod type="corr"><orig>sue</orig><reg>suis</reg></mod> <mod type="corr"><orig>à les</orig><reg>allé</reg></mod><lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>lécole</orig><reg>l'école</reg></mod> <mod type="corr"><orig>j'</orig><reg>je</reg></mod> <mod type="corr"><orig>touve</orig><reg>trouve</reg></mod> <mod type="corr"><orig>perone</orig><reg>personne</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

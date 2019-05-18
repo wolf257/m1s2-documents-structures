@@ -1,0 +1,135 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E20-V1
+</head>
+<p>
+<pb/>
+Il s'arreta à la lumière du réverbere.<lb/>
+Sans l'ombre d'un doute, <mod type="add" stage="" who=""><add>il voit</add></mod>, au loin<lb/>
+
+une femme plutôt petite de taille, <mod type="corr"><orig>recuville</orig><reg>recroquevillée</reg></mod><lb/>
+sur elle même, <mod type="corr"><orig>habille</orig><reg>habillée</reg></mod> avec une <mod type="del" stage="" who=""><del>d</del></mod> avec une<lb/>
+sorte de veste trouée, pantalon trop<lb/>
+court. Il ne voyait que ses vetements<lb/>
+mais pas son visage car il était trop<lb/>
+loin. Un enfant sortit de la lumière<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> côté d'elle. L'enfant avait très<lb/>
+froid, il se dit dans sa tête : ce<lb/>
+sont peut être des sans-abris ? peut-être<lb/> 
+qu'ils sont juste <mod type="corr"><orig>perdu</orig><reg>perdus</reg></mod> ? Quelques minutes<lb/>
+de refléxion. C'était une evidence, ils étaient<lb/>
+bien des personnes sans-abris et <mod type="corr"><orig>perdu</orig><reg>personnes</reg></mod> <mod type="del" stage="" who=""><del>à<lb/> cause</del></mod> tout particulièrement à cause de leurs<lb/>
+vêtements si <mod type="corr"><orig>léger</orig><reg>légers</reg></mod> avec ce temps pareil.<lb/>
+L'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>H</del></mod></del><add stage="" who="">h</add></mod>omme</orig><reg>homme</reg></mod> lui, avec son bonnet, son manteau<lb/>
+arrivant à ses genoux, et son <mod type="corr"><orig>echarpes</orig><reg>écharpe</reg></mod> qui lui<lb/>
+prenait tout son cou et sa bouche, il alla vers<lb/>
+ces deux sans-abris: Il regarda la femme<lb/>
+<mod type="del" stage="" who=""><del>XXX# dont les yeux</del></mod>, elle avait des cernes, la<lb/>
+peau pâle, lisse, les cheveux gras. Ses<lb/>
+<mod type="corr"><orig>vetements</orig><reg>vêtements</reg></mod> tous troués. L'enfant, lui, <mod type="del" stage="" who=""><del>était<lb/> caché derrière sa mère</del></mod> a <mod type="corr"><orig>prit</orig><reg>pris</reg></mod> peur de l'homme<lb/>
+qui arriva vers eux, se cacha <mod type="corr"><orig>derriere</orig><reg>derrière</reg></mod> sa mère.<lb/>
+L'Homme n'a pas pu voir le visage petit, il ne<lb/>
+sait même pas si <mod type="corr"><orig>cette</orig><reg>c'est</reg></mod> une fille ou un garçon §<lb/>
+
+<pb/>
+l'homme, triste de les voir comme cela,<lb/>
+retira de sa poche, un billet de 50 euros<lb/>
+et donna à la femme. la femme surprise<lb/>
+du geste de l'homme, lui sauta au cou<lb/>
+l'homme en va §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

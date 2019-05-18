@@ -1,0 +1,146 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E5-V2
+</head>
+<p>
+<pb/>
+
+Sous la nuit sans étoiles, d'une obscurité<lb/>
+et d'une épaisseur d'encre, l'homme depuis<lb/>
+un moment déjà marchait quand il aperçut<lb/>
+au loin la lumière d'un réverbère. Il se<lb/>
+dirigeait vers ce réverbère qui l'intriguait,<lb/>
+mais en vérité il n'était pas <mod type="corr"><orig>intriguer</orig><reg>intrigué</reg></mod> par ce<lb/>
+réverbère quelconque mais plutôt par l'ombre,<lb/>
+que refletait la lumiere du réverbère. Au début,<lb/>
+il n'arrivait pas à distinguer ce que representait<lb/>
+cette ombre, puis il s'approcha, il se rendit<lb/>
+compte que c'était l'ombre d'une femme, ce qui<lb/>
+le poussa d'avantage à avancer et à aller<lb/>
+voir cette femme. Quand il arriva près au<lb/>
+réverbère, il vit une femme, elle eu peur en<lb/>
+voyant l'homme s'approcher d'elle puis il la<lb/>
+rassura. Cette femme s'appelait Victoire, elle<lb/>
+était magnifique, d'une beauté <mod type="corr"><orig>inouï</orig><reg>inouïe</reg></mod>. Elle avait<lb/>
+des yeux <mod type="corr"><orig>vert-bleu</orig><reg>verts bleus</reg></mod> <mod type="corr"><orig>clair</orig><reg>clairs</reg></mod>, de <mod type="corr"><orig>long</orig><reg>longs</reg></mod> et <mod type="corr"><orig>bouclé</orig><reg>bouclés</reg></mod><lb/>
+cheveux blond, un visage fin, net, ne comportant<lb/>
+aucune imperfections. Elle était d'une grande<lb/>
+classe, ni trop grosse ni trop maigre avec<lb/>
+l'air d'avoir 20 ans. Au premier regard l'homme §<lb/>
+
+<pb/>
+
+tomba amoureux. Elle était <mod type="corr"><orig>vêtu</orig><reg>vêtue</reg></mod> d'une<lb/>
+somptueuse robe rouge en soie, qui<lb/>
+faisait ressortir son <mod type="corr"><orig>tein<mod type="add" stage="" who=""><add>t</add></mod></orig><reg>teint</reg></mod> un petit peu<lb/>
+bronzé. Elle avait un manteau de fourrure<lb/>
+qui signifiait sa richesse. Des bijoux en<lb/>
+argent, un collier <mod type="corr"><orig>ornée</orig><reg>orné</reg></mod> de <mod type="corr"><orig>diament</orig><reg>diamants</reg></mod>,<lb/>
+elle avait une paire de <mod type="corr"><orig>talon</orig><reg>talons</reg></mod> que <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod><lb/>
+les filles rêveraient d'avoir, des jambes<lb/>
+longues et <mod type="corr"><orig>fine</orig><reg>fines</reg></mod> qui ne s'<mod type="corr"><orig>arretait</orig><reg>arrêtaient</reg></mod> pas,<lb/>
+on aurait dit une princesse, elle avait<lb/>
+tout pour elle, mais elle était trop parfaite<lb/>
+pour lui, lui pauvre homme, sans travail,<lb/>
+vivant dans un vieux appartement, il n'avait<lb/>
+rien pour lui a part sa gentillesse. Il proposa<lb/>
+a Victoire, qui avait l'air d'avoir froid<lb/>
+malgré son manteau de fourrure, de <mod type="corr"><orig>mont<mod type="del" stage="T2" who=""><del>é</del></mod><mod type="add" stage="T2" who=""><add>er</add></mod></orig><reg>monter</reg></mod><lb/>
+à son appartement qui n'était pas très loin<lb/>
+d'ici, mais elle refusa et partit. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,121 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E7
+</head>
+<p>
+<pb/>
+
+<mod type="del" stage="" who=""><del>toule</del></mod> <mod type="corr"><orig>tout</orig><reg>Tout</reg></mod> le <mod type="corr"><orig>mondes</orig><reg>monde</reg></mod> <mod type="corr"><orig>sanaler</orig><reg>s'en alla</reg></mod> <mod type="corr"><orig>harry</orig><reg>Harry</reg></mod> et<lb/> 
+Ron sont partis pour <mod type="corr"><orig>prèvenire</orig><reg>prévenir</reg></mod> Hermione<lb/>
+<mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>coures</orig><reg>courent</reg></mod> <mod type="corr"><orig>partous</orig><reg>partout</reg></mod> <mod type="corr"><orig>quan</orig><reg>quand</reg></mod> le <mod type="corr"><orig>trole</orig><reg>troll</reg></mod> <mod type="corr"><orig>a la</orig><reg>alla</reg></mod><lb/>
+dans les <mod type="corr"><orig>toléte</orig><reg>toilettes</reg></mod> des <mod type="corr"><orig>fille</orig><reg>filles</reg></mod> Harry <mod type="corr"><orig>eséia</orig><reg>essaya</reg></mod><lb/>
+de la <mod type="corr"><orig>sover</orig><reg>sauver</reg></mod> il <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="del" stage="" who=""><del>gourdin</del></mod> <mod type="corr"><orig>moter</orig><reg>monté</reg></mod><lb/>
+sur le gourdin Ron <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">eséier</add></mod> les tour<lb/>
+de <mod type="corr"><orig>magi</orig><reg>magie</reg></mod> vingardiun leviosa il<lb/>
+<mod type="corr"><orig>soule va</orig><reg>souleva</reg></mod> le gourdin il <mod type="corr"><orig>la somas</orig><reg>l'assomma</reg></mod> <mod type="corr"><orig>dans<lb/>côut</orig><reg>d'un coup</reg></mod> <mod type="corr"><orig>gardon</orig><reg>gourdin</reg></mod> il <mod type="corr"><orig><mod type="del" stage="" who=""><del>XXX#</del></mod>et</orig><reg>a</reg></mod> <mod type="corr"><orig>a sommer</orig><reg>assommé</reg></mod> le troll<lb/>
+professeur <mod type="corr"><orig>Mcgonall</orig><reg>McGonagall</reg></mod> Hermione #XXX# §<lb/>
+
+<pb/>
+elle <mod type="corr"><orig>disa</orig><reg>dit</reg></mod> celle a #XXX# <mod type="del" stage="" who=""><del>ari o</del></mod> Harry<lb/>
+et Ron le professeur elle <mod type="corr"><orig>an leve</orig><reg>enlève</reg></mod><lb/>
+5 <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>poit</del></mod></del><add stage="" who="">point</add></mod></orig><reg>points</reg></mod> pour <mod type="corr"><orig>Herrmione</orig><reg>Hermione</reg></mod> <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> Harry et<lb/>
+Ron a <mod type="corr"><orig>ganier</orig><reg>gagné</reg></mod> 10 <mod type="corr"><orig>point</orig><reg>points</reg></mod> <mod type="del" stage="" who=""><del>por</del></mod> pour la <mod type="corr"><orig>masion</orig><reg>mission</reg></mod><lb/>
+pour <mod type="corr"><orig>a va<mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">i</add></mod>r</orig><reg>avoir</reg></mod> <mod type="del" stage="" who=""><del>des</del></mod> <mod type="corr"><orig>mi</orig><reg>mis</reg></mod> le troll <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>or</del></mod></del><add stage="" who="">aur</add></mod></orig><reg>hors</reg></mod><lb/>
+<mod type="corr"><orig>deta</orig><reg>d'état</reg></mod> de nuir Fin. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

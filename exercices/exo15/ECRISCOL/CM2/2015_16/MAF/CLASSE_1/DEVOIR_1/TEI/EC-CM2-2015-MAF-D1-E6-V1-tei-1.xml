@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E6-V1
+</head>
+<p>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> Un jour j'ai eu 10/10. §<lb/>
+j'ai <mod type="del" stage="" who=""><del>di q</del></mod> <mod type="corr"><orig><mod type="add" stage="" who=""><add>ecrit</add></mod></orig><reg>écrit</reg></mod> sur ma rédaction que <mod type="del" stage="" who=""><del>j j'</del></mod><lb/>
+<mod type="corr"><orig>javais</orig><reg>j'avais</reg></mod> <mod type="add" stage="T2" who=""><add>,</add></mod> <mod type="del" stage="" who="é"><del>X#er</del></mod> <mod type="corr"><orig>étoufai</orig><reg>étouffé</reg></mod> mon <mod type="corr"><orig>fr<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>re</orig><reg>frère</reg></mod> quand<lb/>
+il dormait j'avais pris <mod type="subst"><del><mod type="del" stage="T3" who=""><del>mon</del></mod></del><add stage="" who="">un</add></mod> <mod type="del" stage="T3" who=""><del>cousin</del></mod> <mod type="del" stage="T3" who=""><del>cousin</del></mod> <mod type="del" stage="T3" who=""><del>cous</del></mod> <mod type="add" stage="T3" who=""><add>coussin</add></mod> et<lb/>
+je l'ai<mod type="del" stage="T3" who=""><del>s</del></mod> <mod type="corr"><orig>étoufai</orig><reg>étouffé</reg></mod> je <mod type="del" stage="T3" who=""><del>ne</del></mod> <mod type="del" stage="T3" who=""><del>neu</del></mod> <mod type="subst"><del><mod type="del" stage="T3" who=""><del>n'</del></mod></del><add stage="T3" who="">l'</add></mod> avais <mod type="corr"><orig>méme</orig><reg>même</reg></mod> pas dit<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>mas</orig><reg>ma</reg></mod> <mod type="corr"><orig>mére</orig><reg>mère</reg></mod>. <mod type="corr"><orig>ma</orig><reg>Ma</reg></mod> <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> mis un 10/10<lb/>
+mais le soir <mod type="corr"><orig>méme</orig><reg>même</reg></mod> on devait <mod type="corr"><orig>fair</orig><reg>faire</reg></mod> signer <mod type="corr"><orig>nousc</orig><reg>nos</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>ch#X#</del></mod> <mod type="corr"><orig>cahier</orig><reg>cahiers</reg></mod> j'ai <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>mon a mas</del></mod></del><add stage="" who="">montré a mas</add></mod></orig><reg>montré à ma</reg></mod> <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> <mod type="del" stage="" who=""><del>el et</del></mod><lb/>
+<mod type="del" stage="" who=""><del>elle</del></mod> <mod type="add" stage="T2" who=""><add>ma</add></mod> <mod type="del" stage="" who=""><del>mas mas</del></mod> <mod type="add" stage="T3" who=""><add>mais elle <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod></add></mod> tapé avec la ceinture mais je<lb/>
+<mod type="corr"><orig>luis</orig><reg>lui</reg></mod> <mod type="corr"><orig>et</orig><reg>ai</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> maman tu <mod type="corr"><orig>et</orig><reg>es</reg></mod> <mod type="del" stage="" who=""><del>e</del></mod> <mod type="corr"><orig>content</orig><reg>contente</reg></mod> <mod type="del" stage="" who=""><del>comme</del></mod> <mod type="corr"><orig>jai</orig><reg>j'ai</reg></mod> eu<lb/>
+un 10/10. <mod type="corr"><orig>elle</orig><reg>Elle</reg></mod> <mod type="corr"><orig>mas</orig><reg>m'a</reg></mod> plus <mod type="corr"><orig>tapes</orig><reg>tapé</reg></mod>. <mod type="corr"><orig>le</orig><reg>Le</reg></mod> lendemain<lb/>
+je suis <mod type="corr"><orig>arriver</orig><reg>arrivé</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'école <mod type="add" stage="T3" who=""><add>:</add></mod> bras <mod type="corr"><orig>casé</orig><reg>cassé</reg></mod> jambe <mod type="corr"><orig>casé</orig><reg>cassée</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>et</del></mod> et nez cassé. §<lb/>
+ §<lb/>
+ §<lb/>
+<mod type="add" stage="T3" who=""><add>l'avai lavai l'avais lavais</add></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

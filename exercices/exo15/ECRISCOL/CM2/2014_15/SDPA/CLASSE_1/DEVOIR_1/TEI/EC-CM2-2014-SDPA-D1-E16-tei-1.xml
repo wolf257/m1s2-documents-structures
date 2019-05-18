@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E16
+</head>
+<p>
+<pb/>
+Harry et <mod type="corr"><orig>ron</orig><reg>Ron</reg></mod> <mod type="corr"><orig>vons</orig><reg>vont</reg></mod> <mod type="corr"><orig>voir<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>voir</reg></mod> si tout va bien et <mod type="corr"><orig>la</orig><reg>là</reg></mod><lb/>
+<mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>voille</orig><reg>voyent</reg></mod> un <mod type="corr"><orig>troll<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>troll</reg></mod>. Il vont chercher <mod type="del" stage="" who=""><del>des</del></mod> McGonagall.<lb/>
+<mod type="corr"><orig>McGonagolle</orig><reg>McGonagall</reg></mod> <mod type="del" stage="" who=""><del>il</del></mod> on a <mod type="corr"><orig>retrouver</orig><reg>retrouvé</reg></mod> le troll <mod type="del" stage="" who=""><del>il</del></mod> si <mod type="corr"><orig>vout</orig><reg>vous</reg></mod><lb/>
+ne <mod type="corr"><orig>venai</orig><reg>venez</reg></mod> pas ou si vous <mod type="corr"><orig>faite</orig><reg>faites</reg></mod> pas quelque<lb/>
+chose il va tout détruire, et <mod type="del" stage="" who=""><del>la il entande<lb/>
+des</del></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>començe</orig><reg>commence</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>tranbler</orig><reg>trembler</reg></mod>. Harry <mod type="del" stage="" who=""><del>dit</del></mod> sort tout<lb/>
+les <mod type="corr"><orig>èlève</orig><reg>élèves</reg></mod> de l'école et <mod type="del" stage="" who=""><del>XXX#</del></mod> moi je vais <mod type="del" stage="" who=""><del>és</del></mod> <mod type="corr"><orig>aisayer</orig><reg>essayer</reg></mod><lb/>
+de <mod type="corr"><orig>maitre</orig><reg>mettre</reg></mod> un sort au troll. Allez <mod type="del" stage="" who=""><del>tout le</del></mod> <mod type="corr"><orig>aller</orig><reg>allez</reg></mod><lb/>
+<mod type="corr"><orig>sorter</orig><reg>sortez</reg></mod> de l'école <mod type="corr"><orig>aller</orig><reg>allez</reg></mod> et <mod type="corr"><orig>aller</orig><reg>allez</reg></mod> <mod type="del" stage="" who=""><del>Malfoy</del></mod> Malefoy<lb/>
+sort, et pourquoi <mod type="corr"><orig>s'ait</orig><reg>c'est</reg></mod> <mod type="corr"><orig>McGonagalle</orig><reg>McGonagall</reg></mod> qui <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> dit de §<lb/>
+
+<pb/>
+le faire. <mod type="del" stage="" who=""><del>M</del></mod> Harry je <mod type="del" stage="" who=""><del>XXX#</del></mod> te <mod type="del" stage="" who=""><del>qu</del></mod> <mod type="corr"><orig>croie</orig><reg>crois</reg></mod> pas, pourquoi<lb/>
+parce que tu peux <mod type="corr"><orig>mentire</orig><reg>mentir</reg></mod>. Malfoy <mod type="corr"><orig>aller</orig><reg>allez</reg></mod> <mod type="corr"><orig>vient</orig><reg>viens</reg></mod>.<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> McGonagall<mod type="del" stage="" who=""><del>XXX#</del></mod> Malfoy ne veut pas <mod type="corr"><orig>sortire</orig><reg>sortir</reg></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> d'<mod type="corr"><orig>accore</orig><reg>accord</reg></mod><lb/>
+<mod type="corr"><orig>jarive</orig><reg>j'arrive</reg></mod> je vais lui dire de <mod type="corr"><orig>sortire</orig><reg>sortir</reg></mod> <mod type="corr"><orig>m'ait</orig><reg>mais</reg></mod> avant<lb/>
+je vais <mod type="corr"><orig>mocuper</orig><reg>m'occuper</reg></mod> du troll. Wingardium<lb/>
+leviasa et le <mod type="corr"><orig>troll<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>troll</reg></mod> <mod type="del" stage="" who=""><del>se mait</del></mod> <mod type="corr"><orig>tombent</orig><reg>tombe</reg></mod> <mod type="corr"><orig>partaire</orig><reg>par terre</reg></mod><lb/>
+<mod type="corr"><orig>puie</orig><reg>puis</reg></mod> il commence <mod type="corr"><orig>a</orig><reg>à</reg></mod> se <mod type="corr"><orig>relevait</orig><reg>relever</reg></mod> <mod type="corr"><orig>a</orig><reg>ah</reg></mod> non tu<lb/>
+<mod type="corr"><orig>va</orig><reg>vas</reg></mod> pas te <mod type="corr"><orig>relevait</orig><reg>relever</reg></mod> et elle lui <mod type="corr"><orig>afonce</orig><reg>a foncé</reg></mod> dans<lb/>
+le pied et McGonagall <mod type="corr"><orig>ramene</orig><reg>ramène</reg></mod> une <mod type="del" stage="" who=""><del>ést</del></mod><lb/>
+<mod type="corr"><orig>ènorme</orig><reg>énorme</reg></mod> <mod type="del" stage="" who=""><del>f</del></mod> brouette et il le <mod type="corr"><orig>laive</orig><reg>lève</reg></mod> avec un<lb/> 
+sort il le <mod type="corr"><orig>souleve</orig><reg>soulève</reg></mod> et il <mod type="corr"><orig>lentére</orig><reg>l'enterre</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

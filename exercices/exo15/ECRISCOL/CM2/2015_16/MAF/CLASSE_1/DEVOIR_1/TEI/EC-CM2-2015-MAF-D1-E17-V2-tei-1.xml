@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E17-V2
+</head>
+<p>
+Le week-end dernier j'ai pris le chat de mes voisins et je lui<lb/>
+<mod type="corr"><orig>est</orig><reg>ai</reg></mod> fait un bon petit plat à base de <mod type="corr"><orig>bout</orig><reg>boue</reg></mod>, de petite crotte de lapin<lb/>
+et du bois. Il s'est régalé. A la fin il a fini à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod> avec<lb/>
+une intoxication alimentaire. J'ai eu 9,8/10. Mais 5,5/14 la fois<lb/>
+où j'ai pris le lapin de ma copine et je l'ai planté devant la<lb/>
+télé. Il ne voulait plus s'en <mod type="corr"><orig>décolé</orig><reg>décoller</reg></mod>. A la fin il avait les yeux tous<lb/>
+<mod type="corr"><orig>rouge</orig><reg>rouges</reg></mod> et une conjonctivite. Ma copine ne <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> plus parlé pendant 6<lb/>
+mois 8/10. <mod type="corr"><orig>samedi</orig><reg>Samedi</reg></mod> dernier mes voisins <mod type="corr"><orig>d'evait</orig><reg>devaient</reg></mod> me <mod type="corr"><orig>gardé</orig><reg>garder</reg></mod>. La cata<lb/>
+strophe, ils sont trop <mod type="corr"><orig>gentille</orig><reg>gentils</reg></mod>! Ma mère et mon père <mod type="corr"><orig>devait</orig><reg>devaient</reg></mod> <mod type="corr"><orig>allé</orig><reg>aller</reg></mod> au<lb/>
+cinéma voir: THE TITANIC. Moi j'<mod type="corr"><orig>avait</orig><reg>avais</reg></mod> la mission de <mod type="corr"><orig>leurs</orig><reg>leur</reg></mod> <mod type="corr"><orig>préparée</orig><reg>préparer</reg></mod> à<lb/>
+manger. Au <mod type="corr"><orig>secour</orig><reg>secours</reg></mod>. Je <mod type="corr"><orig>s'ai</orig><reg>ne sais</reg></mod> même pas mettre de la farine dans un<lb/>
+saladier. Ils m'ont donné une recette: Blanquette de veau. Dans <mod type="corr"><orig>leurs</orig><reg>leur</reg></mod><lb/>
+îlot j'ai tout fait <mod type="corr"><orig>brulé</orig><reg>brûler</reg></mod>. <mod type="corr"><orig>ont</orig><reg>On</reg></mod> a <mod type="corr"><orig>appeler</orig><reg>appelé</reg></mod> les <mod type="corr"><orig>pompier</orig><reg>pompiers</reg></mod>. Avec 3H de retard<lb/>
+tout était brûlé! J'ai eu 10/10! <mod type="corr"><orig>Ont</orig><reg>On</reg></mod> a fêté ça avec un gâteau à<lb/>
+la vanille. <mod type="corr"><orig>s'était</orig><reg>C'était</reg></mod> catastrophique, j'<mod type="corr"><orig>avait</orig><reg>avais</reg></mod> mal au ventre! <mod type="corr"><orig>j'</orig><reg>J'</reg></mod>ai<lb/>
+fini à l'<mod type="corr"><orig>hopita</orig><reg>hôpital</reg></mod> avec 70 <mod type="corr"><orig>bouton</orig><reg>boutons</reg></mod> sur la poire: j'avais une <mod type="corr"><orig>alergie</orig><reg>allergie</reg></mod><lb/>
+à la vanille! §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

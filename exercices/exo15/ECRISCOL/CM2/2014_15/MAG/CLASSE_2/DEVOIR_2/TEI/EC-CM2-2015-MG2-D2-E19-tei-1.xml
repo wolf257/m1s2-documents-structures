@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MG2-D2-E19
+</head>
+<p>
+Paillette chassait un caribou mais elle entendit
+un drôle de bruit comme un coup de feu. §<lb/>
+Elle décida d'abandonner sa meute pour aller
+voir ce qui se passait. Elle se cachait
+derrière un <mod type="corr"><orig>boisson</orig><reg>bassin</reg></mod> pour essayer de voir d'où
+venait ce drôle de bruit. §<lb/>
+Elle <mod type="corr"><orig>sursautat</orig><reg>sursauta</reg></mod> et elle se rendut compte que les
+hommes n'étaient pas loin. §<lb/>
+Elle courut vite vers sa meute pour les pré<lb/>
+venir. Sauf que les hommes entendirent les pas de
+la pas de la louve. Ils tendirent l'oreille et <mod type="corr"><orig>prire<lb/>nt</orig><reg>prièrent</reg></mod> <mod type="add" stage="T2" who=""><add>leurs fusils</add></mod>. Paillette se fit poursuivre par les
+hommes. La meute <mod type="corr"><orig>vus</orig><reg>vit</reg></mod> Paillette <mod type="corr"><orig>arrivers</orig><reg>arriver</reg></mod> à <mod type="corr"><orig>toutes</orig><reg>toute</reg></mod>
+vitesse. Flamme Noire dit à ses louvetaux de partir loin §<lb/>
+
+<pb/>
+et vite avec Loup Bleu. Elle se dirigea vers
+Paillette. Les hommes tiraient des coups de feu
+sur la leuve, et sa mère. Paillette se fit toucher.
+Flamme Noire la <mod type="corr"><orig>perta</orig><reg>perdit</reg></mod> et <mod type="corr"><orig>courrat</orig><reg>courut</reg></mod> pour rejoindre la
+meute. Ils continuaient à la poursuivre tout en
+continuant à tirer. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

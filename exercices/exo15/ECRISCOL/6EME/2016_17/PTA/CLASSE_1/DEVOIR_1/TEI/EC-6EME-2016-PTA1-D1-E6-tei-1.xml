@@ -1,0 +1,123 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E6
+</head>
+<p>
+<pb/>
+Je <mod type="corr"><orig>voudrai</orig><reg>voudrais</reg></mod> <mod type="corr"><orig>étre</orig><reg>être</reg></mod> <mod type="corr"><orig>dessinateure</orig><reg>dessinatrice</reg></mod>. §<lb/>
+Je me <mod type="corr"><orig>léverer</orig><reg>lèverai</reg></mod> je <mod type="corr"><orig>dessanderée</orig><reg>descendrai</reg></mod> déjeuner, je me <mod type="corr"><orig>changerér</orig><reg>changerai</reg></mod><lb/>
+et <mod type="corr"><orig>jirée</orig><reg>j'irai</reg></mod> dans un <mod type="corr"><orig>batiment</orig><reg>bâtiment</reg></mod> pour faire des (BD,<lb/>
+<mod type="corr"><orig>dessin</orig><reg>dessins</reg></mod>, et des peintures). <mod type="corr"><orig>une</orig><reg>Une</reg></mod> fois <mod type="corr"><orig>terrminer</orig><reg>terminé</reg></mod>, je <mod type="corr"><orig>rentrereé</orig><reg>rentrerai</reg></mod><lb/>
+<mod type="corr"><orig>gouter</orig><reg>goûter</reg></mod> puis une fois fini, devant la télé je <mod type="corr"><orig>dessineré</orig><reg>dessinerai</reg></mod><lb/>
+des personnages de dessin <mod type="corr"><orig>animeé</orig><reg>animé</reg></mod> et une fois fini<lb/>
+je <mod type="corr"><orig>préparerée</orig><reg>préparerai</reg></mod> à manger <mod type="subst"><del><mod type="del" stage="" who=""><del>peuis</del></mod></del><add stage="" who="">puis</add></mod> en <mod type="corr"><orig>attendent</orig><reg>attendant</reg></mod> que <mod type="corr"><orig>sa</orig><reg>ça</reg></mod><lb/>
+<mod type="corr"><orig>soi</orig><reg>soit</reg></mod> <mod type="corr"><orig>prés</orig><reg>prêt</reg></mod> <mod type="corr"><orig>jirais</orig><reg>j'irai</reg></mod> prendre une douche, puis une fois<lb/>
+<mod type="corr"><orig>finis</orig><reg>fini</reg></mod> ma douche je mangerais devant la télé (un film).<lb/>
+Ensuite je <mod type="corr"><orig>maitrer</orig><reg>mettrai</reg></mod> tout à la machine à laver et <mod type="corr"><orig>jirrée</orig><reg>j'irai</reg></mod><lb/>
+me coucher. <mod type="corr"><orig>Lee</orig><reg>Les</reg></mod> (lundi, Mardi, jeudi, vendredi) je travaille<lb/>
+le mercredi, je travaille que le matin. Comme<lb/>
+<mod type="corr"><orig>sa</orig><reg>ça</reg></mod> mes jours ou je travaille pas <mod type="corr"><orig>se</orig><reg>ce</reg></mod> sont <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les §<lb/>
+
+<pb/>
+Samedi, dimanche, et mercredi <mod type="corr"><orig>aprés midie</orig><reg>après-midi</reg></mod>. <mod type="corr"><orig>Mes</orig><reg>Mais</reg></mod> bien<lb/>
+<mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> les jours comme <mod type="corr"><orig>No<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>l</orig><reg>Noël</reg></mod> <mod type="corr"><orig>paque</orig><reg>Pâques</reg></mod> <mod type="corr"><orig>alowen</orig><reg>Halloween</reg></mod>, <mod type="corr"><orig>tot</orig><reg>tous</reg></mod> les saints<lb/>
+plus la <mod type="corr"><orig>saints</orig><reg>Saint</reg></mod> des amoureux <mod type="add" stage="" who=""><add>je ne travaille pas</add></mod> je <mod type="corr"><orig>neut</orig><reg>ne</reg></mod> sais pas si veux<lb/>
+avoir un <mod type="corr"><orig>fiansée</orig><reg>fiancé</reg></mod>: OUI NON? <mod type="corr"><orig>Le<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>Le</reg></mod> <mod type="corr"><orig>jour<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>jour</reg></mod> <mod type="corr"><orig>lant</orig><reg>de l'an</reg></mod> je<lb/>
+ne travaille pas non plus <mod type="del" stage="" who=""><del>coa</del></mod> comme <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les<lb/>
+autres choses. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

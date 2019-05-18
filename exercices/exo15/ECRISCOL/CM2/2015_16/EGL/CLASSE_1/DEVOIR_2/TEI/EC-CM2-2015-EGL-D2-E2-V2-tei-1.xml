@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D2-E2-V2
+</head>
+<p>
+Tout à coup, la voiture avança, lentement, d'abord, ensuite de plus en plus vite<lb/>
+et les <mod type="corr"><orig>filletes</orig><reg>fillettes</reg></mod> se <mod type="corr"><orig>mete</orig><reg>mettent</reg></mod> à <mod type="corr"><orig>crille</orig><reg>crier</reg></mod> de plus en plus <mod type="corr"><orig>for</orig><reg>fort</reg></mod> ensuite une des<lb/>
+<mod type="corr"><orig>filletes</orig><reg>fillettes</reg></mod>, Natacha <mod type="corr"><orig>evite</orig><reg>évite</reg></mod> le mur puis elle <mod type="corr"><orig>arrêter</orig><reg>arrêtait</reg></mod> la voiture, la m<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>re<lb/>
+chercha la voiture, enfin elle <mod type="corr"><orig>truve</orig><reg>trouve</reg></mod> la voiture 10 <mod type="corr"><orig>metre</orig><reg>mètres</reg></mod> plus loin.<lb/>
+La mère demande aux <mod type="corr"><orig>fillet<mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">t</add></mod>es</orig><reg>fillettes</reg></mod> ce qu'il se passe quoi pour que la<lb/>
+voiture soit <mod type="del" stage="" who=""><del>X</del></mod>10 <mod type="corr"><orig>metres</orig><reg>mètres</reg></mod> plus loin. Les fillettes <mod type="corr"><orig>expliquez</orig><reg>expliquaient</reg></mod> à la mère qui est<lb/>
+<mod type="corr"><orig>toujour<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>toujours</reg></mod> <mod type="corr"><orig>inquieté</orig><reg>inquietée</reg></mod> parce que les filles <mod type="corr"><orig>aurait</orig><reg>auraient</reg></mod> pu se faire très mal. Elles<lb/>
+<mod type="corr"><orig>entrer</orig><reg>entraient</reg></mod> chez elles, la mère dit qu'elle ne vas plus jamais aller dans<lb/>
+ce magasin Les filles ont <mod type="corr"><orig>demande</orig><reg>demandé</reg></mod> à leur mère pourquoi telle y est §<lb/>
+
+<pb/>
+allée. La mère dit qu'elle <mod type="corr"><orig>féser</orig><reg>faisait</reg></mod> du <mod type="corr"><orig>servise</orig><reg>service</reg></mod> <mod type="corr"><orig>ospitalie</orig><reg>hospitalier</reg></mod>, et qu'elle <mod type="corr"><orig>avat</orig><reg>avait</reg></mod><lb/>
+<mod type="corr"><orig>commence</orig><reg>commencé</reg></mod> aujourd'hui <mod type="subst"><del><mod type="del" stage="" who=""><del>et</del></mod></del><add stage="" who="">,</add></mod> les filles ont dit qu'<mod type="corr"><orig>elle</orig><reg>elles</reg></mod> <mod type="corr"><orig>aller</orig><reg>allaient</reg></mod> l'<mod type="corr"><orig>édée</orig><reg>aider</reg></mod> dans le<lb/>
+travail, et la mère a <mod type="corr"><orig>accepete</orig><reg>accepté</reg></mod> <mod type="del" stage="" who=""><del>X#</del></mod> les filles <mod type="corr"><orig>étaites</orig><reg>étaient</reg></mod> <mod type="corr"><orig>contante</orig><reg>contentes</reg></mod> ensui<lb/>
+te <mod type="corr"><orig>elle</orig><reg>elles</reg></mod> ont dit qu'<mod type="corr"><orig>elle</orig><reg>elles</reg></mod> ne vont plus <mod type="corr"><orig>joue</orig><reg>jouer</reg></mod> avec la <mod type="corr"><orig>voitur</orig><reg>voiture</reg></mod> de leur<lb/>
+mère. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

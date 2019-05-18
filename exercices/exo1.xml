@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+<exercice>
+    
+    <!-- INFO PAGE -->
+    <infoPage>
+        <titrePage> exercice_1 </titrePage>
+    </infoPage>
+    
+    <!-- INFO EXO -->
+    <infoExo>
+        <titreExo> Exercice 1 : Vers une grammaire de document </titreExo>
+        <sousTitrePerso> De l'eau, de l'eau, de l'eau :-) </sousTitrePerso>
+    </infoExo>
+    
+    <!-- QUESTION+REP -->
+    <question index="1">
+        <bloc>
+            <titre> Consigne</titre>
+            <pathimage> ./exo1/c1.png </pathimage>
+        </bloc>
+        
+        <bloc>
+            <titre> Solution sous forme de graph</titre>
+            <pathimage> ./exo1/e1.png </pathimage>
+        </bloc>
+        <bloc>
+            <titre> Solution sous forme d'arbre XML </titre>
+            <pathimage> ./exo1/exo1.png </pathimage>
+            <pathimage> ./exo1/exo1_2.png </pathimage>
+        </bloc>
+        
+        
+    </question>
+
+</exercice>

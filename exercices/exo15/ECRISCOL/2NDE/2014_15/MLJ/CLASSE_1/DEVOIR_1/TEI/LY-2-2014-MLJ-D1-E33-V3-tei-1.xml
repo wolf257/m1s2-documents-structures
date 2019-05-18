@@ -1,0 +1,199 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E33-V3
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles, d'une obscurité et d'une<lb/>
+épaisseur noire, l'homme depuis un moment déjà marchait<lb/>
+quand il aperçut au loin la lumière d'un réverbère.<lb/>
+
+Il avançaitt d'un pas décidé afin de s'extraire<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> §<lb/>
+d'un pénombre envahissante le retenant prisonnier des<lb/>
+
+ténèbres de la nuit. Celui-ci semblait comme troublé par<lb/>
+
+cette lueur aveuglante, l'attirant de même que le<lb/>
+
+ferait un aimant. Il s'en approcha enfin, et, <lb/>
+
+savoura le réconfort que celle-ci pouvait lui offrir.<lb/>
+
+Il avait les mains glacées et les lèvres brulées par<lb/>
+
+le froid. Des <mod type="corr"><orig>taches</orig><reg>tâches</reg></mod> de <mod type="corr"><orig>rousseurs</orig><reg>rousseur</reg></mod> recouvraient son §<lb/>
+
+<pb/>
+visage jouissant de la jeunesse que les années<lb/>
+
+ne lui avaient pas encore volé. Sa chevelure<lb/>
+
+était legèrement ébourifé par l'air glacial<mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>submergant</orig><reg>submergeant</reg></mod><lb/>
+
+la ruelle. Son regard avait un caractère perçant,<lb/>
+
+inquiétant et intimidant Ce bleu de surcroit n'était<lb/>
+
+que beauté et volupté à l'état pur. Le<lb/>
+
+bellâtre s'asseya à terre et sortit d'une de ses<lb/>
+
+poches un petit récipient <mod type="corr"><orig>argente</orig><reg>argenté</reg></mod> à goulot<lb/>
+
+étroit. Il se met alors à lamper de liquide<lb/>
+
+contenu dans celui-ci. Il se pencha afin de refaire<lb/>
+
+son lacet. Les souliers du jeune homme semblaient<lb/>
+
+plus <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">qu</add></mod>'<mod type="corr"><orig>onereux</orig><reg>onéreux</reg></mod>. Celui-ci était vêtu d'un<lb/>
+
+imperméable noir recouvert de quelques filaments<lb/>
+
+dorés. Soudain, une automobile jallissa de<lb/>
+
+la pénombre enveloppant la route. Celle-ci<lb/>
+
+freina à la vue du jeune homme. Il se releva §<lb/>
+
+<pb/>
+d'un bond sec et ranga <mod type="corr"><orig>précipitament</orig><reg>précipitamment</reg></mod> sa<lb/>
+
+bouteille à l'intérieur de sa vente. Le véhicule était<lb/>
+
+conduit par une femme portant une jolie paire de<lb/>
+
+<mod type="corr"><orig>lunette</orig><reg>lunettes</reg></mod> de soleil. Elle lui demanda de "grimper"<lb/>
+
+dans la voiture. Il refusa d'un ton trés agressif<lb/>
+
+ne réflétant pas sa personnalité du jeune homme<lb/>
+
+de nature calme. Son comportement était plus qu'en<lb/>
+
+contradiction avec son caractère extrêmement enjouis.<lb/>
+
+Son ton était aussi froid et <mod type="corr"><orig>penible</orig><reg>pénible</reg></mod> que le vent<lb/>
+
+glacial de la nuit. La femme répéta la même<lb/>
+
+phrase avec plus s'aplomb. Il accepta finalement<lb/>
+
+de monter. Le véhicule l'arracha enfin au froid<lb/>
+
+condamnant les âmes en peine n'ayant <mod type="corr"><orig>trouvés</orig><reg>trouvé</reg></mod><lb/>
+
+refuge. Un grognement sortit de la bouche du<lb/>
+
+garçon. La conductrice le <mod type="corr"><orig>gr<mod type="del" stage="" who=""><del>XXX#</del></mod>onda</orig><reg>gronda</reg></mod> tel un enfant<lb/>
+
+qui aurait désobéis. Il <mod type="corr"><orig>acciésa</orig><reg>acquiesça</reg></mod> sans problème §<lb/>
+
+<pb/>
+sans problème ce qu'elle lui disait une<lb/>
+
+sorte de rapport de force s'installa entre<lb/>
+
+la deux personnages. Le jeune homme retira sa<lb/>
+
+veste et s'en servit de couverture. Il s'endormit<lb/>
+
+tomba de fatigue à l'arrière de la voiture. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

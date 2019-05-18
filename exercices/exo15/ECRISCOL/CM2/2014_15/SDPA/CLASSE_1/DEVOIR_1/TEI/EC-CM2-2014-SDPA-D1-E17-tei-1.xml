@@ -1,0 +1,126 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E17
+</head>
+<p>
+<pb/>
+
+Tous les élèves s'<mod type="corr"><orig>afolèrent</orig><reg>affolèrent</reg></mod> et les préfets <mod type="corr"><orig>em<mod type="add" stage="" who=""><add>m</add></mod>enèrent</orig><reg>emmenèrent</reg></mod> les <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>afolés</orig><reg>affolés</reg></mod><lb/>
+dans les <mod type="corr"><orig>dortoires</orig><reg>dortoirs</reg></mod>. Harry et Ron se couchèrent dans leur lit<lb/>
+une fois <mod type="corr"><orig>arrivé</orig><reg>arrivés</reg></mod> au <mod type="corr"><orig>dortoire</orig><reg>dortoir</reg></mod> ! Quand <mod type="corr"><orig>soudaint</orig><reg>soudain</reg></mod> Ron se leva en<lb/>
+<mod type="corr"><orig>surssot</orig><reg>sursaut</reg></mod> Harry le <mod type="corr"><orig>regardat</orig><reg>regarda</reg></mod> et comprit ce que Ron <mod type="corr"><orig>voulé</orig><reg>voulait</reg></mod> <mod type="corr"><orig>dir</orig><reg>dire</reg></mod>.<lb/>
+Tous deux enfilèrent la cape d'invisibilité et <mod type="corr"><orig>partir</orig><reg>partirent</reg></mod> en <mod type="corr"><orig>courent</orig><reg>courant</reg></mod>.<lb/>
+Ils avaient oublié Hermione Granger qui <mod type="subst"><del><mod type="del" stage="" who=""><del>était</del></mod></del><add stage="" who="">pleurait</add></mod> dans les <mod type="corr"><orig>toilèttes</orig><reg>toilettes</reg></mod><lb/>
+des filles. Le <mod type="corr"><orig>trol</orig><reg>troll</reg></mod> était un <mod type="corr"><orig>tadulte</orig><reg>adulte</reg></mod>, avec son <mod type="corr"><orig>gourdint</orig><reg>gourdin</reg></mod> énorme.<lb/>
+Les <mod type="corr"><orig>profésseures</orig><reg>professeurs</reg></mod> étaient <mod type="corr"><orig>parti</orig><reg>partis</reg></mod> du côté des cachots mais ils<lb/>
+s'étaient tous <mod type="corr"><orig>trompé</orig><reg>trompés</reg></mod>. Le <mod type="corr"><orig>trol</orig><reg>troll</reg></mod> était <mod type="del" stage="" who=""><del>lelle</del></mod> <mod type="corr"><orig>belle</orig><reg>bel</reg></mod> et bien dans<lb/>
+le couloir qui menait <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>toillètte</orig><reg>toilettes</reg></mod> des filles. Hermione qui §<lb/>
+
+<pb/>
+avait <mod type="corr"><orig><mod type="add" stage="" who=""><add>céssait</add></mod></orig><reg>cessé</reg></mod> de <mod type="corr"><orig>pleuré</orig><reg>pleurer</reg></mod> <mod type="corr"><orig>sorti</orig><reg>sortit</reg></mod> des toilettes se dirigea <mod type="corr"><orig>maleuresement</orig><reg>malheureusement</reg></mod> <mod type="corr"><orig>vèrt</orig><reg>vers</reg></mod><lb/>
+le <mod type="corr"><orig>trol</orig><reg>troll</reg></mod>. Harry et Ron, en la voyant se <mod type="corr"><orig>dirigèrent</orig><reg>diriger</reg></mod> <mod type="corr"><orig>vert</orig><reg>vers</reg></mod> elle.<lb/>
+Harry <mod type="del" stage="" who=""><del>sotat</del></mod> la <mod type="corr"><orig>tirat</orig><reg>tira</reg></mod> en arrière pour que le <mod type="corr"><orig>trol</orig><reg>troll</reg></mod> ne les <mod type="corr"><orig>voyent</orig><reg>voyait</reg></mod> pas!<lb/>
+Ils <mod type="corr"><orig>retournirent</orig><reg>retournèrent</reg></mod> tous trois à la salle commune ou Percy les<lb/>
+<mod type="corr"><orig>attender</orig><reg>attandait</reg></mod> avec une <mod type="corr"><orig>drol</orig><reg>drôle</reg></mod> de mine. Harry, Ron et Hermione étaient<lb/>
+au <mod type="corr"><orig>courent</orig><reg>courant</reg></mod> que s'était très mal d'avoir fait ça mais très<lb/>
+courageux de la part d'Harry <mod type="add" stage="" who=""><add>Harry</add></mod> et Ron ! Mais Percy était bien<lb/>
+<mod type="corr"><orig>aubliger</orig><reg>obligé</reg></mod> de <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> révéler au <mod type="corr"><orig>Profésseur</orig><reg>Professeur</reg></mod> Mac Gonagall.<lb/>
+Tous quatre <mod type="corr"><orig>saver</orig><reg>savaient</reg></mod> que cela leur <mod type="corr"><orig>couterer</orig><reg>coûterait</reg></mod> des points ! §<lb/>
+
+Fin §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

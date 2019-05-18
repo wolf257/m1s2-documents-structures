@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E6
+</head>
+<p>
+Moi E n je me <mod type="corr"><orig>léve</orig><reg>lève</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="" who="">c</add></mod>omme</orig><reg>comme</reg></mod> d'habitude<lb/>
+à <mod type="del" stage="" who=""><del>8</del></mod>h00 <mod type="corr"><orig>des</orig><reg>dès</reg></mod> le matin <mod type="subst"><del><mod type="del" stage="" who=""><del>che</del></mod></del><add stage="" who="">je</add></mod> vais au travail voir<lb/>
+si tout est <mod type="corr"><orig>prèt</orig><reg>prêt</reg></mod> pour la mise en <mod type="corr"><orig><mod type="add" stage="" who=""><add>ventant</add></mod></orig><reg>vente</reg></mod> quand j'arrive<lb/>
+à 8h48 il manque 2 <mod type="corr"><orig>croissant</orig><reg>croissants</reg></mod> 5 <mod type="corr"><orig>pain</orig><reg>pains</reg></mod> au chocolat<lb/>
+et un gâteau à la <mod type="corr"><orig>cerisse</orig><reg>cerise</reg></mod> mon <mod type="del" stage="" who=""><del>au</del></mod> <mod type="corr"><orig>empoiyer</orig><reg>employé</reg></mod> <mod type="corr"><orig>inès</orig><reg>Inès</reg></mod> est<lb/>
+malade Donc je <mod type="corr"><orig>fai<mod type="subst"><del><mod type="del" stage="" who=""><del>t</del></mod></del><add stage="" who="">s</add></mod></orig><reg>fais</reg></mod> le <mod type="corr"><orig>consta<mod type="del" stage="" who=""><del>te et je</del></mod></orig><reg>constat</reg></mod> <mod type="add" stage="" who=""><add>que je dois</add></mod> me <mod type="subst"><del><mod type="del" stage="" who=""><del>mes</del></mod></del><add stage="" who="">mettre</add></mod> au travail<lb/>
+je constate que <mod type="corr"><orig>ont</orig><reg>on</reg></mod> ne peut pas ouvrir <mod type="corr"><orig>j'usqu'à</orig><reg>jusqu'à</reg></mod><lb/>
+au <mod type="corr"><orig>moin</orig><reg>moins</reg></mod> demain. Je <mod type="corr"><orig>vient</orig><reg>viens</reg></mod> de finir tout 14h00. Après<lb/>
+on joue un jeu sur la ps7 FIFA30 je lui <mod type="corr"><orig>et</orig><reg>ai</reg></mod> mis 3 à 0<lb/>
+après je <mod type="corr"><orig>repart</orig><reg>repars</reg></mod>. 16h30 je vais voir mon <mod type="corr"><orig>employer</orig><reg>employé</reg></mod> si tout va bien<lb/>
+quand je <mod type="corr"><orig>part</orig><reg>pars</reg></mod> à 17h30 je reviens chez moi je joue avec<lb/>
+mon chien juniors. 18h00 je mange <mod type="corr"><orig>aricot</orig><reg>haricots</reg></mod> <mod type="corr"><orig>vert</orig><reg>verts</reg></mod> en plat et en<lb/>
+<mod type="corr"><orig>desert</orig><reg>dessert</reg></mod> îles <mod type="corr"><orig>flotante</orig><reg>flottantes</reg></mod>. 20h00 je vais au <mod type="del" stage="" who=""><del>se</del></mod> cinéma voir star wars<lb/>
+le 21. <mod type="corr"><orig>revenue</orig><reg>Revenue</reg></mod> chez moi à 22h00 je vais me coucher pour<lb/>
+me réveiller à 8h00. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

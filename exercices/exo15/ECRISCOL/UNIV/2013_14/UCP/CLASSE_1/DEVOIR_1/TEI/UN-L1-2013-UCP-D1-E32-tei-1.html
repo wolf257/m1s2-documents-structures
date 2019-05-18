@@ -1,0 +1,37 @@
+<html>
+<head>
+<script src='../../../../../../../zoomphoto/jquery-1.8.3.min.js'></script>
+<script src='../../../../../../../zoomphoto/jquery.elevatezoom.js'></script>
+<script language="javascript" type="text/javascript" src="../../../../../../../xslt.js-3.2/jquery.xslt.js"></script>
+<script language="javascript" type="text/javascript" src="../../../../../../../xslt.js-3.2/xslt.js"></script>
+<link rel="stylesheet" href="../../../../../../../style.css" type="text/css" media="screen" />
+<meta charset="utf-8">
+</head>
+
+<body>
+<div id="entete"><span style="color:#3399ff">ECRISCOL : copie format TEI</span></div>
+<div id="metadonnees1"><h3>M&eacute;tadonn&eacute;es COPIE-EL&Egrave;VE <input type=button name=type id='bttMeta1' value='+' onclick="DisplayOrShowMeta1();"/></h3><div class="param" id="Parametersmetadonnees1" style="display:none"></div></div>
+<div id="metadonnees2"><h3>M&eacute;tadonn&eacute;es DEVOIR <input type=button name=type id='bttMeta2' value='+' onclick="DisplayOrShowMeta2();"/></h3><div class="param" id="Parametersmetadonnees2" style="display:none"></div></div>
+<div id="metadonnees3"><h3>M&eacute;tadonn&eacute;es &Eacute;COLE <input type=button name=type id='bttMeta3' value='+' onclick="DisplayOrShowMeta3();"/></h3><div class="param" id="Parametersmetadonnees3" style="display:none"></div></div><br/>
+<div id="Global">
+<div id="placeholderMANUSCRIT"><small><span style="background-color:#ffffcc">(zoom sur la copie en d&eacute;pla&ccedil;ant le curseur de votre souris)</span></small><br/><br/><img id="manu1" src="../MANUSCRITS_ANONYMES/UN-L1-2013-UCP-D1-E32.jpg" data-zoom-image="../MANUSCRITS_ANONYMES/UN-L1-2013-UCP-D1-E32.jpg" width="80%"/></div><div id="placeholderTEI"></div><p>&nbsp;</p></div>
+<script type="text/javascript">
+window.onload = function() {
+    new Transformation().setXml("UN-L1-2013-UCP-D1-E32-tei-1.xml")
+        .setXslt("operations.xsl").transform("placeholderTEI");
+new Transformation().setXml("../METADONNEES/UN-L1-2013-UCP-D1-E32.xml").setXslt("../METADONNEES/displaymetadata1.xsl").transform("Parametersmetadonnees1");
+new Transformation().setXml("../METADONNEES/UN-L1-2013-UCP-D1.xml").setXslt("../METADONNEES/displaymetadata2.xsl").transform("Parametersmetadonnees2");
+new Transformation().setXml("../METADONNEES/UN-L1-2013-UCPxml").setXslt("../METADONNEES/displaymetadata3.xsl").transform("Parametersmetadonnees3");
+}
+		$("#manu1").elevateZoom({
+            zoomWindowWidth:700,
+            zoomWindowHeight:200
+		});
+		
+</script>
+<script language="javascript" type="text/javascript" src="../../../../../../../operations-buttons.js"></script>
+<script language="javascript" type="text/javascript" src="../../../../../../../buttonsMetadonnees.js"></script>
+
+<div id="footer"><a href="http://www.univ-paris3.fr/ecriscol"><span style="color:#3399ff">ECRISCOL</span></a>&nbsp;|&nbsp;CLESTHIA, Universit&eacute; Paris 3 Sorbonne Nouvelle</div>
+</body>
+</html>

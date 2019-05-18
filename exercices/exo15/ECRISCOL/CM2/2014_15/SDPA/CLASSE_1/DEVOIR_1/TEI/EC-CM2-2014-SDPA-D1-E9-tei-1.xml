@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E9
+</head>
+<p>
+<pb/>
+
+Il y avait un troll tout <mod type="corr"><orig>verte</orig><reg>vert</reg></mod> <mod type="del" stage="" who=""><del>Il</del></mod> il a un<lb/> 
+gourdin, il rentre dans le <mod type="corr"><orig>chateau</orig><reg>château</reg></mod> il casse <mod type="corr"><orig>tou</orig><reg>tout</reg></mod>,<lb/>
+il a vu <mod type="corr"><orig>hermione</orig><reg>Hermione</reg></mod> sortir des <mod type="corr"><orig>toillete</orig><reg>toilettes</reg></mod> des <mod type="corr"><orig>fille</orig><reg>filles</reg></mod>,<lb/>
+elle entend un bruit elle tourne sa tête <mod type="corr"><orig>vert</orig><reg>vers</reg></mod> le<lb/>
+troll, elle est <mod type="corr"><orig>suprie</orig><reg>surprise</reg></mod> elle, <mod type="corr"><orig>cour</orig><reg>court</reg></mod> en <mod type="corr"><orig>disan</orig><reg>disant</reg></mod> au secours<lb/>
+le <mod type="corr"><orig>troll<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>troll</reg></mod> <mod type="del" stage="" who=""><del>Harry sorti de la salle. le</del></mod> est <mod type="corr"><orig>derrier</orig><reg>derrière</reg></mod> elle.<lb/>
+Harry sort de la salle <mod type="del" stage="" who=""><del>elle</del></mod> et voit le <mod type="corr"><orig>trolls</orig><reg>troll</reg></mod> il<lb/>
+<mod type="corr"><orig>prefaire</orig><reg>préfère</reg></mod> <mod type="corr"><orig>rentre</orig><reg>rentrer</reg></mod> dans la salle <mod type="corr"><orig>est</orig><reg>et</reg></mod> il previent<lb/>
+les <mod type="corr"><orig>autre</orig><reg>autres</reg></mod>, et <mod type="corr"><orig>hermione</orig><reg>Hermione</reg></mod> tourne et rentre dans<lb/>
+la salle elle dit il y a un <mod type="corr"><orig>trolle</orig><reg>troll</reg></mod>, et il <mod type="corr"><orig>sortes</orig><reg>sort</reg></mod><lb/>
+
+<pb/>
+par la porte de <mod type="corr"><orig>secout</orig><reg>secours</reg></mod>, <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> ce qui est doué <mod type="corr"><orig>a</orig><reg>à</reg></mod> la<lb/>
+magie reste <mod type="corr"><orig>dan</orig><reg>dans</reg></mod> la salle, et il y a de plus de troll,<lb/> 
+il <mod type="subst"><del><mod type="del" stage="" who=""><del>sans</del></mod></del><add stage="" who="">en</add></mod> entoure le <mod type="corr"><orig>chateau</orig><reg>château</reg></mod>. Ils <mod type="corr"><orig>sons</orig><reg>sont</reg></mod> <mod type="corr"><orig>touse</orig><reg>tous</reg></mod> <mod type="corr"><orig>efriyè</orig><reg>effrayés</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod><lb/>
+<mod type="corr"><orig>prend</orig><reg>prenent</reg></mod> <mod type="corr"><orig>touse</orig><reg>tous</reg></mod> <mod type="del" stage="" who=""><del>des</del></mod> un balai <mod type="corr"><orig>chaquei</orig><reg>chacun</reg></mod> et <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>vole</orig><reg>volent</reg></mod> <mod type="corr"><orig>poudlard</orig><reg>Poudlard</reg></mod><lb/>
+a <mod type="corr"><orig>etait</orig><reg>été</reg></mod> <mod type="corr"><orig>détrue</orig><reg>détruit</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

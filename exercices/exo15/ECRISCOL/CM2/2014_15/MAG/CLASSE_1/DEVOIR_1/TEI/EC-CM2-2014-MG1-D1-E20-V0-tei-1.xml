@@ -1,0 +1,130 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E20-V0
+</head>
+<p>
+L'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> est parti <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> Denise NON!!! #XXX# pas pas ma<lb/>
+vie. Où vas-tu. §<lb/>
+-A la recherche de l'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod>. §<lb/>
+ §<lb/>
+Alors que Lili est partie à la recherche de l'oncle<lb/>
+<mod type="corr"><orig>jo</orig><reg>Jo</reg></mod>. Je vais aller voir au pôle emploi dit Lili. Alors<lb/>
+Lili une fois <mod type="corr"><orig>arrivé</orig><reg>arrivée</reg></mod> devant le pôle emploi de<lb/>
+St Denis §<lb/>
+-OUWWWW!!! Lili dit j'en ai du boulot il<lb/>
+est énorme!!! Mais quelque chose tracasse Lili<lb/>
+elle pense que L'oncle Jo a été <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>qu</del></mod></del><add stage="" who="P">K</add></mod>idnapé</orig><reg>kidnappé</reg></mod> Bon elle<lb/>
+entre et commence à <mod type="corr"><orig>demand<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">r</add></mod></orig><reg>demander</reg></mod> à la sécurité<lb/>
+-<mod type="corr"><orig>excu<mod type="del" stage="" who="P"><del>se</del></mod>sez moi</orig><reg>excusez-moi</reg></mod> vous n'auriez pas vu un<lb/>
+vieux monsieur? §<lb/>
+-Non <mod type="corr"><orig>excusez moi</orig><reg>excusez-moi</reg></mod> jeune fille". Lili a<lb/>
+demandé à tout le monde même <mod type="subst"><del><mod type="del" stage="" who="P"><del>se</del></mod></del><add stage="" who="P">à ceux</add></mod> qui<lb/>
+<mod type="corr"><orig>recherche<mod type="add" stage="" who="P"><add>nt</add></mod></orig><reg>recherchent</reg></mod> des employés. Lili est <mod type="corr"><orig>fatigué</orig><reg>fatiguée</reg></mod> elle<lb/>
+<mod type="corr"><orig>d<mod type="del" stage="" who="P"><del>és</del></mod>cide</orig><reg>décide</reg></mod> de <mod type="corr"><orig>rentr<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">r.</add></mod></orig><reg>rentrer.</reg></mod> §<lb/>
+ §<lb/>
+Je n'ai pas trouvé l'oncle Jo bon ma<lb/>
+vie on va manger un petit <mod type="corr"><orig>quel<mod type="add" stage="" who="P"><add>l</add></mod>que</orig><reg>quelque</reg></mod> chose<lb/>
+SNIF SIF. Après avoir <mod type="corr"><orig>manger</orig><reg>mangé</reg></mod> en <mod type="corr"><orig>4ème</orig><reg>quatrième</reg></mod> <mod type="corr"><orig>vit<mod type="del" stage="" who="P"><del>t</del></mod>esse</orig><reg>vitesse</reg></mod>,<lb/>
+-Je vais aller voir le meilleur <mod type="corr"><orig>ami<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>ami</reg></mod> de<lb/>
+Jo. §<lb/>
+-Bisous ne te fais pas mal ma vie. §<lb/>
+ §<lb/>
+Alors je vais aller au garage voir Jean-<mod type="corr"><orig>Jack</orig><reg>Jacques</reg></mod>.<lb/>
+-Bonjour Jean-<mod type="corr"><orig>Jack</orig><reg>Jacques</reg></mod> je suis Lili la <mod type="corr"><orig>niës</orig><reg>nièce</reg></mod> de <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod><lb/>
+<mod type="corr"><orig>est ce que</orig><reg>est-ce que</reg></mod> tu l'<mod type="corr"><orig>a</orig><reg>as</reg></mod> <mod type="corr"><orig>vue</orig><reg>vu</reg></mod> <mod type="add" stage="" who="P"><add>?</add></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

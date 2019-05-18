@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E14-V1
+</head>
+<p>
+Il <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="T2" who=""><del>e</del></mod></del><add stage="T2" who="">é</add></mod>tait</hi></orig><reg>était</reg></mod> une fois un <hi place=" " time="" who="Pσ" style="underline">garçon</hi> qui <hi place=" " time="" who="Pσ" style="underline">allait</hi> à l'école en<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ammenant</hi></orig><reg>amenant</reg></mod> sa toupie chinoise. Et par mégarde il
+l'oublia dans la rue. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>i</del></mod></del><add stage="" who="">E</add></mod>nf<hi place=" " time="" who="Pσ" style="underline">a</hi><mod type="add" stage="T2" who=""><add>i</add></mod>n</orig><reg>Enfin</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> l'école <mod type="corr"><orig>Anne -<hi place=" " time="" who="Pσ" style="underline">l</hi><mod type="add" stage="T2" who=""><add>L</add></mod>ise</orig><reg>Anne-Lise</reg></mod><lb/>
+lui demanda <hi place=" " time="" who="Pσ" style="underline">,</hi> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">t</hi><mod type="add" stage="T2" who=""><add>T</add></mod>u</orig><reg>tu</reg></mod> as perdu quelque chose? <mod type="corr"><orig>O<hi place=" " time="" who="Pσ" style="underline">u</hi><mod type="del" stage="" who="P"><del>ù</del></mod></orig><reg>Oui</reg></mod> ma toupie <lb/>
+chinoise sur le chemin de l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">e</hi><mod type="add" stage="T2" who=""><add>é</add></mod>cole</orig><reg>école</reg></mod>. Bon, <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">vien</hi></orig><reg>viens</reg></mod>, je <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">vai</hi></orig><reg>vais</reg></mod><lb/>
+<mod type="corr"><orig>tainené</orig><reg>t'amener</reg></mod> <mod type="corr"><orig><mod type="add" stage="" who="P"><add>t'emmener</add></mod></orig><reg>t'amener</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ché</hi></orig><reg>chez</reg></mod> le gardien de <mod type="corr"><orig>l<mod type="del" stage="" who="P"><del>ò</del></mod></orig><reg>l '</reg></mod> oubli. <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">Vien</hi></orig><reg>Viens</reg></mod> <hi place=" " time="" who="Pσ" style="underline">dit</hi> le <mod type="corr"><orig>magi<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">c</add></mod>ien</orig><reg>magicien</reg></mod> <lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">longten</hi></orig><reg>longtemps</reg></mod> dans <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">lépase</hi></orig><reg>l'espace</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>5</del></mod></del><add stage="" who="P">Cinq</add></mod></orig><reg>Cinq</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">minut</hi></orig><reg>minutes</reg></mod> plus <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">tar</hi></orig><reg>tard</reg></mod> il la <mod type="corr"><orig><mod type="del" stage="" who=""><del>reng</del></mod></orig><reg>rend</reg></mod> <lb/>
+retrouva et <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">dis</hi></orig><reg>dit</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">merssi</hi></orig><reg>merci</reg></mod> au <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">magisien</hi></orig><reg>magicien</reg></mod> et rentra <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ché</hi></orig><reg>chez</reg></mod> <lb/>
+lui. §<lb/>
+Fin §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

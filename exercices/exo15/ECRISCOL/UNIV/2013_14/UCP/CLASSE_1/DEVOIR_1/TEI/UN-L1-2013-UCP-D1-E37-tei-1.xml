@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>UN-L1-2013-UCP-D1-E37
+</head>
+<p>
+Suite aux paroles de Julien, le maire resta bouche <mod type="corr"><orig>bé</orig><reg>bée</reg></mod>, en
+admiration. Il fut étonné et <mod type="corr"><orig>surpri</orig><reg>surpris</reg></mod> de la profondeur
+des paroles de l'ancien ouvrier agricole. De même,
+le patron de Julien était <mod type="corr"><orig>impressioné</orig><reg>impressionné</reg></mod>. Les deux
+hommes semblaient <mod type="corr"><orig>perdu</orig><reg>perdus</reg></mod>. Ils ne comprenaient pas
+le rapprochement entre la semence, matière aussi
+banale et ordinaire et les morts, sujet sensible et
+sacré. En revanche, pour Julien tout était clair. La
+mort de son père était partout. Elle lui était omniprésen#X#<lb/>
+Tout avait un lien avec les morts. La mort lui envahissai#X#<lb/>
+Julien n'était plus le même. Il se sentait seul, abandonné
+et isolé. Cependant, lorsqu'il travaillait, il était dans son élém #XXX#
+il était heureux car il pensait avoir un contact avec
+celui qui comptait le plus à ses yeux: son père. Par la
+suite, son patron, le maire son extérieur ne le
+regardaient plus de la même façon. Il n'était ni
+l'ancien ouvrier agricole de bas étage ni un fossoyeur
+ordinaire, il était <mod type="corr"><orig>desormais</orig><reg>désormais</reg></mod> Julien. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

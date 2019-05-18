@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E2-V1
+</head>
+<p>
+<pb/>
+
+J'ai poussé mon petit frère dans un lac tout habillé, avec sa <mod type="corr"><orig>trotinnette</orig><reg>trottinette</reg></mod>,<lb/>
+<mod type="del" stage="" who=""><del>sa a bien fait rire</del></mod> en plein<mod type="del" stage="" who=""><del>X#</del></mod> <mod type="del" stage="" who=""><del>moi d</del></mod> automne, l'eau était<lb/>
+<mod type="corr"><orig>gelé</orig><reg>gelée</reg></mod>. Et quand j'ai <mod type="corr"><orig>raconte</orig><reg>raconté</reg></mod> ça à la classe mes <mod type="corr"><orig>copins</orig><reg>copains</reg></mod><lb/>
+ont bien rigolé, mais j'ai <mod type="corr"><orig>commum</orig><reg>quand même</reg></mod> <mod type="corr"><orig>eû</orig><reg>eu</reg></mod> 6,5/10. Alors<lb/>
+je me suis dit que c'était à moi de me <mod type="corr"><orig>blaissé</orig><reg>blesser</reg></mod>, en<lb/>
+faisant que des <mod type="corr"><orig>truc</orig><reg>trucs</reg></mod> assez dangereux <mod type="add" stage="T2" who=""><add>sans que je me rends compte ou pas</add></mod> <mod type="del" stage="" who=""><del>J'ai</del></mod><lb/>
+Ma mère m'avait dit de rester en dehors de la<lb/>
+cuisine, <mod type="del" stage="" who=""><del>m</del></mod> pendant <mod type="corr"><orig>quelle</orig><reg>qu'elle</reg></mod> <mod type="corr"><orig>sortai</orig><reg>sortait</reg></mod> la plaque de <mod type="corr"><orig>coukies</orig><reg>cookies</reg></mod>,<lb/>
+mais je ne l'ai pas <mod type="corr"><orig>écouté</orig><reg>écoutée</reg></mod>...je suis passé devant<lb/>
+elle et elle a <mod type="corr"><orig>sursoté</orig><reg>sursauté</reg></mod> alors je me suis <mod type="corr"><orig>prie</orig><reg>pris</reg></mod> la plaque<lb/>
+<mod type="corr"><orig>brulant</orig><reg>brûlante</reg></mod> sur la figure <mod type="add" stage="T2" who=""><add>avec tous les <mod type="corr"><orig>coukies</orig><reg>cookies</reg></mod></add></mod>. Après <mod type="del" stage="" who=""><del>elle</del></mod> <mod type="add" stage="" who=""><add>on</add></mod> a invité mes<lb/>
+copains <mod type="corr"><orig>a</orig><reg>au</reg></mod> <mod type="corr"><orig>gouter</orig><reg>goûter</reg></mod>, ma mère a fait un <mod type="corr"><orig>gateau</orig><reg>gâteau</reg></mod> au<lb/>
+chocolat qui était posé sur la table à manger avec<lb/>
+le couteau mal positionné sur la table. Je suis<lb/>
+passé à <mod type="corr"><orig>coté</orig><reg>côté</reg></mod> puis je me suis pris le couteau dans<lb/>
+le ventre, on est vite <mod type="corr"><orig>allez</orig><reg>allés</reg></mod> à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod> pour me<lb/>
+recoudre. <mod type="corr"><orig>et</orig><reg>Et</reg></mod> le lendemain matin<mod type="del" stage="" who=""><del>X#</del></mod> on <mod type="corr"><orig>prenner</orig><reg>prenait</reg></mod> le petit<lb/>
+déjeuner tous ensemble <mod type="del" stage="T2" who=""><del>...</del></mod> Ma soeur <mod type="corr"><orig>vennez</orig><reg>venait</reg></mod> de <mod type="corr"><orig>posé</orig><reg>poser</reg></mod> son<lb/>
+café sur la table bancale <mod type="corr"><orig>alor</orig><reg>alors</reg></mod> le café s'est renversé sur moi. §<lb/>
+
+<pb/>
+
+<mod type="corr"><orig>j</orig><reg>J</reg></mod>'ai hurlé comme je ne l'<mod type="corr"><orig>avait</orig><reg>avais</reg></mod> jamais fait, mon père <mod type="add" stage="" who=""><add>a</add></mod> vite enlevé<lb/>
+mon pantalon, ma peau s'est <mod type="corr"><orig>enlevé</orig><reg>enlevée</reg></mod> <mod type="del" stage="" who=""><del>l</del></mod> avec...<mod type="del" stage="" who=""><del>tje vous laisse</del></mod> <mod type="add" stage="" who=""><add>imaginer la suite</add></mod> Et cette<lb/>
+fois là, enfin j'ai <mod type="corr"><orig>eû</orig><reg>eu</reg></mod> 10/10 à ma rédaction. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+<exercice>
+    
+    <infoPage>
+        <titrePage> exercice_16 </titrePage>
+    </infoPage>
+    
+    <infoExo>
+        <titreExo> Exercice 16 : Dictionnaire </titreExo>
+        <sousTitrePerso> Terminons en beauté. </sousTitrePerso>
+    </infoExo>
+    
+    <!--  =============================  -->
+    <question index="1">
+        
+        <bloc>
+            <titre> Consigne </titre>
+            <commentaire>
+                <ligne> NB : Comme toujours, pour éviter de manipuler le gros fichier, nous en avons extrait les 5000 premières lignes que nous avons mis dans un fichier du même nom, mais précédé de 'test-'. </ligne>
+                <ligne> Les résultats sont donc à l'échelle. </ligne>
+            </commentaire>
+            
+            <pathimage> ./exo16/c1.png </pathimage>
+
+        </bloc>
+        
+        <bloc>
+            <titre> Solutions </titre>
+<!--            <pathimage> ./exo16/phase1-xpath/s1.png </pathimage>-->
+            <pathimage> ./exo16/phase1-xpath/s1_alt.png </pathimage>
+<!--            <pathimage> ./exo16/phase1-xpath/s2.png </pathimage>-->
+            <pathimage> ./exo16/phase1-xpath/s2_alt.png </pathimage>
+        </bloc>
+       
+        
+    </question>
+
+    <!--  =============================  -->
+    <question index="2">
+        
+        <bloc>
+            <titre> Consigne </titre>
+            
+            <pathimage> ./exo16/c2.png </pathimage>
+            
+        </bloc>
+        
+        <bloc>
+            <titre> Solutions </titre>
+            
+            <tableau>
+                <ligne_t index="Résultats ">
+                    <colonne lien="./exo16/phase2-xslt/resultats-q1-sur-ficBase.xml"> q1 </colonne>
+                    <colonne lien="./exo16/phase2-xslt/xquery/resultats-q2-sur-ficBase.txt"> q2 </colonne>
+                </ligne_t>
+                <ligne_t index="Code Source">
+                    <colonne lien="./exo16/phase2-xslt/q1.xsl"> q1 </colonne>
+                    <colonne lien="./exo16/phase2-xslt/q2.xsl"> q2 </colonne>
+
+                </ligne_t>
+                
+            </tableau>
+            
+        </bloc>
+        
+    </question>
+    
+    
+    <!--  =============================  -->
+    <question index="3">
+        
+        <bloc>
+            <titre> Consigne </titre>
+            
+            <pathimage> ./exo16/c3.png </pathimage>
+            
+        </bloc>
+        
+        <bloc>
+            <titre> Solutions </titre>
+            <pathimage> ./exo16/phase3-xquery/s1.png </pathimage>
+            <pathimage> ./exo16/phase3-xquery/s1_alt.png </pathimage>
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo16/exo16.zip </pathZip>
+        </code>
+        
+    </question>
+    
+</exercice>

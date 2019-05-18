@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E15
+</head>
+<p>
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> me <mod type="corr"><orig>laive</orig><reg>lève</reg></mod> je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> mon petit <mod type="corr"><orig>déjené</orig><reg>déjeuner</reg></mod><lb/>
+je <mod type="corr"><orig>mabille</orig><reg>m'habille</reg></mod> et je <mod type="corr"><orig>vés</orig><reg>vais</reg></mod> <mod type="corr"><orig>allés</orig><reg>aller</reg></mod> <mod type="corr"><orig>travaillés</orig><reg>travailler</reg></mod> je suis<lb/>
+<mod type="corr"><orig>arivés</orig><reg>arrivé</reg></mod> et quand <mod type="corr"><orig>jarive</orig><reg>j'arrive</reg></mod> dans <mod type="corr"><orig>mons</orig><reg>mon</reg></mod> <mod type="corr"><orig>buraus</orig><reg>bureau</reg></mod><lb/>
+je <mod type="corr"><orig>resois</orig><reg>reçois</reg></mod> un <mod type="corr"><orig>apéles</orig><reg>appel</reg></mod> et la <mod type="corr"><orig>pérsonnes</orig><reg>personne</reg></mod> que j'<mod type="corr"><orig>appélles</orig><reg>appelle</reg></mod><lb/>
+<mod type="corr"><orig>sés</orig><reg>c'est</reg></mod> <mod type="corr"><orig>louis</orig><reg>Louis</reg></mod> <mod type="corr"><orig>mons</orig><reg>mon</reg></mod> <mod type="corr"><orig>copains</orig><reg>copain</reg></mod> qui me dis "<mod type="corr"><orig>jès</orig><reg>j'ai</reg></mod><lb/>
+des soucis." §<lb/>
+ §<lb/>
+La <mod type="corr"><orig>mamans</orig><reg>maman</reg></mod> de ton <mod type="corr"><orig>filis</orig><reg>fils</reg></mod> <mod type="corr"><orig>mas</orig><reg>m'a</reg></mod> <mod type="corr"><orig>applés</orig><reg>appelé</reg></mod> <mod type="corr"><orig>pourdire</orig><reg>pour dire</reg></mod> "<mod type="corr"><orig>jés</orig><reg>j'ai</reg></mod><lb/>
+<mod type="corr"><orig>besoins</orig><reg>besoin</reg></mod> de toi" et elle <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="corr"><orig>applés</orig><reg>appelé</reg></mod> <mod type="corr"><orig>parceques</orig><reg>parce que</reg></mod>,<lb/>
+elle <mod type="corr"><orig>arrivés</orig><reg>arrivait</reg></mod> pas à t'<mod type="corr"><orig>applés</orig><reg>t'appeler</reg></mod> elle <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> <mod type="corr"><orig>quie<mod type="del" stage="" who=""><del>er</del></mod></orig><reg>qui est</reg></mod> malade<lb/>
+il faut tu <mod type="corr"><orig>réste</orig><reg>restes</reg></mod> chez toi. §<lb/>
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> rentre chez moi il <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>malades</orig><reg>malade</reg></mod> je lui<lb/>
+<mod type="corr"><orig>dones</orig><reg>donne</reg></mod> des <mod type="corr"><orig>médicament</orig><reg>médicaments</reg></mod>, de la <mod type="corr"><orig>tendrése</orig><reg>tendresse</reg></mod>, et <mod type="corr"><orig>aprés</orig><reg>après</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod><lb/>
+il est plus malade et <mod type="corr"><orig>sés</orig><reg>c'est</reg></mod> le <mod type="corr"><orig>soires</orig><reg>soir</reg></mod> <mod type="corr"><orig>jés</orig><reg>j'ai</reg></mod> pas<lb/>
+plus <mod type="corr"><orig>travaillés</orig><reg>travaillé</reg></mod> <mod type="corr"><orig>més</orig><reg>mais</reg></mod> <mod type="corr"><orig>sé</orig><reg>c'est</reg></mod> pas <mod type="corr"><orig>graves</orig><reg>grave</reg></mod> parce que<lb/>
+<mod type="corr"><orig>demains</orig><reg>demain</reg></mod> je <mod type="corr"><orig>pourais</orig><reg>pourrais</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

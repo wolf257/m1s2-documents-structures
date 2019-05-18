@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E7-V2
+</head>
+<p>
+1)Gabriel <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>10</orig><reg>dix</reg></mod> ans, il est grand, il a une toupie de<lb/>
+<mod type="corr"><orig>diff<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>rente<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>différentes</reg></mod> <mod type="corr"><orig>couleur<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>couleurs</reg></mod>. "Je suis tellement content." Anne-Lise<lb/>
+est amie avec Gabriel. "Bonjour Anne-Lise." "Oui Bonjour"<lb/>
+2)"Je voudrais te <mod type="corr"><orig>montr<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>montrer</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>ce ci</del></mod></del><add stage="" who="P">ceci</add></mod></orig><reg>ceci</reg></mod>." "Mais tu <mod type="corr"><orig>n'a</orig><reg>n'as</reg></mod> rien dans<lb/>
+les <mod type="corr"><orig>Main<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>mains</reg></mod>." "<mod type="corr"><orig>Coment</orig><reg>Comment</reg></mod>!!!<mod type="add" stage="" who="P"><add>comment</add></mod> Où <mod type="corr"><orig>est t'<mod type="add" stage="" who="P"><add>-</add></mod>elle</orig><reg>est-t-elle</reg></mod>." Gabriel a perdu<lb/>
+<mod type="corr"><orig>quel que chose</orig><reg>quelque chose</reg></mod> <mod type="add" stage="" who="P"><add>quelque chose</add></mod> mais quoi <mod type="add" stage="" who="P"><add>?</add></mod> "Tu as perdu quelque chose."<lb/>
+Ma toupie chinoise sur le chemin de l'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>cole</orig><reg>école</reg></mod>. §<lb/>
+3)"Rentrons Gabriel nous la chercherons demain." Lui<lb/>
+<mod type="corr"><orig>di<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">t</add></mod></orig><reg>dit</reg></mod> <mod type="corr"><orig>Anne-<mod type="subst"><del><mod type="del" stage="" who="P"><del>l</del></mod></del><add stage="" who="P">L</add></mod>ise</orig><reg>Anne-Lise</reg></mod>. Regarde c'est la maison du gardien<lb/>
+de l'oubli.4)"Tu veux voir la toupie." "Bonjour<lb/>
+<mod type="corr"><orig>Meusieur</orig><reg>Monsieur</reg></mod>" ."<mod type="corr"><orig>qui y a-t il</orig><reg>Qu'y a-t-il</reg></mod>" "Avez-vous vu une toupie"<lb/>
+"Oui mais <mod type="corr"><orig>prouve moi</orig><reg>prouve-moi</reg></mod> que c'est ta toupie"<lb/>
+5)"Il n'y a que moi qui la <mod type="corr"><orig>controle</orig><reg>contrôle</reg></mod>".<lb/>
+"Alors <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> la toupie.6)" Je l'ai ma toupie. §<lb/>
+FIN §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

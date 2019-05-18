@@ -1,0 +1,144 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E29-V1
+</head>
+<p>
+Description d'un homme seul:
+
+il approche d'un endroit ou il aura de quoi manger<lb/>
+et ou il pourra coucher un village §<lb/>
+Pourquoi marchait-il ? §<lb/>
+S'est perdu durant une randonnée?<lb/>
+fugue ? §<lb/>
+Rupture avec sa femme et ne <mod type="del" stage="" who=""><del>XXX#</del></mod> peut plus dormir chez lui?<lb/>
+#XXX# sans but ?
+<mod type="corr"><orig>Parti</orig><reg>Partit</reg></mod> à la recherche de son chien ?<lb/>
+<mod type="corr"><orig>Parti</orig><reg>Partit</reg></mod> à la recherche de sa femme ? §<lb/>
+Pourquoi ? §<lb/> 
+S'est faite kidnappée ? §<lb/>
+S'est perdue dans la région? §<lb/>
+est partie à la recherche de leur chien ? §<lb/>
+A voulu quitter son mari et est partie à pied par la campagne<lb/>
+
+Nuit sans étoiles - > veut-dire qu'il y a de la lumière<lb/>
+pas très loin de lui -> une ville ? §<lb/>
+
+<mod type="add" stage="" who=""><add>Barbe de <mod type="corr"><orig>3</orig><reg>trois</reg></mod> jours §<lb/> Vêtements sales §<lb/> perdu §<lb/> Yeux fatigués §<lb/> Quand il aperçoit le réverbère sourire</add></mod> §<lb/>
+
+Va pouvoir se reposer pour repartir à la recherche de<lb/>
+sa femme mais dans cette auberge qu'il trouvera à l'entrée<lb/>
+du village au comptoir il verra sa femme. §<lb/>
+
+<pb/>
+Puis il demandera un <mod type="corr"><orig>verra</orig><reg>verre</reg></mod>, regardera sa<lb/>
+femme avec un regard rempli de tendresse et<lb/>
+il la suppliera de revenir car sans elle il n'est<lb/>
+rien, <mod type="del" stage="" who=""><del>il ne sait même pas laver son linge</del></mod><lb/>
+Puis elle lui dira qu'elle doit réfléchir, il l'invitera à §<lb/>
+danser. Elle le regardera droit dans les yeux, §<lb/>
+acceptera et il la demandera en mariage, §<lb/>
+elle peurera et acceptera §<lb/>
+Puis <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>prendr<mod type="del" stage="" who=""><del>XXX#</del></mod>ont</orig><reg>prendront</reg></mod> une chambre, dormiront §<lb/>
+jusqu'à 10h du <mod type="corr"><orig>matin<mod type="del" stage="" who=""><del>XXX#</del></mod></orig><reg>matin</reg></mod> §<lb/>
+et retourneront chez eux avertir leursfamilles<lb/>
+et commencer les préparatifs §<lb/>
+			   
+Donner beaucoup de détails de la §<lb/>
+scène pour que le lecteur puisse se<lb/>
+mettre à la place du personnage. §<lb/>  </p>
+</div>
+﻿</body>
+</text>
+</TEI>

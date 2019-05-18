@@ -1,0 +1,133 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E10-V1
+</head>
+<p>
+<pb/>
+L'Homme <mod type="subst"><del><mod type="del" stage="" who=""><del>continua</del></mod></del><add stage="" who="">s'arrêta</add></mod> un moment, fixant la<lb/>
+lumière éblouissante de ce réverbère qui se distinguait<lb/>
+de l'épais brouillard de la nuit, puis marcha <mod type="del" stage="" who=""><del>XXX#</del></mod> jusqu'à<lb/>
+celui ci. Quand il fût arrivé à côté du réverbère<lb/>
+il <mod type="del" stage="" who=""><del>regarda encore une fois</del></mod> recula de <mod type="subst"><del><mod type="del" stage="" who=""><del>deux</del></mod></del><add stage="" who="">trois</add></mod> pas<lb/>
+en arrière puis <mod type="add" stage="" who=""><add>le</add></mod> fixa une nouvelle fois. Il regardait<lb/>
+la lumière, avec un air <mod type="del" stage="" who=""><del>pensif</del></mod> à la fois pensif et<lb/>
+mélancolique, <mod type="del" stage="" who=""><del>la cigarette à la bouche,</del></mod> <mod type="add" stage="" who=""><add>,</add></mod> <mod type="del" stage="" who=""><del>et soupirant<lb/> soufflant sa fumée crachant la fumée de celle ci sans<lb/> retirer celle ci de sa bouche.</del></mod> avec une cigarette<lb/> de sa marque préférée qu'il avait <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>sa</del></mod></del><add stage="" who="">la</add></mod> bouche comme à<lb/> son habitude. <mod type="del" stage="" who=""><del>l'homme</del></mod> <mod type="corr"><orig>munit</orig><reg>muni</reg></mod> de sa veste en cuir noire<lb/>
+<mod type="add" stage="" who=""><add>et de son jean</add></mod> qu'il ne quittait jamais et qui <mod type="corr"><orig>faisai#XXX#</orig><reg>faisait</reg></mod> un peu parti <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+de lui. La lumière du réverbère se reflétait dans<lb/>
+ses yeux d'un bleu azur, <mod type="del" stage="" who=""><del>et</del></mod> organisait quelques reflets<lb/>
+blonds dans <mod type="add" stage="" who=""><add>sa légère barbe qui poussait et</add></mod> dans ses cheveux <mod type="corr"><orig>châtain</orig><reg>châtains</reg></mod> et faisait briller sa<lb/>
+peau <mod type="add" stage="" who=""><add>lisse, <mod type="del" stage="" who=""><del>et</del></mod> sans imperfections</add></mod> légèrement <mod type="corr"><orig>bronzé</orig><reg>bronzée</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">e</add></mod>. L'homme était <mod type="del" stage="" who=""><del>grand mais p</del></mod> et<lb/>
+taille moyenne et ne s'en plaignait pas, avait <mod type="subst"><del><mod type="del" stage="" who=""><del>par habi<lb/>tude de coiffer</del></mod></del><add stage="" who="">les cheveux</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>parfaitemente</del></mod></del><add stage="" who="">court</add></mod> et<lb/>
+parfaitement <mod type="corr"><orig>coiffée</orig><reg>coiffés</reg></mod>, un nez correctement dessiné mais<lb/>
+des petites oreilles qui lui vallaient les taquineries<lb/>
+de ses amis et que sa femme trouvaient mignonnes.<lb/>
+En dessous de sa veste il portait un <mod type="corr"><orig>t shirt</orig><reg>t-shirt</reg></mod> blanc #XXX#
+#XXX# qui <mod type="corr"><orig>s'accordai<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">t</add></mod></orig><reg>s'accordait</reg></mod> avec le reste de sa tenue.<lb/>
+Cela faisait bientôt vingt minutes que l'homme<lb/>
+était là, à regarder cette lumière, toujours avec le même<lb/>
+air, comme s'il repensait à son passé et qu'il #XXX# §<lb/>
+
+<pb/>
+nostalgique. En effet notre #XXX# malgré ses #XXX# qui pouvaient être<lb/>
+désagréables, était quelqu'un avec un grand coeur <mod type="add" stage="" who=""><add><mod type="del" stage="" who=""><del>XXX#</del></mod> très protecteur envers</add></mod>, et <mod type="del" stage="" who=""><del>pour qui<lb/>
+la</del></mod> sa famille et ses amis étaient <mod type="add" stage="" who=""><add>XXX#</add></mod> très importants <mod type="del" stage="" who=""><del>par #XXX# et dont il ne<lb/> fallait pas faire e mal</del></mod>. Il était aussi quelqu'un de très intelli<lb/>gent et réfléchi, on pourrait avoir une discussion qui tenait la<lb/>
+seule avec lui, car il avait toujours des arguments <mod type="corr"><orig>interessans</orig><reg>intéressants</reg></mod><lb/>
+qui le faisait tenir encore plus longtemps. §<lb/> 
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

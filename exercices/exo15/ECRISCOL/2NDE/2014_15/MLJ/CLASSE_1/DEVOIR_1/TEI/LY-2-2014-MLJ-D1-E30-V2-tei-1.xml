@@ -1,0 +1,159 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E30-V2
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles, d'une obscurité et d'une épaisseur<lb/>
+d'encre, l'homme depuis un moment déjà marchait quand il aperçut<lb/>
+au loin la lumière d'un réverbère. §<lb/>
+Il continua sa route, plus rien n'avait d'importance, en admettant<lb/>
+le fait que ça eu déjà le cas. §<lb/>
+Toutes les personnes ayant déjà rencontré le regard de cet<lb/>
+homme au regard pensif vous disaient que c'était un homme<lb/>
+sans histoire, un voisin aimant et un père <mod type="corr"><orig>éxemplaire</orig><reg>exemplaire</reg></mod><lb/>
+Il avait tout. Ou <mod type="corr"><orig>peut être</orig><reg>peut-être</reg></mod> rien ? §<lb/>
+Cet homme qui avait atteint la trentaine récemment avait<lb/>
+fêté <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">Noël</add></mod> chez son <mod type="corr"><orig>voi<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">sin</add></mod></orig><reg>voisin</reg></mod>, ils avaient parlé de bricolage<lb/>
+et avaient beaucoup ri. §<lb/>
+Il était de taille moyenne <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">Il</add></mod> avait de grands yeux <mod type="corr"><orig>marron</orig><reg>marrons</reg></mod>, barbe de deux jours<lb/>
+volontaire, sa femme trouvait que ça faisait plus viril.<lb/>
+Lui préferait se raser, mais ça n'avait pas d'importance.<lb/>
+Sa fille et lui se <mod type="corr"><orig>ressemblai<mod type="add" stage="" who=""><add>ent</add></mod></orig><reg>ressemblaient</reg></mod> beaucoup, et c'était sans doute<lb/>
+la seule assurance qu'il pouvait obtenir que c'était<lb/>
+bien sa filles. Il travaillent dans une entreprise<lb/>
+qui fabriquait des appareils photos. Il négociait une quinzaine une augmentation<lb/>
+depuis plusieurs semaines <mod type="corr"><orig>déja</orig><reg>déjà</reg></mod>, mais son patron avait<lb/>
+"beaucoup à faire, vous comprenez, j'en suis sûr!".<lb/>
+Il habitait un quartier <mod type="corr"><orig>residentiel<mod type="del" stage="" who=""><del>XXX#</del></mod></orig><reg>résidentiel</reg></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> en <mod type="corr"><orig>banlieu</orig><reg>banlieue</reg></mod> parisienne <mod type="add" stage="" who=""><add>avec sa femme et sa fille</add></mod><lb/>
+et occupait une maison plutôt grande, avec des fleurs<lb/>
+<mod type="corr"><orig>plantée<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>plantées</reg></mod> dans la cour et une <mod type="corr"><orig>balansoire</orig><reg>balançoire</reg></mod> près de la cabane<lb/>
+à outils. §<lb/>
+Il avait la peau <mod type="corr"><orig>chair<mod type="add" stage="T2" who=""><add>e</add></mod></orig><reg>chaire</reg></mod>, était de corpulence généreuse, qui<lb/>
+témoignait de nombreux repas copieux, était habillé chau-<lb/>
+dement, rien de moins étonnant, il en avait les moyens.<lb/>
+Autours de son cou<mod type="del" stage="" who=""><del>XXX#</del></mod> était noué<mod type="add" stage="T2" who=""><add>e</add></mod> l'écharpe que avait offert<lb/>
+sa belle mère à son anniversaire. Il ne l'aimait pas, pas plus<lb/>
+que sa belle mère d'ailleurs, mais <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> faisait bonne expression<lb/>
+quand il allait diner chez elle. §<lb/>
+
+<pb/>
+Il avait une démarche lente car il n'allait nul part.<lb/>
+À vrai dire, il n'avait nul part où aller. §<lb/>
+Il avait quitté sa chambre il y a bien deux heures,<lb/>
+et <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">avait</add></mod> <mod type="corr"><orig>prit</orig><reg>pris</reg></mod> soin de sortir sans alerter sa femme.<lb/>
+Que lui aurait-il dit ? Qu'il savait qu'elle le trompait,<lb/>
+qu'il détestait sa vie, en admettant que s'en était<lb/>
+une, qu'il trouvait ce monde trop minable pour sa fille,<lb/>
+qu'il avait honte ? §<lb/>
+Non, bien sûr que non.<lb/>
+Il lui avait simplement dit qu'il allait s'aérer un peu<lb/>
+l'esprit, et elle se serait rendormie. §<lb/>
+D'ailleurs, c'est ce qu'il a fait ce soir, et le <mod type="corr"><orig>voila</orig><reg>voilà</reg></mod> là, perdu<lb/>
+dans ses pensées, une légère expression de dégoût sur le visage.<lb/>
+Il ne dormira pas non plus cette nuit, et dira à ses<lb/>
+collègues trop curieux que sa fille était malade<lb/>
+et qu'il avait dû rester à son chevet, cela expliquera<lb/>
+ses cernes, mais pas les suivants, car il continura<lb/>
+à se rendre à son travail, et à emmenner sa fille à l'école,<lb/>
+et <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">il</add></mod> s'efforcera de rester calme dans les embouteillages.<lb/>
+Il continura à sortir le soir, jusqu'au jour où il ne rentrera<lb/>
+pas. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

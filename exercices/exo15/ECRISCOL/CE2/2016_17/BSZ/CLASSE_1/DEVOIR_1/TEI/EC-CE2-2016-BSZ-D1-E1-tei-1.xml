@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E1
+</head>
+<p>
+Quand je serai adulte je ferai constructeur de voiture j'in<lb/>
+venterai la <mod type="corr"><orig>voitur</orig><reg>voiture</reg></mod> du futur qui peut <mod type="corr"><orig>crée</orig><reg>créer</reg></mod> une route, qui<lb/>
+peut jeter de l'eau pour que <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> soit bien <mod type="corr"><orig>acrocher</orig><reg>accrochée</reg></mod>,<lb/>
+qui se transforme en <mod type="corr"><orig>voitur</orig><reg>voiture</reg></mod> <mod type="corr"><orig>normal</orig><reg>normale</reg></mod> <mod type="corr"><orig>sete</orig><reg>cette</reg></mod> <mod type="corr"><orig>voitur</orig><reg>voiture</reg></mod><lb/>
+<mod type="corr"><orig>et</orig><reg>est</reg></mod> pour un <mod type="corr"><orig>mètier</orig><reg>métier</reg></mod>, celui que <mod type="add" stage="" who=""><add>je</add></mod> vous dis. J'<mod type="corr"><orig>ima<lb/>jine</orig><reg>imagine</reg></mod> ma <mod type="corr"><orig>journé</orig><reg>journée</reg></mod>, ma <mod type="corr"><orig>journé</orig><reg>journée</reg></mod> <mod type="corr"><orig>et</orig><reg>est</reg></mod> que suis <mod type="corr"><orig>entr<lb/>ain</orig><reg>en train</reg></mod> de <mod type="corr"><orig>construir</orig><reg>construire</reg></mod> la première <mod type="corr"><orig>voitur</orig><reg>voiture</reg></mod> du <mod type="corr"><orig>futu<lb/>r</orig><reg>futur</reg></mod> avec mes <mod type="corr"><orig>colègue</orig><reg>collègues</reg></mod>, et l'<mod type="corr"><orig>avention</orig><reg>invention</reg></mod> que j'ai <mod type="corr"><orig>invent<lb/>ter</orig><reg>inventée</reg></mod> a marché avec mes <mod type="corr"><orig>colègue</orig><reg>collègues</reg></mod>, la <mod type="corr"><orig>voitur</orig><reg>voiture</reg></mod> n'est<lb/>
+pas que pour un <mod type="corr"><orig>mètier</orig><reg>métier</reg></mod> comme je vous <mod type="corr"><orig>lai</orig><reg>l'ai</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> au <mod type="corr"><orig>tou<lb/>s</orig><reg>tout</reg></mod> <mod type="corr"><orig>débus</orig><reg>début</reg></mod> elle est aussi pour les <mod type="corr"><orig>autre</orig><reg>autres</reg></mod> <mod type="corr"><orig>personne</orig><reg>personnes</reg></mod>, elle<lb/>
+est pour <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> le monde, les <mod type="corr"><orig>Chinoi</orig><reg>Chinois</reg></mod>, les <mod type="corr"><orig>Suèdoin</orig><reg>Suédois</reg></mod>...<lb/>
+<mod type="corr"><orig>Eache</orig><reg>Et chaque</reg></mod> personne aura quand le veut il le <mod type="corr"><orig>choisie</orig><reg>choisit</reg></mod><mod type="del" stage="" who=""><del>quon</del></mod><lb/>
+quand il le veut à l'<mod type="corr"><orig>heur</orig><reg>heure</reg></mod> qui veut <mod type="subst"><del><mod type="del" stage="" who=""><del>,</del></mod></del><add stage="" who="">.</add></mod> qui peut se<lb/>
+transformer en <mod type="corr"><orig>decapotable</orig><reg>décapotable</reg></mod> pour<lb/>
+<mod type="corr"><orig>tous</orig><reg>tout</reg></mod> le monde quand il le voudra<lb/>
+à l'<mod type="corr"><orig>heur</orig><reg>heure</reg></mod> qui veut et le jour qui veut<lb/>
+le moment qui veut. Je <mod type="corr"><orig>mabillera</orig><reg>m'habillerai</reg></mod><lb/>
+en <mod type="corr"><orig>meche</orig><reg>mèches</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> beau. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

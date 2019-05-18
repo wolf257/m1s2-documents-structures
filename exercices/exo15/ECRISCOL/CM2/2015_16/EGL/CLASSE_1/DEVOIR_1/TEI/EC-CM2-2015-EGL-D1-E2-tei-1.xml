@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D1-E2
+</head>
+<p>
+Mon idée pour ma rédaction <mod type="corr"><orig>ce</orig><reg>c'est</reg></mod> de <mod type="corr"><orig>changér</orig><reg>changer</reg></mod> l'eau de <mod type="corr"><orig>guavelle</orig><reg>javel</reg></mod> avec le <mod type="corr"><orig>chanpoen</orig><reg>shampooing</reg></mod><lb/>
+j'ai <mod type="corr"><orig>êtes</orig><reg>été</reg></mod> <mod type="corr"><orig>poini</orig><reg>puni</reg></mod> <mod type="corr"><orig>jouer video</orig><reg>jeux-vidéos</reg></mod> <mod type="corr"><orig>pandan</orig><reg>pendant</reg></mod> un <mod type="corr"><orig>moi</orig><reg>mois</reg></mod> mais j'ai bien rigolé<lb/>
+la maîtresse <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="corr"><orig>mi</orig><reg>mis</reg></mod> comme note 10/10 donc ma <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> <mod type="corr"><orig>ma</orig><reg>me</reg></mod> <mod type="corr"><orig>felisita</orig><reg>félicita</reg></mod> de<lb/>
+avoir eu 10/10 <mod type="corr"><orig>j'ai</orig><reg>je</reg></mod> <mod type="corr"><orig>n'es</orig><reg>n'ai</reg></mod> plus <mod type="corr"><orig>êtes</orig><reg>été</reg></mod> <mod type="corr"><orig>pouni</orig><reg>puni</reg></mod> et mon père <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>êtais</orig><reg>été</reg></mod> <mod type="corr"><orig>coméme</orig><reg>quand même</reg></mod><lb/>
+<mod type="corr"><orig>faché</orig><reg>fâché</reg></mod> avec moi <mod type="corr"><orig>est</orig><reg>et</reg></mod> je <mod type="corr"><orig>les</orig><reg>lui</reg></mod> <mod type="corr"><orig>demade</orig><reg>demande</reg></mod> <mod type="corr"><orig>pardons</orig><reg>pardon</reg></mod> il <mod type="corr"><orig>me excouse</orig><reg>m'excuse</reg></mod><lb/>
+mais ma soeur <mod type="corr"><orig>étais</orig><reg>était</reg></mod> très, très, très <mod type="corr"><orig>faché</orig><reg>fâchée</reg></mod> contre moi je lui<lb/>
+<mod type="corr"><orig>est</orig><reg>ai</reg></mod> dit tu peux <mod type="corr"><orig>juex</orig><reg>jouer</reg></mod> avec <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>joeux video</orig><reg>jeux-vidéos</reg></mod> elle <mod type="corr"><orig>à</orig><reg>a</reg></mod> dit<lb/>
+non je lui <mod type="corr"><orig>est</orig><reg>ai</reg></mod> <mod type="corr"><orig>de debarase</orig><reg>débarassé</reg></mod> la table <mod type="corr"><orig>pandan</orig><reg>pendant</reg></mod> deux mois<lb/>
+elle <mod type="corr"><orig>à</orig><reg>a</reg></mod> dit oui mais à une <mod type="corr"><orig>conditio</orig><reg>condition</reg></mod> tu ne me fais plus de<lb/>
+<mod type="corr"><orig>blage</orig><reg>blague</reg></mod> ni à moi ni à papa ni <mod type="corr"><orig>a</orig><reg>à</reg></mod> maman <mod type="corr"><orig>dacord</orig><reg>d'accord</reg></mod> mais ma soeur<lb/>
+me dit une <mod type="corr"><orig>chouse</orig><reg>chose</reg></mod> tu dois <mod type="corr"><orig>me achete</orig><reg>m'acheter</reg></mod> <mod type="corr"><orig>un</orig><reg>une</reg></mod> <mod type="corr"><orig>chouse</orig><reg>chose</reg></mod> <mod type="corr"><orig>dacord</orig><reg>d'accord</reg></mod><lb/>
+oui d'<mod type="corr"><orig>acord</orig><reg>accord</reg></mod> tu veux quoi je veux une <mod type="corr"><orig>monte</orig><reg>montre</reg></mod> et <mod type="corr"><orig>de</orig><reg>des</reg></mod><lb/>
+<mod type="corr"><orig>boucl<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">e</add></mod></orig><reg>boucles</reg></mod> <mod type="corr"><orig>de oreylle</orig><reg>d'oreille</reg></mod> et <mod type="corr"><orig>oussi</orig><reg>aussi</reg></mod> un <mod type="corr"><orig>jouli</orig><reg>joli</reg></mod> <mod type="corr"><orig>colielle</orig><reg>collier</reg></mod> avec mon <mod type="corr"><orig>non</orig><reg>nom</reg></mod><lb/>
+<mod type="corr"><orig>dessu</orig><reg>dessus</reg></mod> d'<mod type="corr"><orig>acord</orig><reg>accord</reg></mod> oui d'<mod type="corr"><orig>acord</orig><reg>accord</reg></mod> petite soeur. Fim §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

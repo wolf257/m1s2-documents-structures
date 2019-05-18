@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E5
+</head>
+<p>
+<pb/>
+Le matin je me <mod type="corr"><orig>l'everais</orig><reg>lèverai</reg></mod>, je me <mod type="corr"><orig>préparé</orig><reg>préparerai</reg></mod>, j'<lb/>
+<mod type="del" stage="" who=""><del>ems</del></mod> <mod type="corr"><orig>enmenerais</orig><reg>emmenerai</reg></mod> mais enfants à l'école. Après<lb/>
+j'irais à mon travail, qui peut-être <mod type="corr"><orig>se</orig><reg>ce</reg></mod><lb/>
+serais routier ou pompier. Je m'habillerais<lb/>
+me <mod type="corr"><orig><mod type="del" stage="" who=""><del>re</del></mod>préparé</orig><reg>préparerai</reg></mod> et je <mod type="corr"><orig>p'artirais</orig><reg>partirai</reg></mod>. <mod type="corr"><orig>Etteindre</orig><reg>Eteindre</reg></mod> des<lb/>
+feux, sauver des personnes ou <mod type="corr"><orig>reparer</orig><reg>réparer</reg></mod> des<lb/>
+<mod type="corr"><orig>yoyaux</orig><reg>joyaux</reg></mod> des routes. En fin de journée<lb/>
+j'irais récuperer mes enfants à l'école et<lb/>
+retourner chez moi. Tous les jours <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>seras</orig><reg>sera</reg></mod>,<lb/>
+<mod type="add" stage="" who=""><add>comme <mod type="corr"><orig>sa</orig><reg>ça</reg></mod></add></mod> je me <mod type="corr"><orig>l'everais</orig><reg>lèverai</reg></mod> tôt le matin, j'irais à mon travail<lb/>
+<mod type="corr"><orig>ect</orig><reg>etc</reg></mod>...Pendant les vacances ou les jours de congé §<lb/>
+
+<pb/>
+j'en profiterais avec ma famille, on <mod type="corr"><orig>n'irais</orig><reg>irait</reg></mod> faire<lb/>
+des <mod type="corr"><orig>sortit</orig><reg>sorties</reg></mod> piscine, se promener, des <mod type="corr"><orig>sortit</orig><reg>sorties</reg></mod> <mod type="corr"><orig>culturels</orig><reg>culturelles</reg></mod> <mod type="corr"><orig>ect</orig><reg>etc</reg></mod>...<lb/>
+J'aimerais bien habiter vers Paris <mod type="corr"><orig>où</orig><reg>ou</reg></mod> Real-<lb/>
+Madrid. <mod type="del" stage="" who=""><del>Dans un</del></mod> Pendant les vacances on <mod type="corr"><orig>partirais</orig><reg>partirait</reg></mod><lb/>
+partout. <mod type="del" stage="" who=""><del>Et quand je serais #XXX# je prendrais</del></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

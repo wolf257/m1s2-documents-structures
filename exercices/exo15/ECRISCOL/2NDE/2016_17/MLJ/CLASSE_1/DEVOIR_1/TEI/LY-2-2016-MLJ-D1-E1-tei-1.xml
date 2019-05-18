@@ -1,0 +1,127 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2016-MLJ-D1-E1
+</head>
+<p>
+<pb/>
+Elle part en direction de l'arrêt de bus qu'elle<lb/>
+prend tous les matins. Une fois <mod type="corr"><orig>arriver</orig><reg>arrivée</reg></mod>, elle<lb/>
+monte rejoindre sa meilleure amie, qui, cette<lb/>
+dernière, lui réserve toujours une place à <mod type="corr"><orig>côter</orig><reg>côté</reg></mod><lb/>
+d'elle. <mod type="corr"><orig>Arriver</orig><reg>Arrivée</reg></mod> au lycée, elle <mod type="corr"><orig>pars</orig><reg>part</reg></mod> en direction<lb/>
+de sa salle de cour. C'était en salle 312
+et elle <mod type="del" stage="" who=""><del>avaient</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>à</del></mod></del><add stage="" who="">a</add></mod> <mod type="corr"><orig>math</orig><reg>maths</reg></mod>. Elle qui n'est pas<lb/>
+<mod type="corr"><orig>douer</orig><reg>douée</reg></mod> en <mod type="corr"><orig>math</orig><reg>maths</reg></mod>, <mod type="corr"><orig>du</orig><reg>dut</reg></mod> <mod type="corr"><orig>a</orig><reg>se</reg></mod> mettre tout devant<lb/>
+pour être <mod type="corr"><orig>concentrer</orig><reg>concentrée</reg></mod> et comprendre.<lb/>
+A la fin de son heure elle <mod type="corr"><orig>sors</orig><reg>sort</reg></mod> et <mod type="corr"><orig>pars</orig><reg>part</reg></mod><lb/>
+en direction de la cantine pour aller manger.<lb/>
+Elle finit son repas et part en direction<lb/>
+de la salle de théâtre. <mod type="del" stage="" who=""><del>qu'elle</del></mod> trois<lb/>
+heures à <mod type="corr"><orig>suporter</orig><reg>supporter</reg></mod>. Après ces heures <mod type="corr"><orig>finit</orig><reg>finies</reg></mod>,<lb/>
+elle part en direction de l'arrêt de<lb/>
+bus en écoutant de la musique, une<lb/>
+chanson <mod type="corr"><orig>intitulé</orig><reg>intitulée</reg></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> "la chanson de la démonétisatisa<lb/>
+-tion" par un youtuber appeler Maxenss.<lb/>
+
+<pb/>
+Lors de passer au passage <mod type="corr"><orig>pietan<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">t</add></mod>s</orig><reg>piétons</reg></mod>, elle<lb/>
+ne <mod type="corr"><orig>regardat</orig><reg>regarda</reg></mod> pas droite et à gauche.<lb/>
+Elle se fit faucher <mod type="del" stage="" who=""><del>XXX#</del></mod> par un camion de<lb/>
+pizza. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

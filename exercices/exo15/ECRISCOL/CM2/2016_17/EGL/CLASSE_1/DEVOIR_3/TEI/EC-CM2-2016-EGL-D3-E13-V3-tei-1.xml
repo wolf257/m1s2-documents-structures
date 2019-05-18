@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E13-V3
+</head>
+<p>
+C'est lundi, 08h30, je vais au travail puis à 14h00 je<lb/>
+vais faire du shopping dans des magasins puis, 16h10, j'achète<lb/>
+un animal un lapin puis je rentre chez moi poser mes affaires<lb/>
+ensuite je vais chez une copine, 17h00, je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> ma voiture et<lb/>
+je vais voir mes parents et présenter mon nouveau copain, mes parents<lb/>
+étaient <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>contente</orig><reg>contents</reg></mod> car je leur <mod type="corr"><orig>est</orig><reg>ai</reg></mod> <mod type="corr"><orig>annoncer</orig><reg>annoncé</reg></mod> que j'étais enceinte,<lb/>
+18h00, je rentre avec mon copain <mod type="del" stage="" who=""><del>puis</del></mod> plus tard je prépare<lb/>
+un gâteau au <mod type="corr"><orig>yaout</orig><reg>yaourt</reg></mod> qui était délicieux <mod type="del" stage="" who=""><del>puis</del></mod> ensuite 20h30 je<lb/>
+prends la voiture et je vais en boîte de nuit avec mon petit copain<lb/>
+et des amis, 22h00 je rentre je fais ma <mod type="corr"><orig>toillette</orig><reg>toilette</reg></mod> et je vais au lit. La<lb/>
+<mod type="del" stage="" who=""><del>joum</del></mod> journée était géniale. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

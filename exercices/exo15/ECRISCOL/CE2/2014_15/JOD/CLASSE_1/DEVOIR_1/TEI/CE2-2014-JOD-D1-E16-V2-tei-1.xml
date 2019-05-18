@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E16-V2
+</head>
+<p>
+Un jour Gabriel arrive en courant vers l'école il se presse tellement<lb/>
+qu'en arrivant <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'<mod type="corr"><orig>ecole</orig><reg>école</reg></mod> il croit avoir <mod type="corr"><orig>obli<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>oublié</reg></mod> quelque chose. §<lb/>
+Et il s'en <mod type="corr"><orig>aperçoi<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">t</add></mod></orig><reg>aperçoit</reg></mod> vite fait. Quand il arrive Anne-Lise elle lui<lb/>
+pose une question "Tu as <mod type="corr"><orig>perdu<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>perdu</reg></mod> quelque chose" lui demanda Anne-<lb/>
+Lise "Ma toupie chinoise sur le chemin de <mod type="corr"><orig>l'ecole</orig><reg>l'école</reg></mod> " Au retour <mod type="corr"><orig>il</orig><reg>ils</reg></mod> la<lb/>
+<mod type="corr"><orig>cherche<mod type="subst"><del><mod type="del" stage="" who="P"><del>rent</del></mod></del><add stage="" who="P">nt</add></mod></orig><reg>cherchèrent</reg></mod> sur le chemin de l'<mod type="corr"><orig>ecole</orig><reg>école</reg></mod> Le lendemain il passa par le<lb/>
+chemin du gardien de <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>l</del></mod></del><add stage="" who="P">l'oubli</add></mod></orig><reg>l'oubli</reg></mod> un <mod type="corr"><orig>geni<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>génie</reg></mod> du tri. Une idée lui passa<lb/>
+par la tête vite <mod type="corr"><orig>alle<mod type="subst"><del><mod type="del" stage="" who="P"><del>z</del></mod></del><add stage="" who="P">r</add></mod></orig><reg>aller</reg></mod> <mod type="corr"><orig>voir<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>voir</reg></mod> dedans le monsieur l'<mod type="corr"><orig>emena</orig><reg>emmena</reg></mod> dans une<lb/>
+salle il l'<mod type="corr"><orig>aperçois</orig><reg>aperçoit</reg></mod> "la voilà!" Je l'ai <mod type="corr"><orig>retrouver</orig><reg>retrouvée</reg></mod> devant la<lb/>
+maison de monsieur Boutin. Merci §<lb/>
+FIN §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

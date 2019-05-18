@@ -1,0 +1,129 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2016-MLJ-D1-E18
+</head>
+<p>
+<pb/>
+Une fois dehors, Sam voit le bus à son arrêt qui<mod type="del" stage="" who=""><del>XXX#</del></mod> est<lb/>
+à une quinzaine de mètres. Il court après et arrive<lb/>
+à monter dedans <mod type="subst"><del><mod type="del" stage="" who=""><del>avec</del></mod></del><add stage="" who="">de</add></mod> justesse. Il s'assoit à sa place<lb/>
+habituelle au fond du bus. <mod type="del" stage="" who=""><del>Au bout de 20 m</del></mod> Il souffle<lb/>
+enfin et <mod type="corr"><orig>atten</orig><reg>attend</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">patiemment</add></mod> les 20 minutes qui le<lb/>
+<mod type="corr"><orig>sépare</orig><reg>séparent</reg></mod> du lycée. Arrivé à destination, il se dirige<lb/>
+vers la bibliothèque jusqu'à <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>c</del></mod></del><add stage="" who="">s</add></mod>e</orig><reg>ce</reg></mod> que l'alarme décla-<lb/>
+-rant les débuts de cours <mod type="del" stage="" who=""><del>re</del></mod> sonne. Il monte au<lb/>
+<mod type="corr"><orig>preferée</orig><reg>préféré</reg></mod>. Les deux heures se <mod type="corr"><orig>deroule</orig><reg>déroulent</reg></mod> plutôt rapi-<lb/>
+-dement, après une courte pause de quinze minutes.<lb/>
+Son heure suivante, anglais<mod type="del" stage="" who=""><del>XXX# dure #XXX# une heure.</del></mod><lb/>
+<mod type="corr"><orig>sa</orig><reg>Sa</reg></mod> dernière heure, car on est <mod type="del" stage="" who=""><del>sa dernière heure, car nous</del></mod><mod type="del" stage="" who=""><del>est  mercredi on</del></mod><lb/>
+mercredi, passe lentement. Sam <mod type="corr"><orig>deteste</orig><reg>déteste</reg></mod> l'anglais<lb/>
+et compte les minutes qui le <mod type="corr"><orig>separe</orig><reg>séparent</reg></mod> de la fin<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>des</del></mod></del><add stage="" who="">de ses</add></mod> cours. Après cette matinée plutôt courte,<lb/>
+Sam reprend le bus et rentre chez lui, il est<lb/>
+en vacance, enfin. Une fois rentré, il rentre chez lui<lb/>
+et prépare son sac, car il part passer sa<lb/>
+première semaine de vacances chez son père.<lb/>
+Et oui, ses parents sont séparés. Sa mère l'emmène<lb/>
+à la gare, où il prend le train pour se<lb/>
+rendre chez son paternel. Après <mod type="subst"><del><mod type="del" stage="" who=""><del>3</del></mod></del><add stage="" who="">trois</add></mod> heures<lb/>
+de train il arrive là-bas et va directement §<lb/>
+
+<pb/>
+se coucher après avoir <mod type="corr"><orig>manger</orig><reg>mangé</reg></mod>, <mod type="del" stage="" who=""><del>a</del></mod> <mod type="corr"><orig>fatiguer</orig><reg>fatigué</reg></mod><lb/>
+de cette longue <mod type="corr"><orig>journ<mod type="del" stage="" who=""><del>n</del></mod>ée</orig><reg>journée</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

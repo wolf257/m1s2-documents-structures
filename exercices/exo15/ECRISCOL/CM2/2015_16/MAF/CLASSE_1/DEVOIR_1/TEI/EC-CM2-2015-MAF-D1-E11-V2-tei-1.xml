@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E11-V2
+</head>
+<p>
+<mod type="corr"><orig>Mai</orig><reg>Mon</reg></mod> dimanche il ne <mod type="corr"><orig>sait</orig><reg>s'est</reg></mod> rien passé, donc j'ai eu un 0/10 à ma rédac.<lb/>
+Un dimanche la maîtresse <mod type="corr"><orig>etait</orig><reg>était</reg></mod> <mod type="corr"><orig>venut</orig><reg>venue</reg></mod> à la maison pour <mod type="corr"><orig>parlez</orig><reg>parler</reg></mod> avec mes<lb/>
+parents, la <mod type="corr"><orig>discution</orig><reg>discussion</reg></mod> <mod type="corr"><orig>conserné</orig><reg>concernait</reg></mod> mes <mod type="corr"><orig>rédation</orig><reg>rédactions</reg></mod>. Elle avait dit que mes <mod type="corr"><orig>rédation</orig><reg>rédactions</reg></mod><lb/>
+n'<mod type="corr"><orig>était</orig><reg>étaient</reg></mod> pas très bien après la maîtresse <mod type="corr"><orig>etait</orig><reg>était</reg></mod> <mod type="corr"><orig>partit</orig><reg>partie</reg></mod>. Le lendemain on a<lb/>
+fait une rédaction comme d'habitude mais je <mod type="corr"><orig>n'est</orig><reg>n'ai</reg></mod> pas eu 0/10 j'ai eu un 10/10<lb/>
+parce que j'<mod type="corr"><orig>avait</orig><reg>avais</reg></mod> tout inventé. Le samedi la maîtresse <mod type="corr"><orig>etait</orig><reg>était</reg></mod> venue à la<lb/>
+maison pour dire à ma mère que ma rédaction <mod type="corr"><orig>etait</orig><reg>était</reg></mod> mieux,<lb/>
+après la maîtresse a donné ma rédac à ma mère et elle a dit<lb/>
+mais <mod type="corr"><orig>se</orig><reg>ce</reg></mod> n'est pas vrai <mod type="corr"><orig>savedir</orig><reg>ça veut dire</reg></mod> que tu <mod type="corr"><orig>a</orig><reg>as</reg></mod> inventé tout <mod type="del" stage="" who=""><del>la maîtresse</del></mod><lb/>
+la maîtresse dit §<lb/>
+-quoi tu <mod type="corr"><orig>a</orig><reg>as</reg></mod> <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> inventé alors pour demain je veux dix <mod type="corr"><orig>page</orig><reg>pages</reg></mod><lb/>
+de rédaction mais <mod type="corr"><orig>sens</orig><reg>sans</reg></mod> rien <mod type="corr"><orig>inventé</orig><reg>inventer</reg></mod>. §<lb/>
+Le lundi je lui <mod type="corr"><orig>rendu</orig><reg>rendis</reg></mod> mes <mod type="corr"><orig>feuille</orig><reg>feuilles</reg></mod> de <mod type="corr"><orig>redaction</orig><reg>rédaction</reg></mod> et je <mod type="corr"><orig>repar</orig><reg>repars</reg></mod> à <mod type="corr"><orig>zeros</orig><reg>zéro</reg></mod><lb/>
+bien <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> j'ai eu un 0/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D2-E17-V2
+</head>
+<p>
+<pb/>
+Le petit frère de Louis est malade. Louis aime<mod type="del" stage="" who=""><del>r</del></mod>rait bien aussi<lb/>
+ne pas aller à l'école. Alors, il décida d'<mod type="corr"><orig>allez</orig><reg>aller</reg></mod> dehors sous<lb/>
+la <mod type="corr"><orig>goutière</orig><reg>gouttière</reg></mod> de la maison vu qu'il pleut et qu'il fait<lb/>
+froid. Louis retourna à sa maison en grelottant. Le<lb/>
+médecin arriva et prépara une piqûre. Le médecin<lb/>
+<mod type="corr"><orig>tandit</orig><reg>tendit</reg></mod> le bras vers le petit garçon pour faire la piqûre<lb/>
+mais Louis <mod type="corr"><orig>commenca</orig><reg>commença</reg></mod> à <mod type="corr"><orig>pleuré</orig><reg>pleurer</reg></mod> de peur. Le <mod type="corr"><orig>médecins</orig><reg>médecin</reg></mod> lui<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>expliqua</del></mod></del><add stage="" who="">explica</add></mod></orig><reg>expliqua</reg></mod> que <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>sa</del></mod></del><add stage="" who="">ca</add></mod></orig><reg>ça</reg></mod> ne <mod type="corr"><orig>ferai</orig><reg>fera</reg></mod> pas mal mais impossible de §<lb/>
+
+<pb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>convaince</del></mod></del><add stage="" who="">convaincre</add></mod> le petit garçon alors le médecin procéda à une<lb/>
+tactique qui marche avec <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les enfants. Le médecin lui<lb/>
+dit: §<lb/>
+-"Si tu es sage pendant que <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> pique je te donne un <mod type="corr"><orig>bonbo</orig><reg>bonbon</reg></mod>"<lb/>
+Le petit réponda "oui" sans <mod type="corr"><orig>problème</orig><reg>problèmes</reg></mod>. Alors le médecin<lb/>
+s'approcha, mais d'un coup le petit garçon n'a pas<lb/>
+voulu <mod type="corr"><orig>est</orig><reg>et</reg></mod> a dit: §<lb/>
+-"J'ai rien docteur." Finalement il <mod type="corr"><orig>prefère</orig><reg>préfère</reg></mod> <mod type="corr"><orig>allez</orig><reg>aller</reg></mod> à l'école. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

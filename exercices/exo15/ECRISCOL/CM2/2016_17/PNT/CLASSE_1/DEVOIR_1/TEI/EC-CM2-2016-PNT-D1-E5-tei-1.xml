@@ -1,0 +1,123 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D1-E5
+</head>
+<p>
+<pb/>
+J'ai <mod type="corr"><orig>pri<mod type="subst"><del><mod type="del" stage="" who=""><del>c</del></mod></del><add stage="" who="">s</add></mod></orig><reg>pris</reg></mod> un ballon, <mod type="corr"><orig>ges</orig><reg>j'ai</reg></mod> appelé mes <mod type="corr"><orig>ami<mod type="del" stage="" who=""><del>XXX#</del></mod></orig><reg>amis</reg></mod>.<lb/>
+J'ai fait du foot dans une maison et j'ai<lb/>
+tiré sur la vitre de la maison et le ballon<lb/>
+<mod type="corr"><orig>à</orig><reg>a</reg></mod> #XXX# <mod type="corr"><orig>attérie</orig><reg>attéri</reg></mod> sur la tête d'une mamie.<lb/>
+Mes amies ont appelé l'<mod type="corr"><orig>opital</orig><reg>hôpital</reg></mod> l'<mod type="corr"><orig>opital</orig><reg>hôpital</reg></mod><lb/>
+est <mod type="corr"><orig>venue</orig><reg>venu</reg></mod> et mes amies et moi <mod type="corr"><orig>a</orig><reg>avons</reg></mod> dit<lb/>
+<mod type="corr"><orig>quelle</orig><reg>qu'elle</reg></mod> est <mod type="corr"><orig>tombé</orig><reg>tombée</reg></mod> par <mod type="corr"><orig>ter</orig><reg>terre</reg></mod> et l'<mod type="corr"><orig>opital</orig><reg>hôpital</reg></mod> <mod type="del" stage="" who=""><del>l</del></mod> <mod type="corr"><orig>ont</orig><reg>l'a</reg></mod><lb/>
+<mod type="corr"><orig>embarqué</orig><reg>embarquée</reg></mod>. Le lundi <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>M</del></mod></del><add stage="" who="">m</add></mod>atin</orig><reg>matin</reg></mod> j'ai eu 10/10.<lb/>
+Dimanche j'ai été au parc et j'ai<mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>vue</orig><reg>vu</reg></mod> une belle<lb/>
+fille elle avait un copain son copain <mod type="del" stage="" who=""><del>j'ai</del></mod> <mod type="corr"><orig>à</orig><reg>a</reg></mod> une<lb/>
+bosse car j'ai <mod type="corr"><orig>prix</orig><reg>pris</reg></mod> la <mod type="del" stage="" who=""><del>A</del></mod> poubelle et je l'ai<lb/>
+<mod type="corr"><orig>rappé</orig><reg>frappé</reg></mod> et j'<mod type="corr"><orig>aie</orig><reg>ai</reg></mod> <mod type="corr"><orig>prix</orig><reg>pris</reg></mod> sa copine et je l'ai<lb/>
+<mod type="corr"><orig>embrassé</orig><reg>embrassée</reg></mod> et on <mod type="del" stage="" who=""><del>n'</del></mod> <mod type="corr"><orig>ai</orig><reg>est</reg></mod> <mod type="corr"><orig>devenu</orig><reg>devenus</reg></mod> <mod type="corr"><orig>amoure</orig><reg>amoureux</reg></mod>. §<lb/>
+
+<pb/>
+Le lundi j'ai eu 7/10 à rédaction. Dimanche j'ai fait<lb/>
+un <mod type="corr"><orig>repat</orig><reg>repas</reg></mod> et on a <mod type="corr"><orig>manger</orig><reg>mangé</reg></mod> sauf moi, j'ai <mod type="corr"><orig>prix</orig><reg>pris</reg></mod> mon assiette<lb/>
+je l'ai <mod type="corr"><orig>jeté</orig><reg>jetée</reg></mod> par la fenêtre et <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>à</orig><reg>a</reg></mod> a attéri sur<lb/>
+<mod type="corr"><orig>quelle qu'un</orig><reg>quelqu'un</reg></mod> j'ai <mod type="corr"><orig>jure</orig><reg>juré</reg></mod> que <mod type="corr"><orig>y</orig><reg>il n'y</reg></mod> avait rien il <mod type="corr"><orig>été</orig><reg>était</reg></mod> mort,<lb/>
+Lundi j'ai eu 10/10. <mod type="corr"><orig>j'ai</orig><reg>J'ai</reg></mod> été sur <mod type="del" stage="" who=""><del>l'a</del></mod> la tombe de ma<lb/>
+grand-mère et j'ai <mod type="corr"><orig>fai</orig><reg>fait</reg></mod> <mod type="del" stage="" who=""><del>pp</del></mod> pipi. Lundi j'ai eu 8/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

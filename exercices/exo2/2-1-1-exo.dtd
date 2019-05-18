@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf8"?>
+
+<!ELEMENT bibliographie (livre|article)+>
+
+<!-- ELEMENTS COMMUNS AUX DEUX-->
+<!ELEMENT titre (#PCDATA)>
+
+<!ELEMENT auteur          (nom)>
+    <!ELEMENT nom             (#PCDATA)>
+
+<!-- PARTIE LIVRE -->
+<!ELEMENT livre (titre, auteur+, tome+, infos_edition)>
+    
+    <!-- titre et auteur : voir commun -->
+    
+    <!ELEMENT tome ((num_tome|nom_tome), nb_page)>
+        <!ELEMENT num_tome (#PCDATA)>
+        <!ELEMENT nom_tome (#PCDATA)>
+        <!ELEMENT nb_page (#PCDATA)>
+        
+    <!ELEMENT infos_edition (nom_editeur, lieu_edition, lieu_impression, isbn)>
+        <!ELEMENT nom_editeur (#PCDATA)>
+        <!ELEMENT lieu_edition (#PCDATA)>
+        <!ELEMENT lieu_impression (#PCDATA)>
+        <!ELEMENT isbn (#PCDATA)>
+
+<!-- PARTIE ARTICLE-->
+<!ELEMENT article (titre, auteur+, ref_publication, avis?)>
+    
+    <!-- titre et auteur : voir commun -->
+    
+    <!ELEMENT ref_publication (nom_journal, num_journal, num_pages, annee_pub)>
+        <!ELEMENT nom_journal (#PCDATA)>
+        <!ELEMENT num_journal (#PCDATA)>
+        <!ELEMENT num_pages (#PCDATA)>
+        <!ELEMENT annee_pub (#PCDATA)>
+
+    <!ELEMENT avis (#PCDATA)>
+
+
+

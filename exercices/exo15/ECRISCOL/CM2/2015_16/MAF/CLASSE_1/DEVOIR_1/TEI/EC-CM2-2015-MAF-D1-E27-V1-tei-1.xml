@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E27-V1
+</head>
+<p>
+J'ai eu des bonnes idées. <mod type="corr"><orig>j'ai</orig><reg>J'ai</reg></mod> fait des<lb/>
+catastrophes dans <mod type="corr"><orig>toutes</orig><reg>toute</reg></mod> la ville. <mod type="corr"><orig>mais</orig><reg>Mais</reg></mod> quand<lb/>
+j'ai montré <mod type="add" stage="" who=""><add>ça</add></mod> j'ai eu <mod type="corr"><orig>in</orig><reg>un</reg></mod> 0/10 et <mod type="corr"><orig>méme</orig><reg>même</reg></mod> j'ai<lb/>
+eu un <mod type="corr"><orig>mots</orig><reg>mot</reg></mod> dans mon cahier de #XXX# avis.<lb/>
+#XXX# <mod type="del" stage="" who=""><del>X#</del></mod> et pire j'<mod type="corr"><orig>étai</orig><reg>étais</reg></mod> convoqué chez<lb/>
+M le directeur avec <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> parents. <mod type="corr"><orig>ma</orig><reg>Ma</reg></mod> <mod type="corr"><orig>mére</orig><reg>mère</reg></mod><lb/>
+était trés <mod type="corr"><orig>faché</orig><reg>fâchée</reg></mod> et mon <mod type="corr"><orig>pére</orig><reg>père</reg></mod> aussi du coup<lb/>
+<mod type="add" stage="" who=""><add>j'ai</add></mod> été <mod type="corr"><orig>punis</orig><reg>puni</reg></mod> de <mod type="corr"><orig>telé</orig><reg>télé</reg></mod> pendant une année <mod type="corr"><orig>aprés</orig><reg>après</reg></mod><lb/>
+je <mod type="corr"><orig>me<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>me</reg></mod> suis <mod type="corr"><orig>tenue</orig><reg>tenu</reg></mod> à car#XXX#. <mod type="corr"><orig>et</orig><reg>Et</reg></mod> petit à petit<lb/>
+c'était <mod type="add" stage="" who=""><add>noël</add></mod> et comme je m'<mod type="corr"><orig>était</orig><reg>étais</reg></mod> <mod type="corr"><orig>tenue</orig><reg>tenu</reg></mod> à<lb/>
+carreaux #XXX# eu des <mod type="corr"><orig>tonne</orig><reg>tonnes</reg></mod> de cadeaux et<lb/>
+puis tout <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>changer</orig><reg>changé</reg></mod> je suis <mod type="corr"><orig>aller</orig><reg>allé</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'école<lb/>
+puis j'ai <mod type="corr"><orig>raconter</orig><reg>raconté</reg></mod> beaucoup de <mod type="corr"><orig>chose</orig><reg>choses</reg></mod>. <mod type="corr"><orig>qui</orig><reg>Qui</reg></mod> <mod type="corr"><orig>fesait</orig><reg>faisaient</reg></mod><lb/>
+<mod type="add" stage="" who=""><add>rire</add></mod> ma classe et <mod type="corr"><orig>mème</orig><reg>même</reg></mod> ma <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>ducoup</orig><reg>du coup</reg></mod><lb/>
+j'ai eu la meilleure note 24/2 et puis<lb/>
+j'ai été le premier de ma classe Fin. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

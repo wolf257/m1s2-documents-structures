@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E12
+</head>
+<p>
+<pb/>
+Quand je serai adulte je serai: <mod type="subst"><del><mod type="del" stage="" who=""><del>flauriste</del></mod></del><add stage="" who="">fleuriste</add></mod>. §<lb/>
+Un mardi matin le réveil sonne. 7h00.<lb/>
+Je me réveille je vais faire mes <mod type="corr"><orig>petites</orig><reg>petits</reg></mod><lb/>
+affaires et je <mod type="corr"><orig>descend</orig><reg>descends</reg></mod> dans la cuisine,<lb/>
+je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> mon petit <mod type="corr"><orig>déjeunée</orig><reg>déjeuner</reg></mod>. Je remonte dans <mod type="add" stage="" who=""><add>la salle d'eau, <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> ma douche et je vais dans</add></mod><lb/>
+ma chambre, je <mod type="del" stage="" who=""><del>mha</del></mod> m'habille et je <mod type="corr"><orig>part</orig><reg>pars</reg></mod><lb/>
+au <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod>. J'installe mes pots de fleurs et §<lb/>
+
+<pb/>
+je <mod type="corr"><orig>comance</orig><reg>commence</reg></mod> à <mod type="corr"><orig>travaillée</orig><reg>travailler</reg></mod>, les premiers <mod type="corr"><orig>acheteur</orig><reg>acheteurs</reg></mod><lb/>
+arrivent. Aujourd'hui c'est un grand jour. C'est<lb/>
+le <mod type="subst"><del><mod type="del" stage="" who=""><del>printen</del></mod></del><add stage="" who="">printemps</add></mod> donc il y a beaucoup<lb/>
+de <mod type="corr"><orig>personne</orig><reg>personnes</reg></mod>. <mod type="del" stage="" who=""><del>pour rédécoré redécoré leur jardin</del></mod><lb/>
+Je <mod type="corr"><orig>repart</orig><reg>repars</reg></mod> du <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>est</del></mod></del><add stage="" who="">et</add></mod> je me <mod type="corr"><orig>rend</orig><reg>rends</reg></mod><lb/>
+compte qu'ils m'ont <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>casie</del></mod></del><add stage="" who="">cazie</add></mod></orig><reg>quasi</reg></mod> <mod type="corr"><orig>vidée</orig><reg>vidé</reg></mod> ma boutique.<lb/>
+Je <mod type="subst"><del><mod type="del" stage="" who=""><del>rentre</del></mod></del><add stage="" who="">rentre</add></mod> chez moi, je <mod type="corr"><orig>m'ai</orig><reg>mets</reg></mod> mes pantoufles<lb/>
+et je me <mod type="corr"><orig>détend</orig><reg>détends</reg></mod> dans mon canapé. A 19h30<lb/>
+je prépare à <mod type="corr"><orig>mangé</orig><reg>manger</reg></mod>: des <mod type="corr"><orig>lazagne</orig><reg>lasagnes</reg></mod> maison. §<lb/>
+Je mange, et je regarde <mod type="corr"><orig>Gres'anatomie</orig><reg>Gray's Anatomy</reg></mod> §<lb/>
+
+<pb/>
+Je me brosse les dents, je me <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>mai</del></mod></del><add stage="" who="">mes</add></mod></orig><reg>mets</reg></mod><lb/>
+en <mod type="subst"><del><mod type="del" stage="" who=""><del>pygama</del></mod></del><add stage="" who="">pyjama</add></mod> et je vais au lit (à 22h00) §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

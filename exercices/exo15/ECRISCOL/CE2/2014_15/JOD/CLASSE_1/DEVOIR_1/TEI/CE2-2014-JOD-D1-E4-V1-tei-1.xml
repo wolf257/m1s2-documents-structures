@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E4-V1
+</head>
+<p>
+Il était une fois un petit <mod type="corr"><orig>graçon</orig><reg>garçon</reg></mod> <mod type="add" stage="" who="P"><add>garçon</add></mod> <mod type="corr"><orig>sapellent</orig><reg>s'appelant</reg></mod> <mod type="add" stage="" who="P"><add>s'appelant</add></mod> Gabriel. Il alla à l'école<lb/>
+et sur le chemin il <mod type="corr"><orig>perdas</orig><reg>perdit</reg></mod> <mod type="add" stage="" who="P"><add>perdit</add></mod> <mod type="corr"><orig>sas</orig><reg>sa</reg></mod> <mod type="add" stage="" who="P"><add>sa</add></mod> <mod type="corr"><orig>toupis</orig><reg>toupie</reg></mod> <mod type="add" stage="" who="P"><add>toupie</add></mod> multicolore. Il <mod type="corr"><orig>ariva</orig><reg>arriva</reg></mod> <mod type="add" stage="" who="P"><add>arriva</add></mod> <lb/>
+à l'école puis Anne-Lise lui demanda. Tu as perdu <mod type="corr"><orig>quellque</orig><reg>quelque</reg></mod> <mod type="add" stage="" who="P"><add>quelque</add></mod> chose?<lb/>
+demanda Anne-Lise. Ma toupie sur le chemin de <mod type="corr"><orig>l'Ecole</orig><reg>l'école</reg></mod>. §<lb/>
+Il <mod type="corr"><orig>chercha<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>chercha</reg></mod> partout partout et <mod type="corr"><orig>pratout</orig><reg>partout</reg></mod> <mod type="add" stage="" who="P"><add>partout</add></mod>...Mais ils <mod type="corr"><orig>nont</orig><reg>n'ont</reg></mod> <mod type="add" stage="" who="P"><add>n'ont</add></mod> rien <lb/>
+<mod type="corr"><orig>trouve<mod type="subst"><del><mod type="del" stage="" who="P"><del>r</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>trouvé</reg></mod>. Alors Gabriel <mod type="corr"><orig>alla<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>alla</reg></mod> <mod type="corr"><orig>demandés</orig><reg>demander</reg></mod> <mod type="add" stage="" who="P"><add>demandé</add></mod> <mod type="corr"><orig>oh</orig><reg>au</reg></mod> <mod type="add" stage="" who="P"><add>au</add></mod> gardien de l'oubli.<lb/>
+<mod type="corr"><orig>D<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">è</add></mod>s</orig><reg>dès</reg></mod> qu'il <mod type="corr"><orig>entra<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>entra</reg></mod> il <mod type="corr"><orig>di<mod type="subst"><del><mod type="del" stage="" who="P"><del>sa</del></mod></del><add stage="" who="P">t</add></mod></orig><reg>dit</reg></mod>. <mod type="corr"><orig><mod type="del" stage="" who="P"><del>Quesque se passe</del></mod></orig><reg>Qu'est-ce qui se passe</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">T</add></mod>u</orig><reg>Tu</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">as</add></mod></orig><reg>as</reg></mod><lb/>
+perdu <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>quel que</del></mod></del><add stage="" who="P">quelque</add></mod></orig><reg>quelque</reg></mod> chose? Oui ma <mod type="corr"><orig>toupi<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>toupie</reg></mod> <mod type="add" stage="" who="P"><add>toupie</add></mod>. <mod type="corr"><orig>Daccords</orig><reg>D'accord</reg></mod>!? <mod type="add" stage="" who="P"><add>D'accord</add></mod> Alors je<lb/>
+vais <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>tammenés</del></mod></del><add stage="" who="P">t'emmener</add></mod></orig><reg>t'emmener</reg></mod> dans une <mod type="corr"><orig>pièce<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>pièce</reg></mod> <mod type="corr"><orig>pourque</orig><reg>pour que</reg></mod> <mod type="add" stage="" who="P"><add>pour que</add></mod> tu la <mod type="corr"><orig>retrouve<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>retrouve</reg></mod>.<lb/>
+Il la retrouva sur l'<mod type="corr"><orig>étajéres</orig><reg>étagère</reg></mod> <mod type="add" stage="" who="P"><add>étagère</add></mod>! Puis il <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>disas</del></mod></del><add stage="" who="P">dit</add></mod></orig><reg>dit</reg></mod> merci à l'homme.<lb/>
+Il lui <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>disa</del></mod></del><add stage="" who="P">dit</add></mod></orig><reg>dit</reg></mod> merci merci merci...Puis il <mod type="corr"><orig>repartas</orig><reg>repartit</reg></mod> <mod type="add" stage="" who="P"><add>repartit</add></mod> à l'école.<lb/>
+En <mod type="corr"><orig>fesant</orig><reg>faisant</reg></mod> <mod type="add" stage="" who="P"><add>faisant</add></mod> <mod type="corr"><orig>attension</orig><reg>attention</reg></mod> <mod type="add" stage="" who="P"><add>attention</add></mod> de ne pas la perdre <mod type="corr"><orig>ses</orig><reg>cette</reg></mod> <mod type="corr"><orig>fois sis</orig><reg>fois-ci</reg></mod> <mod type="add" stage="" who="P"><add>cette fois-ci</add></mod>. §<lb/>
+FIN §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

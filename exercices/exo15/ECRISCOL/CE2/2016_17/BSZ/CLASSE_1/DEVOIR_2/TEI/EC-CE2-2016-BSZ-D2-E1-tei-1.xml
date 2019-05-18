@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E1
+</head>
+<p>
+Il va a l’école pour apprendre, puis il <mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="" who="">va</add></mod><lb/>
+en récréation et il se fait des nouveaux <mod type="corr"><orig>copin</orig><reg>copains</reg></mod>, il<lb/>
+entre en classe <mod type="corr"><orig>epour</orig><reg>pour</reg></mod> apprendre sa table de dix et<lb/>
+ses <mod type="corr"><orig>mathe</orig><reg>maths</reg></mod> ... Il va <mod type="corr"><orig>a</orig><reg>à</reg></mod> la cantine et il mange<lb/>
+de la <mod type="corr"><orig>puré</orig><reg>purée</reg></mod> au repas, dessert crème <mod type="corr"><orig>englaise</orig><reg>anglaise</reg></mod>, <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>entr</del></mod><lb/></del><add stage="" who="">entré</add></mod></orig><reg>entrée</reg></mod> <mod type="corr"><orig>bétrave</orig><reg>betterave</reg></mod> au <mod type="corr"><orig>maisse</orig><reg>maïs</reg></mod>. Puis il est en récréation<lb/>
+il <mod type="add" stage="" who=""><add>joue</add></mod> avec ses <mod type="corr"><orig>nouveau</orig><reg>nouveaux</reg></mod> <mod type="corr"><orig>copin</orig><reg>copains</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> les <mod type="corr"><orig>fille</orig><reg>filles</reg></mod> <mod type="corr"><orig>atrape</orig><reg>attrapent</reg></mod> les <mod type="corr"><orig>garçon</orig><reg>garçons</reg></mod><lb/>
+puis à l’épervier...Il y a un animateur qui lui tu<lb/>
+<mod type="del" stage="" who=""><del>il</del></mod> a <mod type="corr"><orig>gagner</orig><reg>gagné</reg></mod> avec tes <mod type="corr"><orig>copin</orig><reg>copains</reg></mod> le garçon lui <mod type="corr"><orig>repon</orig><reg>répond</reg></mod> oui j’ai gagné<lb/>
+avec mes <mod type="corr"><orig>copin</orig><reg>copains</reg></mod>, le <mod type="corr"><orig>garcon</orig><reg>garçon</reg></mod> lui <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> pourquoi tu le dis <mod type="corr"><orig>sa</orig><reg>ça</reg></mod><lb/>
+<mod type="corr"><orig>l’anima</orig><reg>l’animateur</reg></mod> lui <mod type="corr"><orig>repon</orig><reg>répond</reg></mod> alors comme ça  je <mod type="corr"><orig>voulai</orig><reg>voulais</reg></mod> savoir<lb/>
+puis rentre <mod type="corr"><orig>cher</orig><reg>chez</reg></mod> lui <mod type="corr"><orig>voi</orig><reg>voir</reg></mod> ses parents, ses parents<lb/>
+lui <mod type="corr"><orig>dis</orig><reg>disent</reg></mod> <mod type="corr"><orig>alor</orig><reg>alors</reg></mod> c’est bien passé à <mod type="corr"><orig>l’écol</orig><reg>l’école</reg></mod>, le <mod type="corr"><orig>garcon</orig><reg>garçon</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod><lb/>
+oui <mod type="corr"><orig>ses</orig><reg>ça</reg></mod> <mod type="corr"><orig>ses</orig><reg>c’est</reg></mod> bien passé je me suis fait des nouveaux <mod type="corr"><orig>copi<lb/>
+n</orig><reg>copains</reg></mod>, ses parents lui <mod type="corr"><orig>dis</orig><reg>disent</reg></mod> <mod type="corr"><orig>abon</orig><reg>ah bon</reg></mod>, le <mod type="corr"><orig>garcon</orig><reg>garçon</reg></mod> oui <mod type="corr"><orig>vrément</orig><reg>vraiment</reg></mod>.<lb/>
+Puis <mod type="add" stage="" who=""><add>il</add></mod> va manger avec ses parents..Le lendemain<lb/>
+-matin il prend son petit déjeuner ses parents <mod type="del" stage="" who=""><del>X#e</del></mod><lb/>
+#XXX# fais ses parents <mod type="corr"><orig>son</orig><reg>sont</reg></mod> la #XXX# <mod type="add" stage="" who=""><add>fais</add></mod> la, <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>emenent</orig><reg>emmènent</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,139 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E2-V1
+</head>
+<p>
+<pb/>
+
+<mod type="del" stage="" who=""><del>Sans ce même réverbère, il v</del></mod> En s'aprochant d<mod type="del" stage="" who=""><del>e ce</del></mod><lb/>
+réverbère qui n'était <mod type="del" stage="" who=""><del>qu'a quelques pas</del></mod> <mod type="add" stage="" who=""><add>maintenant</add></mod> plus qu'a quelques <lb/>
+pas, il vit sous un deuxième réverbère<mod type="del" stage="" who=""><del>s</del></mod>, qui n'était qu'à <lb/>
+quelques mètres, <mod type="del" stage="" who=""><del>XXX#</del></mod> un jeune homme. Ce jeune <mod type="del" stage="" who=""><del>XXX#</del></mod> homme<lb/> 
+était <mod type="add" stage="" who=""><add>recroquvill#XXX#</add></mod> sur lui-même, il avait l'air <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+d'avoir froid, et <mod type="add" stage="" who=""><add>donnait l'impression</add></mod> d'être là depuis quelques temps. Il n'y<lb/>
+avait <mod type="subst"><del><mod type="del" stage="" who=""><del>aucun</del></mod></del><add stage="" who="">aucune</add></mod> affaire autour de lui, il dormait, sur <lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>ce début de ce chemin #XXX# pavés</del></mod></del><add stage="" who="">ce début de chemin de pavés</add></mod>. Il portait une chemise <mod type="add" stage="" who=""><add>,</add></mod> qui <lb/>
+au début de son existance <mod type="add" stage="" who=""><add>celle-ci</add></mod> devait être blanche mais qui là <mod type="subst"><del><mod type="del" stage="" who=""><del>était</del></mod></del><add stage="" who="">avé</add></mod> <lb/>
+<mod type="add" stage="" who=""><add>une couleur que</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>tournait</del></mod></del><add stage="" who="">se situait</add></mod> entre un jaune et <mod type="add" stage="" who=""><add>bege</add></mod>. Il avait un pantalon marron plus long <lb/>
+que ses jambes <mod type="add" stage="" who=""><add>particulièrement menues</add></mod>, <mod type="subst"><del><mod type="del" stage="" who=""><del>des</del></mod></del><add stage="" who="">de ses</add></mod> pieds du pantalon <mod type="add" stage="" who=""><add>dépaçait</add></mod> <mod type="add" stage="" who=""><add>quelque</add></mod><lb/>
+<mod type="add" stage="" who=""><add>doit</add></mod> de <mod type="add" stage="" who=""><add>pied</add></mod>. <mod type="subst"><del><mod type="del" stage="" who=""><del>Au dessus</del></mod></del><add stage="" who="">Par dessus</add></mod> <mod type="del" stage="" who=""><del>de</del></mod> la chemise <mod type="add" stage="" who=""><add>,</add></mod> il portait un<lb/>
+grand manteau noir, <mod type="add" stage="" who=""><add>à peine travaillé</add></mod>, ce manteau n'avait pas l'aire très<lb/>
+é pais. <mod type="del" stage="" who=""><del>Il devait sûrement avoir très froid</del></mod> En arrivant <lb/>
+tout prêt de lui, notre marcheur nocturne s'apperçu<lb/>
+que le jeune homme était une jeune femme <mod type="add" stage="" who=""><add>puis que</add></mod> de<lb/>
+
+<pb/>
+
+là où il arrivait on ne voyait pas <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="del" stage="" who=""><del>ses</del></mod> <mod type="add" stage="" who=""><add>les</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>longs et ondulés<lb/> cheveux</del></mod></del><add stage="" who="">cheveux longs bruns et ondulés</add></mod> <mod type="add" stage="" who=""><add>de la jeune femme</add></mod>. Au même moment, <mod type="subst"><del><mod type="del" stage="" who=""><del>la</del></mod></del><add stage="" who="">cette</add></mod> jeune femme<lb/>
+ouvrit les yeux et elle fut <mod type="add" stage="" who=""><add>très</add></mod> surprise de trouver debout à<lb/>
+côté d'elle, un homme. Ils étaient <mod type="subst"><del><mod type="del" stage="" who=""><del>sous le même<lb/> réverbère</del></mod></del><add stage="" who="">là</add></mod> où elle s'était <mod type="corr"><orig>assoupis</orig><reg>assoupi</reg></mod> la veille <mod type="add" stage="" who=""><add>XXX#</add></mod><lb/>
+contre le reverbère elle qui fuiait sans savoir où aller.<lb/>
+Elle avait quitter la <mod type="subst"><del><mod type="del" stage="" who=""><del>maison</del></mod></del><add stage="" who="">demeure</add></mod> de ses parents <mod type="add" stage="" who=""><add>très précipitament</add></mod><lb/>
+après <mod type="del" stage="" who=""><del>avoir</del></mod> leur avoir annoncer qu'elle refusait de se marier. <lb/>
+A cet époque là <mod type="subst"><del><mod type="del" stage="" who=""><del>quand</del></mod></del><add stage="" who="">lorsqu'</add></mod> on est une fille de bonne famille,<lb/>
+<mod type="del" stage="" who=""><del>on ne le refuse pas</del></mod><mod type="add" stage="" who=""><add>on se marier sans avoir été consultter, ni avoir donner son consentement</add></mod>. L'homme était ravi<mod type="del" stage="" who=""><del>s</del></mod> d'apercevoir que <lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>son visage</del></mod></del><add stage="" who="">le visage de la jeune femme</add></mod> ne refletait pas du tous l'état des vêtements qu'elle <lb/>
+portait, elle avait de magnifiques yeux bleus, un nez <lb/>
+<mod type="del" stage="" who=""><del>tout petit minuscule</del></mod> <mod type="add" stage="" who=""><add>assez imposant mais c'est ce qui faisait tout son charme</add></mod>, ses lèvres étaient roses pâles puisque il faisait froid.<lb/>
+L'homme s'<mod type="corr"><orig>accroupli</orig><reg>accroupit</reg></mod> à côté d'elle. Il <mod type="subst"><del><mod type="del" stage="" who=""><del>avait</del></mod></del><add stage="" who="">ouvrit</add></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="add" stage="" who=""><add>son</add></mod> sac qui contenait <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+un morceau de pain et <mod type="del" stage="" who=""><del>de la viande séche</del></mod> <mod type="add" stage="" who=""><add>quelques fruits</add></mod>. Ils parlairent<lb/>
+et mangeraient jusqu'aux premieres lueurs de l'aube. 
+Puis ils se souhaiteraient <mod type="add" stage="" who=""><add>tous deux</add></mod> bonnes chances <mod type="subst"><del><mod type="del" stage="" who=""><del>et</del></mod></del><add stage="" who="">puis</add></mod> continuerait chaqu'un de <lb/>
+leur côté <mod type="subst"><del><mod type="del" stage="" who=""><del>le</del></mod></del><add stage="" who="">leur</add></mod> chemin <mod type="subst"><del><mod type="del" stage="" who=""><del>mais ils ne savaient pas où aller</del></mod></del><add stage="" who="">mais sans savoir où aller</add></mod>. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

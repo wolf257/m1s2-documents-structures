@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2016-ABZ-D3-E1
+</head>
+<p>
+<pb/>
+C’est c’est camarade. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>t</del></mod></del><add stage="" who="">T</add></mod>u</orig><reg>Tu</reg></mod> <mod type="corr"><orig>et</orig><reg>es</reg></mod> <mod type="corr"><orig>punie</orig><reg>puni</reg></mod> de jouer<lb/>
+<mod type="corr"><orig>pandan</orig><reg>pendant</reg></mod> une <mod type="corr"><orig>semene</orig><reg>semaine</reg></mod>. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>i</del></mod></del><add stage="" who="">I</add></mod>l</orig><reg>Il</reg></mod> pleura de <mod type="corr"><orig>tout</orig><reg>toutes</reg></mod> ses <mod type="corr"><orig>farse</orig><reg>forces</reg></mod>.<lb/>
+<mod type="corr"><orig>Cracodile</orig><reg>Cocodi</reg></mod> <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">anons</hi>a</orig><reg>annonça</reg></mod> que <mod type="corr"><orig>es#X#</orig><reg>ses</reg></mod> <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="corr"><orig>été</orig><reg>étaient</reg></mod> <mod type="corr"><orig>mechane</orig><reg>méchants</reg></mod>.<lb/>
+Les <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="corr"><orig>dix</orig><reg>dirent</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>petit</orig><reg>Petit</reg></mod> <mod type="corr"><orig>Cracodile</orig><reg>Cocodi</reg></mod> qu’il <mod type="corr"><orig>été</orig><reg>était</reg></mod> <mod type="corr"><orig>punie</orig><reg>puni</reg></mod><lb/>
+de voir ses <mod type="corr"><orig>copin</orig><reg>copains</reg></mod> <mod type="corr"><orig>pandan</orig><reg>pendant</reg></mod> deux <mod type="corr"><orig>semene</orig><reg>semaines</reg></mod> il<lb/>
+pleura <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>fore</orig><reg>fort</reg></mod> !. Petit <mod type="corr"><orig>crocodile</orig><reg>Cocodi</reg></mod> <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">#X#nons</hi></orig><reg>annonça</reg></mod><lb/>
+à ses <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="corr"><orig>qui</orig><reg>qu’ils</reg></mod> <mod type="corr"><orig>été</orig><reg>étaient</reg></mod> <mod type="corr"><orig>ancor</orig><reg>encore</reg></mod> plus <mod type="corr"><orig>méchan</orig><reg>méchants</reg></mod><lb/>
+(<mod type="corr"><orig>anfèt</orig><reg>en fait</reg></mod> je <mod type="corr"><orig>vou</orig><reg>vous</reg></mod> aime ! maman et papa) §<lb/>
+
+<pb/>
+<mod type="add" stage="T2" who="P"><add>Ils le punirent alors de copains pendant trois semaines</add></mod>. Les <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> de <mod type="corr"><orig>cocodile</orig><reg>Cocodi</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>va</del></mod></del><add stage="" who="">disa</add></mod></orig><reg>dirent</reg></mod> à <mod type="corr"><orig>corcodile</orig><reg>Cocodi</reg></mod><lb/>
+<mod type="corr"><orig>dale</orig><reg>d’aller</reg></mod> dans sa <mod type="corr"><orig>chandre</orig><reg>chambre</reg></mod>. <mod type="corr"><orig>Co#X#odile</orig><reg>Cocodi</reg></mod> <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>diin</orig><reg>dû</reg></mod> <mod type="corr"><orig>reflec</orig><reg>réfléchir</reg></mod><lb/>
+Il <mod type="corr"><orig>disa</orig><reg>dit</reg></mod> à ses <mod type="corr"><orig>paran</orig><reg>parents</reg></mod> <mod type="corr"><orig>cil</orig><reg>qu’il</reg></mod> <mod type="corr"><orig>été</orig><reg>était</reg></mod> <mod type="corr"><orig>ganti</orig><reg>gentil</reg></mod>.<lb/>
+Les <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> je t’aime §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

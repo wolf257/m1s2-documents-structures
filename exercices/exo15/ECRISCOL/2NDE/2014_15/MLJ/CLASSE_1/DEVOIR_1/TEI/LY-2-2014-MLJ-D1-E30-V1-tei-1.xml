@@ -1,0 +1,126 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E30-V1
+</head>
+<p>
+<pb/>
+<mod type="del" stage="" who=""><del>Il eu une réflexion, §<lb/> Cette lumière terne et jaunâtre le rendit plus mélancolique<lb/> encore, elle cela était possible en tout cas, autant qu'un<lb/> homme.</del></mod> §<lb/>
+Il continua sa route, plus rien n'avait d'importance,<lb/>
+<mod type="del" stage="" who=""><del>quand bien m</del></mod> on <mod type="del" stage="" who=""><del>XXX#</del></mod> admettant le fait que <mod type="del" stage="" who=""><del>ce fut</del></mod> ça <mod type="corr"><orig>eu</orig><reg>eut</reg></mod> <lb/>
+déjà été le cas. §<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>Toute</orig><reg>Toutes</reg></mod> les personnes ayant déjà croisé le regard de<lb/>
+cette personne vous <mod type="corr"><orig>dirai<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">en</add></mod>t</orig><reg>diraient</reg></mod> que c'était un homme<lb/>
+sans histoire, un voisin aimant <mod type="del" stage="" who=""><del>et</del></mod>, un père <mod type="corr"><orig>éxemplaire</orig><reg>exemplaire</reg></mod><lb/>
+et un mari <mod type="corr"><orig>attentié</orig><reg>attentionné</reg></mod>. Il avait tout. Ou <mod type="corr"><orig>peut être</orig><reg>peut-être</reg></mod> rien ?<lb/>
+<mod type="del" stage="" who=""><del>I</del></mod> Cet homme, <mod type="del" stage="" who=""><del>d</del></mod> qui <mod type="subst"><del><mod type="del" stage="" who=""><del>devait avoir</del></mod></del><add stage="" who="">avait atteint</add></mod> la trentaine récemment<lb/>
+était de taille moyenne, travaillait dans une entreprise<lb/>
+qui fabriquait des appareils photos <mod type="del" stage="" who=""><del>et des ordinat<lb/> #XXX# #XXX# #XXX# Il n'aimait p</del></mod> Il négociait une augmentation<lb/>
+depuis plusieurs semaines déjà, mais son patron <mod type="subst"><del><mod type="del" stage="" who=""><del>avait</del></mod></del><add stage="" who="">avait</add></mod><lb/>
+"beaucoup <mod type="subst"><del><mod type="del" stage="" who=""><del>affair</del></mod></del><add stage="" who="">à faire</add></mod>, vous comprenez, J'en suis<lb/>
+sûr!". Il vivait en banlieu parisienne, dans <mod type="corr"><orig>un<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>une</reg></mod><lb/>
+quartier résidentiel calme, avec sa femme et sa fille.<lb/>
+<mod type="del" stage="" who=""><del>Il ségnait sur son visage une [té</del></mod> indéscriptible expression<lb/> de dégout] §<lb/>
+Il avait la peau clair, était de corpulence généreuse,<lb/>
+<mod type="del" stage="" who=""><del>mais pas be</del></mod> était habillé chaudement, <mod type="del" stage="" who=""><del>XXX#</del></mod> rien de<lb/>
+moins étonnant il en avait les moyens. §<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> Autour de son cou#XXX# était noué l'écharpe que lui avait<lb/>
+offert sa belle mère à Noël. Il ne l'aimait pas,<lb/>
+mais ça fait bonne impression quand il <mod type="del" stage="" who=""><del>va</del></mod> allait §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

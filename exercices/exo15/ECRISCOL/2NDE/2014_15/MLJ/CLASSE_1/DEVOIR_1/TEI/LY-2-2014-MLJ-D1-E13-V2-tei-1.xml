@@ -1,0 +1,152 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E13-V2
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles, d'une obscurité et d'une<lb/>
+épaisseur d'encre, l'homme, depuis un moment déjà,<lb/>
+marchait quand il aperçut au loin la lumière d'un<lb/>
+réverbère. Il se mit alors à courir vers <mod type="corr"><orig>ce-dernier</orig><reg>ce derier</reg></mod> comme<lb/>
+si la lumière le <mod type="corr"><orig>protègerai</orig><reg>protégerait</reg></mod> de quelque chose. Une fois<lb/>
+sous le cercle jaune blafard, il s'appuya contre le<lb/>
+<mod type="corr"><orig>poteau</orig><reg>poto</reg></mod>, <mod type="corr"><orig>repris</orig><reg>reprit</reg></mod> son souffle quelques instants, puis s'<mod type="corr"><orig>assis</orig><reg>assit</reg></mod><lb/>
+contre <mod type="corr"><orig>ce-dernier</orig><reg>ce dernier</reg></mod>. On pouvait alors enfin observer cet homme.<lb/>
+Il <mod type="subst"><del><mod type="del" stage="T2" who=""><del>semblai avoir</del></mod></del><add stage="T2" who="">avait</add></mod> la quarantaine. Il était vêtu d'une<lb/>
+paire de chaussures de ville, d'un jean, d'un grand<lb/>
+manteau en cuir marron qui sentait le renfermé, d'un<lb/>
+jacquard bleu marine, d'une grosse écharpe en laine et<lb/>
+de gants en <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">l</add></mod>aine</orig><reg>laine</reg></mod> noirs. Il est vrai que l'hiver, cette <mod type="corr"><orig>année là</orig><reg>année-là</reg></mod>,<lb/>
+était étrangement plus froid que d'habitude. <mod type="corr"><orig>Ces</orig><reg>Ses</reg></mod> gros<lb/>
+vêtements chauds donnaient l'impression d'un homme<lb/>
+grand et fort. Pourtant, en réalité, il était plutôt de taille<lb/>
+moyenne, mince et sans grande force physique. §<lb/>
+<mod type="corr"><orig>Evidement</orig><reg>Evidemment</reg></mod>, il n'en avait pas besoin pour son métier<lb/>
+d'écrivain.Son dernier roman a d'ailleurs largement<lb/>
+contribué à <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>a</add></mod>grandir</orig><reg>agrandir</reg></mod> sa célébrité. Il y racontait l'histoire<lb/>
+d'un homme qui vivait son cauchemar, n'ayant que la<lb/>
+faible lumière de sa lampe de poche pour alliée. L'homme<lb/>
+<mod type="subst"><del><mod type="del" stage="T2" who=""><del>adore</del></mod></del><add stage="T2" who="">adorait</add></mod> son métier, mais c'est pourtant à cause de ce dernier<lb/>
+écrit qu'il était dans cet état. §<lb/>
+
+<pb/>
+Il se releva lentement. L'homme tremblait de<lb/>
+peur mais ses poings fermés laissaient entendre le<lb/>
+contraire. Une fois debout, il était plus facile<lb/>
+d'observer son visage de plus près. Les sueurs froides<lb/>
+qui coulaient de son front, ses grands yeux écarquillés,<lb/>
+scrutant tout ce qui pouvait bouger ne serait-ce que d'un<lb/>
+centimètre et ses traits, presque déformés, prouvaient qu'il<lb/>
+était rongé par la folie. §<lb/>
+Depuis le début de ses vacances, qui s'annonçaient<lb/>
+parfaites, il passait presque toutes les nuits dehors.<lb/>
+Il a commencé ces nuits blanches depuis qu'il a trouvé un <mod type="corr"><orig>de<mod type="add" stage="T2" who=""><add>é</add></mod></orig><reg>de</reg></mod><lb/>
+<mod type="del" stage="T2" who=""><del>ses</del></mod> brouillons <mod type="subst"><del><mod type="del" stage="T2" who=""><del>pour</del></mod></del><add stage="T2" who="">de</add></mod> son dernier <mod type="corr"><orig>romans</orig><reg>roman</reg></mod>, légèrement <mod type="corr"><orig>modifié<mod type="del" stage="" who=""><del>t2#s</del></mod></orig><reg>modifié</reg></mod>,<lb/>
+comme <mod type="subst"><del><mod type="del" stage="T2" who=""><del>s'ils</del></mod></del><add stage="T2" who="">s'il</add></mod> n'<mod type="corr"><orig>adressai<mod type="del" stage="T2" who=""><del>en</del></mod>t</orig><reg>adressait</reg></mod> à <mod type="corr"><orig>lui<mod type="add" stage="T2" who=""><add>-même</add></mod></orig><reg>lui-même</reg></mod>. §<lb/>
+Soudain, il se retourna <mod type="add" stage="T2" who=""><add>il avait entendu un grand bruit</add></mod>, comme si quelqu'un arrivait<lb/>
+en courant. Pourtant, il <mod type="del" stage="" who=""><del>XXX#</del></mod> y avait rien. Tout à coup, la<lb/>
+lumière vacilla, puis s'éteint brusquement <mod type="add" stage="T2" who=""><add>,</add></mod> crachant une<lb/>
+gerbe d'<mod type="corr"><orig>étincelles</orig><reg>étincelle</reg></mod>. L'homme sortit aussitôt sa lampe <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">e</add></mod></orig><reg>de</reg></mod><lb/>
+poche, l'alluma, et se <mod type="corr"><orig>mét</orig><reg>mit</reg></mod> à courir vers la nuit, <mod type="corr"><orig>enquête</orig><reg>en quête</reg></mod><lb/>
+d'un autre réverbère. Mais il s'arrête, <mod type="corr"><orig>reviens</orig><reg>revient</reg></mod> sur ses<lb/>
+<mod type="corr"><orig>par</orig><reg>pas</reg></mod>, <mod type="corr"><orig>s'acroupit</orig><reg>s'accroupit</reg></mod>, et ramasse une famille. Lorsqu'il vit<lb/>
+que tout <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">qui</add></mod> vient de se passer était #XXX#  sur celle qu'il<lb/>
+possédait déjà, il poussa un cri de terreur, et repartit <mod type="subst"><del><mod type="del" stage="T2" who=""><del>,</del></mod></del><add stage="T2" who="">.</add></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="T2" who=""><del>en quête d'autres payes et d'un autre réverbère...</del></mod></del><add stage="T2" who="">Bientôt, il disparut dans la nuit noire...</add></mod> §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

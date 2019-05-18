@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E17-V1
+</head>
+<p>
+<pb/>
+les cheveux sales, gras, #XXX#, gris <mod type="add" stage="" who="("><add>XXX# #XXX# #XXX#)</add></mod><lb/>
+(sourcil gris)<lb/>
+regard <mod type="del" stage="" who=""><del>XXX#</del></mod> inexpressif / #XX#triste<lb/>
+#XXX# ;manque #XXX# <lb/>
+
+habits:<mod type="del" stage="" who=""><del>grand pull que déja grand #XXX#</del></mod> patous dechiré, #XXX# #XXX# #XXX#<lb/>
+les nuits #XXX# #XXX#, laisser voir <mod type="add" stage="" who=""><add>presager</add></mod> un grand pull #XXX#,<lb/>
+taché, terne debordant dici delà au niveau des manches et du col.<lb/>
+
+<mod type="del" stage="" who=""><del>p</del></mod> frippe en guise de pantalon. Si usagé <mod type="del" stage="" who=""><del>q</del></mod>, déformé que l'on ne<lb/>
+distingue pas ce que c'etait avant. Pantalon de costume ? jogging?<lb/>
+delavé §<lb/>
+
+Chaussures -> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>chausser de</del></mod></del><add stage="" who="">chaussure</add></mod></orig><reg>chaussures</reg></mod> <mod type="corr"><orig>basse</orig><reg>basses</reg></mod>, qui n'ont plus l'air<lb/>
+<mod type="corr"><orig>tres</orig><reg>très</reg></mod> solide §<lb/>
+
+
+<mod type="del" stage="" who=""><del>DESSIN</del></mod> 
+
+<pb/>
+bras fluets §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

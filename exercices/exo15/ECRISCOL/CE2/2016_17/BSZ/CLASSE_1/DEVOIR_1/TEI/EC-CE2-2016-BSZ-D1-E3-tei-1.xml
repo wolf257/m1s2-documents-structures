@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E3
+</head>
+<p>
+Je me lève un matin il fait jour un beau soleil et<lb/>
+aujourd'hui je <mod type="add" stage="" who=""><add>vais</add></mod> faire les <mod type="corr"><orig>magasin</orig><reg>magasins</reg></mod> avec mes <mod type="corr"><orig>copine</orig><reg>copines</reg></mod>: <mod type="corr"><orig>lilou</orig><reg>Lilou</reg></mod>, <mod type="corr"><orig>candice</orig><reg>Candice</reg></mod>,<lb/>
+<mod type="corr"><orig>léana</orig><reg>Léana</reg></mod> et <mod type="corr"><orig>aude</orig><reg>Aude</reg></mod>, on <mod type="corr"><orig>n'ai</orig><reg>est</reg></mod> <mod type="corr"><orig>revenu</orig><reg>revenues</reg></mod> avec des tas de sac avec des<lb/>
+vêtements des <mod type="corr"><orig>chaus<mod type="add" stage="" who=""><add>s</add></mod>urs</orig><reg>chaussures</reg></mod> à talon et bien <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> du maquillage. <mod type="corr"><orig>le</orig><reg>Le</reg></mod> soir<lb/>
+on <mod type="corr"><orig>allé</orig><reg>allait</reg></mod> <mod type="corr"><orig><mod type="add" stage="" who=""><add>fêté</add></mod></orig><reg>fêter</reg></mod> <mod type="del" stage="" who=""><del>a le</del></mod> mon anniversaire et j'ai invité 2000 <mod type="del" stage="" who=""><del>m</del></mod><lb/>
+personnes donc avec mes <mod type="corr"><orig>copine</orig><reg>copines</reg></mod> on <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>danser</orig><reg>dansé</reg></mod> toute la<lb/>
+nuit. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">O</add></mod>n</orig><reg>On</reg></mod> <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>rentre</orig><reg>rentrés</reg></mod>, on a <mod type="corr"><orig>regarder</orig><reg>regardé</reg></mod> la télé <mod type="corr"><orig>jusqu à</orig><reg>jusuq'à</reg></mod> <mod type="corr"><orig>3heure</orig><reg>trois heures</reg></mod> du<lb/>
+matin, on <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>parti</orig><reg>partis</reg></mod> se coucher et au bout de <mod type="corr"><orig>2</orig><reg>deux</reg></mod> <mod type="corr"><orig>minute</orig><reg>minutes</reg></mod> on <mod type="corr"><orig>dormé</orig><reg>dormait</reg></mod>.<lb/>
+Et le <mod type="corr"><orig>l'an demain</orig><reg>lendemain</reg></mod> la journée <mod type="corr"><orig>recomser</orig><reg>recommençait</reg></mod> et je <mod type="corr"><orig>maiter</orig><reg>m'étais</reg></mod> jamais<lb/>
+autant <mod type="corr"><orig>amusé</orig><reg>amusée</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

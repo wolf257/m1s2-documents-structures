@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliographie SYSTEM "2-1-exo.dtd">
+
+<bibliographie>
+    <!-- LIVRE -->
+    <livre>
+        <titre> Histoire des codes secrets </titre>
+        <auteur> <nom> SINGH Simon</nom> </auteur>
+        <tome>
+            <num_tome> 1 </num_tome>
+            <nb_page> 505</nb_page>
+        </tome>
+        <infos_edition>
+            <nom_editeur> Le Livre de Poche </nom_editeur>
+            <lieu_edition> France </lieu_edition>
+            <lieu_impression> France </lieu_impression>
+            <isbn>9782253150978</isbn>
+        </infos_edition>
+    </livre>
+    
+    <!-- ARTICLE -->
+    <article>
+        <titre> The Development of Math Talent: Influences on Students at a Women's College </titre>
+        <auteur> <nom> GAVIN Katherine</nom> </auteur>
+        <ref_publication>
+            <nom_journal> Journal of Advanced Academics </nom_journal>
+            <num_journal>Vol 7, Issue 4</num_journal>
+            <num_pages>476-485</num_pages>
+            <annee_pub>1996</annee_pub>
+        </ref_publication>
+    </article>
+    
+</bibliographie>
+
+
+

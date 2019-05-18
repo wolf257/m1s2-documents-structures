@@ -1,0 +1,134 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E16
+</head>
+<p>
+<pb/>
+Ce matin, je suis réveillée depuis<lb/>
+6h47 min. Pour moi, un grosse journée<lb/>
+va commencer car je suis avocate:<lb/>
+je suis spécialisée dans les problèmes<lb/>
+de couples et de famille. Aujourd'hui<lb/>
+j'ai un procès et des <mod type="corr"><orig>dossier</orig><reg>dossiers</reg></mod> à<lb/>
+finir. 8h00; je pars pour aller<lb/>
+travailler dans mon "cabinet". §<lb/>
+12h00; J'ai fini mes dossiers et<lb/>
+je me dépêche d'aller manger<lb/>
+car j'ai un procès à 13h30 à<lb/>
+Bernai. <mod type="del" stage="" who=""><del>Berne</del></mod> Car ma cliente §<lb/>
+
+<pb/>
+Léa Mulet parce <mod type="del" stage="" who=""><del>qu'elle</del></mod> que nous devons<lb/>
+régler son divorce. 13h30; l'<mod type="del" stage="" who=""><del>audiens</del></mod><lb/>
+audience commence et ne se termine<lb/>
+qu'à 15h10. 15h30; je vais chercher<lb/>
+mes 2 enfants à l'école et ma <mod type="del" stage="" who=""><del>p</del></mod> fille à<lb/>
+la crèche. 17h00; je rentre chez moi<lb/>
+avec mes 3 enfants. Les 2 grands font<lb/>
+leurs devoirs (Zola et Hugues), et la petite<lb/>
+(Julie) va à la sieste. Pendant ce temps<lb/>
+moi, j'attends mon mari (Louis) en<lb/>
+rangeant mes dossiers et en nettoyant<lb/>
+la maison. 20h00; Louis arrive après<lb/>
+sa longue journée de travail. §<lb/>
+20h15; je suis appelée en vitesse<lb/>
+par mon chef pour une réunion<lb/>
+d'avocats. 23h00; je rentre chez moi<lb/>
+épuisée et m'endors sur mon<lb/>
+canapé! §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

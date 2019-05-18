@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E15-V1
+</head>
+<p>
+Dimanche, j'ai lancé mon livre sur la vaisselle,<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>Mon</del></mod></del><add stage="" who="">mon</add></mod> chat était en dessous. Il <mod type="corr"><orig>s'<mod type="del" stage="" who=""><del>es</del></mod> ai</orig><reg>s'est</reg></mod> pris toute la vaisselle!<lb/>
+Il <mod type="corr"><orig>s'ai</orig><reg>s'est</reg></mod> ouvert le crâne <mod type="add" stage="" who=""><add>puis</add></mod> on l'a <mod type="corr"><orig>emené</orig><reg>emmené</reg></mod> chez le vétérinaire <mod type="del" stage="" who=""><del>,</del></mod><lb/>
+Il nous a <mod type="corr"><orig>di<mod type="subst"><del><mod type="del" stage="" who=""><del>t</del></mod></del><add stage="" who="">s</add></mod></orig><reg>dit</reg></mod> qu'il <mod type="corr"><orig>allais</orig><reg>allait</reg></mod> rester <mod type="subst"><del><mod type="del" stage="" who=""><del>5</del></mod></del><add stage="" who="">cinq</add></mod> mois car il a <mod type="corr"><orig>quatre-vigt-trois</orig><reg>quatre-vingt-trois</reg></mod><lb/>
+<mod type="corr"><orig>poursent</orig><reg>pour cent</reg></mod> de mourir. Mes <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> qui <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> <mod type="corr"><orig>furieu</orig><reg>furieux</reg></mod> contre moi<lb/>
+car j'avais gravement <mod type="corr"><orig>bléssé</orig><reg>blessé</reg></mod> le chat <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>m'on</del></mod></del><add stage="" who="">mon</add></mod></orig><reg>m'ont</reg></mod> <mod type="corr"><orig>interdi</orig><reg>interdit</reg></mod> de manger,<lb/>
+<mod type="del" stage="" who=""><del>et de rester</del></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="del" stage="" who=""><del>mon</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>m'on</del></mod></del><add stage="" who="">mon</add></mod></orig><reg>m'ont</reg></mod> aussi <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> de rester dans ma<lb/>
+chambre... Mais j'avais tout prévu avant de renverser la<lb/>
+vaisselle j'étais <mod type="corr"><orig>aller</orig><reg>allé</reg></mod> m'acheter une grande réserve de bonbons,<lb/>
+<mod type="del" stage="" who=""><del>et #X#</del></mod> j'avais pris la console de ma soeur et mon téléphone. En<lb/>
+fin de journée un <mod type="corr"><orig>copin</orig><reg>copain</reg></mod> à moi m'a <mod type="corr"><orig>appeler</orig><reg>appelé</reg></mod> <mod type="del" stage="" who=""><del>et</del></mod> pour me<lb/>
+demander si je pouvais venir. Je lui <mod type="corr"><orig>est</orig><reg>ai</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> oui pour pouvoir<lb/>
+sortir de ma chambre j'ai <mod type="corr"><orig>dabord</orig><reg>d'abord</reg></mod> <mod type="corr"><orig>demander</orig><reg>demandé</reg></mod> à ma mère<lb/>
+qui m'a répondu non. Donc je me suis "<mod type="corr"><orig>évader</orig><reg>évadé</reg></mod>" par mon<lb/>
+balcon. Ma mère m'a vu puis <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> puni en me jetant<lb/>
+mon téléphone à la poubelle. A ma rédaction, <mod type="add" stage="" who=""><add>lundi</add></mod> j<mod type="del" stage="" who=""><del>a</del></mod>'ai <mod type="add" stage="" who=""><add>eu</add></mod> 8,5/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

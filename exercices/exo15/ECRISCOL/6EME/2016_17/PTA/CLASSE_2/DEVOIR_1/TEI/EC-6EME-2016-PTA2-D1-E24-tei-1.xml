@@ -1,0 +1,109 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E24
+</head>
+<p>
+Je ferais footballeur. Ils <mod type="corr"><orig>montester</orig><reg>m'ont testé</reg></mod> pour voir comment je<lb/>
+<mod type="corr"><orig>jouer</orig><reg>jouais</reg></mod> au football. <mod type="corr"><orig>alors</orig><reg>Alors</reg></mod> ils <mod type="corr"><orig>mon</orig><reg>m'ont</reg></mod> passé des <mod type="corr"><orig>test<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>tests</reg></mod> et <mod type="corr"><orig>posér</orig><reg>posé</reg></mod>.<lb/>
+<mod type="corr"><orig>pleins</orig><reg>plein</reg></mod> de questions sur l'arbitrage, les <mod type="corr"><orig>fauter</orig><reg>fautes</reg></mod>, les <mod type="corr"><orig>hors jeu</orig><reg>hors-jeu</reg></mod>.<lb/>
+<mod type="corr"><orig>ils</orig><reg>Ils</reg></mod> <mod type="corr"><orig>mon</orig><reg>m'ont</reg></mod> <mod type="corr"><orig>expliquez</orig><reg>expliqué</reg></mod> le reglement du foot...Ensuite<lb/>
+j'ai fait un match avec d'autres joueurs<lb/>
+qui eux <mod type="corr"><orig>été</orig><reg>étaient</reg></mod> aussi en stage, j'ai <mod type="corr"><orig>jouer</orig><reg>joué</reg></mod> tous les postes (attaquants,<lb/>
+<mod type="corr"><orig>milie</orig><reg>milieu</reg></mod> de terrain et défenseur et <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>mon</orig><reg>m'ont</reg></mod> dit que je <mod type="corr"><orig>jouai</orig><reg>jouais</reg></mod> mieux<lb/>
+en défense. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,191 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E20-V2
+</head>
+<p>
+<pb/>
+Il s'arreta à la lumière du réverbère. Sans<lb/>
+
+l'ombre d'un doute, il voit, au loin, une femme<lb/>
+
+plutôt petite de taille, dodue, habillée avec une<lb/>
+
+sorte de veste trouée, pantalon trop court. Il ne voyait<lb/>
+
+que ses vêtements mais pas son visage car il était trop<lb/>
+
+loin. Un enfant <mod type="add" stage="" who=""><add>petit de taille</add></mod> sortit de la lumière, alla <mod type="corr"><orig>a</orig><reg>à</reg></mod> côté<lb/>
+
+d'elle. L'enfant avait très froid; il n'avait qu'un<lb/>
+
+pantalon et un pull léger. Immédiatement,<lb/>
+
+l'homme se posa plusieurs questions dans sa tête:<lb/>
+
+ce sont <mod type="corr"><orig>peut être</orig><reg>peut-être</reg></mod> des sans-abris ? peut-être qu'ils<lb/>
+
+sont justes perdus ? Quelques minutes de réflexion,<lb/>
+
+c'était une <mod type="corr"><orig>evidence</orig><reg>évidence</reg></mod>, ils étaient bien des sans-<lb/>
+
+abris et <mod type="corr"><orig>perdu</orig><reg>perdus</reg></mod> tout particulièrement à cause<lb/>
+
+de leurs vêtements si <mod type="corr"><orig>léger</orig><reg>légers</reg></mod> <mod type="add" stage="" who=""><add>et troué<mod type="del" stage="" who=""><del>e</del></mod>s</add></mod> avec ce temps pareil. §<lb/>
+
+<pb/>
+L'homme, lui, avec son bonnet <mod type="add" stage="" who=""><add>noir</add></mod>, son manteau noir<lb/>
+
+arrivant à ses genoux, et son écharpe <mod type="add" stage="" who=""><add>marrin</add></mod> qui lui<lb/>
+
+prenait tout son cou et sa bouche, il alla vers<lb/>
+
+eux. Il regarda la femme, elle avait des cernes,<lb/>
+
+la peau pâte et lisse, les cheveux <mod type="corr"><orig>grand</orig><reg>grands</reg></mod> <mod type="add" stage="" who=""><add>et attachés</add></mod>. Ses<lb/>
+
+vêtements étaient tous troués <mod type="add" stage="" who=""><add>et sales</add></mod>. L'enfant, lui, qui<lb/>
+
+a <mod type="corr"><orig>prit</orig><reg>pris</reg></mod> peur de l'homme qui arriva vers sa mère, se<lb/>
+
+cacha derrière <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">elle</add></mod>. L'homme n'a pas<lb/>
+
+pu voir le visage du petit, il ne sait même<lb/>
+
+pas si c'était une fille ou un garçon.<lb/>
+
+L'homme triste de les voir comme cela<lb/>
+
+avec ce froid, retira de sa poche, un billet<lb/>
+
+de 50 euros et donna à la femme. La mère<lb/>
+
+surprise du geste de l'homme qu'elle ne<lb/>
+
+connaissait pas, lui sauta au cou. L'homme<lb/>
+
+fière de son geste donna son bonnet et son §<lb/>
+
+<pb/>
+écharpe à l'enfant. L'enfant lui sourit à son<lb/>
+
+tour la femme avait perdu la confiance sur<lb/>
+
+les hommes. L'homme retourna chez lui sans<lb/>
+
+son écharpe, sans son bonnet et sans son<lb/>
+
+billet de <mod type="corr"><orig>50</orig><reg>cinquante</reg></mod> euros. Mais rentra dans sa<lb/>
+
+chemise et se rechauffa au coin du feu<lb/>
+
+et pensa à cette mère et son enfant avec un<lb/>
+
+sourir au coin des lèvres. Et se dit avec sa<lb/>
+
+barbe <mod type="del" stage="" who=""><del>ma</del></mod> bien rasée qu'il a comme même de<lb/>
+
+la chance d'avoir une immense maison bien colorée<lb/>
+
+mais se dit avec cette aventure qu'il devrait<lb/>
+
+trouvé une <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">femme</add></mod> avec des enfants. §<lb/>
+
+
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D2-E15-V2
+</head>
+<p>
+<mod type="del" stage="" who=""><del>Tout à coup</del></mod> Il y avait une côte, avec un fossé.<lb/>
+La voiture glissa dans le trou, les filles crient, aussi fort<lb/>
+que possible...par le choc. Elles ne se <mod type="corr"><orig>souvienne</orig><reg>souviennent</reg></mod>, plus de<lb/>
+rien. La mère <mod type="corr"><orig>sorti</orig><reg>sortit</reg></mod> de du magasin, elle cherche la voiture,<lb/>
+elle regarda, dans le fossé, <mod type="corr"><orig>ces</orig><reg>ses</reg></mod> deux <mod type="corr"><orig>fille</orig><reg>filles</reg></mod>, les deux fillettes<lb/>
+<mod type="del" stage="" who=""><del>fu</del></mod> étaient <mod type="corr"><orig>évanuis</orig><reg>évanuies</reg></mod> ; La mère <mod type="corr"><orig>prie</orig><reg>prit</reg></mod> son téléphone et <mod type="corr"><orig>à</orig><reg>a</reg></mod> vite<lb/>
+appelé les <mod type="corr"><orig>pompier</orig><reg>pompiers</reg></mod> et la police. Toute la fammille était là, ils<lb/>
+<mod type="corr"><orig>pleurés</orig><reg>pleuraient</reg></mod>, <mod type="subst"><del><mod type="del" stage="" who=""><del>natacha</del></mod></del><add stage="" who="">Natacha</add></mod> et Nadine <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> à l'hôpital, les deux<lb/>
+filles ne se <mod type="corr"><orig>souvenent</orig><reg>souviennent</reg></mod> de personne. Ensuite dans la nuit,<lb/>
+elles s'echappent, l'infirmière et les autres <mod type="corr"><orig>étais</orig><reg>étaient</reg></mod> inquiètes, ils<lb/>
+<mod type="corr"><orig>cherchaits</orig><reg>cherchèrent</reg></mod> partout, dans l'hôpital dehors Les deux fille rentraient à<lb/>
+à la maison, <mod type="corr"><orig>elle</orig><reg>elles</reg></mod> n'<mod type="corr"><orig>avait</orig><reg>avaient</reg></mod> <mod type="del" stage="" who=""><del>pa</del></mod> ni de véhicule, ni de vélo, et ni de<lb/>
+moto. Elles ont marché à pied. Mais elles <mod type="del" stage="" who=""><del>avait réussie à s'échappés<lb/>
+est et à pui</del></mod> se <mod type="corr"><orig>souveneat</orig><reg>souvenaient</reg></mod> plus il avait <mod type="corr"><orig>étais</orig><reg>été</reg></mod>, A la prémière,<lb/>
+maison, et dedans, la maison, il y avait une sorcière, qui les<lb/>
+a enfermées. Mais <mod type="corr"><orig>elle</orig><reg>elles</reg></mod> <mod type="corr"><orig>avait</orig><reg>avaient</reg></mod> <mod type="corr"><orig>réussie</orig><reg>réussi</reg></mod>, à s'<mod type="corr"><orig>échappés</orig><reg>échapper</reg></mod>, et <mod type="corr"><orig>à</orig><reg>ont</reg></mod> <mod type="corr"><orig>prie</orig><reg>pris</reg></mod> des<lb/>
+<mod type="corr"><orig>possions</orig><reg>potions</reg></mod> <mod type="corr"><orig>magique</orig><reg>magiques</reg></mod> et elle <mod type="corr"><orig>ures</orig><reg>eurent</reg></mod> la mémoire, et <mod type="corr"><orig>retrouv<mod type="subst"><del><mod type="del" stage="" who=""><del>ér</del></mod></del><add stage="" who="">e</add></mod></orig><reg>retrouvèrent</reg></mod> leurs <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

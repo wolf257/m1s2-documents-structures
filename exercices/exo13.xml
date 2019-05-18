@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+<exercice>
+    
+    <infoPage>
+        <titrePage> exercice_13 </titrePage>
+    </infoPage>
+    
+    <infoExo>
+        <titreExo> Exercice 13 : RSS Le Monde </titreExo>
+        <sousTitrePerso> Nous t'aurons tant vu :) </sousTitrePerso>
+    </infoExo>
+    
+    <!--  =============================  -->
+    <question index="1 - xsl">
+        
+        <bloc>
+            <titre> Consigne </titre>
+
+            
+            <pathimage> ./exo13/c1-xsl.png </pathimage>
+        </bloc>
+        
+        <!-- 1 -->
+        <bloc>
+            <titre>Solution q1 (affichage dans navigateur)</titre>
+            
+            <commentaire>
+                <ligne> Attention, le fichier xml de base est très volumineux (+30mb). </ligne>
+                <ligne> Ainsi, nous avons créé un fichier réduit, avec les 25 premiers items, sur les 7696 que compte le fichier de base. </ligne>
+            </commentaire>
+            
+            <pathimage> ./exo13/phase1/img/e1.png</pathimage>
+            
+            <tableau>
+                <ligne_t index="Accès au fichier xml ">
+                    <colonne lien="./exo13/phase1/test-3208-2017-v2-q1.xml"> lien </colonne>
+                </ligne_t>
+            </tableau>
+        </bloc>
+        
+        
+        <!-- 2 -->
+        <bloc> 
+            <titre>Solution q2 (transformation dans Oxygen)</titre>
+            
+            <commentaire>
+                <ligne> Pour la question 2, rappelons-nous de comment nous avons appliqué des transformations pendant l'exercice 9 - q3-2. </ligne>
+                <ligne> Voici d'abord une capture des 3 extractions (ligne1), puis un aperçu du code plus bas (ligne2). </ligne>
+                <ligne> ATTENTION : L'affichage du fichier xml dans un navigateur nous renvoie une erreur, CAR le résultat se trouve dans nos fichiers texte. </ligne>
+            </commentaire>
+            
+            <tableau>
+                <ligne_t index="Images résultats ">
+                    <colonne lien="./exo13/phase1/img/e2-3-1.png"> 1var </colonne>
+                    <colonne lien="./exo13/phase1/img/e2-3-2.png"> 2var </colonne>
+                    <colonne lien="./exo13/phase1/img/e2-3-3.png"> 3var </colonne>
+                    <colonne lien="./exo13/phase1/img/e2-3-4.png"> 4var </colonne>
+                </ligne_t>
+
+                <ligne_t index="Code source xsl">
+                    <colonne lien="./exo13/phase1/xsl/q2.xsl"> q2 </colonne>
+                </ligne_t>
+            </tableau>  
+        </bloc>
+        
+        <!-- 3 -->
+        <bloc>     
+            <titre>Solution q3 (affichage dans navigateur)</titre>
+            
+            <pathimage> ./exo13/phase1/img/e3.png</pathimage>
+            
+            <tableau>
+                <ligne_t index="Accès au fichier xml ">
+                    <colonne lien="./exo13/phase1/test-3208-2017-v2-q3.xml"> lien </colonne>
+                </ligne_t>
+            </tableau>
+            
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo13/phase1/fichierP1Q1.zip </pathZip>
+        </code>
+
+    </question>
+
+    <!--  =============================  -->
+    <question index="1 - xquery">
+        
+        <bloc>
+            <titre> Consigne </titre>
+                        
+            <pathimage> ./exo13/c1-xquery.png </pathimage>
+        </bloc>
+        
+        <bloc> 
+            <titre>Solution</titre>
+            
+            <commentaire>
+                <ligne> Note : cette fois-ci, on a utilisé basex. </ligne>
+            </commentaire>
+            
+            <tableau>
+                <ligne_t index="Image résultats ">
+                    <colonne lien="./exo13/phase1/img/e4-1.png"> q1 </colonne>
+                    <colonne lien="./exo13/phase1/img/e4-2.png"> q2 </colonne>
+                    <colonne lien="./exo13/phase1/img/e4-3.png"> q3 </colonne>
+                    <colonne lien="./exo13/phase1/img/e4-4.png"> q4 </colonne>
+                    <colonne lien="./exo13/phase1/img/e4-5.png"> q5 </colonne>
+                </ligne_t>
+                <ligne_t index="Code Source">
+                    <colonne lien="./exo13/phase1/xquery/q1.xq"> q1 </colonne>
+                    <colonne lien="./exo13/phase1/xquery/q2.xq"> q2 </colonne>
+                    <colonne lien="./exo13/phase1/xquery/q3.xq"> q3 </colonne>
+                    <colonne lien="./exo13/phase1/xquery/q4.xq"> q4 </colonne>
+                    <colonne lien="./exo13/phase1/xquery/q5.xq"> q5 </colonne>
+                </ligne_t>
+
+                <ligne_t index="Autres solutions ">
+                    <colonne lien="./exo13/phase1/xquery/q1_alt.png"> q1 </colonne>
+                    <colonne lien="./exo13/phase1/xquery/q2_alt.png"> q2 </colonne>
+                    <colonne lien="./exo13/phase1/xquery/q3_alt.png"> q3 </colonne>
+                    <colonne lien="./exo13/phase1/xquery/q4_alt.png"> q4 </colonne>
+                    <colonne lien="./exo13/phase1/xquery/q5_alt.png"> q5 </colonne>
+                </ligne_t>
+
+            </tableau>
+            
+            
+        </bloc>
+        <code>
+            <pathZip> ./exo13/phase1/fichierP1Q2.zip </pathZip>
+        </code>
+        
+    </question>
+    
+    <!--  =============================  -->
+    <question index="2 - xsl">
+        
+        <bloc>
+            <titre> Consigne </titre>
+             
+            <pathimage> ./exo13/c2-xsl.png </pathimage>
+        </bloc>
+        
+        <bloc>
+            <titre> Résultats</titre>
+
+        
+        <tableau>
+            <ligne_t index="Question">
+                <colonne> 1 </colonne>
+                <colonne> 2 </colonne>
+                <colonne> 3 </colonne>
+                <colonne>  </colonne>
+                <colonne> 4 </colonne>
+                <colonne> 5 </colonne>
+                <colonne> 6 </colonne>
+            </ligne_t>
+
+            <ligne_t index="Page xml">
+                <colonne lien="./exo13/phase2/xsl/test-TALISMANE-3208-q1.xml"> q1 </colonne>
+                <colonne lien="./exo13/phase2/xsl/test-TALISMANE-3208-q2.xml"> q2 </colonne>
+                <colonne> - </colonne>
+                <colonne> - </colonne>
+                <colonne lien="./exo13/phase2/xsl/test-TALISMANE-3208-q4.xml"> q4 </colonne>
+                <colonne > - </colonne>
+                <colonne> - </colonne>
+            </ligne_t>
+            
+            <ligne_t index="Cas échéant : image après transformation">
+                <colonne> - </colonne>
+                <colonne> - </colonne>
+                <colonne lien="./exo13/phase2/xsl/img/q3-1.png"> q3.1 </colonne>
+                <colonne lien="./exo13/phase2/xsl/img/q3-2.png"> q3.2 </colonne>
+                <colonne> - </colonne>
+                <colonne lien="./exo13/phase2/xsl/img/q5.png"> q5 </colonne>
+                <colonne lien="./exo13/phase2/xsl/img/q6.png"> q6 </colonne>
+            </ligne_t>
+            <ligne_t index="Code Source">
+                <colonne lien="./exo13/phase2/xsl/q1.xsl"> q1 </colonne>
+                <colonne lien="./exo13/phase2/xsl/q2.xsl"> q2 </colonne>
+                <colonne lien="./exo13/phase2/xsl/q3.xsl"> q3 </colonne>
+                <colonne> - </colonne>
+                <colonne lien="./exo13/phase2/xsl/q4.xsl"> q4 </colonne>
+                <colonne lien="./exo13/phase2/xsl/q5.xsl"> q5 </colonne>
+                <colonne lien="./exo13/phase2/xsl/q6.xsl"> q6 </colonne>
+            </ligne_t>
+            
+        </tableau>
+
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo13/phase2/fichierP1Q1.zip </pathZip>
+        </code>
+        
+    </question>
+    
+    <!--  =============================  -->
+    <question index="2 - xquery">
+        
+        <bloc>
+            <titre> Consigne </titre>
+            
+            <pathimage> ./exo13/c2-xquery.png </pathimage>
+        </bloc>
+        
+        <bloc>
+            <titre> Solutions </titre>
+            
+            <tableau>
+                <ligne_t index="Image résultats ">
+                    <colonne lien="./exo13/phase2/xquery/s1.png"> q1 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/s2.png"> q2 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/s3.png"> q3 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/s4.png"> q4 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/s5.png"> q5 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/s6.png"> q6 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/s7.png"> q7 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/s8.png"> q8 </colonne>
+                </ligne_t>
+                <ligne_t index="Code Source">
+                    <colonne lien="./exo13/phase2/xquery/q1.xq"> q1 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/q2.xq"> q2 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/q3.xq"> q3 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/q4.xq"> q4 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/q5.xq"> q5 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/q6.xq"> q6 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/q7.xq"> q7 </colonne>
+                    <colonne lien="./exo13/phase2/xquery/q8.xq"> q8 </colonne>
+                </ligne_t>
+                
+            </tableau>
+            
+        </bloc>
+        <code>
+            <pathZip> ./exo13/phase2/fichierP1Q2.zip </pathZip>
+        </code>
+        
+    </question>
+    
+</exercice>

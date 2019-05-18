@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-SSI-D1-E17-V1
+</head>
+<p>
+Le maîtresse <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>crier</del></mod></del><add stage="" who="">crit</add></mod></orig><reg>crie</reg></mod> la chasse <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>gomme</orig><reg>gommes</reg></mod> <mod type="corr"><orig>et</orig><reg>est</reg></mod> ouverte.<lb/>
+Le petit garçon <mod type="corr"><orig>d'emande</orig><reg>demande</reg></mod> à la maîtresse si<lb/>
+<mod type="corr"><orig>sa</orig><reg>ça</reg></mod> va leur <mod type="corr"><orig>feir</orig><reg>faire</reg></mod> mal. La maîtresse lui <mod type="corr"><orig>repon</orig><reg>répond</reg></mod><lb/>
+non ne <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>t'einte pas</del></mod></del><add stage="" who="">t'einquiètespas</add></mod></orig><reg>t'inquiètes pas</reg></mod>, <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>amuse toi</orig><reg>amuse-toi</reg></mod>. Ils <mod type="subst"><del><mod type="del" stage="" who=""><del>saurtent</del></mod></del><add stage="" who="">sautent</add></mod> <mod type="corr"><orig>tousse</orig><reg>toutes</reg></mod><lb/>
+de la classe, <mod type="corr"><orig>est</orig><reg>et</reg></mod> ils <mod type="corr"><orig>vouillent</orig><reg>veulent</reg></mod> 3 <mod type="corr"><orig>petite</orig><reg>petites</reg></mod> gommes<lb/>
+<mod type="corr"><orig>est</orig><reg>et</reg></mod> elles courent <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>crit</orig><reg>crient</reg></mod>. <mod type="del" stage="" who=""><del>Ha</del></mod> Ha-lède! Et les<lb/>
+éléves les <mod type="corr"><orig>repousse</orig><reg>repoussent</reg></mod> dans le piège, ils les <mod type="corr"><orig>aferments</orig><reg>enferment</reg></mod> dans<lb/>
+une classe. <mod type="corr"><orig>Est</orig><reg>Et</reg></mod> ils prennent leur <mod type="corr"><orig>sizaux</orig><reg>ciseaux</reg></mod>,<lb/>
+<mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>ils coupe leur</del></mod></del><add stage="" who="">ils coupent leur</add></mod> <mod type="corr"><orig>patte</orig><reg>pattes</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> ils font <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> pour<lb/>
+<mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les gommes <mod type="corr"><orig>est</orig><reg>et</reg></mod> ils <mod type="corr"><orig>peuve</orig><reg>peuvent</reg></mod> <mod type="corr"><orig>gommée</orig><reg>gommer</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

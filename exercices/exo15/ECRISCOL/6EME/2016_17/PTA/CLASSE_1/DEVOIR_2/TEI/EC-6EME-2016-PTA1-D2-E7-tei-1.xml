@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E7
+</head>
+<p>
+<pb/>
+Laurie entre dans l'école. Elle dit bonjour<lb/>
+à <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> ses copines. Quand la cloche sonne,<lb/>
+tous les enfants de l'<mod type="corr"><orig>ecole</orig><reg>école</reg></mod> se rangent. Le <mod type="corr"><orig>proffeseur</orig><reg>professeur</reg></mod><lb/>
+va chercher tous les élèves <mod type="corr"><orig>pourqu'il</orig><reg>pour qu'ils</reg></mod> <mod type="corr"><orig>rentre</orig><reg>rentrent</reg></mod> en<lb/>
+classe. Il commence par la matière <mod type="corr"><orig>mathematic</orig><reg>mathématiques</reg></mod> de 8h<lb/>
+à 9h. A 9 heures Laurie doit aller en technologie. §<lb/>
+Laurie a une <mod type="corr"><orig>evaluation</orig><reg>évaluation</reg></mod> de technologie. Laurie a<lb/>
+eu 10 sur 20. Les élèves ont une <mod type="corr"><orig>récre</orig><reg>récréation</reg></mod> de 10h à 10h00<lb/>
+30 min. A 10h30 minutes la cloche sonne et les<lb/>
+élèves <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>doit</del></mod></del><add stage="" who="">doient</add></mod></orig><reg>doivent</reg></mod> aller se ranger. De 10h30 <mod type="corr"><orig>min</orig><reg>minutes</reg></mod><lb/>
+a 12h ils font du sport. Au sport, ils <mod type="del" stage="" who=""><del>s</del></mod> exercent<lb/>
+le foot. Laurie n'aime pas le foot. A 12h les élèves<lb/>
+de sa classe vont manger, ils mangent de la <mod type="corr"><orig>puree</orig><reg>purée</reg></mod><lb/>
+avec du <mod type="corr"><orig>stek</orig><reg>steak</reg></mod> en plat de <mod type="corr"><orig>residence</orig><reg>résidence</reg></mod>, du fromage Laurie<lb/>
+a pris du coeur de lion. Et en <mod type="corr"><orig>desert</orig><reg>dessert</reg></mod>, elle a pris<lb/>
+un <mod type="corr"><orig>yayourt</orig><reg>yaourt</reg></mod>, <mod type="corr"><orig>veloute</orig><reg>vélouté</reg></mod> <mod type="corr"><orig>peche</orig><reg>pêche</reg></mod>. A 1h les élèves de la classe<lb/>
+de <mod type="corr"><orig>laurie</orig><reg>Laurie</reg></mod> <mod type="corr"><orig>doient</orig><reg>doivent</reg></mod> aller en français. En français les élèves<lb/>
+de la classe ont une évaluation de conjugaison passé<lb/>
+simple et imparfait. Ils <mod type="subst"><del><mod type="del" stage="" who=""><del>ont</del></mod></del><add stage="" who="">font</add></mod> des <mod type="corr"><orig>exepériance</orig><reg>expériences</reg></mod> (coca<lb/>
+avec des mentos). A 3h les élèves de la classe vont en<lb/>
+Science <mod type="corr"><orig>ve</orig><reg>de</reg></mod> et terre. Et à 4h la cloche sonne et <mod type="corr"><orig>se</orig><reg>ce</reg></mod> qui<lb/>
+<mod type="corr"><orig>sinifie</orig><reg>signifie</reg></mod> la fin de l'école pour aujourd'hui. Laurie prend son cartable §<lb/>
+
+<pb/>
+et rentre chez elle. Elle raconte à ses parents sa journée et se <mod type="subst"><del><mod type="del" stage="" who=""><del>mit</del></mod></del><add stage="" who="">met</add></mod><lb/>
+à faire ses devoirs. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D2-E16-V1
+</head>
+<p>
+Un lundi matin, <mod type="add" stage="" who=""><add>dans la maison de Louis</add></mod>, le frère de Louis est malade <mod type="del" stage="" who=""><del>il Louis</del></mod> <mod type="corr"><orig>aimerai</orig><reg>aimerait</reg></mod> bien<lb/>
+être <mod type="corr"><orig>a</orig><reg>à</reg></mod> sa place. <mod type="del" stage="" who=""><del>Eu</del></mod> Ensuite <mod type="subst"><del><mod type="del" stage="" who=""><del>il</del></mod></del><add stage="" who="">la</add></mod> maman. Puis il dépose Louis <mod type="corr"><orig>a</orig><reg>à</reg></mod><lb/>
+l'école et <mod type="del" stage="" who=""><del>d'</del></mod> tout d'un coup il se <mod type="corr"><orig>mis</orig><reg>mit</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>pluvoir</orig><reg>pleuvoir</reg></mod>, le vent <mod type="corr"><orig>soufla</orig><reg>soufflait</reg></mod><lb/>
+et tout le monde a froid. <mod type="add" stage="" who=""><add>Puis</add></mod> Louis a une idée pour<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>être</del></mod></del><add stage="" who="">se rendre</add></mod> malade se mettre sous la gouttière qui coule.<lb/>
+<mod type="corr"><orig>l'</orig><reg>L'</reg></mod>eau <mod type="corr"><orig>étais</orig><reg>était</reg></mod> <mod type="corr"><orig>froid</orig><reg>froide</reg></mod> mais Louis <mod type="del" stage="" who=""><del>s'en</del></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> que c'est pas grave §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

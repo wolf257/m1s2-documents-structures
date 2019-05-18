@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E9-V2
+</head>
+<p>
+<pb/>
+
+J'ai <mod type="corr"><orig>dut</orig><reg>dû</reg></mod> <mod type="corr"><orig>inodé</orig><reg>inondé</reg></mod> la maison<mod type="del" stage="" who=""><del>s</del></mod> des <mod type="corr"><orig>grands-parent</orig><reg>grand-parents</reg></mod><lb/>
+pour avoir une bonne <mod type="corr"><orig>nôte</orig><reg>note</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> ma <mod type="corr"><orig>redac</orig><reg>rédaction</reg></mod> et j'ai<lb/>
+eu 9/10. Mon <mod type="corr"><orig>idées</orig><reg>idée</reg></mod> <mod type="corr"><orig>suivant</orig><reg>suivante</reg></mod> était de tondre<lb/>
+le chien du <mod type="corr"><orig>voisins</orig><reg>voisin</reg></mod> et ça <mod type="corr"><orig>na</orig><reg>n'a</reg></mod> pas <mod type="corr"><orig>était</orig><reg>été</reg></mod> une<lb/>
+<mod type="corr"><orig>reuisite</orig><reg>réussite</reg></mod> et j'ai eu 9/10 <mod type="corr"><orig>o</orig><reg>à</reg></mod> ma <mod type="corr"><orig>redaction</orig><reg>rédaction</reg></mod>. §<lb/>
+Demain, j'ai une <mod type="del" stage="" who=""><del>X#</del></mod>une <mod type="corr"><orig>redac</orig><reg>rédaction</reg></mod> et je ne pense qu'à<lb/>
+<mod type="corr"><orig>sa</orig><reg>ça</reg></mod>. Alors, je me suis fabriqué une liste de<lb/>
+<mod type="corr"><orig>bêtise</orig><reg>bêtises</reg></mod> et une <mod type="corr"><orig>idées</orig><reg>idée</reg></mod> <mod type="corr"><orig>mais</orig><reg>m'est</reg></mod> venue en tête. J'ai<lb/>
+<mod type="corr"><orig>debrenchée</orig><reg>débranché</reg></mod> tous les <mod type="corr"><orig>cables</orig><reg>câbles</reg></mod> <mod type="corr"><orig>élctrique</orig><reg>électriques</reg></mod> ma<lb/>
+<mod type="corr"><orig>seour</orig><reg>soeur</reg></mod> a <mod type="corr"><orig>piquét</orig><reg>piqué</reg></mod> une crise <mod type="del" stage="" who=""><del>de nerre ennarve</del></mod> de<lb/>
+<mod type="corr"><orig>nerre</orig><reg>nerfs</reg></mod> elle <mod type="corr"><orig>regarder</orig><reg>regardait</reg></mod> son <mod type="corr"><orig>emition</orig><reg>émission</reg></mod> <mod type="corr"><orig>préfèrer</orig><reg>préférée</reg></mod>. J'ai <mod type="del" stage="" who=""><del>ue</del></mod><lb/>
+eu 8/10. Je ne <mod type="corr"><orig>penser</orig><reg>pensais</reg></mod> plus qu'<mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> comme hier. J'ai<lb/>
+<mod type="corr"><orig>degonflé</orig><reg>dégonflé</reg></mod> le <mod type="corr"><orig>balon</orig><reg>ballon</reg></mod> de mon <mod type="corr"><orig>frére</orig><reg>frère</reg></mod> et j'ai eu 6/10. Puis<lb/>
+je <mod type="corr"><orig>jouer</orig><reg>jouais</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> ma "ds" ma <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> <mod type="corr"><orig>aller</orig><reg>allait</reg></mod> au coiffeur. Quand, elle<lb/>
+est revenue elle <mod type="corr"><orig>aver</orig><reg>avait</reg></mod> les cheveux en <mod type="corr"><orig>pétar</orig><reg>pétard</reg></mod>. J'ai 9/10. Demain,<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>J</del></mod></del><add stage="" who="">j</add></mod>'ai une <mod type="corr"><orig>redac</orig><reg>rédaction</reg></mod> <mod type="add" stage="" who=""><add>en</add></mod> <mod type="corr"><orig>evaluations</orig><reg>évaluation</reg></mod>. J'ai deux <mod type="corr"><orig>jour</orig><reg>jours</reg></mod> pour la <mod type="corr"><orig>nouvel</orig><reg>nouvelle</reg></mod><lb/>
+"bêtise". Le premier jour je <mod type="corr"><orig>mais</orig><reg>mets</reg></mod> du pop-corn dans<lb/>
+le <mod type="corr"><orig>microonde</orig><reg>micro-ondes</reg></mod>. ça a giclé sur le visage de ma<lb/>
+<mod type="corr"><orig>mere</orig><reg>mère</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> mourir de rire. J'ai eu 10/10 <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> ma <mod type="corr"><orig>mere</orig><reg>mère</reg></mod> elle<lb/>
+<mod type="corr"><orig>sa</orig><reg>ça</reg></mod> ne <mod type="corr"><orig>la</orig><reg>l'a</reg></mod> pas fait rire. 3 semaines <mod type="corr"><orig>punit</orig><reg>puni</reg></mod> dans <mod type="subst"><del><mod type="del" stage="" who=""><del>ta</del></mod></del><add stage="" who="">ma</add></mod> chambre<lb/>
+Puis dans ma chambre j'ai compris que <mod type="corr"><orig>s'était</orig><reg>c'était</reg></mod> pas bien.<lb/>
+Avant de rester sage j'ai <mod type="corr"><orig>dut</orig><reg>dû</reg></mod> casser la <mod type="corr"><orig>fenetre</orig><reg>fenêtre</reg></mod> de la<lb/>
+cuisine j'ai eu 10/10. §<lb/>
+ §<lb/>
+A bientôt §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

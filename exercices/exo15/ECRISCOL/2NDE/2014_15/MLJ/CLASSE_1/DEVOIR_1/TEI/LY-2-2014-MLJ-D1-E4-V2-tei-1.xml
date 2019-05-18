@@ -1,0 +1,146 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E4-V2
+</head>
+<p>
+<pb/>
+
+Sous la nuit sans étoiles, d'une obscurité et d'une<lb/>
+épaisseur d'encre, l'homme depuis un moment déjà<lb/>
+marchait quand il aperçut au loin la lumière d'un<lb/>
+réverbère. §<lb/>
+Continuant d'avancer face au vent frais, il perçut un<lb/>
+mouvement doux, lent, à la source de l'éclairage. §<lb/>
+Une silhouette sombre se dévoila alors à son champ de vision<lb/>
+L'homme distingua plus précisement des formes féminines,<lb/>
+estompées quelque peu par un long manteau noir, <mod type="corr"><orig>destiné</orig><reg>destinée</reg></mod><lb/>
+à protéger sa propriétaire en cette nuit froide d'automne.<lb/>
+La femme se tourna vers lui, un brin inquiétée par<lb/>
+sa présence masculine à une heure aussi tardive. §<lb/>
+Il est vrai que sa carnure massive avait tendance à<lb/> 
+ne pas attirer de beaux regards. Imposante, sa taille lui<lb/>
+refusait les yeux doux des femmes, qui devraient pour ce faire<lb/>
+se tordre le cou. Les troncs qui tombaient aux côtés de son<lb/>
+buste effrayaient également les demoiselles qui n'avaient pas<lb/>
+pour habitude de croiser des bûcherons <mod type="add" stage="" who=""><add>encore moins</add></mod>, si bien habillés et<lb/>
+dont les bras faisaient craquer les coutures de leur costume<lb/>
+quand venait le moment de saluer une amie. §<lb/>
+Ce dur métier lui avait également valu quelques<lb/>
+cicatrices aux mains et au visage, ce dernier duquel la<lb/>
+lumière du réverbère retirait le voile nocturne, laissant<lb/>
+entrevoir un regard pur, bleu clair, dans lequel la §<lb/>
+
+<pb/>
+
+bonté et la gentillesse se lisaient. Quelques rides<lb/>
+avaient creusé sa peau aux coins des yeux, sa<lb/>
+joie et sa gaieté <mod type="corr"><orig>telles</orig><reg>telle</reg></mod> une hache marquant son<lb/>
+visage depuis son quarantième anniversaire. §<lb/>
+Il avait choisi de garder ses cheveux grisonnants<lb/>
+coupés court, ce qui, selon ses proches, le faisait paraître<lb/>
+nettement plus jeune  non pas qu'il en eût eu besoin,<lb/>
+son énergie débordante se faisant repérer et se transmettant<lb/>
+au premier coup d'oeil , surtout de l'avis de sa<lb/>
+femme, avis auquel il accordait enormément d'importance.<lb/>
+Il tendit une main colleuse à cette dernière,<lb/>
+qui souriait à présent sous le réverbère, qui la<lb/>
+prit tendrement. Ils s'en allèrent, telles deux ombres,<lb/>
+main dans la main, la lumière laissant doucement,<lb/>
+au rythme de leurs pas accordés, sa trace sur<lb/>
+leurs manteaux noirs s'<mod type="corr"><orig>effacer</orig><reg>s'effaçait</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

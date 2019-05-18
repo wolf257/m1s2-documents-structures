@@ -1,0 +1,133 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E4
+</head>
+<p>
+<pb/>
+Je travaillerai dans le <mod type="corr"><orig>dommaine</orig><reg>domaine</reg></mod> de l'informatique.<lb/>
+Mais je ne sais pas encore dans quelle branche<lb/>
+me situer. §<lb/>
+Je penserai être webmaster ou technicien<lb/>
+Je verrai mes journées comme ça: §<lb/>
+Le matin je me réveille (6:15) je<lb/>
+m'habille vite -pantalon, chemise, cravate...<lb/>
+Petit déjeuner des <mod type="corr"><orig>tartine</orig><reg>tartiens</reg></mod> et du fromage. Vite, vite<lb/>
+<mod type="corr"><orig>jepars</orig><reg>je pars</reg></mod>; ouf j'arrive à <mod type="subst"><del><mod type="del" stage="" who=""><del>rantrer</del></mod></del><add stage="" who="">monter</add></mod> dans le métro<lb/>
+mon téléphone indique (7:05) dans les temps!<lb/>
+Mince j'ai parlé trop vite couloir bondé de monde<lb/>
+à l'arrêt L n. Heureusement je me <mod type="corr"><orig>foufile</orig><reg>faufile</reg></mod><lb/>
+et passe sans trop de soucis les tourniquets. §<lb/>
+Un <mod type="corr"><orig>peut</orig><reg>peu</reg></mod> plus tard vers huit heures moins le<lb/>
+quart j'arrive au bureau. Le temps de prendre<lb/>
+un café avec les <mod type="corr"><orig>colègues</orig><reg>collègues</reg></mod>. Je vais <mod type="corr"><orig>alumer</orig><reg>allumer</reg></mod><lb/>
+les serveurs et la base de <mod type="corr"><orig>donées</orig><reg>données</reg></mod> je verifie leur §<lb/>
+
+<pb/>
+bon <mod type="corr"><orig>foncionnement</orig><reg>fonctionnement</reg></mod> et <mod type="corr"><orig>n'en</orig><reg>je m'en</reg></mod> vais dans mon bureau.<lb/>
+Sur mon ordinateur je regarde les commandes<lb/>
+de la boutique en ligne les <mod type="corr"><orig>chifres</orig><reg>chiffres</reg></mod> sont en<lb/>
+hausse c'est bien! §<lb/>
+Quoi?! <mod type="corr"><orig>Déja</orig><reg>déjà</reg></mod> le midi aujourd'hui je ne vais pas<lb/>
+à la cantine mais plutôt au <mod type="corr"><orig>restorant</orig><reg>restaurant</reg></mod> avec<lb/>
+des amis. Il y a beaucoup de <mod type="corr"><orig>choit</orig><reg>choix</reg></mod>! Je <mod type="corr"><orig>fini</orig><reg>finis</reg></mod><lb/>
+par prendre des <mod type="corr"><orig>pates</orig><reg>pâtes</reg></mod> à la carbonara. Bien rangé<lb/>
+Cet après-midi je décide de prendre congé pour<lb/>
+aller faire du vélo avec mon fils. On s'est bien amusé!<lb/>
+Dix-neuf heures je mange; 20 heures je me couche<lb/>
+après avoir lu mes mails. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

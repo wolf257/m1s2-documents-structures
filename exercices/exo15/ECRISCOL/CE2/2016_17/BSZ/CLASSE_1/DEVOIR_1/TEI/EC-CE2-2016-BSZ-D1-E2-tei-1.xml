@@ -1,0 +1,104 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E2
+</head>
+<p>
+Quand je serai grande, je me <mod type="corr"><orig>lèverait</orig><reg>lèverai</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> 8h30, <mod type="corr"><orig>jirait</orig><reg>j'irai</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la salle <mod type="corr"><orig>a</orig><reg>à</reg></mod> manger et je <mod type="del" stage="" who=""><del>iou</del></mod> <mod type="corr"><orig>mange<lb/>rait</orig><reg>mangerai</reg></mod> des <mod type="corr"><orig>grosse</orig><reg>grosses</reg></mod> <mod type="corr"><orig>brioche</orig><reg>brioches</reg></mod> avec du <mod type="corr"><orig>bêrre</orig><reg>beurre</reg></mod>, <mod type="corr"><orig>jirraient</orig><reg>j'irai</reg></mod> à la salle de bain je me <mod type="corr"><orig>coifferer</orig><reg>coifferai</reg></mod> et je me<lb/>
+<mod type="corr"><orig>brosseraient</orig><reg>brosserai</reg></mod> les dents, je <mod type="corr"><orig>mabilleraient</orig><reg>m'habillerai</reg></mod> et <mod type="corr"><orig>jirraient</orig><reg>j'irai</reg></mod> au <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod> <mod type="del" stage="" who=""><del>au</del></mod> 9h15 et à 18h54 je<lb/>
+<mod type="corr"><orig>travailleraient</orig><reg>travaillerai</reg></mod> au zoo, je suis <mod type="corr"><orig>pressaient</orig><reg>préssée</reg></mod> d'avoir 24 ans. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

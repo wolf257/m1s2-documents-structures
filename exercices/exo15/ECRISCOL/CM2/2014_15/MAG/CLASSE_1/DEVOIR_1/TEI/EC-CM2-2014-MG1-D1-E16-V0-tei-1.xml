@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E16-V0
+</head>
+<p>
+« Le cabanon de l'oncle Jo » §<lb/>
+<mod type="add" stage="T2" who=""><add>L'oncle jo disparu</add></mod> §<lb/>
+J'<mod type="corr"><orig>invent</orig><reg>invente</reg></mod> la suite de l'histoire. §<lb/>
+Tout à coup les <mod type="corr"><orig>voisine</orig><reg>voisins</reg></mod> <mod type="corr"><orig>essayerent</orig><reg>essayèrent</reg></mod> de faire<lb/>
+manger Lili et Tata Denise. Mais elles ne voulaient<lb/>
+pas manger car il était MIDI. Lili <mod type="corr"><orig><mod type="subst"><del>re<mod type="del" stage="" who=""><del>a</del></mod></del><add stage="" who="">e</add></mod>garda</orig><reg>regarda</reg></mod> par<lb/>
+la <mod type="corr"><orig>fenêtres</orig><reg>fenêtre</reg></mod> elle vit l'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> qui travaillait<lb/>
+sur le terrain vague. Il était joyeux, heureux et<lb/>
+il bricolait ils rigolait il riait, tout le monde <mod type="corr"><orig>tait</orig><reg>était</reg></mod><lb/>
+joyeux. §<lb/>
+Depuis ce jour tata. Denise est contente de revoir<lb/>
+l'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> si joyeux et heureux. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

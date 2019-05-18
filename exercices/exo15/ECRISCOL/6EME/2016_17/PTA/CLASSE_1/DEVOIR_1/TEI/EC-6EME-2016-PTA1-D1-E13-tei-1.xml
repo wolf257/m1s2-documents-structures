@@ -1,0 +1,134 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E13
+</head>
+<p>
+<pb/>
+Je me <mod type="corr"><orig>leverais</orig><reg>lèverai</reg></mod> à 6h00 <mod type="corr"><orig>min</orig><reg>minutes</reg></mod> pour m'<mod type="corr"><orig>abbiller</orig><reg>habiller</reg></mod>, me préparer puis<lb/>
+déjeuner avec toute ma petite famille, j'irais acheter des <mod type="corr"><orig>croissant</orig><reg>croissant</reg></mod><lb/>
+et des pains au chocolat chez le boulanger du coin tous les<lb/>
+dimanches. J'irais travailler au collège avec les autres professeurs<lb/>
+, je prendrais mon petit café du matin puis je cultiverais<lb/>
+la jeunesse des <mod type="corr"><orig>soustractions</orig><reg>soustractions</reg></mod>, <mod type="subst"><del><mod type="del" stage="" who=""><del>de</del></mod></del><add stage="" who="">des</add></mod> divisions, des mutiplications<lb/>
+, des <mod type="corr"><orig>aditions</orig><reg>additions</reg></mod> puis le midi je mangerais <mod type="corr"><orig>a</orig><reg>à</reg></mod> la cantine avec<lb/>
+les professeurs de maths, de français, d'histoire géographie<lb/>
+, d'allemand, d'espagnol, d'anglais, de <mod type="del" stage="" who=""><del>les</del></mod> technologie,<lb/>
+d'SVT, EMC, d'art plastique, du CDI, d'EPS,<lb/>
+de physique chimie; de Music...puis je <mod type="corr"><orig>recoman<lb/>cerais</orig><reg>recommencerais</reg></mod> d'enrichir des cerveaux de mes élèves puis<lb/>
+je <mod type="corr"><orig>rentrer<mod type="del" stage="" who=""><del>e</del></mod>ais</orig><reg>rentrerais</reg></mod> à ma maison je donnerais <mod type="del" stage="" who=""><del>am</del></mod> à<lb/>
+manger à mes animaux mes chatons mes chats §<lb/>
+
+<pb/>
+mâles et femelles mes chiens, mes chiots, mes tortues, mes<lb/>
+oiseaux, mes poissons (rouges, néons, <mod type="corr"><orig>cimleatants</orig><reg>combattants</reg></mod>...) mes serpents<lb/>
+, mes <mod type="corr"><orig>lézard</orig><reg>lézards</reg></mod>...puis <mod type="del" stage="" who=""><del>c je m</del></mod> j'irais <mod type="corr"><orig>chaicher</orig><reg>chercher</reg></mod> mes enfants<lb/>
+à l'école (Sacha: mon <mod type="corr"><orig>fil</orig><reg>fils</reg></mod>, Amandine: ma fille et Hugo:<lb/>
+mon <mod type="corr"><orig>fil</orig><reg>fils</reg></mod>.) Sacha aura 9 il aura <mod type="corr"><orig>soter</orig><reg>sauté</reg></mod> une classe, Amandine<lb/>
+aura 7 ans et Hugo 3 ans quand j'<mod type="corr"><orig>aurais</orig><reg>aurai</reg></mod> 31 ans)<lb/>
+puis nous prendrons le goûter ma femme <mod type="corr"><orig>s'era</orig><reg>sera</reg></mod> <mod type="corr"><orig>arrivé</orig><reg>arrivée</reg></mod><lb/>
+puis nous ferons (moi et ma femme) en sorte que ils ne<lb/>
+se <mod type="corr"><orig>trompe</orig><reg>trompent</reg></mod> pas dans les devoirs et nous nous metterons<lb/>
+tous sans <mod type="corr"><orig>exe<mod type="del" stage="" who=""><del>m</del></mod>psion</orig><reg>exception</reg></mod> à table ensemble nous mangerons<lb/>
+en dégustant les plats de ma femme (Serena<lb/>
+28 ans) puis <mod type="del" stage="" who=""><del>m</del></mod> nous irons nous brosser les dents<lb/>
+puis irons faire notre toilette et nous irons<lb/>
+nous coucher en révant et nous irons<lb/>
+#XXX# nos enfants et <mod type="corr"><orig>leurs</orig><reg>leur</reg></mod> <mod type="corr"><orig>dirent</orig><reg>dire</reg></mod> <mod type="corr"><orig>bo<mod type="subst"><del><mod type="del" stage="" who=""><del>m</del></mod></del><add stage="" who="">n</add></mod><mod type="subst"><del><mod type="del" stage="" who=""><del>m</del></mod></del><add stage="" who="">n</add></mod>e</orig><reg>bonne</reg></mod><lb/>
+nuit <mod type="corr"><orig>puit</orig><reg>puis</reg></mod> nous <mod type="corr"><orig>iron</orig><reg>irons</reg></mod> nous coucher et une<lb/>
+nouvelle journée <mod type="corr"><orig>commenceras</orig><reg>commencera</reg></mod> comme temps #XXX#. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

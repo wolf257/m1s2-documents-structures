@@ -1,0 +1,163 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E5-V1
+</head>
+<p>
+<pb/>
+Il avait une <mod type="corr"><orig>envi<hi place=" " time="T3" who="Pσ" style="underline"><mod type="del" stage="T4" who=""><del><sup>T3</sup>t</del></mod></hi></orig><reg>envie</reg></mod> folle de <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>redansé <lb/> avec Nelly</del></mod></del><add stage="T2" who=""><sup>T2</sup>dans<mod type="subst" stage="T4" who=""><del><sup>T4</sup><hi place="" time="T3" who="Pσ" style="underline">é</hi></del><add><sup>T4</sup>e</add></mod> avec elle de nouveau</add></mod><lb/>, 
+
+mais il avait vu<mod type="subst"><del><hi place=" " time="T3" who="Pσ" style="underline">e</hi></del><add stage="T4" who=""><sup>T4</sup>t</add></mod> 
+
+une chose <mod type="corr"><orig>au<lb/>
+qu'elle</orig><reg>qu'il</reg></mod> il <mod type="corr"><orig>navoi</orig><reg>n'avait</reg></mod> pas prévu. Nelly était<lb/>
+en couple avec <mod type="corr"><orig>jaque<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>s</add></mod></orig><reg>Jacques</reg></mod> son <mod type="corr"><orig>pir<mod type="del" stage="T2" who=""><del><sup>T2</sup><hi place=" " time="T3" who="Pσ" style="underline">#x#</hi></del></mod><mod type="add" stage="T2" who=""><add><sup>T2</sup>s</add></mod></orig><reg>pire</reg></mod> <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">e</hi>nemi<mod type="add" stage="T4" who=""><add><sup>T4</sup>einemi</add></mod></orig><reg>ennemi</reg></mod>.<lb/>
+
+Alo<hi place=" " time="T3" who="Pσ" style="underline">r</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>s</add></mod> il rent<hi place=" " time="T3" who="Pσ" style="underline">rait</hi><metamark place=" " time="T3" who="P" style="underline">temps</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>rentra</add></mod> 
+
+<mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>c<hi place=" " time="T3" who="Pσ" style="underline">ha</hi>i<hi place=" " time="T3" who="Pσ" style="underline">tl</hi>ui</del></mod></del><add stage="T2" who=""><sup>T2</sup>chez lui</add></mod> 
+
+
+triste, <mod type="corr"><orig>mois</orig><reg>mais</reg></mod> il<lb/> 
+
+aimait toujou<hi place=" " time="T3" who="Pσ" style="underline">r</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>s</add></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add><sup>T2</sup>antant</add></mod></orig><reg>autant</reg></mod> Nelly <mod type="add" stage="T4" who=""><add><sup>T4</sup>et se <mod type="corr"><orig>maitait</orig><reg>mettait</reg></mod> pas <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>j</del></mod></del><add stage="" who=""><sup></sup>J</add></mod>aque <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>p</del></mod></del><add stage="" who=""><sup></sup>q</add></mod>ui <mod type="corr"><orig>allai</orig><reg>allait</reg></mod> <mod type="corr"><orig>lenpécher</orig><reg>l'empêcher</reg></mod> de l'<mod type="corr"><orig>aimait</orig><reg>aimer</reg></mod>.</add></mod> 
+
+<mod type="corr"><orig>Ensui<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">t</hi></del></mod></orig><reg>Ensuite</reg></mod> <mod type="add" stage="T3" who="P"><add><sup>T3P</sup>,</add></mod> il <hi place=" " time="T3" who="Pσ" style="underline">u</hi> <metamark place=" " time="T3" who="P" style="underline">temps</metamark><mod type="add" stage="T3" who=""><add><sup>T3</sup>a</add></mod> une<lb/>
+idée, il allait tout faire pour que Nelly<lb/>
+tombe amoureu<mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">x</hi></del></mod></del><add stage="T4" who=""><sup>T4</sup>se</add></mod> <metamark place=" " time="T3" who="P" style="underline">accord</metamark> de lui. Le lendem<hi place=" " time="T3" who="Pσ" style="underline">a</hi><mod type="add" stage="T3" who=""><add><sup>T4</sup>ai</add></mod>n,<lb/>
+
+il <mod type="corr"><orig>v<hi place=" " time="T3" who="Pσ" style="underline">u</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>u</add></mod><mod type="del" stage="T4" who=""><del><sup>T4</sup>e</del></mod></orig><reg>voit</reg></mod> 
+
+<mod type="corr"><orig>jaque<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>s</add></mod></orig><reg>Jacques</reg></mod> 
+
+<mod type="corr"><orig>achet<mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">é</hi></del></mod></del><add stage="T4" who=""><sup>T4</sup>ait</add></mod></orig><reg>acheter</reg></mod> 
+
+des fleur<mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">e</hi></del></mod></del><add stage="T4" who=""><sup>T4</sup>s</add></mod> <mod type="del" stage="" who=""><del><sup></sup>alor</del></mod> <mod type="add" stage="T3" who=""><add><sup>T3</sup>bouquet</add></mod> <lb/>
+<mod type="del" stage="" who=""><del><sup></sup>il métais</del></mod>§
+<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>et,</del></mod></del><add stage="T4" who=""><sup>T4</sup>.</add></mod> 
+<mod type="corr"><orig><mod type="del" stage="" who=""><del><sup></sup>j</del></mod><mod type="add" stage="" who=""><add><sup></sup>J</add></mod>aqu<hi place=" " time="T3" who="Pσ" style="underline">e</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>s</add></mod></orig><reg>Jacques</reg></mod> 
+
+<mod type="corr"><orig>mi<hi place=" " time="T3" who="Pσ" style="underline">s</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>mi</add></mod></orig><reg>mit</reg></mod> 
+
+une b<mod type="subst"><del><mod type="del" stage="T3" who="P"><del><sup>T3P</sup>o</del></mod></del><add stage="T3" who="P"><sup>T3P</sup>a</add></mod>gue dans le bouqu<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">é</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>#xxx#</add></mod><lb/>
+de fleur<mod type="subst"><del><mod type="del" stage="T3" who="P"><del><sup>T3P</sup>e</del></mod></del><add stage="T3" who="P"><sup>T3P</sup>s</add></mod>. Pendan<hi place=" " time="T3" who="Pσ" style="underline">#x#</hi><mod type="add" stage="T3" who=""><add><sup>T3</sup>que</add></mod> que <mod type="corr"><orig>Ja<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>c</add></mod>que<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>s</add></mod></orig><reg>Jacques</reg></mod> at<mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>an</del></mod></del><add stage="T2" who=""><sup>T2</sup>ten</add></mod>dait<lb/> 
+Nelly <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>Ped#xxx#</del></mod></del><add stage="T2" who=""><sup>T2</sup>Pedro</add></mod> <mod type="corr"><orig>pri<hi place=" " time="T3" who="Pσ" style="underline">s</hi><mod type="add" stage="T4" who=""><add><sup>T3</sup>pri</add></mod></orig><reg>prit</reg></mod> la bague dans le bouqu<hi place=" " time="T3" who="Pσ" style="underline">e</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>t</add></mod><mod type="add" stage="" who=""><add><sup></sup>,</add></mod> <mod type="del"><del>et</del></mod> la rem<hi place=" " time="T3" who="Pσ" style="underline">pl<mod type="add" stage="T4" who=""><add><sup>T4</sup>l</add></mod>a</hi>§
+
+<pb/>
+#XXX#§
+<mod type="del" stage="" who=""><del><sup></sup>Je neut t'aime</del></mod>§
+"Je t'<mod type="add" stage="" who=""><add><sup></sup>a</add></mod>ime <hi place=" " time="T3" who="Pσ" style="underline">tu</hi><metamark place=" " time="T3" who="P" style="underline">GS</metamark> es<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">t</hi></del></mod> belle comme un molialia <mod type="add" stage="T2" who=""><add><sup>T2</sup>malialia</add></mod> en mai" sign<mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">e</hi></del></mod></del><add stage="T4" who=""><sup>T4</sup>é</add></mod> 
+
+P<mod type="del" stage="T4" who=""><del><sup>T4</sup>é</del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>e</add></mod>dro<lb/>
+
+il parta<mod type="add" stage="T2" who=""><add><sup>T2</sup>it</add></mod> avec la ba<mod type="del" stage="T4" who=""><del><sup>T3</sup><hi place=" " time="T3" who="Pσ" style="underline">ge</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>gue</add></mod> <mod type="add" stage="T4" who=""><add><sup>T4</sup>de marié</add></mod> en regardant 
+
+<mod type="add" stage="T2" who=""><add><sup>T2</sup>toujou<hi place=" " time="T3" who="Pσ" style="underline">r</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>s</add></mod> et sérieusement.</add></mod> 
+
+<mod type="del" stage="" who=""><del><sup></sup>Pe</del></mod> Ja<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>c</add></mod><mod type="subst"><del stage="T4" who=""><sup>T4</sup>que</del><add stage="T4" who=""><sup>T4</sup>que</add></mod><mod type="add" stage="T3" who="P"><add><sup>T3P</sup>s</add></mod>.§
+
+Pu<hi place=" " time="T3" who="Pσ" style="underline">i</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>s</add></mod> P<mod type="del" stage="T3" who="P"><del><sup>T3P</sup>#x#</del></mod><mod type="add" stage="T3" who="P"><add><sup>T3P</sup>é</add></mod>dro <hi place=" " time="T3" who="Pσ" style="underline">quon</hi>tinua<mod type="add" stage="T4" who=""><add><sup>T4</sup>continua</add></mod> à chercher, comme<mod type="del" stage="" who=""><del><sup></sup>ne</del></mod>nt la fai<hi place=" " time="T3" who="Pσ" style="underline">r</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>e</add></mod> tomb<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">é</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>er</add></mod> ama<lb/>
+reux de lui. L<mod type="del" stage="" who=""><del><sup></sup>a</del></mod><mod type="add" stage="" who=""><add><sup></sup>'</add></mod> ann<hi place=" " time="T3" who="Pσ" style="underline">é</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>s</add></mod> passait et <mod type="del" stage="T2" who=""><del><sup>T2</sup>sait</del></mod><mod type="add" stage="T2" who=""><add><sup>T2</sup><mod type="del" stage="" who=""><del><sup></sup>mo</del></mod><hi place=" " time="T3" who="Pσ" style="underline">sait</hi></add></mod><metamark place=" " time="T3" who="P" style="underline">passé simple.</metamark> le 14 juillet.§
+Il redan<hi place=" " time="T3" who="Pσ" style="underline">sait</hi><metamark place=" " time="T3" who="P" style="underline">passé simple</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>redansa</add></mod> av<mod type="del" stage="" who=""><del><sup></sup>o</del></mod><mod type="add" stage="" who=""><add><sup></sup>e</add></mod>c Nelly et elle <mod type="del" stage="T3" who="P"><del><sup>T3P</sup>est</del></mod> tomb<hi place=" " time="T3" who="Pσ" style="underline">é</hi> <metamark place=" " time="T3" who="P" style="underline">passé simple</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>tomba</add></mod> amoureu<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">e</hi></del></mod> de lui et<lb/> 
+elle ne lui <mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">à</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>a</add></mod> pas di<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">s</hi></del></mod> <metamark place=" " time="T3" who="P" style="underline">passé simple</metamark>. Alo<hi place=" " time="T3" who="Pσ" style="underline">r</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>s</add></mod> elle <mod type="del" stage="" who=""><del><sup></sup>ré</del></mod> écr<hi place=" " time="T3" who="Pσ" style="underline">i</hi><mod type="add" stage="T2" who=""><add><sup>T2</sup>e</add></mod> <metamark place=" " time="T3" who="P" style="underline">passé simple</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>écriva</add></mod> avec une p<hi place=" " time="T3" who="Pσ" style="underline">e</hi>ncarte<mod type="add" stage="T4" who=""><add><sup>T4</sup>pancarte</add></mod><lb/>
+"<mod type="del" stage="T3" who="P"><del><sup>T3P</sup>j</del></mod><mod type="add" stage="T3" who="P"><add><sup>T3P</sup>J</add></mod>e t'aime P<mod type="del" stage="T3" who="P"><del><sup>T3P</sup>é</del></mod><mod type="add" stage="T3" who="P"><add><sup>T3P</sup>e</add></mod>dro " et il repon<hi place=" " time="T3" who="Pσ" style="underline">d<mod type="del" stage="T2" who=""><del><sup>T2</sup>#xxx#</del></mod><mod type="add" stage="T2" who=""><add><sup>T2</sup>ait</add></mod></hi> <metamark place=" " time="T3" who="P" style="underline">passé simple</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>reponda</add></mod> "moi aussi".<mod type="del" stage="" who=""><del><sup></sup>Maitenantjaqu</del></mod><lb/>
+<mod type="del" stage="" who=""><del><sup></sup>et tombé amoureux de qualqu'un de</del></mod> Maitena<hi place=" " time="T3" who="Pσ" style="underline">n</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>t</add></mod><mod type="add" stage="T3" who="P"><add><sup>T3P</sup>,</add></mod>il don<hi place=" " time="T3" who="Pσ" style="underline">nait</hi>
+<metamark place=" " time="T3" who="P" style="underline">passé simple</metamark>
+
+<mod type="add" stage="T4" who=""><add><sup>T4</sup>donna</add></mod> la<lb/> 
+bag<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">e</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>ue</add></mod> <mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">a</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>à</add></mod> Nelly et il<mod type="add" stage="T2" who=""><add><sup>T2</sup>s</add></mod> se mari<hi place=" " time="T3" who="Pσ" style="underline">a</hi>rent <mod type="add" stage="T4" who=""><add><sup>T4</sup>mariairent</add></mod>§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

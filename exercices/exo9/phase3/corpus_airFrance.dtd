@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- commun -->
+<!ELEMENT nom (#PCDATA) >
+<!ELEMENT prenom (#PCDATA) >
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date value CDATA #IMPLIED>
+<!ELEMENT respStmt (resp | name)*>
+<!ELEMENT resp (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+
+<!ELEMENT exercice_airFrance (ref_persos, teiCorpus.2) >
+
+<!ELEMENT ref_persos (nom, prenom, adresse_mail, university) >
+<!-- nom et prenom in commun -->
+<!ELEMENT adresse_mail (#PCDATA) >
+<!ELEMENT university (#PCDATA) >
+
+<!ELEMENT teiCorpus.2 (teiHeader,TEI.2+)>
+
+    <!-- teiHeader -->
+    <!ELEMENT teiHeader (fileDesc, (encodingDesc , profileDesc , revisionDesc)?)> 
+    <!ATTLIST teiHeader date.created CDATA #IMPLIED>
+    <!ATTLIST teiHeader creator CDATA #IMPLIED>
+    
+    <!ELEMENT fileDesc (titleStmt, extent?, publicationStmt, sourceDesc)>
+        <!ELEMENT titleStmt (title, (respStmt | principal)*)>
+        <!ELEMENT title (#PCDATA)>
+        <!-- respStmt in commun -->
+        <!ELEMENT principal (#PCDATA)>
+    
+    <!ELEMENT extent (#PCDATA)>
+    
+    <!ELEMENT publicationStmt (availability, (distributor, date)?)>
+    <!ELEMENT availability (p)>
+    <!ELEMENT distributor (#PCDATA)>
+    <!-- date in commun -->
+    
+    <!ELEMENT sourceDesc ( ( recordingStmt , scriptStmt)? | p )>
+    <!ELEMENT recordingStmt (p)>
+    <!ELEMENT scriptStmt (p*)>
+    
+    
+    <!ELEMENT encodingDesc (projectDesc, editorialDecl)>
+    <!ELEMENT projectDesc (p*)>
+    
+    <!ELEMENT editorialDecl (normalization)>
+    <!ELEMENT normalization (p*)>
+    
+    <!ELEMENT profileDesc (particDesc)>
+    
+    <!ELEMENT particDesc (person)*>
+    <!ATTLIST person id CDATA #IMPLIED>
+    <!ATTLIST person role CDATA #IMPLIED>
+      <!ELEMENT person (p)*>
+      
+    <!ELEMENT revisionDesc (change+)>
+    <!ELEMENT change (date, respStmt, item)>
+    <!-- date, respStmt in commun -->
+    <!ELEMENT item (#PCDATA)>
+    
+    <!-- teiHeader -->
+    
+    <!ELEMENT TEI.2 (teiHeader, text)>
+    <!ELEMENT text (group?, body*)>
+    <!ELEMENT group (text)*>
+    
+    <!ELEMENT body (div)>
+    <!ELEMENT div (head?, (u | note | event)* )>
+    
+    <!ELEMENT head (#PCDATA)>
+    
+    <!ELEMENT u (#PCDATA | vocal | shift | pause | unclear | event | u)* >
+    
+    <!ATTLIST u who CDATA #IMPLIED>
+    <!ATTLIST u n CDATA #IMPLIED>
+    
+    <!ELEMENT vocal (#PCDATA)>
+    <!ATTLIST vocal desc CDATA #IMPLIED>
+    
+    <!ELEMENT shift (#PCDATA)>
+    <!ATTLIST shift feature CDATA #IMPLIED>
+    <!ATTLIST shift new CDATA #IMPLIED>
+    
+    <!ELEMENT pause (#PCDATA)>
+    <!ATTLIST pause type CDATA #IMPLIED>
+    
+    <!ELEMENT event (#PCDATA)>
+    <!ATTLIST event desc CDATA #IMPLIED>
+    
+    <!ELEMENT unclear (#PCDATA)>
+        
+    <!ELEMENT note (#PCDATA | unclear)*>

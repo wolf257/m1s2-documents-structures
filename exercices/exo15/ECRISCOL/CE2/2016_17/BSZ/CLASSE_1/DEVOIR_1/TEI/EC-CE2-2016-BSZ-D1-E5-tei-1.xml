@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E5
+</head>
+<p>
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>voudrait</orig><reg>voudrais</reg></mod> <mod type="corr"><orig>aitre</orig><reg>être</reg></mod> <mod type="corr"><orig>footboleur</orig><reg>footballeur</reg></mod> il <mod type="corr"><orig>etait</orig><reg>était</reg></mod> un joueur de foot qui s'appelle<lb/>
+Ethan il <mod type="corr"><orig>etait</orig><reg>était</reg></mod> dans l'<mod type="corr"><orig>equipe</orig><reg>équipe</reg></mod> fc barcelone il <mod type="corr"><orig>etait</orig><reg>était</reg></mod> le premier meilleur<lb/>
+joueur de l'<mod type="corr"><orig>equipe</orig><reg>équipe</reg></mod> et un samedi <mod type="corr"><orig>a</orig><reg>à</reg></mod> 20h30 il a un <mod type="corr"><orig>matche</orig><reg>match</reg></mod> il a <mod type="corr"><orig>etait</orig><reg>été</reg></mod><lb/>
+au bus de l'equipe du <mod type="corr"><orig>barça</orig><reg>Barcelone</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>on</orig><reg>ont</reg></mod> <mod type="corr"><orig>etait</orig><reg>été</reg></mod> au stade et <mod type="corr"><orig>il</orig><reg>ils</reg></mod> ont<lb/>
+<mod type="corr"><orig>etait</orig><reg>été</reg></mod> au <mod type="corr"><orig>vaistiaire</orig><reg>vestiaire</reg></mod> s'<mod type="corr"><orig>habier</orig><reg>habiller</reg></mod> "et <mod type="corr"><orig>aupe</orig><reg>hop</reg></mod> c'est <mod type="corr"><orig>partie</orig><reg>parti</reg></mod>" dit l'<mod type="corr"><orig>equipe</orig><reg>équipe</reg></mod> du <mod type="corr"><orig>barça</orig><reg>Barcelone</reg></mod><lb/>
+l'<mod type="corr"><orig>harbite</orig><reg>arbitre</reg></mod> siffle <mod type="corr"><orig>a</orig><reg>ah</reg></mod> j'<mod type="corr"><orig>aller</orig><reg>allais</reg></mod> <mod type="corr"><orig>oublié</orig><reg>oublier</reg></mod> on joue contre athletica madrid et le<lb/>
+<mod type="corr"><orig>matche</orig><reg>match</reg></mod> commence suârez <mod type="corr"><orig>cour</orig><reg>court</reg></mod> <mod type="corr"><orig>ver</orig><reg>vers</reg></mod> le centre avec la balle il<lb/>
+centre Ethan <mod type="corr"><orig>cour</orig><reg>court</reg></mod> fait une tête et marque "but but" les <mod type="corr"><orig>su<mod type="subst"><del><mod type="del" stage="" who=""><del>r</del></mod></del><add stage="" who="">p</add></mod>orter</orig><reg>supporteurs</reg></mod><lb/>
+<mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>content</orig><reg>contents</reg></mod> le <mod type="corr"><orig>matche</orig><reg>match</reg></mod> <mod type="corr"><orig>reprent</orig><reg>reprend</reg></mod> l'<mod type="corr"><orig>harbitre</orig><reg>arbitre</reg></mod> siffle c'est le<lb/>
+<mod type="corr"><orig>mi-temp</orig><reg>mi-temps</reg></mod> le <mod type="corr"><orig>matche</orig><reg>match</reg></mod> reprend oh non l'athletica a marqué<lb/>
+il a <mod type="corr"><orig>égalite</orig><reg>égalité</reg></mod> il faut <mod type="corr"><orig>quant</orig><reg>quand</reg></mod> marque et le but l'<mod type="corr"><orig>harbitre</orig><reg>arbitre</reg></mod><lb/>
+siffle la fin du <mod type="corr"><orig>matche</orig><reg>match</reg></mod> "<mod type="corr"><orig>ont</orig><reg>on</reg></mod> a gagné" 2-1 il <mod type="corr"><orig>et</orig><reg>est</reg></mod> 22:30 je rentre<lb/>
+dormir. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

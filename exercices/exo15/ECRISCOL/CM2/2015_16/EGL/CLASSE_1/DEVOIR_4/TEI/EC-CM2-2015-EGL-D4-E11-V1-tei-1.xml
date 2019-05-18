@@ -1,0 +1,130 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E11-V1
+</head>
+<p>
+<pb/>
+<mod type="del" stage="" who=""><del><sup></sup>Pedro</del></mod>§<lb/>
+
+<mod type="del" stage="T2" who=""><del><sup>T2</sup>Bedro</del></mod> Nelly <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>n'étais pas</del></mod></del><add stage="T2" who=""><sup>T2</sup>n'était pas</add></mod> venue dans<hi place=" " time="T3" who="Pσ" style="underline">é</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>danser</add></mod> avec Pedro<lb/>
+<mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>se</del></mod></del><add stage="T2" who=""><sup>T2</sup>ce</add></mod> soir<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>-</add></mod> l<hi place=" " time="T3" who="Pσ" style="underline">a</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>là</add></mod> alors Pedro <mod type="corr"><orig>etait</orig><reg>était</reg></mod> triste <mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">comme il n'y<lb/>  
+avait pas Nelly pour danser avec lui</hi></del></mod><metamark place=" " time="T3" who="P" style="underline">R</metamark>. Mais le<lb/>
+lendemain<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>,</add></mod> Pedro avait peint des lettres en<lb/> 
+carton avec marqué dessus <metamark place=" " time="T3" who="P" style="underline">partie de phrase incorrecte à réécrire</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>où il y avait <mod type="corr"><orig>marque</orig><reg>marqué</reg></mod> dessus</add></mod> «Nelly, je<lb/>
+t'aime.» Mais Nelly <hi place=" " time="T3" who="Pσ" style="underline">ne<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>reponde</del></mod></del><add stage="" who=""><sup></sup>répondé</add></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>répondit</add></mod> pas</hi> <metamark place=" " time="T3" who="P" style="underline">temps</metamark>, alors<lb/>
+il essaya encore une <mod type="add" stage="" who=""><add><sup></sup>deuxième</add></mod> fois mais Nelly ne<lb/>
+<hi place=" " time="T3" who="Pσ" style="underline">répondé</hi> <metamark place=" " time="T3" who="P" style="underline">temps</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>repondit</add></mod> pas.<mod type="del" stage="" who=""><del><sup></sup>a</del></mod> Pedro était triste car il <mod type="del" stage="T2" who=""><del><sup>T2</sup>n'avait</del></mod><lb/>
+n'a<hi place=" " time="T3" who="Pσ" style="underline">r</hi>ivait<mod type="add" stage="T4" who=""><add><sup>T4</sup>n'arrivait</add></mod> pas à retrouver Nelly. Le<lb/> 
+lendemain matin<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>,</add></mod>Pedro <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">planta</hi> <metamark place=" " time="T3" who="P" style="underline">temps</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>plantai</add></mod></orig><reg>planta</reg></mod> des fleurs en <mod type="corr"><orig>form<hi place=" " time="T3" who="Pσ" style="underline">e</hi>n<mod type="add" stage="T4" who=""><add><sup>T4</sup>formmen</add></mod></orig><reg>formant</reg></mod><lb/>
+<mod type="del" stage="" who=""><del><sup></sup>des lettres</del></mod> les mots «Nelly, je t'aime.»§
+
+<pb/>
+mais comme elle ne <hi place=" " time="T3" who="Pσ" style="underline">répondu</hi><metamark place=" " time="T3" who="P" style="underline">temps</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>repondit</add></mod>pas, Pedro <hi place=" " time="T3" who="Pσ" style="underline">appela</hi><metamark place=" " time="T3" who="P" style="underline">temps</metamark> la<lb/> 
+police pour qu'il<metamark place=" " time="T3" who="P" style="underline">(ils ou elle)</metamark> essaye de retrouv<hi place=" " time="T3" who="Pσ" style="underline">é</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>retrouver</add></mod> Nelly. Alors<lb/> 
+Pedro <hi place=" " time="T3" who="Pσ" style="underline">rentra</hi> chez lui quand soudain en <mod type="add" stage="T4" who=""><add><sup>T4</sup>on</add></mod> <hi place=" " time="T3" who="Pσ" style="underline">frappa</hi> à<lb/>
+la porte c'étai<hi place=" " time="T3" who="Pσ" style="underline">t</hi><metamark place=" " time="T3" who="P" style="underline">accord</metamark> <hi place=" " time="T3" who="Pσ" style="underline">les policiers</hi> qui <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">venait</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>venai</add></mod></orig><reg>venaient</reg></mod> dire à<lb/>
+Pedro qu'il n'avait pas <mod type="corr"><orig>retrouv<hi place=" " time="T3" who="Pσ" style="underline">er</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>retrouve</add></mod></orig><reg>retrouver</reg></mod> Nelly. <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>a</del></mod></del><add stage="" who=""><sup></sup>A</add></mod>lors<lb/>
+Pedro et les policiers arrè<mod type="subst"><del><mod type="del" stage="T3" who="P"><del><sup>T3P</sup>l</del></mod></del><add stage="T3" who="P"><sup>T3P</sup>t</add></mod>êrent de cherche<mod type="subst"><del><mod type="del" stage="T3" who="P"><del><sup>T3P</sup>#x#</del></mod></del><add stage="T3" who="P"><sup>T3P</sup>r</add></mod> Nelly<mod type="add" stage="T4" who=""><add><sup>T4</sup>.</add></mod> car <mod type="add" stage="T4" who=""><add><sup>T4</sup>Car</add></mod><lb/>
+<mod type="del" stage="" who=""><del><sup></sup>et</del></mod> <hi place=" " time="T3" who="Pσ" style="underline">s</hi>a<mod type="add" stage="T4" who=""><add><sup>T4</sup>ça</add></mod> ne se<hi place=" " time="T3" who="Pσ" style="underline">re</hi>nt <metamark place=" " time="T3" who="P" style="underline">temps</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>servait</add></mod> plus <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>a</del></mod></del><add stage="T2" who=""><sup>T2</sup>à</add></mod> rien <mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">de chercher Nelly si</hi></del></mod><metamark place=" " time="T3" who="P" style="underline">R</metamark><lb/>
+elle ne <mod type="del" stage="" who=""><del><sup></sup>p</del></mod> répond pas <mod type="corr"><orig>a<hi place=" " time="T3" who="Pσ" style="underline">u</hi> appel<hi place=" " time="T3" who="Pσ" style="underline">le</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>aux appélles</add></mod></orig><reg>aux appels</reg></mod> des policiers. Donc<lb/>
+<hi place=" " time="T3" who="Pσ" style="underline">il</hi><metamark place=" " time="T3" who="P" style="underline">GS</metamark> laissa<mod type="del" stage="T2" who=""><del><sup>T2</sup>t</del></mod> passer les jours et <mod type="del" stage="T2" who=""><del><sup>T2</sup>attendrent</del></mod><mod type="add" stage="T2" who=""><add><sup>T2</sup>attendè<hi place=" " time="T3" who="Pσ" style="underline">rent</hi></add></mod> que Nelly<lb/>
+<mod type="del" stage="" who=""><del><sup></sup>reviemm</del></mod> <mod type="corr"><orig>revienn<hi place=" " time="T3" who="Pσ" style="underline">ent</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>reviènnent</add></mod></orig><reg>revienne</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod></del><add stage="" who=""><sup></sup>.</add></mod> Mais <mod type="del" stage="" who=""><del><sup></sup>l</del></mod> Le soir du 14<lb/>
+juillet suivant<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>,</add></mod> <mod type="corr"><orig>P<mod type="subst"><del><mod type="del" stage="T3" who="P"><del><sup>T3P</sup>e</del></mod></del><add stage="T3" who="P"><sup>T3P</sup>é</add></mod>dro</orig><reg>Pedro</reg></mod> avait <mod type="corr"><orig>retrouver</orig><reg>retrouvé</reg></mod> Nelly donc Pedro<lb/> 
+etai<hi place=" " time="T3" who="Pσ" style="underline">s</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>était</add></mod> content <mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">de retrouvé Nelly</hi></del></mod><metamark place=" " time="T3" who="P" style="underline">R</metamark> e<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod></del><add stage="" who=""><sup></sup>t</add></mod> i<hi place=" " time="T3" who="Pσ" style="underline">l</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>ils</add></mod> ne se <mod type="corr"><orig>qu<hi place=" " time="T3" who="Pσ" style="underline">i</hi>tèrent<mod type="add" stage="T4" who=""><add><sup>T4</sup>quitèrent</add></mod></orig><reg>quittèrent</reg></mod><lb/>
+plus jamais.§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

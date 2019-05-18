@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E3-V2
+</head>
+<p>
+<pb/>
+
+C'était un garçon qui s'<mod type="corr"><orig>appel<mod type="del" stage="" who="P"><del>l</del></mod>ait</orig><reg>appelait</reg></mod> Gabriel. Il avait une toupie <lb/>
+chinoise. §<lb/>
+-Tu as <mod type="corr"><orig>perdu<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>perdu</reg></mod> quelque chose? demanda <mod type="corr"><orig>Anne Lise</orig><reg>Anne-Lise</reg></mod>.  §<lb/>
+-Ma toupie chinoise sur le chemin de l'école. §<lb/>
+-Viens, je vais t'amener chez le gardien de l'oubli. Il <mod type="corr"><orig>r<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>cupere</orig><reg>récupère</reg></mod> <lb/>
+<mod type="corr"><orig>tou<mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">s</add></mod></orig><reg>tous</reg></mod> les objets <mod type="corr"><orig>pe<mod type="add" stage="" who="P"><add>r</add></mod>dus</orig><reg>perdus</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod> dit <mod type="corr"><orig>Anne lise</orig><reg>Anne-Lise</reg></mod>.  §<lb/>
+C'est ici <mod type="corr"><orig>Gab<mod type="add" stage="" who="P"><add>r</add></mod>iel</orig><reg>Gabriel</reg></mod> <mod type="del" stage="" who=""><del>,</del></mod>. Je t'attends ici. Les gens qui n'ont pas <lb/>
+perdu d'<mod type="corr"><orig>objet</orig><reg>objets</reg></mod> n'ont pas le droit d'entrer.  §<lb/>
+-Bonjour, je vi...-<mod type="del" stage="" who=""><del>Je sais</del></mod>  §<lb/>
+<mod type="add" stage="" who="P"><add>-</add></mod> Je sais tout , viens. §<lb/>
+Dans une grande salle, sur un meuble, Gabriel<lb/>
+<mod type="corr"><orig>trouva<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>trouva</reg></mod> sa toupie chinoise. §<lb/>
+<mod type="add" stage="" who="P"><add>-</add></mod>Merci et au revoir<mod type="add" stage="" who="P"><add>,</add></mod> dit <mod type="corr"><orig>Gabriel<mod type="del" stage="" who="P"><del>le</del></mod></orig><reg>Gabriel</reg></mod>. §<lb/>
+
+<pb/>
+
+Il rentra chez lui avec sa toupie <mod type="corr"><orig>chinois<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>chinoise</reg></mod>. §<lb/>
+Fin §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

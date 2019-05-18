@@ -1,0 +1,140 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E32-V1
+</head>
+<p>
+<pb/>
+<mod type="add" stage="" who=""><add>Sous ce même réverbère où se diriger l'homme</add></mod> se trouvait un <mod type="subst"><del><mod type="del" stage="" who=""><del>Homme</del></mod></del><add stage="" who="">Père</add></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod>et son fils, tous les 2 attendant sûrement le prochain bus,<lb/>
+pour rentrer chez eux. §<lb/>
+<mod type="add" stage="" who=""><add>Dans cette nuit noire</add></mod> Air blafard <mod type="add" stage="" who=""><add>on vit</add></mod> <mod type="del" stage="" who=""><del>En se rapprochant du réverbère ainsi que</del></mod> <mod type="add" stage="" who=""><add>L'homme était maintenant sous le réverbère</add></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">des cernes <mod type="corr"><orig>creusés</orig><reg>creusées</reg></mod> et nombreuses</add></mod> à cause <mod type="corr"><orig>surement</orig><reg>sûrement</reg></mod> du manque de sommeil<lb/>
+<mod type="del" stage="" who=""><del>marché sans but</del></mod> §<lb/>
+Regard froid et distant vis à vis de l'homme qui<lb/>
+se tenait sous le réverbère, le dévisagé presque mais<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">XXX#</add></mod> qui tenait quand même un regard soutenu.<lb/>
+Dans ses yeux on pouvait voir les <mod type="corr"><orig>soufrances</orig><reg>souffrances</reg></mod> qu'il avait<lb/>
+enduré et sur son visage <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">les cicatrices</add></mod> <mod type="del" stage="" who=""><del>par des années dérrances</del></mod><lb/>
+et un visage ®<mod type="del" stage="" who=""><del>creusé pleins de traits et</del></mod>||plein de <mod type="corr"><orig>caractère</orig><reg>caractères</reg></mod>||<mod type="subst"><del>.<lb/>
+Autant <mod type="subst"><del><mod type="del" stage="" who=""><del>son</del></mod></del><add stage="" who="">ce</add></mod> visage <mod type="del" stage="" who=""><del>XXX# #XXX#</del></mod> nous <mod type="corr"><orig>donné</orig><reg>donnais</reg></mod> <mod type="del" stage="" who=""><del>autant</del></mod> de l'admiration<lb/>
+<mod type="corr"><orig>qu<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">i</add></mod></orig><reg>qui</reg></mod> <mod type="add" stage="" who=""><add>nous faisait <mod type="corr"><orig>eprouve</orig><reg>éprouver</reg></mod></add></mod> du <mod type="corr"><orig>dégouts</orig><reg>dégoût</reg></mod> avec <mod type="add" stage="" who=""><add>XXX#</add></mod> les marques du temps visibles<lb/>
+ainsi que la saleté, sans doute dû à une hygiène pitoyable<lb/>
+et <mod type="add" stage="" who=""><add>XXX#</add></mod> même inexistante <mod type="add" stage="" who=""><add>XXX#</add></mod>et de part ses années d'errances<lb/>
+<mod type="del" stage="" who=""><del>XXX# #XXX# #XXX# #XXX#<lb/> #XXX# #XXX# #XXX# digne</del></mod> digne d'une personne<lb/>
+ayant un très haut rang <mod type="del" stage="" who=""><del>mais pour autant</del></mod>, toutefois de<lb/>
+temps en temps, il se mettait sans raison apparente <mod type="add" stage="" who=""><add>à ne plus <mod type="corr"><orig>marché</orig><reg>marcher</reg></mod> droit</add></mod>. En<lb/>
+se rapprochant de la lumière, on put <mod type="del" stage="" who=""><del>XXX#<lb/> #XXX# #XXX# #XXX# à cette homme</del></mod> enfin <mod type="del" stage="" who=""><del>XXX#</del></mod> percevoir <mod type="corr"><orig>cette</orig><reg>cet</reg></mod><lb/>
+homme, il était <mod type="corr"><orig>pl<mod type="subst"><del><mod type="del" stage="" who=""><del>û</del></mod></del><add stage="" who="">u</add></mod>tôt</orig><reg>plutôt</reg></mod> grand, avec très peu de cheveux.<lb/>
+ses mains <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> d'une propreté ®<mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who=""><mod type="corr"><orig>suprenant</orig><reg>surprenante</reg></mod></add></mod> et on pouvait croire qu'il<lb/>
+venait de les <mod type="corr"><orig>achetés</orig><reg>acheter</reg></mod>. <mod type="del" stage="" who=""><del>XXX#</del></mod> Son manteau <mod type="del" stage="" who=""><del>en</del></mod> beige lui arrivait<lb/>
+aux genoux, on <mod type="del" stage="" who=""><del>XXX#</del></mod> voyait qu'il n'était pas du tout à sa taille ni<lb/>
+même son pantalon gris, assorti <mod type="del" stage="" who=""><del>XXX#</del></mod> de chaussures de<lb/>
+randonnées. §<lb/> 
+
+<pb/>
+Plus il se rapprochait <mod type="del" stage="" who=""><del>et</del></mod>, plus la tension et la peur<lb/>
+se virent de l'enfant. Lorsque que l'homme arriva<lb/>
+en face du père et de son fils, <mod type="del" stage="" who=""><del>XXX# #XXX# #XXX#<lb/> #XXX#</del></mod> On <mod type="corr"><orig>pût</orig><reg>put</reg></mod> entendre: "Bonjour" <mod type="add" stage="" who=""><add>que</add></mod> lâcha l'homme <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+Le père et son fils <mod type="corr"><orig>ns</orig><reg>nous</reg></mod> répondirent pas, toujours <mod type="corr"><orig>fasciné</orig><reg>fasciner</reg></mod> par cette<lb/>
+homme <mod type="del" stage="" who=""><del>qui continuait sa marche son #XXX#</del></mod>. §<lb/>
+dont le charisme n'avait pas d'égal que le mystère qu'il pouvait faire resentir après<lb/>
+des <mod type="subst"><del><mod type="del" stage="" who=""><del>gens</del></mod></del><add stage="" who="">autres. En dépit de ça,</add></mod> Il continuait inexorablement sa marche sans but.<lb/>
+ 
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

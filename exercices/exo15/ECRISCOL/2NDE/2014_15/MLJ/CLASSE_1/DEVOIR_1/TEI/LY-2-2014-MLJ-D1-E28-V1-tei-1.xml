@@ -1,0 +1,159 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E28-V1
+</head>
+<p>
+<pb/>
+<mod type="del" stage="" who=""><del>Il avait l'#XXX#. L'homme marcha</del></mod> §<lb/>
+L'homme <mod type="subst"><del><mod type="del" stage="" who=""><del>continuait a march</del></mod></del><add stage="" who="">avancait</add></mod> jusqu'<mod type="subst"><del><mod type="del" stage="" who=""><del>à</del></mod></del><add stage="" who="">au</add></mod> reverbère<lb/>
+et <mod type="del" stage="" who=""><del>s'ass</del></mod> il <mod type="subst"><del><mod type="del" stage="" who=""><del>s'asseyit</del></mod></del><add stage="" who="">s'assit</add></mod>, là, <mod type="del" stage="" who=""><del>au pred</del></mod><lb/>
+<mod type="add" stage="" who=""><add>sur le</add></mod> trottoir, dos au mur, sous la pluie.<lb/>
+Il avait l'air <mod type="del" stage="" who=""><del>d'être</del></mod> très fatigué, comme<lb/>
+si cela faisait <mod type="del" stage="" who=""><del>XXX#</del></mod> une semaine qu'il<lb/>
+n'avait pas <mod type="corr"><orig>dormit</orig><reg>dormis</reg></mod>. Il portait une<lb/>
+blouse marron <mod type="del" stage="" who=""><del>un chapeau</del></mod> qui lui arrivait<lb/>
+au bas de son <mod type="corr"><orig>genoux</orig><reg>genou</reg></mod>, un <mod type="del" stage="" who=""><del>XXX#</del></mod> bonnet<lb/>
+troué et des bottes très <mod type="corr"><orig>abimés</orig><reg>abîmées</reg></mod>. <mod type="del" stage="" who=""><del>Je voyais<lb/> du haut de mon balcon au troisième<lb/> éta</del></mod> Il avait une bouteille d'alcool <mod type="corr"><orig>a</orig><reg>à</reg></mod> la<lb/>
+main, qu'il <mod type="del" stage="" who=""><del>avait aid</del></mod> biberonnait- d'une<lb/>
+vitesse incroyable. J'<mod type="corr"><orig>essayait</orig><reg>essayais</reg></mod> d'être la<lb/>
+plus discrète possible pour ne pas me<lb/>
+faire remarquer, car je voyais qu'il<lb/>
+observait la rue comme si <mod type="del" stage="" who=""><del>XXX# il avait<lb/>
+peur que quelqu'un le voir comme si</del></mod><lb/>
+il était recherché par quelqu'un.<lb/>
+Je ne l'avais jamais vu auparavant<lb/>
+dans cette rue, c'était vraiment bizarre.<lb/>
+Ce soir là, je n'avais pas sommeil, j'étais<lb/>
+dans mon balcon, avec une cigarette à la<lb/>
+main. En temps normal je ne me saurais §<lb/>
+
+<pb/>
+pas attardée sur un hommme comme <mod type="corr"><orig>ca</orig><reg>ça</reg></mod>, mais<lb/>
+celui <mod type="corr"><orig>la</orig><reg>là</reg></mod> avait l'air <mod type="add" stage="" who=""><add>d'avoir <mod type="corr"><orig>bcp</orig><reg>beaucoup</reg></mod> de <mod type="corr"><orig>pb</orig><reg>problèmes</reg></mod></add></mod> <mod type="del" stage="" who=""><del>de cacher quelque<lb/> chose</del></mod> et bizarrement cela m'intriguait<lb/>
+beaucoup. Soudain, j'entendais une<lb/>
+sonnerie. Il décrocha son téléphone<lb/>
+et dit d'une voix tremblante: §<lb/>
+- Allo? §<lb/>
+<mod type="del" stage="" who=""><del>- on sait qui tu es, ou tu es, et ce que<lb/> tu fais en ce moment même.</del></mod> §<lb/>
+- Mais... Mais qu'est ce que vous me voulez<lb/>
+<mod type="corr"><orig>non</orig><reg>nom</reg></mod> de Dieu ? Je n'ai rien avoir avec vos<lb/>
+<mod type="corr"><orig>histoire</orig><reg>histoires</reg></mod> moi !! ... Allo? Allo? §<lb/>
+<mod type="del" stage="" who=""><del>Et il</del></mod> Et il jeta son téléhpone <mod type="subst"><del><mod type="del" stage="" who=""><del>contre</del></mod></del><add stage="" who="">par</add></mod><lb/>
+terre, d'une force incroyable. §<lb/>
+J'entendais ses sanglots de plus en plus<lb/>
+forts. Et <mod type="corr"><orig>la</orig><reg>là</reg></mod> il <mod type="del" stage="" who=""><del>crie: Qui</del></mod> leva et crie:<lb/>
+<mod type="del" stage="" who=""><del>- La</del></mod> - Mais qu'<mod type="corr"><orig>es ce</orig><reg>est-ce</reg></mod> que vous me<lb/>
+voulez ?! Tuez moi, allez y si c'est<lb/>
+ce que vous voulez! Je préfère <mod type="corr"><orig>mourrir</orig><reg>mourir</reg></mod><lb/>
+que de <mod type="subst"><del><mod type="del" stage="" who=""><del>passer toute ma vie</del></mod></del><add stage="" who="">vivre</add></mod> dans l'angoisse!<lb/>
+<mod type="del" stage="" who=""><del>de</del></mod> §<lb/>
+Et il s'écroulat par terre, comme si<lb/>
+toute sa vie était un échec. Il était<lb/>
+<mod type="corr"><orig>deja</orig><reg>déjà</reg></mod> <mod type="corr"><orig>2h</orig><reg>deux heures</reg></mod> du matin et la fatigue m'avait<lb/>
+<mod type="corr"><orig>innonder</orig><reg>inondé</reg></mod>. Pendant <mod type="corr"><orig>30</orig><reg>trente</reg></mod> <mod type="corr"><orig>minute</orig><reg>minutes</reg></mod> je suis <mod type="corr"><orig>rester</orig><reg>restée</reg></mod><lb/>
+<mod type="corr"><orig>la</orig><reg>là</reg></mod>, à l'observer, mais il s'était endormi. §<lb/>
+
+<pb/>
+Je décidais alors, de <mod type="subst"><del><mod type="del" stage="" who=""><del>partir</del></mod></del><add stage="" who="">rentrer</add></mod> me coucher <mod type="del" stage="" who=""><del>.</del></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX# #XXX#</del></mod></del><add stage="" who="">dans ma chambre</add></mod> avec un mot de<lb/>
+tête horrible, car ce que j'avais vu ce<lb/>
+soir là m'avait <mod type="corr"><orig>troublé<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>troublé</reg></mod>. Le lendemain,<lb/>
+je me <mod type="corr"><orig>reveillai<mod type="del" stage="" who=""><del>t</del></mod>s</orig><reg>réveillais</reg></mod> la boule au ventre.Je<lb/>
+décidais alors de voir si cet homme était<lb/>
+encore là. Il avait disparu. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

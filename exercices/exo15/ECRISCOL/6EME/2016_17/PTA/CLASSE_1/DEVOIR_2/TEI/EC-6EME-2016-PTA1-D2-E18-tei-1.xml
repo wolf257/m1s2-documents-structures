@@ -1,0 +1,143 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E18
+</head>
+<p>
+<pb/>
+<mod type="corr"><orig>Quant</orig><reg>Quant</reg></mod> elle arriva a l'<mod type="corr"><orig>écolle</orig><reg>école</reg></mod>, elle vit ses copines, Laure, <mod type="corr"><orig>manon</orig><reg>Manon</reg></mod>.<lb/>
+<mod type="corr"><orig>Elle</orig><reg>Elles</reg></mod> se <mod type="corr"><orig>racontère</orig><reg>racontèrent</reg></mod> <mod type="corr"><orig>leur</orig><reg>leurs</reg></mod> journées du <mod type="corr"><orig>wee-quen</orig><reg>week-end</reg></mod>. L'heure est<lb/>
+venue de <mod type="corr"><orig>rentrée</orig><reg>rentrer</reg></mod> en classe. Laurie est contente elle <mod type="corr"><orig>à</orig><reg>a</reg></mod> eu<lb/>
+une bonne note. <mod type="corr"><orig>Quant</orig><reg>Quand</reg></mod> elle <mod type="corr"><orig>rentras</orig><reg>rentra</reg></mod> <mod type="corr"><orig>chez-elle</orig><reg>chez elle</reg></mod> dit sa<lb/>
+bonne note <mod type="corr"><orig>a</orig><reg>à</reg></mod> ses parents <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> <mod type="corr"><orig>s'ait</orig><reg>ses</reg></mod> <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="corr"><orig>décidère</orig><reg>décidèrent</reg></mod><lb/>
+de l'<mod type="corr"><orig>envoger</orig><reg>envoyer</reg></mod> en <mod type="corr"><orig>pansion</orig><reg>pension</reg></mod>. Les <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> de Laurie lui <mod type="corr"><orig>anoncère</orig><reg>anoncèrent</reg></mod><lb/>
+la <mod type="corr"><orig>térrible</orig><reg>terrible</reg></mod> nouvelle, elle était très triste la nuit<lb/>
+<mod type="corr"><orig>tombé</orig><reg>tombée</reg></mod> elle en <mod type="corr"><orig>profitont</orig><reg>profita</reg></mod> pour s'<mod type="corr"><orig>échaper</orig><reg>échapper</reg></mod>. Elle<lb/>
+<mod type="corr"><orig>avais</orig><reg>avait</reg></mod> <mod type="corr"><orig>prix</orig><reg>pris</reg></mod> ses affaires, son téléphone portable, son sac.<lb/>
+et <mod type="corr"><orig>partie</orig><reg>partit</reg></mod>. Elle se réfugia chez son amie <mod type="corr"><orig>manon</orig><reg>Manon</reg></mod>.<lb/>
+Le <mod type="corr"><orig>landemain-matin</orig><reg>lendemain matin</reg></mod> <mod type="corr"><orig>touts</orig><reg>tout</reg></mod> le monde <mod type="corr"><orig>savai</orig><reg>savait</reg></mod> <mod type="corr"><orig>quelle</orig><reg>qu'elle</reg></mod> était<lb/>
+<mod type="corr"><orig>partit</orig><reg>partie</reg></mod> de <mod type="corr"><orig>chez-elle</orig><reg>chez elle</reg></mod> pour aller chez <mod type="corr"><orig>manon</orig><reg>Manon</reg></mod>. Et <mod type="corr"><orig>touts</orig><reg>tout</reg></mod><lb/>
+le <mod type="corr"><orig>mondes</orig><reg>monde</reg></mod> se <mod type="corr"><orig>maguai</orig><reg>moquait</reg></mod> d'elle. Les <mod type="corr"><orig>journée</orig><reg>journées</reg></mod> <mod type="corr"><orig>passe</orig><reg>passent</reg></mod>.<lb/>
+Jusqu'<mod type="corr"><orig>a</orig><reg>à</reg></mod> un <mod type="corr"><orig>momen</orig><reg>moment</reg></mod> elle regrette d'être partie. Elle<lb/>
+décida de revenir <mod type="corr"><orig>chez-elle</orig><reg>chez elle</reg></mod>. Les parents de Laurie<lb/>
+<mod type="corr"><orig>était</orig><reg>étaient</reg></mod> très <mod type="corr"><orig>content</orig><reg>contents</reg></mod> de <mod type="corr"><orig>le</orig><reg>la</reg></mod> revoir. <mod type="corr"><orig>Il</orig><reg>Ils</reg></mod> lui <mod type="corr"><orig>annoncère</orig><reg>annoncèrent</reg></mod><lb/>
+pourquoi <mod type="subst"><del><mod type="del" stage="" who=""><del>elle</del></mod></del><add stage="" who="">elle</add></mod> devait partir en <mod type="corr"><orig>posion</orig><reg>pension</reg></mod> car "on n'a<lb/>
+plus beaucoup d'argent". §<lb/>
+
+<pb/>
+<mod type="corr"><orig>Ducoup</orig><reg>Du coup</reg></mod> elle ne <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>voay</del></mod></del><add stage="" who="">voiai</add></mod></orig><reg>voyait</reg></mod> pas son papa. Elle demanda <mod type="corr"><orig>ou</orig><reg>où</reg></mod><lb/>
+était son père. Sa mère lui <mod type="corr"><orig>répondie</orig><reg>répondit</reg></mod> qu'il était <mod type="corr"><orig>partie</orig><reg>parti</reg></mod> cher-<lb/>
+cher du travail. Le <mod type="corr"><orig>landemain-matin</orig><reg>lendemain matin</reg></mod> c'était mercredi Laurie<lb/>
+<mod type="corr"><orig>navaie</orig><reg>n'avait</reg></mod> pas école <mod type="corr"><orig>alore</orig><reg>alors</reg></mod> son père décida de <mod type="corr"><orig>lenmener</orig><reg>l'emmener</reg></mod> au parc.<lb/>
+<mod type="corr"><orig>Arrivais</orig><reg>Arrivés</reg></mod> au parc, ils <mod type="corr"><orig>sasoye</orig><reg>s'assoient</reg></mod> sur un banc et <mod type="corr"><orig>la</orig><reg>là</reg></mod> <mod type="del" stage="" who=""><del>Laurie</del></mod><lb/>
+Laurie <mod type="corr"><orig>tombas</orig><reg>tomba</reg></mod> son père l'<mod type="corr"><orig>enmena</orig><reg>emmena</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod>. Le médecin<lb/>
+dit qu'elle a un problème et qu'elle <mod type="corr"><orig>na</orig><reg>n'a</reg></mod> plus que <mod type="corr"><orig>qu'elle que</orig><reg>quelques</reg></mod><lb/>
+jours à vivre les jours <mod type="corr"><orig>pasère</orig><reg>passèrent</reg></mod> et il <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>falai</del></mod></del><add stage="" who="">falai</add></mod></orig><reg>fallait</reg></mod> un donneur<lb/>
+sinon Laurie <mod type="corr"><orig>moura</orig><reg>mourra</reg></mod>. Son père <mod type="corr"><orig>pris</orig><reg>prit</reg></mod> une décision il décide<lb/>
+d'être son donneur, Laurie a <mod type="corr"><orig>était</orig><reg>été</reg></mod> <mod type="corr"><orig>gérie</orig><reg>guérie</reg></mod> l'opération s'est bien<lb/>
+<mod type="corr"><orig>passé</orig><reg>passée</reg></mod> Laurie <mod type="corr"><orig>rontra</orig><reg>rentra</reg></mod> <mod type="corr"><orig>qu'elle que</orig><reg>quelques</reg></mod> <mod type="corr"><orig>jour</orig><reg>jours</reg></mod> après, elle cria papa<lb/>
+je <mod type="corr"><orig>sui</orig><reg>suis</reg></mod> <mod type="corr"><orig>rentré</orig><reg>rentrée</reg></mod> sa mère les <mod type="del" stage="" who=""><del>XXX#</del></mod> #XXX# <mod type="corr"><orig>mouller</orig><reg>mouillée</reg></mod> <mod type="corr"><orig>en</orig><reg>de</reg></mod> <mod type="corr"><orig>larme</orig><reg>larmes</reg></mod> elle<lb/>
+dit "va dans ta chambre ton père <mod type="corr"><orig>ta</orig><reg>t'a</reg></mod> <mod type="corr"><orig>écrie</orig><reg>écrit</reg></mod> <mod type="corr"><orig>quelle que</orig><reg>quelque</reg></mod> chose"<lb/>
+Elle <mod type="corr"><orig>allat</orig><reg>alla</reg></mod> dans sa chambre et <mod type="corr"><orig>ouvra</orig><reg>ouvrit</reg></mod> la lettre: §<lb/>
+"Ma chérie <mod type="corr"><orig>des</orig><reg>dès</reg></mod> que tu <mod type="corr"><orig>ouvrira</orig><reg>ouvriras</reg></mod> <mod type="corr"><orig>s'ette</orig><reg>cette</reg></mod> lettre je <mod type="corr"><orig>serais</orig><reg>serai</reg></mod> parti<lb/>
+J'ai <mod type="corr"><orig>décider</orig><reg>décidé</reg></mod> de te donner la vie sauve. Le docteur <mod type="corr"><orig>à</orig><reg>a</reg></mod> dit que<lb/>
+tu avais plus que <mod type="corr"><orig>quelle que</orig><reg>quelques</reg></mod> <mod type="corr"><orig>jour</orig><reg>jours</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> vivre. Donc je <mod type="corr"><orig>tait</orig><reg>t'es</reg></mod><lb/>
+<mod type="corr"><orig>donner</orig><reg>donné</reg></mod> mon coeur fais ce que tu veux avec. §<lb/>
+Je t'aime." §<lb/>
+Elle <mod type="corr"><orig>resortie</orig><reg>ressortit</reg></mod> de sa chambre en <mod type="corr"><orig>pleurent</orig><reg>pleurant</reg></mod>. §<lb/>
+fin §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

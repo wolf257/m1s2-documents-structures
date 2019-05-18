@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E8-V1
+</head>
+<p>
+J'<mod type="corr"><orig>étai<mod type="subst"><del><mod type="del" stage="T2" who=""><del>t</del></mod></del><add stage="T2" who="">s</add></mod></orig><reg>étais</reg></mod> <mod type="subst"><del><mod type="del" stage="T2" who=""><del>aller</del></mod></del><add stage="T2" who="">allé</add></mod> au parc avec ma soeur et mes parents,<lb/>
+et j'avais vu<mod type="del" stage="T2" who=""><del>s</del></mod> un chien. Ma soeur qui n'avait que<lb/>
+6 ans m'a cru quand je lui <mod type="corr"><orig>est</orig><reg>ai</reg></mod> dit que c'était un<lb/>
+loup. Elle qui adorait les <mod type="corr"><orig>loup</orig><reg>loups</reg></mod> et savait tout sur<lb/>
+<mod type="corr"><orig>eu</orig><reg>eux</reg></mod> s'approcha du chien <mod type="add" stage="T2" who=""><add>(</add></mod>qu'elle <mod type="corr"><orig>croyais</orig><reg>croyait</reg></mod> loup<mod type="add" stage="T2" who=""><add>)</add></mod> et lui<lb/>
+<mod type="corr"><orig>tendis</orig><reg>tendit</reg></mod> un gros bout de <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del>steak</del></mod></del><add stage="" who="">T2steack</add></mod></orig><reg>steak</reg></mod> de son <mod type="corr"><orig>hambourger</orig><reg>hamburger</reg></mod> qu'elle<lb/>
+était <mod type="corr"><orig>entrain</orig><reg>en train</reg></mod> de manger. Ce chien qui je crois avait<lb/>
+la rage <mod type="corr"><orig>la</orig><reg>l'a</reg></mod> <mod type="corr"><orig>mo<mod type="del" stage="" who=""><del>u</del></mod>rdu</orig><reg>mordue</reg></mod> très fort. Elle dut refaire un tour<lb/>
+à l'<mod type="corr"><orig>opitale</orig><reg>hôpital</reg></mod> mais elle en <mod type="corr"><orig>ressortis</orig><reg>ressortit</reg></mod> 3 jours <mod type="corr"><orig>aprés</orig><reg>après</reg></mod>. Avec<lb/>
+cette histoire j'ai eu un 10/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

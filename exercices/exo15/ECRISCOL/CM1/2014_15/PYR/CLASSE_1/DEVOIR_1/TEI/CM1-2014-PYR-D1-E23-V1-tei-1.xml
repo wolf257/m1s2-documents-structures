@@ -1,0 +1,108 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E23-V1
+</head>
+<p>
+1 un enfant sur la route de <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">lecole</hi></orig><reg>l'école</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>l'ècole</add></mod></orig><reg>l'école</reg></mod> avec une toupie<lb/>
+2 un garçon et une fille. §<lb/>
+3 <mod type="corr"><orig>une</orig><reg>Une</reg></mod> fille devant un <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">b<mod type="subst"><del><mod type="del" stage="T2" who=""><del>a</del></mod></del><add stage="T2" who="">â</add></mod>timent</hi></orig><reg>bâtiment</reg></mod> §<lb/>
+4 un grand homme  <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">e<mod type="del" stage="T2" who=""><del>s</del></mod>t</hi></orig><reg>est</reg></mod> un <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">gar<mod type="subst"><del><mod type="del" stage="T2" who=""><del>c</del></mod></del><add stage="T2" who="">ç</add></mod>on</hi></orig><reg>garçon</reg></mod> devant un <hi place=" " time="" who="Pσ" style="underline">escalier</hi> <mod type="add" stage="T2" who=""><add>escalier</add></mod>.<lb/>
+5 plein de <mod type="corr"><orig>jouet<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>jouets</reg></mod> §<lb/>
+6 un enfant <mod type="corr"><orig>repartan<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>repartant</reg></mod> chez lui avec <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="del" stage="" who="P"><del>un</del></mod></hi></orig><reg>une</reg></mod> <mod type="add" stage="T2" who=""><add>une</add></mod> toupie §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

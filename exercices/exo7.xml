@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+<exercice>
+    
+    <infoPage>
+        <titrePage> exercice_7 </titrePage>
+    </infoPage>
+    
+    <infoExo>
+        <titreExo> Exercice 7 : Regrouper des éléments </titreExo>
+        <sousTitrePerso> Ranger dans des petites cases...</sousTitrePerso>
+    </infoExo>
+    
+    <!--  =============================  -->
+    <question index="1">
+        
+        <bloc>
+            <titre> Consigne </titre>
+                        
+            <pathimage> ./exo7/img/c1.png </pathimage>
+            <pathimage> ./exo7/img/c2.png </pathimage>
+            
+        </bloc>
+        
+        <bloc>
+            <titre> Solution </titre>
+            
+            <pathimage> ./exo7/img/s1.png </pathimage>
+            
+        </bloc>
+        <bloc>
+            <titre> Résultats </titre>
+            
+            <pathimage> ./exo7/img/r1.png </pathimage>
+
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo7/fichiersExo7.zip </pathZip>
+        </code>
+        
+    </question>
+    
+</exercice>

@@ -1,0 +1,107 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E22-V2
+</head>
+<p>
+<mod type="del" stage="" who=""><del>Je achinné je découpe, je fait les maths, painturez les mur.</del></mod> §<lb/>
+<mod type="del" stage="" who=""><del>Je chassré les auvénture de chasse. Je partira sur les massion. quant jaurai 18<lb/>
+ans je voyagré avec mes amis.</del></mod> Je me <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">levrait</hi></orig><reg>lèverai</reg></mod> le matin je <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">boire</hi></orig><reg>boirai</reg></mod> <mod type="add" stage="" who=""><add>un</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">caffé</hi></orig><reg>café</reg></mod> <mod type="corr"><orig>pur</orig><reg>pour</reg></mod> me<lb/>
+<mod type="corr"><orig>r<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>veiller</orig><reg>réveillerai</reg></mod> pour aller <mod type="corr"><orig>chin<hi place=" " time="" who="Pσ" style="underline">ente</hi></orig><reg>kiné</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>chiné</add></mod></orig><reg>kiné</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod> <mod type="corr"><orig>déca<hi place=" " time="" who="Pσ" style="underline">pé</hi></orig><reg>découper</reg></mod> <mod type="add" stage="T2" who=""><add>décapé</add></mod> je <mod type="corr"><orig>reviendré</orig><reg>reviendrai</reg></mod> à 12h00 pour <mod type="corr"><orig>man<hi place=" " time="" who="Pσ" style="underline">ge</hi></orig><reg>manger</reg></mod> <mod type="add" stage="T2" who=""><add>manger</add></mod><lb/>
+Je me <mod type="corr"><orig>levr<mod type="del" stage="" who=""><del>XXX#</del></mod>é</orig><reg>lèverai</reg></mod> le matin je <mod type="corr"><orig>boirait</orig><reg>boirai</reg></mod> un <mod type="corr"><orig>caffé</orig><reg>café</reg></mod> pour me <mod type="corr"><orig>révailler</orig><reg>réveiller</reg></mod> pour aller <mod type="corr"><orig>kiné</orig><reg>kiné</reg></mod>,<lb/>
+découpé je <mod type="corr"><orig>reviendré</orig><reg>reviendrai</reg></mod> à 12h00 pour manger. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

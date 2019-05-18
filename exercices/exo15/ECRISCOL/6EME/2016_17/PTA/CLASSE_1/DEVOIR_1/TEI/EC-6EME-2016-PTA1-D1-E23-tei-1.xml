@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E23
+</head>
+<p>
+Quand je <mod type="corr"><orig>serais</orig><reg>serai</reg></mod> adulte, ma <mod type="corr"><orig>familles</orig><reg>famille</reg></mod> <mod type="corr"><orig>seras</orig><reg>sera</reg></mod> composé de 2 enfants et un couple (le mien).<lb/>
+Mon boulot <mod type="corr"><orig>seras</orig><reg>sera</reg></mod> vétérinaire, <mod type="del" stage="" who=""><del>pourquoi</del></mod> ou soigneuse animalière dans un zoo, pourquoi<lb/>
+car ma passion <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> les animaux. <mod type="corr"><orig>j amenerais</orig><reg>J'aimerais</reg></mod> avoir ma propre clinique,<lb/>
+Ma <mod type="corr"><orig>journée<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>journée</reg></mod> se <mod type="corr"><orig>passra</orig><reg>passera</reg></mod> comme ça en temps que vétérinaire. §<lb/>
+Mes <mod type="corr"><orig>journés</orig><reg>journées</reg></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> sont <mod type="corr"><orig>longue</orig><reg>longues</reg></mod> car je commence à 5h00 <mod type="corr"><orig>min</orig><reg>minutes</reg></mod><lb/>
+du matin et se termine à 20h00 <mod type="corr"><orig>min</orig><reg>minutes</reg></mod> le soir. <mod type="corr"><orig>je</orig><reg>Je</reg></mod> commence par emmener<lb/>
+les enfants chez une <mod type="corr"><orig>ami</orig><reg>amie</reg></mod>, c'est moi qui les <mod type="corr"><orig>emmènes</orig><reg>emmene</reg></mod> car leur <mod type="corr"><orig>pères</orig><reg>père</reg></mod> déjà <mod type="corr"><orig>commencer</orig><reg>commencé</reg></mod><lb/>
+sa <mod type="corr"><orig>journé</orig><reg>journée</reg></mod>, après je file au boulot pour <mod type="corr"><orig>ouvir</orig><reg>ouvrir</reg></mod> la clinique, une fois <mod type="corr"><orig>arrivé</orig><reg>arrivée</reg></mod><lb/>
+je me prépare puis je regarde le tableau des <mod type="corr"><orig>intervention</orig><reg>interventions</reg></mod> aujourd'hui ça va<lb/>
+j'en ai que 2 pour l'instant si je <mod type="corr"><orig>dit</orig><reg>dis</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> c'est <mod type="corr"><orig>accose</orig><reg>à cause</reg></mod> des visites non <mod type="corr"><orig>prévu</orig><reg>prévues</reg></mod> car<lb/>
+souvent les animaux sont <mod type="corr"><orig>impaudent</orig><reg>impudents</reg></mod>, un coup <mod type="corr"><orig>il</orig><reg>ils</reg></mod> se font roulé dessus par une voiture<lb/>
+<mod type="corr"><orig>défois</orig><reg>des fois</reg></mod> c'est des <mod type="del" stage="" who=""><del>aure</del></mod> <mod type="corr"><orig>aurevoir</orig><reg> au revoir</reg></mod> <mod type="corr"><orig>innatendut</orig><reg>inattendus</reg></mod> <mod type="del" stage="" who=""><del>nou</del></mod> nous sommes même <mod type="corr"><orig>obligé</orig><reg>obligés</reg></mod> de<lb/>
+les <mod type="corr"><orig>anèstésier</orig><reg>anesthésier</reg></mod>; <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> me fait beaucoup de peine mais il faut savoir contenir<lb/>
+ses émotions. Aujourd'hui je <mod type="corr"><orig>doit</orig><reg>dois</reg></mod> faire deux <mod type="corr"><orig>stèrilisations</orig><reg>stérilisations</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> va prendre<lb/>
+du temps. Un peu plus tard dans la <mod type="corr"><orig>journé</orig><reg>journée</reg></mod> j'aurais quatre autres cas<lb/>
+comme <mod type="corr"><orig>grizili</orig><reg>grizzli</reg></mod> qui <mod type="corr"><orig>c'est</orig><reg>s'est</reg></mod> <mod type="corr"><orig>casser</orig><reg>cassé</reg></mod> la <mod type="corr"><orig>pate</orig><reg>patte</reg></mod> en <mod type="corr"><orig>tombent</orig><reg>tombant</reg></mod>, tornade qui <mod type="corr"><orig>ses</orig><reg>s'est</reg></mod> <mod type="corr"><orig>prit</orig><reg>pris</reg></mod> du fil<lb/>
+#XXX# dans l'oeil...Ma <mod type="corr"><orig>journé</orig><reg>journée</reg></mod> <mod type="corr"><orig>sachève</orig><reg>s'achève</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

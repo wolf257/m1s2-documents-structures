@@ -1,0 +1,105 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2016-ABZ-D2-E15-V1
+</head>
+<p>
+<mod type="corr"><orig><metamark place=" " time="T2" who="P" style="underline">j</metamark>e</orig><reg>Je</reg></mod> ferai du sport <mod type="corr"><orig>se</orig><reg>ce</reg></mod> sera<lb/>du <mod type="corr"><orig>haike boxe</orig><reg>kickboxing</reg></mod> <mod type="add" stage="T2" who="P"><add>.</add></mod> <hi place=" " time="T2" who="Pσ" style="underline">et</hi> <mod type="corr"><orig><metamark place=" " time="T2" who="P" style="underline">m</metamark>on</orig><reg>Mon</reg></mod> <lb/>métier je <mod type="subst"><del><mod type="del" stage="" who=""><del>serai #X#es</del></mod></del><add stage="" who="">serai</add></mod> <mod type="corr"><orig>militère</orig><reg>militaire</reg></mod><mod type="add" stage="T2" who="P"><add>.</add></mod><lb/><mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">et</hi></orig><reg>Et</reg></mod> <mod type="corr"><orig><metamark place=" " time="T2" who="P" style="underline">m</metamark>a</orig><reg>ma</reg></mod> famille <mod type="corr"><orig>jaurai</orig><reg>j’aurai</reg></mod> 2 enfants <mod type="add" stage="T2" who="P"><add>.</add></mod><lb/><mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>Mo<metamark place=" " time="T2" who="P" style="underline">n</metamark>ds</del></mod></del><add stage="" who="M">X#</add></mod></orig><reg>Mes</reg></mod> voitures <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>jaira</del></mod></del><add stage="" who="">jaurai</add></mod></orig><reg>j’aurai</reg></mod> une<lb/>moto <mod type="corr"><orig>est</orig><reg>et</reg></mod> une <mod type="corr"><orig>porche</orig><reg>Porsche</reg></mod> jaune <mod type="corr"><orig>est</orig><reg>et</reg></mod><lb/>je <mod type="corr"><orig>viverai</orig><reg>vivrai</reg></mod> au <mod type="corr"><orig>japon</orig><reg>Japon</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> je<lb/><mod type="corr"><orig>voyages</orig><reg>voyagerai</reg></mod> <mod type="corr"><orig>an</orig><reg>en</reg></mod> <mod type="corr"><orig>espagne</orig><reg>Espagne</reg></mod><hi place=" " time="T2" who="Pσ" style="underline">.</hi> Parce que<lb/>
+ §<lb/>
+<hi place=" " time="T2" who="Pσ" style="underline">l</hi> <mod type="del" stage="" who=""><del>j’aime</del></mod> <mod type="del" stage="" who=""><del>le</del></mod> <mod type="del" stage="" who=""><del>j j j#X#</del></mod> <mod type="corr"><orig>j aime</orig><reg>j’aime</reg></mod><lb/><mod type="corr"><orig>cete</orig><reg>cette</reg></mod> <mod type="corr"><orig>lange</orig><reg>langue</reg></mod>. <mod type="corr"><orig>est</orig><reg>Et</reg></mod>le <mod type="corr"><orig>japon</orig><reg>Japon</reg></mod> <mod type="corr"><orig>pareille</orig><reg>pareil</reg></mod>. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,140 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E8
+</head>
+<p>
+<pb/>
+<mod type="del" stage="" who=""><del>Il va a l’école et r</del></mod> 8h00 Il va <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="del" stage="" who=""><del>l</del></mod> <mod type="corr"><orig>pied</orig><reg>pieds</reg></mod><lb/>
+<mod type="corr"><orig>jusca</orig><reg>jusqu’à</reg></mod> l’école et le chemin <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>longt</orig><reg>long</reg></mod>. §<lb/>
+9h00 Il ar<mod type="del" stage="" who=""><del>i</del></mod>rive <mod type="corr"><orig>a</orig><reg>à</reg></mod> l’école et retrouve ses copains.<lb/>
+10h00 la <mod type="corr"><orig>sonerie</orig><reg>sonnerie</reg></mod> son<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">ne</add></mod> et les <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>enf</del></mod></del><add stage="" who="">anfents</add></mod></orig><reg>enfants</reg></mod> <mod type="corr"><orig>vons</orig><reg>vont</reg></mod><lb/>
+dans leur classe et font des <mod type="corr"><orig>court</orig><reg>cours</reg></mod>. §<lb/>
+10h50 La <mod type="corr"><orig>m<mod type="del" stage="" who=""><del>ân</del></mod>aîtraise</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>ramase</orig><reg>ramasse</reg></mod> <mod type="corr"><orig>leur</orig><reg>leurs</reg></mod> <mod type="corr"><orig>fiche</orig><reg>fiches</reg></mod> et elle<lb/>
+dit <mod type="corr"><orig>leur</orig><reg>leurs</reg></mod> <mod type="corr"><orig>note</orig><reg>notes</reg></mod> <mod type="del" stage="" who=""><del>f</del></mod>Fabien a eu un A et il <mod type="del" stage="" who=""><del>f</del></mod>Fabien <mod type="corr"><orig>et</orig><reg>est</reg></mod> très content<lb/>
+11h02 <mod type="del" stage="" who=""><del>La</del></mod><mod type="add" stage="" who=""><add>La</add></mod> cloche sonne <mod type="corr"><orig>il</orig><reg>ils</reg></mod> vont en <mod type="corr"><orig>récrer</orig><reg>récré</reg></mod> ils<lb/>
+<mod type="corr"><orig>jout</orig><reg>jouent</reg></mod> au foot, ils <mod type="corr"><orig>jout</orig><reg>jouent</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>léprve</orig><reg>l’épervier</reg></mod>, les filles <mod type="corr"><orig>jout</orig><reg>jouent</reg></mod><lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> la marelle, <mod type="corr"><orig>a</orig><reg>à</reg></mod> la corde a <mod type="corr"><orig>sotter</orig><reg>sauter</reg></mod> <mod type="corr"><orig>en fin</orig><reg>enfin</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>X#</del></mod> un <mod type="corr"><orig>peut</orig><reg>peu</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> tout et <mod type="corr"><orig>méme</orig><reg>même</reg></mod> les garçons. §<lb/>1
+1h55 Ils <mod type="corr"><orig>rentres</orig><reg>rentrent</reg></mod> en classe <mod type="corr"><orig>contine</orig><reg>continuent</reg></mod> les<lb/>
+<mod type="corr"><orig>court</orig><reg>cours</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> font de <mod type="corr"><orig>langlais</orig><reg>l’anglais</reg></mod> et de la grammaire.<lb/>
+Il est 12h20 <mod type="corr"><orig>il</orig><reg>ils</reg></mod> vont <mod type="corr"><orig>a</orig><reg>à</reg></mod> la cantine le<lb/>
+<mod type="corr"><orig>menue</orig><reg>menu</reg></mod> <mod type="corr"><orig>a lore</orig><reg>alors</reg></mod> il y a: <mod type="del" stage="" who=""><del>betrave</del></mod> il y a des<lb/>
+<mod type="corr"><orig>bétraves</orig><reg>betteraves</reg></mod>, <mod type="corr"><orig>d<mod type="del" stage="" who=""><del>X#</del></mod>es</orig><reg>des</reg></mod>  poissons, de la <mod type="corr"><orig>sem<mod type="del" stage="" who=""><del>X#</del></mod>oule</orig><reg>semoule</reg></mod> et le <mod type="corr"><orig>desser#X#</orig><reg>dessert</reg></mod><lb/>
+du <mod type="corr"><orig>fromages</orig><reg>fromage</reg></mod> et des <mod type="corr"><orig>yaourte</orig><reg>yogourts</reg></mod>. 13h50 Ils <mod type="corr"><orig>sore</orig><reg>sortent</reg></mod><lb/>
+de la cantine <mod type="corr"><orig>il</orig><reg>ils</reg></mod> font une récré. 14h00<lb/>
+la cloche <mod type="corr"><orig>sone</orig><reg>sonne</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> vont en classe et font du <mod type="corr"><orig>françai#X#</orig><reg>français</reg></mod><lb/>
+qui <mod type="corr"><orig>et</orig><reg>est</reg></mod> très <mod type="corr"><orig>tur</orig><reg>dur</reg></mod> et un <mod type="corr"><orig>peut</orig><reg>peu</reg></mod> de numération. §<lb/>
+
+<pb/>
+<mod type="corr"><orig>Ils</orig><reg>Il</reg></mod> est 15h45 Il dit « il est très <mod type="corr"><orig>tur</orig><reg>dur</reg></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>françoi</orig><reg>français</reg></mod> <mod type="del" stage="" who=""><del>»</del></mod> et très<lb/>
+<mod type="corr"><orig>facils</orig><reg>facile</reg></mod> <mod type="del" stage="" who=""><del>la numérat</del></mod> <mod type="corr"><orig>se<mod type="del" stage="" who=""><del>p</del></mod>ts</orig><reg>cette</reg></mod> <mod type="corr"><orig>numérations</orig><reg>numération</reg></mod> <mod type="del" stage="" who=""><del>est #X#</del></mod>» §<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>12h55</del></mod></del><add stage="" who="">16h45</add></mod> <mod type="corr"><orig>Il</orig><reg>Ils</reg></mod> font <mod type="corr"><orig>leur</orig><reg>leurs</reg></mod> <mod type="corr"><orig>af<mod type="del" stage="" who=""><del>er</del></mod>fer</orig><reg>affaires</reg></mod> et font une<lb/>
+petite <mod type="corr"><orig>récrer</orig><reg>récré</reg></mod> et après il retrouve <mod type="corr"><orig>se<mod type="del" stage="" who=""><del>r</del></mod>s</orig><reg>ses</reg></mod> <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> il est <mod type="corr"><orig>ch<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">è</add></mod><mod type="del" stage="" who=""><del>lui</del></mod>z</orig><reg>chez</reg></mod> lui <mod type="del" stage="" who=""><del>X#</del></mod>. §<lb/>
+<mod type="add" stage="" who=""><add>Il est</add></mod> 17h40 Il <mod type="corr"><orig>jout</orig><reg>joue</reg></mod> chez lui … §<lb/>
+<mod type="del" stage="" who=""><del>J</del></mod> <mod type="corr"><orig>Ils</orig><reg>Il</reg></mod> est 18h00. Ses <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="corr"><orig>lapél</orig><reg>l’appellent</reg></mod> pour<lb/>
+<mod type="corr"><orig>mangers</orig><reg>manger</reg></mod> il mange très bien avec ses <mod type="corr"><orig>parent</orig><reg>parents</reg></mod><lb/>
+ils <mod type="subst"><del><mod type="del" stage="" who=""><del>sont</del></mod></del><add stage="" who="">mangent</add></mod>: un petit <mod type="corr"><orig>stéque</orig><reg>steak</reg></mod>, des carottes<lb/>
+<mod type="corr"><orig>raper</orig><reg>râpées</reg></mod> et en <mod type="corr"><orig>desser</orig><reg>dessert</reg></mod> un petit <mod type="corr"><orig>yaourte</orig><reg>yogourt</reg></mod> au <mod type="corr"><orig>chaucola</orig><reg>chocolat</reg></mod><lb/>
+et des <mod type="corr"><orig>Cerises</orig><reg>cerises</reg></mod>. §<lb/>
+<mod type="add" stage="" who=""><add><mod type="corr"><orig>Ils</orig><reg>Il</reg></mod> est</add></mod> 19h55 Il <mod type="corr"><orig>samuse</orig><reg>s’amuse</reg></mod> bien et <mod type="corr"><orig>boi</orig><reg>boit</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>u<mod type="del" stage="" who=""><del>X#</del></mod>n</orig><reg>un</reg></mod> moment.<lb/>
+<mod type="corr"><orig>Il<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>Il</reg></mod> est 20h55 <mod type="corr"><orig>Il<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>il</reg></mod> a un petit <mod type="corr"><orig>greut</orig><reg>creux</reg></mod>. §<lb/>
+<mod type="add" stage="" who=""><add>Il est</add></mod> 21h55 Il va se coucher. §<lb/>
+Il est 22h00 ses <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="del" stage="" who=""><del>m</del></mod> <mod type="corr"><orig>va</orig><reg>vont</reg></mod> le voir <mod type="corr"><orig>penda<lb/>
+ns</orig><reg>pendant</reg></mod> <mod type="corr"><orig>qui</orig><reg>qu’il</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>tor</del></mod></del><add stage="" who="">dor</add></mod></orig><reg>dort</reg></mod> §<lb/>
+Il est 23h55 <mod type="corr"><orig>Il</orig><reg>il</reg></mod> <mod type="corr"><orig>dor</orig><reg>dort</reg></mod> très <mod type="corr"><orig>biens</orig><reg>bien</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

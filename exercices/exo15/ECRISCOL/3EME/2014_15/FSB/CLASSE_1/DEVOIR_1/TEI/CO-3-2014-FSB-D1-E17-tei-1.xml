@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E17
+</head>
+<p>
+Lucien était né. "Un bon gros bébé" s'exclama la sage-femme, alors qu'elle<lb/>
+s'apprêtait à poser Lucien sur sa mère. Les yeux de Lucien se fermaient, il n'avait<lb/>
+l'habitude d'une telle lumière. Lorsqu'il parvint enfin à les ouvrir, il <mod type="corr"><orig>ap<lb/>per<hi place=" " time="" who="Pσ" style="underline">çois</hi></orig><reg>aperçut</reg></mod> un visage près du sien. C'était une femme, âgée d'une <mod type="corr"><orig>quarentaine</orig><reg>quarantaine</reg></mod> d'<mod type="corr"><orig>an<lb/>nées</orig><reg>années</reg></mod> et beaucoup marquée par la fatigue mais aussi par l'âge. Il prit peur et se<lb/>
+mit à pleurer. C'était son premier <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">crie</hi></orig><reg>cri</reg></mod>; qu'il poussa en appercevant le visage de<lb/>
+sa mère, pour la première fois. Tout d'un coup, de grandes pinces l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">agripèr</hi>ent</orig><reg>agrippèrent</reg></mod>.<lb/>
+Elle étaient si froides et lui était si chaud. Il avait les pieds dans le vide,<lb/>
+mais tout d'un coup ils posèrent sur une sorte de planche. Lucien tenta de<lb/>
+quelques pas, mais les pinces le soulevèrent de nouveau pour cette fois <mod type="add" stage="" who=""><add>le</add></mod>poser<lb/>
+dans une sorte de récipient. "3kilos700" cria une femme.? "J'avais bien <mod type="corr"><orig>rai<lb/>son</orig><reg>raison</reg></mod>!Un bon gros bébé" s'exclama une autre. Cette fois les pinces le deposèrent<lb/>
+dans une bassine et quelque chose d'inconnu coula sur le petit corps de Lucien.<lb/>
+Lucien ne pleura pas, malgré son étonnement; il trouva cette sennsation <mod type="corr"><orig>plu<lb/>tôt</orig><reg>plutôt</reg></mod> agréable. C'était un liquide plutôt chaud qui lui coulait sur le corps.<lb/>
+Ensuite les pinces le posèrent sur un <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">tissue</hi></orig><reg>tissu</reg></mod> assez doux et elles commencèrent à<lb/>
+le masser pour lui enlever le reste du liquide qui se <mod type="corr"><orig>trouve</orig><reg>trouva</reg></mod> être de l'eau. Elles<lb/> 
+lui enfilèrent des habits et un bonnet ce qui le rechauffa immédiatement. Elles le<lb/>
+posèrent dans un berceau et il s'<mod type="corr"><orig>en<hi place=" " time="" who="Pσ" style="underline">dorma</hi></orig><reg>endormit</reg></mod> en l'espace d'une fraction de seconde;<lb/>
+lorsqu'il se réveilla, on lui <mod type="corr"><orig>met</orig><reg>mit</reg></mod> quelque chose dans la bouche. De cet objet<lb/>
+coulait un liquide. Il en avala une gorgée et ne <mod type="corr"><orig>pût</orig><reg>put</reg></mod> s'en arrêter là. Ce<lb/>
+goût si sucré, si doux lui fit fermer les yeux mais lorsque plus aucun liquide<lb/>
+ne coulait, il les rouvrit et se rendit compte qu'il était blotti contre la femme.<lb/>
+Cette femme dont <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">il eu</hi></orig><reg>il eut</reg></mod> si peur. Leurs regards se croisèrent et immédiatement<lb/>
+une relation de confiance, d'amour s'installa. Ce bien était d'une telle force<lb/>
+qu'on ne <mod type="corr"><orig>pût</orig><reg>put</reg></mod> le décrire. Lucien ferma les yeux, pensa à toutes ces découvertes<lb/>
+qu'il avait <mod type="add" stage="" who=""><add><mod type="corr"><orig>fait</orig><reg>faites</reg></mod></add></mod> en quelques heures, et s'<mod type="corr"><orig>en<hi place=" " time="" who="Pσ" style="underline">dormi</hi></orig><reg>endormit</reg></mod>, blotti contre la femme qui <hi place=" " time="" who="Pσ" style="underline">lui a</hi><lb/>
+donné la vie. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

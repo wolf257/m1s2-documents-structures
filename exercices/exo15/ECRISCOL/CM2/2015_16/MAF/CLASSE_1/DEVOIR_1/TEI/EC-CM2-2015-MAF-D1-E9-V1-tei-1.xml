@@ -1,0 +1,133 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E9-V1
+</head>
+<p>
+<pb/>
+
+J'ai <mod type="corr"><orig>in<mod type="subst"><del><mod type="del" stage="" who=""><del>n</del></mod></del><add stage="" who="">o</add></mod>ndé</orig><reg>inondé</reg></mod> la maison et les pompiers son<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">t</add></mod><lb/>
+<mod type="corr"><orig>arriver</orig><reg>arrivés</reg></mod> <mod type="add" stage="T2" who=""><add>,</add></mod> 1 heure plus tard. <mod type="del" stage="T2" who=""><del>Et</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del>j</del></mod></del><add stage="T2" who="">J</add></mod>'ai</orig><reg>J'ai</reg></mod> eu 9/10<lb/>
+à ma <mod type="corr"><orig>redac</orig><reg>rédaction</reg></mod>. Puis j'ai <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>aissai</del></mod></del><add stage="" who="">assay</add></mod></orig><reg>essayé</reg></mod> de tondre<lb/>
+le chien <mod type="del" stage="" who=""><del>XXX#</del></mod> du voisin <mod type="add" stage="T2" who=""><add>ça <mod type="corr"><orig>napas</orig><reg>n'a pas</reg></mod> <mod type="corr"><orig>était</orig><reg>été</reg></mod> une <mod type="corr"><orig>reusite</orig><reg>réussite</reg></mod></add></mod>. J'ai eu 10/10 <mod type="del" stage="" who=""><del>j'ai</del></mod><lb/>
+et <mod type="del" stage="" who=""><del>mainet</del></mod> maintenant je n'<mod type="corr"><orig>ais</orig><reg>ai</reg></mod> plus <mod type="corr"><orig>auq'une</orig><reg>aucune</reg></mod><lb/>
+<mod type="corr"><orig>idées</orig><reg>idée</reg></mod> pour ma <mod type="corr"><orig>redac</orig><reg>rédaction</reg></mod> de <mod type="corr"><orig>demains</orig><reg>demain</reg></mod> 1 heure plus<lb/>
+tard j'ai eu une <mod type="corr"><orig>idées</orig><reg>idée</reg></mod> <mod type="corr"><orig>merveilleux</orig><reg>merveilleuse</reg></mod>. J'ai<lb/>
+<mod type="corr"><orig>debracher</orig><reg>débranché</reg></mod> les <mod type="corr"><orig>cable</orig><reg>câbles</reg></mod> <mod type="corr"><orig>élctrique</orig><reg>électriques</reg></mod> et la <mod type="corr"><orig>lumiere</orig><reg>lumière</reg></mod>.<lb/>
+J'ai eu 7,9/10 j'ai <mod type="corr"><orig>toust</orig><reg>tout</reg></mod> <mod type="corr"><orig>essayes</orig><reg>essayé</reg></mod> (la maison,<lb/>
+les <mod type="corr"><orig>cable</orig><reg>cables</reg></mod>...). J'ai <mod type="corr"><orig>degonflé</orig><reg>dégonflé</reg></mod> le <mod type="corr"><orig>balon</orig><reg>ballon</reg></mod> de mon<lb/>
+<mod type="corr"><orig>frere</orig><reg>frère</reg></mod> <mod type="del" stage="" who=""><del>es</del></mod> et il n'<mod type="corr"><orig>as</orig><reg>a</reg></mod> <mod type="corr"><orig>arrêter</orig><reg>arrêté</reg></mod> de pleurer. J'ai eu<lb/>
+7/10 je commence <mod type="corr"><orig>a</orig><reg>à</reg></mod> ne plus <mod type="corr"><orig>avoirs</orig><reg>avoir</reg></mod><lb/>
+d'idées. Hier ma mére est revenue du coiffeur<lb/>
+les <mod type="corr"><orig>che<mod type="del" stage="" who=""><del>u</del></mod>veux</orig><reg>cheveux</reg></mod> en <mod type="corr"><orig>pétar</orig><reg>pétard</reg></mod>. Et pour ma <mod type="corr"><orig>redac</orig><reg>rédaction</reg></mod> j'ai<lb/>
+eu 8/10. C'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>est</del></mod></del><add stage="" who="">êtait</add></mod></orig><reg>était</reg></mod> bien 8/10 pour ma <mod type="corr"><orig>redac</orig><reg>rédaction</reg></mod> <mod type="corr"><orig>mes</orig><reg>mais</reg></mod><lb/>
+bon <mod type="corr"><orig>demains</orig><reg>demain</reg></mod> la <mod type="corr"><orig>redac</orig><reg>rédaction</reg></mod> c'est une <mod type="corr"><orig>evaluations</orig><reg>évaluation</reg></mod> §<lb/>
+
+<pb/>
+
+J'ai samedi et dimanche, pour trouver une <mod type="corr"><orig>nouvel</orig><reg>nouvelle</reg></mod><lb/>
+<mod type="corr"><orig>idées</orig><reg>idée</reg></mod> pour ma <mod type="corr"><orig>redac</orig><reg>rédaction</reg></mod> d'<mod type="del" stage="" who=""><del>e</del></mod><mod type="corr"><orig>eval</orig><reg>évaluation</reg></mod>. J'ai <mod type="corr"><orig>chercher</orig><reg>cherché</reg></mod> <mod type="del" stage="" who=""><del>et</del></mod> encore<lb/>
+et encore mais bon. Puis j'ai mis du pop-corn<lb/>
+dans le <mod type="corr"><orig>micrond</orig><reg>micro-ondes</reg></mod> et <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>gicher</orig><reg>giché</reg></mod> sur la <mod type="corr"><orig>têtrê</orig><reg>tête</reg></mod> de ma<lb/>
+<mod type="corr"><orig>mére</orig><reg>mère</reg></mod> et de mon <mod type="corr"><orig>pére</orig><reg>père</reg></mod> <mod type="corr"><orig>s'était</orig><reg>c'était</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>mourire</orig><reg>mourir</reg></mod> de rire<lb/>
+puis avant de <mod type="corr"><orig>dromir</orig><reg>dormir</reg></mod> j'ai <mod type="corr"><orig>coler</orig><reg>collé</reg></mod> du <mod type="corr"><orig>chuk-<lb/>
+gum</orig><reg>chewing-gum</reg></mod> <mod type="corr"><orig>partous</orig><reg>partout</reg></mod> dans le<mod type="del" stage="" who=""><del>s</del></mod> frigo. Ma <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> a<lb/>
+<mod type="corr"><orig>piquet</orig><reg>piqué</reg></mod> une <mod type="corr"><orig>crize</orig><reg>crise</reg></mod> e<mod type="del" stage="" who=""><del>s</del></mod>t je n'ai pas le droit<lb/>
+de sortir avec <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>copain</orig><reg>copains</reg></mod> pendant 3 <mod type="corr"><orig>semain</orig><reg>semaines</reg></mod><lb/>
+et pour mon <mod type="corr"><orig>eval</orig><reg>évaluation</reg></mod> <mod type="del" stage="" who=""><del>d</del></mod> rédac J'ai eu 10/10<lb/>
+J'ai eu la <mod type="del" stage="" who=""><del>meur</del></mod> <mod type="corr"><orig>me<mod type="subst"><del><mod type="del" stage="" who=""><del>i</del></mod></del><add stage="T2" who="">un</add></mod>lleuse</orig><reg>meilleure</reg></mod> note de la classe. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

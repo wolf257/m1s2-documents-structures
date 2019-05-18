@@ -1,0 +1,155 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E20
+</head>
+<p>
+<pb/>
+Le matin je me <mod type="corr"><orig>prépareré</orig><reg>préparerai</reg></mod> pour aller<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> la <mod type="subst"><del><mod type="del" stage="" who=""><del>patisserie</del></mod></del><add stage="" who="">boutique</add></mod> <mod type="corr"><orig>mêtre</orig><reg>mettre</reg></mod> mon tablier de<lb/>
+patissièrè, je ferais <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> gâteaux pour<lb/>
+mes clients, <mod type="corr"><orig>m'être</orig><reg>mettre</reg></mod> mes <mod type="corr"><orig>ingredients</orig><reg>ingrédients</reg></mod><lb/>
+<mod type="corr"><orig>sêcrets</orig><reg>secrets</reg></mod>, pour attirer la <mod type="corr"><orig>clientelle</orig><reg>clientèle</reg></mod>. Puis<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>offrir</del></mod></del><add stage="" who="">j'offrirais</add></mod> un petit <mod type="corr"><orig>cadeaux</orig><reg>cadeau</reg></mod> aux enfants.<lb/>
+Puis servir les gens, <mod type="corr"><orig>dir<mod type="del" stage="" who=""><del>t</del></mod></orig><reg>dire</reg></mod> bonjour, au<lb/>
+revoir, <mod type="corr"><orig>devient</orig><reg>de rien</reg></mod>, merci...ect. faire mes<lb/>
+<mod type="corr"><orig>recèttes</orig><reg>recettes</reg></mod> <mod type="corr"><orig>préféré</orig><reg>préférées</reg></mod> pour en faire beaucoup §<lb/>
+
+<pb/>
+ou alors préparer du pain pour le dimanche<lb/>
+<mod type="corr"><orig>préparés</orig><reg>préparer</reg></mod> des pains aux chocolat et<lb/>
+des croissants. Ce <mod type="corr"><orig>jours là</orig><reg>jour-là</reg></mod> <mod type="corr"><orig>seras</orig><reg>sera</reg></mod> le<lb/>
+jours de l'ouverture. Il y <mod type="corr"><orig>auras</orig><reg>aura</reg></mod> de la<lb/>
+<mod type="corr"><orig>clientelle</orig><reg>clientèle</reg></mod>. Ma <mod type="del" stage="" who=""><del>p</del></mod> Boulangerie, <mod type="corr"><orig>Patisserie</orig><reg>pâtisserie</reg></mod><lb/>
+se nommera "La Gourmandise". §<lb/>
+Le soir l'heure de la fermeture,<lb/>
+j'<mod type="corr"><orig>offriré</orig><reg>offrirais</reg></mod> des bonbons aux <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod>.<lb/>
+Puis prendre une <mod type="corr"><orig>pars</orig><reg>part</reg></mod> de <mod type="corr"><orig>gâteaux</orig><reg>gâteau</reg></mod> §<lb/>
+
+<pb/>
+pour moi, mes <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod>, mon <mod type="corr"><orig>mari<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>mari</reg></mod> et<lb/>
+ma copine. Puis je ferais la fête avec<lb/>
+mes amis pour <mod type="corr"><orig>fête</orig><reg>fêter</reg></mod> l'ouverture de la<lb/>
+boutique et ma collègue qui est ma<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>meuilleuir</del></mod></del><add stage="" who="">meilleur</add></mod> <mod type="corr"><orig>amis</orig><reg>amie</reg></mod> qui est<lb/>
+dans la même boutique <mod type="add" stage="" who=""><add>que</add></mod> moi. §<lb/>
+Puis pour le dessert, moi et ma<lb/>
+<mod type="corr"><orig>meulleuir</orig><reg>meilleure</reg></mod> <mod type="corr"><orig>amis</orig><reg>amie</reg></mod> nous allons faire<lb/>
+des tartes <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>fraise</orig><reg>fraises</reg></mod>, des rollers à<lb/>
+la confitures, des gâteaux au §<lb/>
+
+<pb/>
+yaourt, des <mod type="corr"><orig>croissant</orig><reg>croissants</reg></mod> <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>fraise</orig><reg>fraises</reg></mod><lb/>
+des chaussons <mod type="corr"><orig>au</orig><reg>aux</reg></mod> pommes, des <mod type="del" stage="" who=""><del>mouall</del></mod><lb/>
+<mod type="corr"><orig><mod type="add" stage="" who=""><add>moualleux</add></mod></orig><reg>moilleux</reg></mod> aux chocolat et<lb/>
+le <mod type="corr"><orig>gâteaux</orig><reg>gâteau</reg></mod> <mod type="corr"><orig>préféré</orig><reg>préféré</reg></mod> de ma mère<lb/>
+la meringue <mod type="corr"><orig>aux</orig><reg>au</reg></mod> chocolat. §<lb/>
+La seule et unique personne<lb/>
+avec qui je <mod type="corr"><orig>ve</orig><reg>vais</reg></mod> tenir la <mod type="corr"><orig>boutiquee</orig><reg>boutique</reg></mod><lb/>
+c'est ma <mod type="corr"><orig>meuilleuir</orig><reg>meilleure</reg></mod> <mod type="corr"><orig>amis</orig><reg>amie</reg></mod>. §<lb/>
+Puis mes enfants viendront avec<lb/>
+<mod type="corr"><orig>ces</orig><reg>leurs</reg></mod> <mod type="corr"><orig>copins</orig><reg>copains</reg></mod> <mod type="corr"><orig>cherchez</orig><reg>chercher</reg></mod> des Bonbons §<lb/>
+
+<pb/>
+Bien <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> les enfants de ma <mod type="corr"><orig>meilleur</orig><reg>meilleure</reg></mod><lb/>
+vont venir <mod type="corr"><orig>cherchez</orig><reg>chercher</reg></mod> des Bonbons<lb/>
+avec mes enfants. Puis pour l'ouverture<lb/>
+il y aura un ruban que moi et<lb/>
+ma <mod type="corr"><orig>meulleuir</orig><reg>meilleure</reg></mod> amie nous allons<lb/>
+couper ensemble. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

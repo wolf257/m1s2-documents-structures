@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E10
+</head>
+<p>
+<pb/>
+Et <mod type="subst"><del><mod type="del" stage="" who=""><del>elle</del></mod></del><add stage="" who="">Laurie</add></mod> s'en alla à l'école. En arrivant elle dit bonjour aux professeurs, posa son cartable par terre<lb/>
+<mod type="corr"><orig>sorti</orig><reg>sortit</reg></mod> sa trousse et écouta le professeur. Le professeur dit <mod type="corr"><orig>sort<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>r</orig><reg>sortez</reg></mod> vos <mod type="corr"><orig>affère</orig><reg>affaires</reg></mod> de français <mod type="corr"><orig>toujour</orig><reg>toujours</reg></mod> en silence.<lb/>
+Laurie prend la <mod type="corr"><orig>parol</orig><reg>parole</reg></mod> <mod type="corr"><orig>sen</orig><reg>sans</reg></mod> <mod type="corr"><orig>levais</orig><reg>lever</reg></mod> la <mod type="corr"><orig>mains</orig><reg>main</reg></mod> cinq fois, et le professeur dit: tu <mod type="corr"><orig>recommence</orig><reg>recommences</reg></mod> encore une<lb/>
+fois tu iras chez le principal car <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> commence à m'<mod type="corr"><orig>agasé</orig><reg>agacer</reg></mod>. Et Laurie ne prend pas en compte les<lb/>
+<mod type="corr"><orig>menasse</orig><reg>menaces</reg></mod> <mod type="corr"><orig>donner</orig><reg>données</reg></mod> par le professeur, et elle <mod type="corr"><orig>recomença</orig><reg>recommença</reg></mod>. Le professeur dit puisque <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> comme <mod type="corr"><orig>ca</orig><reg>ça</reg></mod> tu <mod type="corr"><orig>ira</orig><reg>iras</reg></mod><lb/>
+chez le principal. <mod type="corr"><orig>Arriver</orig><reg>Arrivée</reg></mod> chez le principal Lucie était <mod type="corr"><orig>enchanté</orig><reg>enchantée</reg></mod> de le voir <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> pas lui, et sa<lb/>
+<mod type="corr"><orig>saction</orig><reg>sanction</reg></mod> <mod type="corr"><orig>et</orig><reg>est</reg></mod> d'aller voir les #XXX# pour lui dire se #XXX# <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> de sa <mod type="corr"><orig>jouré</orig><reg>journée</reg></mod> <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> si elle ne <mod type="corr"><orig>ces</orig><reg>sait</reg></mod> plus elle aura<lb/>
+30 minutes de retenue. <mod type="corr"><orig>Mes</orig><reg>Mais</reg></mod> je vais faire quoi pendant 30 minutes Monsieur? Tu feras ce que <mod type="corr"><orig>lon</orig><reg>l'on</reg></mod><lb/>
+te <mod type="corr"><orig>diras</orig><reg>dira</reg></mod> <mod type="corr"><orig>disais</orig><reg>disait</reg></mod> le principal dans une colère <mod type="corr"><orig>imense</orig><reg>immense</reg></mod> et en plus de <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>au jourd'hui</orig><reg>aujourd'hui</reg></mod> tu <mod type="corr"><orig>aura</orig><reg>auras</reg></mod> 2 <mod type="corr"><orig>heure</orig><reg>heures</reg></mod> de<lb/>
+colle. §<lb/>
+
+<pb/>
+Pendant <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>temp</orig><reg>temps</reg></mod> <mod type="corr"><orig>la</orig><reg>là</reg></mod> les parents de <mod type="corr"><orig>laurie</orig><reg>Laurie</reg></mod> <mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>rentré</orig><reg>rentrés</reg></mod> chez eux. <mod type="corr"><orig>mais</orig><reg>Mais</reg></mod> ne <mod type="corr"><orig>voyans</orig><reg>voyant</reg></mod> pas leur fille ils<lb/>
+<mod type="corr"><orig>appelent</orig><reg>appellent</reg></mod> le collège. <mod type="corr"><orig>Hallo</orig><reg>Allô</reg></mod> ici le principal à l'<mod type="corr"><orig>apareil</orig><reg>appareil</reg></mod>, votre fille est retenue 2 heures pour<lb/>
+avoir <mod type="corr"><orig>parler</orig><reg>parlé</reg></mod> <mod type="corr"><orig>ses</orig><reg>sans</reg></mod> <mod type="corr"><orig>levais</orig><reg>lever</reg></mod> la main. Mais <mod type="corr"><orig>se</orig><reg>ce</reg></mod> n'<mod type="corr"><orig>ai</orig><reg>est</reg></mod> pas si grave s'<mod type="corr"><orig>inquieté</orig><reg>inquiétait</reg></mod> la mère de Laurie. 2<lb/>
+heures plus tard, <mod type="corr"><orig>rentré</orig><reg>rentrés</reg></mod> à la maison le père de Laurie <mod type="corr"><orig>di</orig><reg>dit</reg></mod> tu <mod type="corr"><orig>est</orig><reg>es</reg></mod> <mod type="corr"><orig>punit</orig><reg>punie</reg></mod> de téléphone, de télé, de <mod type="corr"><orig>tallete</orig><reg>tablette</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

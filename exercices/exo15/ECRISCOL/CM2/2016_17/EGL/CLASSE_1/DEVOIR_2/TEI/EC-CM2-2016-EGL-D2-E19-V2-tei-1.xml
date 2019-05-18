@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D2-E19-V2
+</head>
+<p>
+<pb/>
+Le petit frère de Louis était malade. Louis n'était pas très<lb/>
+heureux d'aller à l'école même, il n'aimait pas aller à l'école.<lb/>
+Alors il a trouvé une idée il s'<mod type="corr"><orig>etait</orig><reg>était</reg></mod> mis sous la gouttière<lb/>
+qui <mod type="corr"><orig>fuyait</orig><reg>fuitait</reg></mod>. De retour de l'école il <mod type="del" stage="" who=""><del>grelotter<mod type="add" stage="" who=""><add>ait</add></mod></del></mod> tremblait com<lb/>
+me une plume. La mère a appelé le <mod type="corr"><orig>medecin</orig><reg>médecin</reg></mod>. Mais Louis<lb/>
+ne voulait pas prendre des <mod type="corr"><orig>medicament</orig><reg>médicaments</reg></mod>. Ensuite elle lui a <mod type="corr"><orig>di<mod type="del" stage="" who=""><del>t</del></mod>t</orig><reg>dit</reg></mod><lb/>
+de se changer. Peu de temps après le <mod type="corr"><orig>medecin</orig><reg>médecin</reg></mod> est arrivé pour oscul<lb/>
+ter l'enfant, il a dit qu'il faudra <mod type="del" stage="" who=""><del>q</del></mod> lui faire une piqûre §<lb/>
+
+<pb/>
+mais Louis ne voulait pas avoir une piqûre alors<lb/>
+il s'est mis <mod type="corr"><orig>a</orig><reg>à</reg></mod> pleurer parce que ça lui faisait mal,<lb/>
+son frère se moquait de lui parce que lui il n'avait<lb/>
+pas peur d'avoir des piqûres. Enfin le jeune garçon<lb/>
+s'est juré de ne plus jamais le faire et il <mod type="corr"><orig>préf<mod type="del" stage="" who=""><del>fai</del></mod><mod type="add" stage="" who=""><add>férai</add></mod></orig><reg>préférait</reg></mod><lb/>
+l'école aux <mod type="del" stage="" who=""><del>aur</del></mod> <mod type="corr"><orig><mod type="add" stage="" who=""><add>orribles</add></mod></orig><reg>horribles</reg></mod> <mod type="corr"><orig>piqures</orig><reg>piqûres</reg></mod> du <mod type="corr"><orig>medecin</orig><reg>médecin</reg></mod> et des <mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>dica<lb/>
+ments</orig><reg>médicaments</reg></mod> qu'il n'aimait guère. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

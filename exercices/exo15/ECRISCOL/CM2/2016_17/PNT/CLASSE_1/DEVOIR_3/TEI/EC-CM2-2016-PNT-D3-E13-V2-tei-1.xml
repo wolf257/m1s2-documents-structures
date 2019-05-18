@@ -1,0 +1,121 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D3-E13-V2
+</head>
+<p>
+<pb/>
+Quand je serai adulte, je serai coiffeuse.<lb/>
+Le matin, je recontrerai mes <mod type="corr"><orig>coll<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">è</add></mod>gues</orig><reg>collègues</reg></mod>,<lb/>
+pour qu'elles <mod type="corr"><orig><mod type="del" stage="T3" who=""><del>m'esplique<hi place=" " time="" who="Pσ" style="underline">s</hi></del></mod></orig><reg>m'expliquent</reg></mod> <mod type="add" stage="T3" who=""><add>me disent</add></mod> où est mon<lb/>
+salon de coiffure. Une heure <mod type="corr"><orig>plus<mod type="del" stage="" who="P"><del>-</del></mod>tard</orig><reg>plus tard</reg></mod>,<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">quelqu'un</hi></orig><reg>quelqu'un</reg></mod> <mod type="add" stage="T3" who=""><add>une dame</add></mod> arrivera et je l'accueillerai<lb/>
+quand je la <mod type="corr"><orig>coiffe<hi place=" " time="" who="Pσ" style="underline">u</hi>r<hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>coifferai</reg></mod> <mod type="add" stage="T3" who=""><add>coifferai</add></mod>, je lui dirai<lb/>
+pourquoi j'aime coiffer les gens <mod type="del" stage="" who=""><del>Jai</del></mod> §<lb/>
+
+<pb/>
+J'aime la coiffure car je <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>faisai</del></mod></del><add stage="" who="">f<hi place=" " time="" who="Pσ" style="underline">e</hi>sai</add></mod></orig><reg>faisais</reg></mod><lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">sa</hi></orig><reg>ça</reg></mod> <mod type="add" stage="T3" who=""><add>ça</add></mod> depuis toute petite. Quand j'aurai<lb/>
+fini de la coiffer, je lui<lb/>
+dirai <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">sa coutera</hi></orig><reg>ça coûtera</reg></mod> <mod type="add" stage="" who="P"><add>le prix</add></mod> <mod type="corr"><orig>10</orig><reg>dix</reg></mod> <mod type="corr"><orig>euro</orig><reg>euros</reg></mod>. §<lb/>
+La matinée sera <mod type="corr"><orig>termin<hi place=" " time="" who="Pσ" style="underline">er</hi></orig><reg>terminée</reg></mod> <mod type="add" stage="T3" who=""><add>terminée</add></mod>, il<lb/>
+sera midi. Je <mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">a</add></mod>ngerai</orig><reg>mangerai</reg></mod> avec mes<lb/>
+<mod type="corr"><orig>coll<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">è</add></mod>gues</orig><reg>collègues</reg></mod>. Je <mod type="del" stage="" who=""><del>me</del></mod> ne travaillerai<lb/>
+pas le mardi, le mercredi et le<lb/>
+vendredi <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>apes</del></mod></del><add stage="" who="">apr<mod type="del" stage="" who="P"><del>é</del></mod></add></mod><mod type="add" stage="" who="P"><add>è</add></mod>s-midi</orig><reg>après-midi</reg></mod>. Voilà <mod type="add" stage="" who="P"><add>,</add></mod><lb/>
+ma journée sera <mod type="corr"><orig>termin<hi place=" " time="" who="Pσ" style="underline">er</hi></orig><reg>terminée</reg></mod> <mod type="add" stage="T3" who=""><add>terminée</add></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

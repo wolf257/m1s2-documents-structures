@@ -1,0 +1,153 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E3-V1
+</head>
+<p>
+<pb/>
+
+Sous la nuit sans étoiles, d'une obscurité et d'une épaisseur d'encre, l'homme<lb/>
+depuis un moment <mod type="corr"><orig>déja</orig><reg>déjà</reg></mod> marchait quand il aperçut au loin la<lb/>
+lumière d'un réverbère. <mod type="del" stage="" who=""><del>Un homme se tient d'une<lb/> manière assez #XXX# sa démarche semble être celle d'un</del></mod><lb/>
+Il était 23h59, l'homme adoptant une démarche<lb/>
+mafieuse s'arrête, <mod type="del" stage="" who=""><del>et se</del></mod> fait un tour de lui même<lb/>
+en essayant d'apercevoir un banc. <mod type="del" stage="" who=""><del>et</del></mod> Après avoir fait<lb/>
+des tours autour de lui même se dirigea enfin en<lb/>
+direction d'un banc <mod type="del" stage="" who=""><del>XXX#</del></mod> couvert de moisissure et d'une<lb/>
+mousse naturelle verte <mod type="del" stage="" who=""><del>de #XX#</del></mod> d'où en coule de<lb/>
+l'eau. §<lb/>
+Il s'<mod type="subst"><del><mod type="del" stage="" who=""><del>assoit</del></mod></del><add stage="" who="">assoit</add></mod> et se met à observer <mod type="del" stage="" who=""><del>XXX#</del></mod> les<lb/>
+alentours. Cet homme d'une corpulence et d'un physique<lb/>
+important ne semble pas être <mod type="corr"><orig>effrayer</orig><reg>effrayé</reg></mod> par la<lb/>
+noir sombre de cette nuit de décembre. <mod type="del" stage="" who=""><del>De ses<lb/>
+yeux</del></mod> D'un oeil <mod type="del" stage="" who=""><del>vert</del></mod>de couleur verdâtre et l'autre d'un<lb/>
+bleu claire il aperçoit un <mod type="add" stage="" who=""><add>e</add></mod> <mod type="del" stage="" who=""><del>un homme vetu portant<lb/> une veste</del></mod> silouhette vêtu d'un chapeau noir<mod type="del" stage="" who=""><del>e</del></mod> <mod type="del" stage="" who=""><del>comme celui ci</del></mod> s'appprochant du<lb/>
+banc et s'assoit à côté de lui. <mod type="del" stage="" who=""><del>Cette douleur était<lb/> véritable, un poigna</del></mod> §<lb/>
+
+<pb/>
+
+<mod type="del" stage="" who=""><del>De son nez</del></mod> Son nez crochu renifla l'odeur<lb/>
+d'une substance illégale <mod type="del" stage="" who=""><del>XXX#</del></mod> en présence des deux<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> personnes §<lb/>
+ §<lb/>
+Le froid de cette nuit d'hiver lui fissure <mod type="corr"><orig>bcp</orig><reg>beaucoup</reg></mod><lb/>
+plus violemment la bouche de l'homme au<lb/>
+nez crochu. Il porte une veste en <mod type="subst"><del><mod type="del" stage="" who=""><del>velours</del></mod></del><add stage="" who="">cuire</add></mod><lb/>
+<mod type="corr"><orig>noire</orig><reg>noir</reg></mod>, un pantalon en velours noir et des<lb/>
+chaussure semblable au sécurités noires.<lb/>
+
+N'essayant même pas de lançer un coup<lb/>
+d'oeil à <mod type="subst"><del><mod type="del" stage="" who=""><del>l'homme</del></mod></del><add stage="" who="">silouhette</add></mod> au chapeau melon, il<lb/>
+se leva et <mod type="del" stage="" who=""><del>chuchant</del></mod> <mod type="add" stage="" who=""><add>en chouchotant</add></mod><lb/>
+lui dit, d'<mod type="del" stage="" who=""><del>une langue inconnu en France</del></mod> <mod type="add" stage="" who=""><add>un vocabulaire inconnu</add></mod><lb/>
+ses lèvres devenues blanches, lui bloquant les lèvres il<lb/>
+"La selha <mod type="del" stage="" who=""><del>ou la mort"</del></mod> la casgoule et les<lb/>
+gants" §<lb/>
+La silouhette <mod type="del" stage="" who=""><del>XXX#</del></mod> au chapeau melon se <mod type="del" stage="" who=""><del>levant</del></mod> <mod type="add" stage="" who=""><add>leva</add></mod><lb/>
+fin cet homme <mod type="subst"><del><mod type="del" stage="" who=""><del>de</del></mod></del><add stage="" who="">au</add></mod> physique d'Hercule.<lb/>
+Lui répond: §<lb/>
+"En route" §<lb/>
+Ils se mirent en route en direction d'une banque<lb/>
+se situant à une centaine de mètres de là. La<lb/>
+silhouette au chapeau melon se mit derrière l'homme<lb/>
+En marchant l'homme ressentit comme une<lb/>
+douleur d'un <mod type="subst"><del><mod type="del" stage="" who=""><del>poignard plantes dans son dos</del></mod></del><add stage="" who="">objet<lb/> planté dans ses muscles</add></mod>. Il continua à souffrir encore<lb/> 
+son pûs s'effondra comme un immeuble auquel on a<lb/>
+détruit le rez-de-chaussé. Cette douleur était véritable<lb/>
+un poignard planté dans son dos par la silouhette au chapeau melon §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MG2-D1-E22
+</head>
+<p>
+J'étais avec P.P de cul vert quand on a entendu un bruit nous avons<lb/>
+vite éteint la lampe torche et là une lampe se dressa vers nous<lb/>
+mais ce n'était pas le rôdeur mais Mathilde. Alors nous continuons<lb/>
+tranquillement avec Mathilde <mod type="corr"><orig>biensûr</orig><reg>bien sûr</reg></mod> et puis à un moment P.P de<lb/>
+cul vert nous a dit: "Non je ne veux pas venir!" Alors<lb/>
+j'accompagnais P.P de cul vert dans le <mod type="corr"><orig>réçectoire</orig><reg>réfectoire</reg></mod> et il <mod type="corr"><orig>restra</orig><reg>resta</reg></mod> seul.<lb/>
+Alors je <mod type="corr"><orig>redescendea</orig><reg>redescendis</reg></mod> voir Mathilde et nous continuons le chemin<lb/>
+mais cette fois nous rencontrons encore quelqu'un mais ce<lb/>
+n'était pas n'importe qui c'était le rôdeur il nous éclaira<lb/>
+nous regarda longtemps nous étions #XXX# d'un coup<lb/>
+nous sommes partis en <mod type="subst"><del>cour<mod type="del" stage="" who="P"><del>r</del></mod>ant</del><add stage="" who="P">courant</add></mod> pendant que lui continuait<lb/>
+comme si il ne voyait pas mais il faisait semblant de ne<lb/>
+pas nous voir et il se mit à courir. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

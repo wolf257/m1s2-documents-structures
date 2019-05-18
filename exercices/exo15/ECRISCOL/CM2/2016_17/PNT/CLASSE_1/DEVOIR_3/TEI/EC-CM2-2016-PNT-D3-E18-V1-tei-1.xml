@@ -1,0 +1,137 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D3-E18-V1
+</head>
+<p>
+<pb/>
+Quand je serai adulte <mod type="corr"><orig>j<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>je</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">é</hi>plor<hi place=" " time="" who="Pσ" style="underline">é</hi></orig><reg>expolorerai</reg></mod> <mod type="add" stage="T3" who=""><add>j'explorerai</add></mod><lb/>
+le triangle des <mod type="corr"><orig>bermudes</orig><reg>Bermudes</reg></mod>. §<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>je</del></mod></del><add stage="" who="">Je</add></mod> <mod type="del" stage="" who="P"><del>me réveillerai sur un bateau<lb/>
+mangerai un poire</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>il</del></mod></del><add stage="" who="">Il</add></mod> y <mod type="del" stage="" who=""><del>avait</del></mod> <mod type="add" stage="T3" who=""><add>y aura</add></mod> une<lb/>
+tornade <mod type="del" stage="" who="P"><del>et</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>je</del></mod></del><add stage="T3" who="">Je</add></mod> <hi place=" " time="" who="Pσ" style="underline">me réveillerai</hi> sur<lb/>
+une île sur la plage à <mod type="corr"><orig>côt<hi place=" " time="" who="Pσ" style="underline">er</hi><mod type="add" stage="" who=""><add>T3é</add></mod></orig><reg>côté</reg></mod> de mon §<lb/>
+
+<pb/>
+sac à dos <mod type="add" stage="T3" who=""><add>,</add></mod> avec un petit couteau.<lb/>
+<mod type="subst"><del><mod type="del" stage="T3" who=""><del>a</del></mod></del><add stage="T3" who="">à</add></mod> l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">enterrier</hi></orig><reg>intérieur</reg></mod> <mod type="add" stage="T3" who=""><add>intérieur</add></mod> <mod type="del" stage="" who="P"><del>du sac</del></mod>, il y aura<lb/>
+des poires, des <mod type="corr"><orig>bouteill<hi place=" " time="" who="Pσ" style="underline"></hi><mod type="add" stage="T3" who=""><add>s</add></mod></orig><reg>bouteilles</reg></mod> d'eau, un<lb/>
+briquet, ma caméra, une pioche <mod type="subst"><del><mod type="del" stage="" who="P"><del>,</del></mod></del><add stage="T3" who="">et</add></mod> une<lb/>
+hache. Je serai sur une île à<lb/>
+moitié sous l'eau. Je serai <mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod> <mod type="corr"><orig>c<mod type="del" stage="" who="P"><del>o</del></mod><mod type="add" stage="" who="P"><add>ô</add></mod>té</orig><reg>côté</reg></mod> <mod type="add" stage="T3" who=""><add>à côté</add></mod><lb/>
+d'un temple <mod type="add" stage="T3" who=""><add>,</add></mod> <mod type="corr"><orig>j<mod type="del" stage="" who="P"><del>e</del></mod><mod type="add" stage="" who="P"><add>que j'</add></mod></orig><reg>que j'</reg></mod> irai voir <mod type="del" stage="" who="P"><del>et</del></mod><lb/>
+je <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">vais découvert</hi></orig><reg>vais découvrir</reg></mod> <mod type="add" stage="T3" who=""><add>découvrir</add></mod> que je <mod type="corr"><orig>serai<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>serai</reg></mod> <mod type="add" stage="T3" who=""><add>serai</add></mod><lb/>
+sur la <mod type="subst"><del><mod type="del" stage="T3" who=""><del>sité</del></mod></del><add stage="T3" who="">cité</add></mod> perdue de l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">aglanti</hi></orig><reg>Atlantide</reg></mod> <mod type="add" stage="" who="P"><add>Atlantide</add></mod><lb/>
+<mod type="del" stage="" who=""><del>de</del></mod>. <mod type="corr"><orig>J<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">'</add></mod></orig><reg>J'</reg></mod> allumerai ma caméra,<lb/>
+et je <mod type="corr"><orig>v<hi place=" " time="" who="Pσ" style="underline">é</hi>rai</orig><reg>verrai</reg></mod> <mod type="add" stage="T3" who=""><add>verrai</add></mod> un orage et <mod type="corr"><orig>j<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>j'</reg></mod> irai §<lb/>
+
+<pb/>
+m'abriter dans un grotte <mod type="del" stage="" who="P"><del>dans<lb/>
+la grotte</del></mod> il y aura une tente<lb/>
+avec un feu de camp, <mod type="add" stage="" who="P"><add>et</add></mod> une canne<lb/>
+à pêche. §<lb/>
+-je m'appelle <mod type="corr"><orig>célyan</orig><reg>Célyan</reg></mod> <mod type="add" stage="T3" who=""><add>Célyan.</add></mod>  je <mod type="add" stage="T3" who=""><add>Je</add></mod> suis sur<lb/>
+la cité perdue de Atlantide <mod type="add" stage="T3" who=""><add>,</add></mod><lb/>
+je <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ve</hi></orig><reg>vais</reg></mod> <mod type="add" stage="T3" who=""><add>vais</add></mod> filmer mon aventure. §<lb/>
+Il <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">commensa</hi></orig><reg>commencera</reg></mod> <mod type="add" stage="T3" who=""><add>commencera</add></mod> à faire nuit. §<lb/>
+<mod type="corr"><orig>J<mod type="del" stage="" who=""><del>e</del></mod>'<hi place=" " time="" who="Pσ" style="underline">ai entendu</hi></orig><reg>J'entendrai</reg></mod> <mod type="add" stage="T3" who=""><add>entendrai</add></mod> du bruit <mod type="add" stage="T3" who=""><add>,</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">se</hi></orig><reg>ce</reg></mod> <mod type="add" stage="T3" who=""><add>ce</add></mod> sera<lb/>
+un gros serpent qui se <mod type="subst"><del><mod type="del" stage="" who=""><del>conpat</del></mod><lb/></del><add stage="" who=""><hi place=" " time="" who="Pσ" style="underline">conbat</hi></add></mod> <mod type="add" stage="T3" who=""><add>battra avec</add></mod> un gros <mod type="corr"><orig>lézar<hi place=" " time="" who="Pσ" style="underline">t</hi></orig><reg>lézard</reg></mod> <mod type="add" stage="T3" who=""><add>lézard</add></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">j</hi>e</orig><reg>Je</reg></mod> <mod type="add" stage="T3" who=""><add>Je</add></mod> me<lb/>
+
+<pb/>
+<mod type="corr"><orig>cacher<hi place=" " time="" who="Pσ" style="underline">é</hi></orig><reg>cacherai</reg></mod> <mod type="add" stage="T3" who=""><add>cacherai</add></mod> dans la grotte et il<lb/>
+y <hi place=" " time="" who="Pσ" style="underline">a</hi> <mod type="add" stage="T3" who=""><add>aura</add></mod> un fusil avec <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">15</hi></orig><reg>quinze</reg></mod> <mod type="add" stage="T3" who=""><add>quinze</add></mod> munitions <mod type="add" stage="" who="P"><add>.</add></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

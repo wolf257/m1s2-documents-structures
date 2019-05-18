@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E22-V1
+</head>
+<p>
+Il était une fois un garçon qui s'<mod type="corr"><orig>appel<mod type="add" stage="" who="P"><add>l</add></mod>ait</orig><reg>appelait</reg></mod> Gabriel. §<lb/>
+Il avait perdu sa toupie, puis alla à l'école voir sa copine<lb/>
+<mod type="add" stage="" who="P"><add>,</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>sa copine</del></mod></del><add stage="" who="P">elle</add></mod></orig><reg>elle</reg></mod> demanda. Tu as perdu quelque chose? lui demanda<lb/>
+Anne-Lise. Ma toupie chinoise sur le chemin de l'école. §<lb/>
+Allons la chercher la toupie (il la chercha). Il rencontra<lb/>
+un homme, puis il <mod type="corr"><orig>renconta</orig><reg>raconta</reg></mod> l'<mod type="corr"><orig>istoire</orig><reg>histoire</reg></mod> <mod type="corr"><orig>àl'homme</orig><reg>à l'homme</reg></mod> <mod type="add" stage="" who="P"><add>l'histoire à l'homme.Il</add></mod> avait un idée<lb/>
+en tête et cette idée c'était une <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>sale</del></mod></del><add stage="" who="P">salle</add></mod></orig><reg>salle</reg></mod> avec <mod type="corr"><orig>plein<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>plein</reg></mod> d'objets.<lb/>
+Gabriel était <mod type="corr"><orig>étonn<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>étonné</reg></mod> en regardant la pièce <mod type="add" stage="" who="P"><add>,</add></mod> il <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>voiya</del></mod></del><add stage="" who="P">voit</add></mod></orig><reg>vit</reg></mod> sa<lb/>
+toupie. Il était super content, il la <mod type="corr"><orig>prena</orig><reg>prit</reg></mod> <mod type="add" stage="" who="P"><add>pris</add></mod> et <mod type="corr"><orig>remerci<mod type="add" stage="" who="P"><add>a</add></mod></orig><reg>remercia</reg></mod> l'homme<lb/>
+et rentra chez lui <mod type="corr"><orig>fière</orig><reg>fier</reg></mod>. §<lb/>
+fini §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,141 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E3
+</head>
+<p>
+<pb/>
+
+C'était un magnifique bebé de 3,592 kg,<lb/>
+il mesurait 51 cm. Toute sa famille vint le<lb/>
+voir le voir. Après plusieurs jours à l'hôpital<lb/>
+l'enfant ainsi que sa mère rentrèrent §<lb/>
+chez eux. Une fois les affaires <mod type="corr"><orig>dé<hi place=" " time="" who="Pσ" style="underline">balées</hi></orig><reg>déballées</reg></mod><lb/>
+ce fut l'heure de la <mod type="corr"><orig>tété</orig><reg>tétée</reg></mod>, mais §<lb/>
+bizarrement le nourrisson n'<mod type="corr"><orig>ap<hi place=" " time="" who="Pσ" style="underline">pre</hi>cia</orig><reg>apprécia</reg></mod> §<lb/>
+point le lait maternel, il ne lui convenait<lb/>
+pas, <hi place=" " time="" who="Pσ" style="underline">alors</hi> sa mère utilisa du lait pour<lb/>
+nourrisson, mais cela ne lui plut pas non plus.<lb/>
+Quoi qu'elle lui <mod type="corr"><orig>don<hi place=" " time="" who="Pσ" style="underline">nait</hi></orig><reg>donna</reg></mod> il le refusait. §<lb/>
+
+<pb/>
+
+Elle pensa qu'il n'avait pas faim. Elle<lb/>
+l'emmena se coucher et elle fit de <mod type="corr"><orig>meme</orig><reg>même</reg></mod>.<lb/>
+Le lendemain en allant le <mod type="corr"><orig>reveiller</orig><reg>réveiller</reg></mod> très<lb/>
+pâle, elle lui <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">pris</hi></orig><reg>prit</reg></mod> la temérature mais §<lb/>
+tout était normal. De nouveau elle <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">essayât</hi></orig><reg>essaya</reg></mod><lb/>
+de lui donner à manger mais rien à<lb/>
+faire, le nourrisson refusait le moindre aliment,<lb/>
+alors <mod type="corr"><orig>in<hi place=" " time="" who="Pσ" style="underline">quiété</hi></orig><reg>inquiétée</reg></mod>, elle l'emmena à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod><lb/>
+pour demander conseil au médecin. §<lb/>
+Le médecin l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">osqu</hi>lta</orig><reg>ausculter</reg></mod>, après <mod type="corr"><orig>une-demi heure</orig><reg>une demi-heure</reg></mod><lb/>
+le médecin avait enfin un<lb/>
+<mod type="corr"><orig>diagno<hi place=" " time="" who="Pσ" style="underline">stique</hi></orig><reg>diagnostic</reg></mod>, mais quel horrible moment que de<lb/>
+dire à une jeune mère que son bébé<lb/>
+était condamné. <mod type="corr"><orig>Quant-elle</orig><reg>Quand elle</reg></mod> <mod type="corr"><orig>a<hi place=" " time="" who="Pσ" style="underline">pris sa</hi></orig><reg>apprit ça</reg></mod> elle<lb/>
+s'effondra ses larmes <mod type="corr"><orig>au<hi place=" " time="" who="Pσ" style="underline">rez remplie</hi></orig><reg>auraient rempli</reg></mod> une piscine. §<lb/>
+
+<pb/>
+
+Mais après avoir <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">pleurez</hi></orig><reg>pleuré</reg></mod> toutes les larmes §<lb/>
+de son coeur, elle pris l'enfant et rentra §<lb/>
+chez elle. Les autres jours elle <mod type="corr"><orig>pris</orig><reg>prit</reg></mod> soin<lb/>
+de Lucien et le vendredi matin. Lucien<lb/>
+s'<mod type="corr"><orig>end<hi place=" " time="" who="Pσ" style="underline">ormie</hi></orig><reg>endormit</reg></mod> dans les bras de sa mère et<lb/>
+il ne se <mod type="corr"><orig>reveilla</orig><reg>réveilla</reg></mod> plus. Lucien était mort. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

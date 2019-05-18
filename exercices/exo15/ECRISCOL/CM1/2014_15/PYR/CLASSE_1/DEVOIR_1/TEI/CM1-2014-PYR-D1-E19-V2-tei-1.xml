@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E19-V2
+</head>
+<p>
+<pb/>
+
+<mod type="del" stage="" who=""><del>S</del></mod> En l'an 2440 un petit garçon nommé Gabriel <mod type="corr"><orig>alla<mod type="subst"><del><mod type="del" stage="" who="P"><del>î</del></mod></del><add stage="" who="P">i</add></mod>t</orig><reg>allait</reg></mod> à l'école.<lb/>
+-Tu as perdu quelque chose<mod type="del" stage="" who="P"><del>,</del></mod> <mod type="add" stage="T2" who=""><add>?</add></mod> lui demanda Anne-Lise. §<lb/>
+-Ma toupie chinoise, sur le chemin de l'école. §<lb/>
+Après les cours, Anne-Lise le ramena sur le chemin de l'école, la toupie
+n'était pas <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">la</hi></orig><reg>là</reg></mod>, alors elle l'emmena <mod type="corr"><orig>cherz</orig><reg>chez</reg></mod> un monsieur qui avait un<lb/>
+manteau <mod type="del" stage="" who="P"><del>qui était</del></mod> parsemé de clés <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="del" stage="" who="P"><del>attachées</del></mod> <mod type="add" stage="" who="P"><add> Ces clés étaient...</add></mod>. Le monsieur demanda:<lb/>
+-Pourquoi viens-tu ici! §<lb/>
+-Pour récupérer une toupie chinoise. §<lb/>
+-Alors viens. §<lb/>
+L'homme lui fit <mod type="del" stage="" who=""><del>monsier</del></mod> monter des escaliers. §<lb/>
+-Pourquoi avez-vous des clés en permanence sur votre manteau? §<lb/>
+-Car <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">je</hi></orig><reg>j'ai</reg></mod> <mod type="add" stage="T2" who=""><add>j'ai</add></mod> plein de portes chez moi.
+-D'accord <mod type="add" stage="" who="P"><add>!</add></mod> §<lb/>
+Arrivé en haut, le monsieur <mod type="corr"><orig> <hi place=" " time="" who="Pσ" style="underline">pri<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="T2" who="">t</add></mod></hi></orig><reg>prit</reg></mod> une clé de son manteau §<lb/>
+
+<pb/>
+
+et ouvrit une porte. §<lb/>
+<mod type="del" stage="" who=""><del>Cherche ta to</del></mod> §<lb/>
+Cherche ta toupie, dit-il à Gabriel<mod type="add" stage="" who="P"><add>.</add></mod> §<lb/>
+Gabriel <mod type="corr"><orig>Pσ#pri<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">t</add></mod></orig><reg>prit</reg></mod> sa toupie et retourna chez lui en soucoupe volante. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

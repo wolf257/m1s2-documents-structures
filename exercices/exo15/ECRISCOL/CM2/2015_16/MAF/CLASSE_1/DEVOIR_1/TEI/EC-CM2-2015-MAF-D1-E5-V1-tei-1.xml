@@ -1,0 +1,129 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E5-V1
+</head>
+<p>
+<pb/>
+
+J'ai <mod type="corr"><orig>mit</orig><reg>mis</reg></mod> des <mod type="corr"><orig>herse</orig><reg>herses</reg></mod> en dehors du garage et mon<lb/>
+père <mod type="del" stage="" who=""><del>un</del></mod> a <mod type="corr"><orig>e<mod type="subst"><del><mod type="del" stage="" who=""><del>ù</del></mod></del><add stage="" who="">u</add></mod></orig><reg>eu</reg></mod> un <mod type="corr"><orig>incident</orig><reg>accident</reg></mod>. J'ai eu 8/10 à ma<lb/>
+rédaction. J'ai tué mon chien <mod type="corr"><orig>a</orig><reg>à</reg></mod> coups de <mod type="corr"><orig>batton</orig><reg>batôns</reg></mod><lb/>
+8,5/10 <mod type="corr"><orig>a</orig><reg>à</reg></mod> ma <mod type="corr"><orig>rèdaction</orig><reg>rédaction</reg></mod>. J'ai appelé un tireur<lb/>
+d'élite <mod type="del" stage="" who=""><del>X#</del></mod> pour tuer mes <mod type="corr"><orig>voisin</orig><reg>voisins</reg></mod>. J'ai eu 13/20<lb/>
+à ma rédaction. J'ai <mod type="corr"><orig>voler</orig><reg>volé</reg></mod> l'argent de mes <mod type="corr"><orig>voisin</orig><reg>voisins</reg></mod><lb/>
+<mod type="corr"><orig>il</orig><reg>ils</reg></mod> sont <mod type="corr"><orig>devenu</orig><reg>devenus</reg></mod> <mod type="corr"><orig>pauvre</orig><reg>pauvres</reg></mod>. J'ai eu 17 1/2 /20 à ma rédac<lb/>
+J'ai rendu <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">ca</add></mod>ourd</orig><reg>sourde</reg></mod> ma <mod type="corr"><orig>seeur</orig><reg>soeur</reg></mod>. J'ai eu 18/20 j'ai<lb/>
+<mod type="corr"><orig>déclencher</orig><reg>déclenché</reg></mod> une guerre <mod type="subst"><del><mod type="del" stage="" who=""><del>v</del></mod></del><add stage="" who="">c</add></mod>ontre la Russie. J'ai eu<lb/>
+20/20 à ma redac. J'ai pris mon rat je l'ai<lb/>
+<mod type="corr"><orig>mit</orig><reg>mis</reg></mod> dans le ventre de mon père il <mod type="corr"><orig>la</orig><reg>l'a</reg></mod> <mod type="corr"><orig>manger</orig><reg>mangé</reg></mod><lb/>
+J'ai eu 22/30 à ma rédac. J'ai <mod type="corr"><orig>mit</orig><reg>mis</reg></mod> une bombe<lb/>
+à l'<mod type="corr"><orig>#X#cole</orig><reg>école</reg></mod> J t. J'ai eu 23/30 à ma rédac<lb/>
+J'ai détruit la lune. J'ai eu 25/30 à ma rédac<lb/>
+#X#J'ai <mod type="corr"><orig>fouetter</orig><reg>fouetté</reg></mod> mon grand-père. J'ai eu 27/30<lb/>
+J'ai explosé <mod type="corr"><orig>#X#tout</orig><reg>tous</reg></mod> les <mod type="corr"><orig>monument</orig><reg>monuments</reg></mod> connus. J'ai eu<lb/>
+30/30 §<lb/>
+
+<pb/>
+
+J'ai <mod type="corr"><orig>mit</orig><reg>mis</reg></mod> une bombe dans <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les <mod type="corr"><orig>stylo</orig><reg>stylos</reg></mod> du monde<lb/>
+des qu'on cl<mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">i</add></mod>que le stylo explose. J'ai eu 45/50 <mod type="corr"><orig>a</orig><reg>à</reg></mod> ma rédac<lb/>
+J'ai fait mourir de faim <mod type="del" stage="" who=""><del>fr</del></mod> François <mod type="corr"><orig>Holande</orig><reg>Hollande</reg></mod>. §<lb/>
+J'ai 50/50 à ma rédac. J'ai <mod type="corr"><orig>braquer</orig><reg>braqué</reg></mod> une banque.<lb/>
+J'ai eu 55/60 à ma rédac. J'ai <mod type="corr"><orig>couper</orig><reg>coupé</reg></mod> toutes les <mod type="corr"><orig>fleur</orig><reg>fleurs</reg></mod><lb/>
+du monde. J'ai eu 60/60 à ma rédac <mod type="add" stage="T2" who=""><add>...</add></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,130 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2016-MLJ-D1-E17
+</head>
+<p>
+<pb/>
+Il marche jusqu'<mod type="corr"><orig>a</orig><reg>à</reg></mod> son arrêt de bus sous la<lb/> 
+pluie.Il <mod type="subst"><del><mod type="del" stage="" who=""><del>fut</del></mod></del><add stage="" who="">est</add></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> peine arrivé <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'arrêt <mod type="del" stage="" who=""><del>que le
+bus arriva</del></mod> quand le bus arrive. Sam s'assoit sur<lb/>
+un <mod type="corr"><orig>siege</orig><reg>siège</reg></mod> libre au fond. Il sort son <mod type="corr"><orig>telephone</orig><reg>téléphone</reg></mod><lb/>
+<mod type="corr"><orig>e<mod type="del" stage="" who=""><del>s</del></mod>t</orig><reg>et</reg></mod> <mod type="corr"><orig>envoi</orig><reg>envoie</reg></mod> des messages <mod type="corr"><orig>a</orig><reg>à</reg></mod> ses amis, le trajet n'est pas<lb/>
+très long. Lorsqu'il arrive au lycée et <mod type="corr"><orig>rejoind</orig><reg>rejoint</reg></mod><lb/>
+ses amis pour attendre que la grille de la cour<lb/>
+s'ouvre...David et Vincent sont <mod type="corr"><orig>content</orig><reg>contents</reg></mod> de revoir<lb/>
+Sam, lui aussi et heureux de les voir mais <mod type="corr"><orig>la</orig><reg>là</reg></mod><lb/>
+très froid et n'<mod type="corr"><orig>atten</orig><reg>attendent</reg></mod> qu'une chose, que la grille<lb/>
+ouvre. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>S</del></mod></del><add stage="" who="">C</add></mod>a</orig><reg>ça</reg></mod> sonne, <mod type="corr"><orig>enfain</orig><reg>enfin</reg></mod> <mod type="corr"><orig>ce</orig><reg>se</reg></mod> dit Sam. Il <mod type="corr"><orig>cour</orig><reg>court</reg></mod><lb/>
+#XXX# que dans le <mod type="corr"><orig>batiment</orig><reg>bâtiment</reg></mod> pour se rechauffer.<lb/>
+En première <mod type="add" stage="" who=""><add>heure</add></mod> il a Anglais, sa matière <mod type="corr"><orig>préféré</orig><reg>préférée</reg></mod> mais<lb/>
+même si il aime ça, il <mod type="del" stage="" who=""><del>XXX#</del></mod> se met au fond de la<lb/>
+classe. Ensuite suis les cours de français et<lb/>
+A<mod type="del" stage="" who=""><del>XXX#</del></mod> plastiques. Sam dessine vraiment bien et il<lb/>
+trou<mod type="del" stage="" who=""><del>XXX#</del></mod>ve que dans cette matière il peut se §<lb/>
+
+<pb/>
+dévoilé et être lui même. Le repas se passe<lb/>
+bien, saucisse <mod type="del" stage="" who=""><del>XXX#</del></mod> couscous, son plat <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">f</add></mod>avoris</orig><reg>favori</reg></mod>. Le jeudi<lb/>
+il finit ses cours <mod type="corr"><orig>a</orig><reg>à</reg></mod> 11h30 mais il mange <mod type="corr"><orig>a</orig><reg>à</reg></mod><lb/>
+la cantine avec ses amis. Son bus est a 14h30<lb/>
+donc il attend les heures qui <mod type="corr"><orig>sauves</orig><reg>suivent</reg></mod> son bus avec<lb/>
+David. David <mod type="corr"><orig>atten</orig><reg>attend</reg></mod> son bus au même endroit même si<lb/>
+ce n'est pas le <mod type="del" stage="" who=""><del>XXX#</del></mod> même bus. Il fait le chemin<lb/>
+en sens inverse et rentre chez lui. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

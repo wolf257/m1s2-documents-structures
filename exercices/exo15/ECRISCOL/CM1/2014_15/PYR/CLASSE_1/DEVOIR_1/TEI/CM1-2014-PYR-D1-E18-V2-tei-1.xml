@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E18-V2
+</head>
+<p>
+Il était une fois une petit garçon qui s'appelait Gabriel. Ce petit garçon<lb/> 
+avait une belle toupie en métal multicolore qui, quand elle tournait, lançait des notes<lb/>
+joyeuses. Un jour qu'il pleurait, son amie Anne-Lise vient lui demander pourquoi:<lb/>
+-Tu as perdu quelque chose? §<lb/>
+-Oui...-Ma toupie chinoise sur le chemin de l'école. §<lb/>
+Après les cours Anne-Lise l'<mod type="corr"><orig>emmenna</orig><reg>emmena</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>à</del></mod> </del><add stage="" who="P">dans</add></mod></orig><reg>dans</reg></mod> un endroit assez <mod type="corr"><orig>sp<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>cial</orig><reg>spécial</reg></mod>. Il entra et<lb/>
+un drôle de bonhomme l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">aceuillit</hi></orig><reg>accueillit</reg></mod> <mod type="add" stage="T2" who=""><add>accueillit</add></mod>très poliment. Il était grand et portait une<lb/>
+longue cape avec au moins vingt <mod type="corr"><orig>cléfs</orig><reg>clés</reg></mod> dessus. Puis ils montèrent les marches<lb/>
+pendant que Gabriel racontait son problème. Ils arrivèrent à une grande porte et<lb/>
+le personnage qui l'accompagnait lui dit: §<lb/>
+-Si tu veux retrouver ta toupie, il faut que tu cherches dans cette pièce. §<lb/>
+Alors Gabriel se mit à chercher et, au bout d'un certain moment, il trouva<lb/>
+sa toupie et rentra chez lui. §<lb/>
+Fin §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

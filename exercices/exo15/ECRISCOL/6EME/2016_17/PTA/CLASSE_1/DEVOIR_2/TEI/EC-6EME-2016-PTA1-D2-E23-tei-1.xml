@@ -1,0 +1,127 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E23
+</head>
+<p>
+<pb/>
+Elle <mod type="corr"><orig>croisent</orig><reg>croise</reg></mod> quelqu'un qui lui dit "joyeux noël", Laurie ne comprend pas pourquoi<lb/>
+<mod type="corr"><orig>se</orig><reg>ce</reg></mod> monsieur lui dit ça et d'un seul coup Laurie <mod type="corr"><orig>comprid</orig><reg>comprit</reg></mod> aujourd'hui qu'il n'y<lb/>
+avait pas école car c'était noël, heureuse et triste car ses parents n'<mod type="corr"><orig>était</orig><reg>étaient</reg></mod> pas<lb/>
+avec elle pour partager ce moment, alors elle décide de <mod type="corr"><orig>rentrée</orig><reg>rentrer</reg></mod> chez elle pour se<lb/>
+coucher. Quand elle arriva chez elle ses parents <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> et derrière eux le sapin<lb/>
+et sous le sapin plein de cadeaux, Laurie <mod type="corr"><orig>sautat</orig><reg>sauta</reg></mod> de joie, "Laurie dit maman<lb/>
+tout ça <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> pour toi" pour pour moi c'est vrai dit Laurie et se jeta dans<lb/>
+les bras de ses parents. Elle commença à <mod type="corr"><orig>débaler</orig><reg>déballer</reg></mod> <mod type="corr"><orig>c'est</orig><reg>ses</reg></mod> cadeaux mais un<lb/>
+l'<mod type="corr"><orig>attirer</orig><reg>attirait</reg></mod> plus particulièrement c'était le plus petit. <mod type="corr"><orig>elle</orig><reg>Elle</reg></mod> l'<mod type="corr"><orig>ouvait</orig><reg>ouvrit</reg></mod> et là une<lb/>
+lettre s'écria Laurie tout en <mod type="corr"><orig>regardent</orig><reg>regardant</reg></mod> ses parents qui lui répondirent <mod type="corr"><orig>lit</orig><reg>lis</reg></mod> <mod type="corr"><orig>là</orig><reg>la</reg></mod><lb/>
+et après tu pourras parler; Laurie lit la lettre à <mod type="corr"><orig>voit</orig><reg>voix</reg></mod> haute "Laurie nous t'<mod type="corr"><orig>anonssons</orig><reg>annonçons</reg></mod><lb/>
+que tu <mod type="corr"><orig>va</orig><reg>vas</reg></mod> avoir un petit/petite <mod type="corr"><orig>frëre</orig><reg>frère</reg></mod>/<mod type="corr"><orig>soeure</orig><reg>soeur</reg></mod> quelque <mod type="corr"><orig>choser</orig><reg>chose</reg></mod> l'<mod type="corr"><orig>intérompit</orig><reg>interrompit</reg></mod> dans sa<lb/>
+lecture, un de ses cadeaux venait de bouger Laurie y <mod type="corr"><orig>preta</orig><reg>prêta</reg></mod> attention et elle découvrit<lb/>
+six <mod type="corr"><orig>chateons</orig><reg>chatons</reg></mod> et leur mère elle qui rêvait d'avoir un <mod type="corr"><orig>animal<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>animal</reg></mod> de <mod type="corr"><orig>compagni</orig><reg>compagnie</reg></mod> §<lb/>
+
+<pb/>
+Laurie perdit tout contrôle pleura <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> ses larmes c'était trop pour elle en premier<lb/>
+une <mod type="subst"><del><mod type="del" stage="" who=""><del>petit petite</del></mod></del><add stage="" who="">petite</add></mod> soeur ou un petit frère ensuite des animaux de compagnie et autre encore.<lb/>
+<mod type="corr"><orig>c'est</orig><reg>C'est</reg></mod> lui dire c'est pas tout tu ne sais pas tout, <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">t</add></mod>u</orig><reg>tu</reg></mod> voulais bien aller voir le concert<lb/>
+de Claude François et faire ton anniversaire à la fête <mod type="corr"><orig>foraine</orig><reg>forraine</reg></mod> si je ne me trompe pas,<lb/>
+oui répondit Laurie, regarde dans le sapin <mod type="corr"><orig>se</orig><reg>ce</reg></mod> qu'il y a, elle regarda et <mod type="corr"><orig>la</orig><reg>là</reg></mod> des places pour<lb/>
+le concert "SUPER" et les invitations pour aller faire mon anniversaire à la fête <mod type="corr"><orig>foraine</orig><reg>forraine</reg></mod> "TROP<lb/>
+COOL", vous êtes trop <mod type="corr"><orig>s'impas</orig><reg>sympas</reg></mod>, merci beaucoup." Mais <mod type="corr"><orig>attendais</orig><reg>attendez</reg></mod> et le bébé il va <mod type="corr"><orig>n'aitre</orig><reg>naître</reg></mod><lb/>
+dans combien de temps, <mod type="corr"><orig>à</orig><reg>ah</reg></mod> tu verras quand il arrivera un jour ou l'autre. §<lb/>
+ </p>
+</div>
+﻿</body>
+</text>
+</TEI>

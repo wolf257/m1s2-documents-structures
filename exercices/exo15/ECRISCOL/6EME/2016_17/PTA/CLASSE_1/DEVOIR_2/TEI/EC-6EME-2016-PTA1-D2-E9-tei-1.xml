@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E9
+</head>
+<p>
+Elle rentre dans la cour et la <mod type="corr"><orig>soneri</orig><reg>sonnerie</reg></mod> <mod type="corr"><orig>sone</orig><reg>sonne</reg></mod> les <mod type="corr"><orig>éléve</orig><reg>élèves</reg></mod> <mod type="corr"><orig>vomne</orig><reg>vont</reg></mod><lb/>
+<mod type="corr"><orig>renger</orig><reg>ranger</reg></mod> dans <mod type="corr"><orig>l'eur</orig><reg>leur</reg></mod> <mod type="corr"><orig>ran</orig><reg>rang</reg></mod> il y a une <mod type="corr"><orig>deusiéme</orig><reg>deuxième</reg></mod> <mod type="corr"><orig>sonerie</orig><reg>sonnerie</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> la <mod type="corr"><orig>métré<lb/>se</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>ariva</orig><reg>arriva</reg></mod>. <mod type="corr"><orig>Est</orig><reg>Et</reg></mod> elle <mod type="corr"><orig>comansa</orig><reg>commença</reg></mod> en <mod type="corr"><orig>Françai</orig><reg>français</reg></mod> et <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>matin la</orig><reg>matin-là</reg></mod> il <mod type="corr"><orig>été</orig><reg>était</reg></mod> en<lb/>
+<mod type="corr"><orig>croupe</orig><reg>grouep</reg></mod> un <mod type="corr"><orig>croupe</orig><reg>groupe</reg></mod> en Français et <mod type="corr"><orig>lotre</orig><reg>l'autre</reg></mod> groupe <mod type="corr"><orig>été</orig><reg>était</reg></mod> au CDI.<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>elle</del></mod></del><add stage="" who="">Il</add></mod></orig><reg>Ils</reg></mod> <mod type="corr"><orig>devais</orig><reg>devaient</reg></mod> faire un <mod type="corr"><orig>térte</orig><reg>texte</reg></mod> la <mod type="corr"><orig>métrése</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>ésplica</orig><reg>expliqua</reg></mod> et <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>devais</orig><reg>devaient</reg></mod><lb/>
+commancer <mod type="corr"><orig>avan</orig><reg>avant</reg></mod> la <mod type="corr"><orig>soneri</orig><reg>sonnerie</reg></mod>. <mod type="corr"><orig>la</orig><reg>La</reg></mod> <mod type="corr"><orig>soneri</orig><reg>sonnerie</reg></mod> <mod type="corr"><orig>sone</orig><reg>sonne</reg></mod> les <mod type="corr"><orig>éléves</orig><reg>élèves</reg></mod><lb/>
+<mod type="corr"><orig>renje<mod type="del" stage="" who=""><del>t</del></mod></orig><reg>range</reg></mod> leurs <mod type="corr"><orig>afére</orig><reg>affaires</reg></mod> et <mod type="corr"><orig>sorti</orig><reg>sortirent</reg></mod> pour <mod type="corr"><orig>alé</orig><reg>aller</reg></mod> <mod type="corr"><orig>an</orig><reg>en</reg></mod> <mod type="del" stage="" who=""><del>es</del></mod> eps. §<lb/>
+<mod type="corr"><orig>il</orig><reg>Ils</reg></mod> <mod type="corr"><orig>a la</orig><reg>allèrent</reg></mod> au <mod type="corr"><orig>ran</orig><reg>rang</reg></mod> qui <mod type="corr"><orig>ést</orig><reg>est</reg></mod> <mod type="corr"><orig>dehore</orig><reg>dehors</reg></mod> <mod type="corr"><orig>ler</orig><reg>leur</reg></mod> <mod type="corr"><orig>profaitseur</orig><reg>professeur</reg></mod> <mod type="corr"><orig>ariva</orig><reg>arriva</reg></mod> <mod type="corr"><orig>ét</orig><reg>et</reg></mod><lb/>
+<mod type="corr"><orig>parti</orig><reg>partit</reg></mod>. <mod type="corr"><orig>une</orig><reg>Une</reg></mod> <mod type="corr"><orig>foi</orig><reg>fois</reg></mod> <mod type="corr"><orig>arivé</orig><reg>arrivé</reg></mod> il <mod type="corr"><orig>devais</orig><reg>devait</reg></mod> <mod type="corr"><orig>préparé</orig><reg>préparer</reg></mod> les <mod type="corr"><orig>parcour</orig><reg>parcours</reg></mod><lb/>
+<mod type="corr"><orig>daclétisme</orig><reg>d'atlétisme</reg></mod>. <mod type="corr"><orig>il</orig><reg>Ils</reg></mod> <mod type="corr"><orig>fésé</orig><reg>fesaient</reg></mod> du <mod type="corr"><orig>sepor</orig><reg>sport</reg></mod> <mod type="corr"><orig>pandans</orig><reg>pendant</reg></mod> 2h <mod type="corr"><orig>ést</orig><reg>et</reg></mod> elle<lb/>
+rentra <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>ala</orig><reg>alla</reg></mod> <mod type="corr"><orig>voire</orig><reg>voir</reg></mod> le <mod type="corr"><orig>tablau</orig><reg>tableau</reg></mod> des <mod type="corr"><orig>proféseur</orig><reg>professeurs</reg></mod><lb/>
+<mod type="corr"><orig>absen</orig><reg>absents</reg></mod> <mod type="del" stage="" who=""><del>et tou ser,</del></mod> et <mod type="corr"><orig>sont</orig><reg>son</reg></mod> <mod type="corr"><orig>profaiseur</orig><reg>professeur</reg></mod> de <mod type="corr"><orig>mate</orig><reg>maths</reg></mod><lb/>
+<mod type="corr"><orig>eté</orig><reg>était</reg></mod> <mod type="corr"><orig>absen</orig><reg>absent</reg></mod> et <mod type="corr"><orig>ducou</orig><reg>du coup</reg></mod> elle finira les <mod type="corr"><orig>cour</orig><reg>cours</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> 12h<lb/>
+<mod type="corr"><orig>ét</orig><reg>et</reg></mod> elle rentra <mod type="corr"><orig>jésele</orig><reg>chez elle</reg></mod>. <mod type="corr"><orig>et</orig><reg>Et</reg></mod> joua toute la <mod type="corr"><orig>journé</orig><reg>journée</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

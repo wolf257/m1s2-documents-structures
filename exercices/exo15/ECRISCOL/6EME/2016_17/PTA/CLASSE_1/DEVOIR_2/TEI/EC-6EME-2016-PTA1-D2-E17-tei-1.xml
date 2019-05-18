@@ -1,0 +1,140 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E17
+</head>
+<p>
+<pb/>
+Elle marche <mod type="subst"><del><mod type="del" stage="" who=""><del>jusqu'a</del></mod></del><add stage="" who="">jusqu'à</add></mod> l'arrêt de bus pour<lb/>
+attendre son car. Laurie retrouve ses copines Justine,<lb/>
+Julia, Jade. Lorsque le bus arrive, les 4 copines<lb/>
+<mod type="corr"><orig>grimpe</orig><reg>grimpent</reg></mod> <mod type="add" stage="" who=""><add>à</add></mod> toute allure en espérant avoir une place à l'arrière<lb/>
+(car tout le monde veut une place à l'arrière).<lb/>
+Une fois <mod type="corr"><orig>arrivé</orig><reg>arrivées</reg></mod> à l'école, elles descendent toutes <mod type="corr"><orig>ensembles</orig><reg>ensemble</reg></mod><lb/>
+et courent retrouver leur classe déja rangée <mod type="corr"><orig>Mne</orig><reg>Mme</reg></mod> Bisson<lb/>
+leur professeur de Mathématiques arrive en leur souriant.<lb/>
+Les 4 filles espèrent que l'enthousiasme de leur<lb/>
+maîtresse a un rapport avec le travail de groupe<lb/>
+fait la veille. En classe la <mod type="del" stage="" who=""><del>ma</del></mod> professeur leur<lb/>
+<mod type="corr"><orig>distribu</orig><reg>distribue</reg></mod> le devoir et en s'adressant aux filles<lb/>
+<mod type="corr"><orig>elle<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>elle</reg></mod> dit: §<lb/>
+"-Bravo les filles, vous avez <mod type="corr"><orig>obtenue</orig><reg>obtenu</reg></mod> un 20/20<lb/>
+plus <mod type="subst"><del><mod type="del" stage="" who=""><del>zéro</del></mod></del><add stage="" who="">0,5</add></mod> points-bonus." §<lb/>
+
+<pb/>
+Laurie, fière de son travail fait avec ses amies se dit que<lb/>
+cette note pourra faire monter sa moyenne en <mod type="corr"><orig>esperant</orig><reg>espérant</reg></mod> qu'une<lb/>
+mauvaise note ne <mod type="del" stage="" who=""><del>ve</del></mod> <mod type="corr"><orig>viennent</orig><reg>vienne</reg></mod> s'ajouter en cours de SVT<lb/>
+(le cours qu'elle n'<mod type="corr"><orig>aimer</orig><reg>aimait</reg></mod> pas beaucoup). Mais elle <mod type="corr"><orig>extrèmement</orig><reg>extrêmement</reg></mod><lb/>
+contente tout comme ses copines. Les 4 amies s'étaient <mod type="corr"><orig>donné</orig><reg>données</reg></mod><lb/>
+un nom Laurie Bordignant, Justine Binette, Julia Bedrin et<lb/>
+Jade Bouchère. Elles formaient les BORBIBEBOU. §<lb/>
+Après les cours du matin, elles se rassemblent devant le self<lb/>
+en attendant leur tour car elles <mod type="corr"><orig>avai<mod type="add" stage="" who=""><add>en</add></mod>t</orig><reg>avaient</reg></mod> très faim, surtout<lb/>
+qu'il y avait poulet-frites. Après le déjeuner les BORBIBEBOU<lb/>
+rejoignent leurs cours de l'après-midi: Anglais, <mod type="del" stage="" who=""><del>techno</del></mod><lb/>
+Technologie-Français. A la fin de la journée Laurie et<lb/>
+Julia vont au goûter littéraire l'activité <mod type="corr"><orig>organisé</orig><reg>organisée</reg></mod> par notre<lb/>
+professeur de français. Et au bout <mod type="subst"><del><mod type="del" stage="" who=""><del>du l' de l'heure</del></mod></del><add stage="" who="">de <lb/>l'heure</add></mod>, Laurie rejoint sa maison. Son père était rentré<lb/>
+car le jeudi, il ne <mod type="corr"><orig>travail</orig><reg>travaille</reg></mod> pas l'après-midi. Avec son<lb/>
+père Laurie regarde la télé: "American Pichers" et elle<lb/>
+aime bien passer du temps avec son père. Une fois sa<lb/>
+mère <mod type="corr"><orig>rentré</orig><reg>rentrée</reg></mod> Laurie va prendre sa douche, elle mange, elle<lb/>
+regarde un <mod type="del" stage="" who=""><del>pess</del></mod> peu la télé et va au lit sans oublier<lb/>
+le <mod type="corr"><orig>bisou<mod type="del" stage="" who=""><del>X#</del></mod></orig><reg>bisou</reg></mod> à ses parents. §<lb/>
+21h30: Laurie est couchée. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

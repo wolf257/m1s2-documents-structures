@@ -1,0 +1,140 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E13
+</head>
+<p>
+<pb/>
+
+Aussitôt, la sage-femme plaça Lucien sur sa mère<lb/>
+Lucien la regarda avec de gros yeux grands et la <mod type="corr"><orig>rec<hi place=" " time="" who="Pσ" style="underline">onnu</hi></orig><reg>reconnut</reg></mod> par<lb/>
+son odeur. Il était intrigué, il voyait sa mère les larmes<lb/>
+aux yeux. <hi place=" " time="" who="Pσ" style="underline">Il a à</hi> peine eu le temps de rester avec elle<lb/>
+qu'on l'enleva. Il gémit, il cria, il hurla mais rien n'y<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">fesait</hi></orig><reg>faisait</reg></mod>. On lui fit subir toutes sortes d'opérations. Lucien<lb/>
+resta, impuissant, finissant par s'endormir. §<lb/>
+Il se réveilla après quelques heures de sommeil. Une<lb/>
+faible lumière <mod type="del" stage="" who=""><del>il entendait</del></mod> <mod type="add" stage="" who=""><add>éclairait la pièce</add></mod> des petits tintements résonnaient<lb/>
+dans la pièce. Au dessus de sa tête volaient des petits<lb/>
+êtres <hi place=" " time="" who="Pσ" style="underline">tels à</hi> des fées. Il avait faim mais ne pouvait pas<lb/>
+parler alors il commença à crier et à pleurer. <mod type="del" stage="" who=""><del>sa<lb/>
+maison</del></mod> <mod type="add" stage="" who=""><add>la chambre</add></mod> en tremblait. La sage-femme <mod type="add" stage="" who=""><add>le</add></mod> <mod type="corr"><orig>pr<hi place=" " time="" who="Pσ" style="underline">is</hi></orig><reg>prit</reg></mod> dans ses<lb/>
+bras et le ramena à sa <mod type="del" stage="" who=""><del>XXX#</del></mod> mère. Aussitôt Lucien se<lb/>
+calma et la regarda en souriant. Sa mère lui donna le<lb/>
+sein. <mod type="del" stage="" who=""><del>Lucien s'endormit encore</del></mod> Soudain, quelqu'un ouvrit<lb/>
+la porte. Un homme plutôt grand rentra et se dirigea<lb/>
+doucement vers lui et l'observa ému. Ses yeux donnaient<lb/>
+l'impression de contenir des fontaines. Il le prit dans<lb/>
+ses bras et s'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">asseya</hi></orig><reg>assit</reg></mod> sur une chaise. Lucien devina<lb/>
+que c'était son père. Petit à petit, ses paupières se<lb/>
+refermèrent. §<lb/>
+Il se réveilla dans un lit pour bébé à midi. Il pouvait<lb/>
+voir le soleil qui brillait. Il voyait des petits papillons<lb/>
+de toutes les couleurs voler par la fenêtre. Soudain,<lb/>
+quelqu'un ouvrit la porte. C'était son père, il le<lb/>
+porta dans ses bras mais Lucien <mod type="del" stage="" who=""><del>ajai</del></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ajita</hi></orig><reg>agita</reg></mod> ses mains §<lb/>
+
+<pb/>
+
+vers la fenêtre. Il voulait découvrir ce monde.<lb/>
+Son père comprit et l'emmena dans le jardin.<lb/>
+Lucien voyait cette nature tout content. Il<lb/>
+trouva ça merveilleux. <mod type="del" stage="" who=""><del>Il</del></mod> Lucien était content de<lb/>
+vivre. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

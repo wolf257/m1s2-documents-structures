@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D3-E16-V2
+</head>
+<p>
+<pb/>
+Quand je serai adulte, je serai<lb/>
+<mod type="del" stage="" who=""><del>p</del></mod> une artiste. <mod type="del" stage="" who=""><del>je</del></mod> Je <mod type="corr"><orig>voyagerai<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>voyagerai</reg></mod> à<lb/>
+Paris, à <mod type="corr"><orig>Londr<hi place=" " time="" who="Pσ" style="underline">s</hi></orig><reg>Londres</reg></mod> <mod type="add" stage="T3" who=""><add>Londres</add></mod>, au Canada, au<lb/>
+Brésil, au Maroc, en Inde<lb/>
+Le matin <mod type="add" stage="T3" who=""><add>,</add></mod> je ferai des croquis<lb/>
+pour m éntraîner au dessin.<lb/>
+Le midi <mod type="add" stage="" who="P"><add>,</add></mod> je mangerai un bon §<lb/>
+
+<pb/>
+repas pour prendre de l'énergie<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>L'après mide</del></mod></del><add stage="" who="">L'après-midi</add></mod> <mod type="add" stage="T3" who=""><add>,</add></mod> je<lb/>
+<mod type="del" stage="" who=""><del>peidrai et je dessin</del></mod> peindrai<lb/>
+<mod type="del" stage="" who=""><del>et</del></mod> des tableaux et le soir <mod type="add" stage="T3" who=""><add>,</add></mod> je les<lb/>
+vendrai. J'adore <mod type="add" stage="T3" who=""><add>J'adore</add></mod> <mod type="del" stage="" who=""><del>d</del></mod> peindre <mod type="add" stage="T3" who=""><add>peindre</add></mod> <mod type="del" stage="" who=""><del>et</del></mod> <mod type="add" stage="T3" who=""><add>et</add></mod><lb/>
+et dessiner <mod type="add" stage="T3" who=""><add>dessiner,</add></mod> <hi place=" " time="" who="Pσ" style="underline">et</hi> <mod type="add" stage="T3" who=""><add>un jour</add></mod> je deviendrai <mod type="add" stage="T3" who=""><add>je deviendrai</add></mod><lb/>
+célèbre <mod type="add" stage="T3" who=""><add>célèbre</add></mod>. <mod type="del" stage="" who=""><del>car j'adore peindre et et<lb/>
+déssiner.</del></mod> <mod type="corr"><orig>Tou<hi place=" " time="" who="Pσ" style="underline">t</hi></orig><reg>Tous</reg></mod> <mod type="add" stage="T3" who=""><add>Tous</add></mod> mes tableaux <mod type="del" stage="" who=""><del>seron</del></mod><lb/>
+seront <mod type="corr"><orig>exposé<hi place=" " time="" who="Pσ" style="underline">es</hi></orig><reg>exposés</reg></mod> <mod type="add" stage="T3" who=""><add>exposés</add></mod> au musée du Louvre<lb/>
+à Paris <mod type="add" stage="T3" who=""><add>,</add></mod> à côté de la Joconde et<lb/>
+les touristes les prendront en<lb/>
+photo. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

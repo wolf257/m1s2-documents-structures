@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E22
+</head>
+<p>
+<pb/>
+<mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> <mod type="corr"><orig>vas</orig><reg>va</reg></mod> à l’école <mod type="corr"><orig>ou</orig><reg>où</reg></mod> <mod type="corr"><orig>tou</orig><reg>tous</reg></mod> <mod type="corr"><orig>s’est</orig><reg>ses</reg></mod> <mod type="corr"><orig>copain</orig><reg>copains</reg></mod> l’<lb/>
+<mod type="corr"><orig>attande</orig><reg>attendent</reg></mod> pour jouer <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> <mod type="corr"><orig>ariva</orig><reg>arriva</reg></mod> il <mod type="corr"><orig>jouer</orig><reg>jouait</reg></mod>, <mod type="corr"><orig>jouer</orig><reg>jouait</reg></mod> et la<lb/>
+maîtresse <mod type="corr"><orig>qlaqa</orig><reg>claqua</reg></mod> des <mod type="corr"><orig>main</orig><reg>mains</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>rentrérer</orig><reg>rentrèrent</reg></mod> dans <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>la</del></mod></del><add stage="" who="">l’a</add></mod></orig><reg>la</reg></mod> classe<lb/>et po<mod type="subst"><del><mod type="del" stage="" who=""><del>r</del></mod></del><add stage="" who="">ur</add></mod> <mod type="corr"><orig>comencer</orig><reg>commencer</reg></mod> la <mod type="corr"><orig>jour’né</orig><reg>journée</reg></mod> <mod type="corr"><orig>on’</orig><reg>on</reg></mod> fait de la dictée<lb/>
+et <mod type="corr"><orig>à pres</orig><reg>après</reg></mod> on <mod type="corr"><orig>fesaide</orig><reg>faisait de</reg></mod> la <mod type="corr"><orig>gramaire</orig><reg>grammaire</reg></mod> et <mod type="corr"><orig>la prémidi</orig><reg>l’après-midi</reg></mod> <mod type="corr"><orig>an</orig><reg>on</reg></mod><lb/>
+fait du <mod type="corr"><orig>babiten</orig><reg>badminton</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>et <mod type="del" stage="" who=""><del>cri</del></mod>crive</orig><reg>écrivent</reg></mod> les <mod type="corr"><orig>de voir</orig><reg>devoirs</reg></mod> <mod type="corr"><orig>an</orig><reg>on</reg></mod> fait<lb/>
+de la <mod type="corr"><orig>gonjugo<mod type="add" stage="" who=""><add>i</add></mod>sns</orig><reg>conjugaison</reg></mod> <mod type="corr"><orig>a pres</orig><reg>après</reg></mod> <mod type="corr"><orig>an</orig><reg>on</reg></mod> fait la <mod type="corr"><orig>récré a tion</orig><reg>récréation</reg></mod><lb/>
+<mod type="corr"><orig>quan</orig><reg>quand</reg></mod> la récré <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>fini</orig><reg>finie</reg></mod> <mod type="corr"><orig>an</orig><reg>on</reg></mod> fait la <mod type="subst"><del><mod type="del" stage="" who=""><del>lécture</del></mod><lb/>
+</del><add stage="" who="">lecture</add></mod> <mod type="corr"><orig>a pres</orig><reg>après</reg></mod> on <mod type="corr"><orig>sor</orig><reg>sort</reg></mod> <mod type="corr"><orig>lardoise</orig><reg>l’ardoise</reg></mod> on <mod type="corr"><orig>fa</orig><reg>fait</reg></mod> le<lb/>
+nombre <mod type="corr"><orig>ju q’à</orig><reg>jusqu’à</reg></mod> 99999 et un jour mon<lb/>
+<mod type="corr"><orig>méllier</orig><reg>meilleur</reg></mod> <mod type="corr"><orig>copien</orig><reg>copain</reg></mod> me <mod type="corr"><orig>di</orig><reg>dit</reg></mod> <mod type="corr"><orig>jene</orig><reg>je ne</reg></mod> <mod type="corr"><orig>ve</orig><reg>veux</reg></mod> <mod type="corr"><orig>pu</orig><reg>plus</reg></mod> <mod type="corr"><orig>etre</orig><reg>être</reg></mod> ton<lb/>
+<mod type="corr"><orig>copien</orig><reg>copain</reg></mod> <mod type="corr"><orig>jenné</orig><reg>j’en ai</reg></mod> vu un <mod type="corr"><orig>noutre</orig><reg>autre</reg></mod> et il <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>tre</orig><reg>très</reg></mod> <mod type="corr"><orig>jenti</orig><reg>gentil</reg></mod><lb/>
+avec moi et en plus il <mod type="corr"><orig>ma</orig><reg>m’a</reg></mod> <mod type="corr"><orig>doné</orig><reg>donné</reg></mod> son ballon §<lb/>
+
+<pb/>
+et il <mod type="corr"><orig>ma</orig><reg>m’a</reg></mod> <mod type="corr"><orig>méme</orig><reg>même</reg></mod> dit <mod type="corr"><orig>con</orig><reg>qu’on</reg></mod> <mod type="corr"><orig>séra</orig><reg>sera</reg></mod> <mod type="corr"><orig>toujou</orig><reg>toujours</reg></mod> <mod type="corr"><orig>à<lb/>
+mis</orig><reg>amis</reg></mod> <mod type="corr"><orig>quo</orig><reg>quoi</reg></mod> <mod type="corr"><orig>qui</orig><reg>qu’il</reg></mod> <mod type="corr"><orig>arive</orig><reg>arrive</reg></mod> et <mod type="corr"><orig>consera</orig><reg>qu’on sera</reg></mod> les <mod type="corr"><orig>mélleur</orig><reg>meillers</reg></mod><lb/>
+<mod type="corr"><orig>copien</orig><reg>copains</reg></mod> pour <mod type="corr"><orig>toujour</orig><reg>toujours</reg></mod> et <mod type="corr"><orig>con</orig><reg>qu’on</reg></mod> <mod type="corr"><orig>noble era</orig><reg>n’oubliera</reg></mod> ton<lb/>
+<mod type="corr"><orig>en sien</orig><reg>ancien</reg></mod> <mod type="corr"><orig>copien</orig><reg>copain</reg></mod> et <mod type="corr"><orig>plu</orig><reg>plus</reg></mod> tard quand <mod type="corr"><orig>ton</orig><reg>on</reg></mod><lb/>
+sera <mod type="corr"><orig>gron</orig><reg>grands</reg></mod> et si on <mod type="corr"><orig>me</orig><reg>ne</reg></mod> se <mod type="corr"><orig>dipst</orig><reg>dispute</reg></mod> pas<lb/>
+je <mod type="corr"><orig>ta prendrais</orig><reg>t’apprendrais</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>quuon duir</orig><reg>conduire</reg></mod> des motos<lb/>
+des avions des <mod type="corr"><orig>fusé</orig><reg>fusées</reg></mod> et <mod type="corr"><orig>meme</orig><reg>même</reg></mod> je <mod type="corr"><orig>tele</orig><reg>te le</reg></mod> jure<lb/>
+<mod type="corr"><orig>qon</orig><reg>qu’on</reg></mod> <mod type="corr"><orig>sra</orig><reg>sera</reg></mod> s<mod type="del" stage="" who=""><del>X#</del></mod>ur la lune et <mod type="corr"><orig>tou</orig><reg>tout</reg></mod> <mod type="del" stage="" who=""><del>f</del></mod> bon réfléchi je<lb/>
+je ne <mod type="corr"><orig>ve</orig><reg>veux</reg></mod> <mod type="corr"><orig>pu</orig><reg>plus</reg></mod> <mod type="corr"><orig>etere</orig><reg>être</reg></mod> ton <mod type="corr"><orig>copien</orig><reg>copain</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

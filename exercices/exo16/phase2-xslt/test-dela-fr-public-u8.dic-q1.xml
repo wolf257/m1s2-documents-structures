@@ -1,0 +1,4770 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="application/xml" href="./xsl/q1.xsl" ?>
+
+<dico>
+<entry>
+  <lemma>100\-mètres</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>100\-mètres</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>100\-mètres</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>aabam</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>aabam</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à accus</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>à accus</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à affirmer</lemma>
+  <pos name='adverb'/>
+  <inflected>
+    <form>à affirmer</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>aalénien</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>aalénien</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>aalénienne</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>aaléniennes</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>aaléniens</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>aalénien</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>aalénien</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>aa</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>aa</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>aa</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à angle droit avec</lemma>
+  <pos name='prep'/>
+  <inflected>
+    <form>à angle droit avec</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à armes égales avec</lemma>
+  <pos name='prep'/>
+  <inflected>
+    <form>à armes égales avec</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à aucun prix</lemma>
+  <pos name='adverb'/>
+  <inflected>
+    <form>à aucun prix</form>
+  </inflected>
+  <inflected>
+    <form>à aucun prix</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à babord</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>à babord</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaca</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abaca</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abacas</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abactérien</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abactérien</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abactérienne</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abactériennes</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abactériens</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abacule</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abacule</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abacules</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaissable</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abaissable</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissable</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissables</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissables</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaissant</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abaissante</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissantes</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissant</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissants</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaissé</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abaissée</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissées</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissé</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissés</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaisse de pâte feuilletée</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abaisse de pâte feuilletée</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaissée d'aile</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abaissée d'aile</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaissée</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abaissée</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissées</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaissement des salaires</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abaissement des salaires</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaissement</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abaissement</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissements</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaissement volontaire</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abaissements volontaires</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaisse</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abaisse</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisses</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaisser</lemma>
+  <pos name='verb'/>
+  <inflected>
+    <form>abaissaient</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissait</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissa</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissâmes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissant</form>
+    <feat name='tense' value='gerondif'/>
+  </inflected>
+  <inflected>
+    <form>abaissas</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissassent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissasses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissasse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissassiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissassions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissâtes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissât</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissée</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissées</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissé</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaisse</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisse</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisse</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissera</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisseraient</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaisserai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisserais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisserais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisserait</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisseras</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissèrent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaisserez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaisseriez</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaisserions</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaisserons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaisseront</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaisser</form>
+    <feat name='tense' value='inf'/>
+  </inflected>
+  <inflected>
+    <form>abaissés</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaisses</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaissez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissez</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissiez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissions</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abaissons</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaisseur</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abaisseur</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisseurs</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaisseur de tension</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abaisseur de tension</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaisseur</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abaisseur</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaisseurs</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abajoue</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abajoue</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abajoues</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abalé</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abalé</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalés</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abalone</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abalone</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalones</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abalourdir</lemma>
+  <pos name='verb'/>
+  <inflected>
+    <form>abalourdie</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdies</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdi</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdîmes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdira</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdiraient</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdirai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdirais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdirais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdirait</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdiras</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdirent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdirez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdiriez</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdirions</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdirons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdiront</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdir</form>
+    <feat name='tense' value='inf'/>
+  </inflected>
+  <inflected>
+    <form>abalourdis</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdis</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissaient</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissait</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissant</form>
+    <feat name='tense' value='gerondif'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdisses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdisses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissez</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissiez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissions</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdissons</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdîtes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abalourdit</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdit</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abalourdît</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon d'accusation</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon d'accusation</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon de créance</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon de créance</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon de famille</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon de famille</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon de mitoyenneté</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon de mitoyenneté</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon de nouveau-né</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandons de nouveau\-né</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon de piste</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon de piste</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon de poste</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon de poste</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon de procédure</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon de procédure</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon des lieux</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon des lieux</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon de soi</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon de soi</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon des poursuites</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon des poursuites</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon d'incapable</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon d'incapable</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon d'un droit</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandon d'un droit</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandon</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abandon</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandons</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonnataire</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abandonnataire</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnataire</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnataires</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnataires</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonnateur</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abandonnateur</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnateurs</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnatrice</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnatrices</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonné</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abandonnée</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnées</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonné</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnés</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonnément</lemma>
+  <pos name='adverb'/>
+  <inflected>
+    <form>abandonnément</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonnement d'un droit</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abandonnement d'un droit</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonnement</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abandonnement</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnements</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonné</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abandonnée</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnées</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonné</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnés</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonner</lemma>
+  <pos name='verb'/>
+  <inflected>
+    <form>abandonnaient</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnait</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonna</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnâmes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnant</form>
+    <feat name='tense' value='gerondif'/>
+  </inflected>
+  <inflected>
+    <form>abandonnas</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnassent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnasses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnasse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnassiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnassions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnâtes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnât</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnée</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnées</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonné</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonne</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonne</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonne</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonne</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonne</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnera</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonneraient</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnerai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnerais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnerais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnerait</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonneras</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnèrent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnerez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonneriez</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnerions</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnerons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonneront</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonner</form>
+    <feat name='tense' value='inf'/>
+  </inflected>
+  <inflected>
+    <form>abandonnés</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnes</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnez</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonniez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonniez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnions</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonnons</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonnique</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abandonnique</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnique</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonniques</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonniques</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonnique</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abandonnique</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnique</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonniques</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abandonniques</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abandonnisme</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abandonnisme</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abandonnismes</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaque cartésien</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abaque cartésien</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaque</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abaque</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaques</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abarco</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abarco</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abarcos</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abarticulaire</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abarticulaire</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abarticulaire</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abarticulaires</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abarticulaires</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à base de</lemma>
+  <pos name='prep'/>
+  <inflected>
+    <form>à base de</form>
+  </inflected>
+  <inflected>
+    <form>à base des</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abasie</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abasie</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasies</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abasourdi</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abasourdie</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdies</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdi</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdis</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abasourdir</lemma>
+  <pos name='verb'/>
+  <inflected>
+    <form>abasourdie</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdies</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdi</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdîmes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdira</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdiraient</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdirai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdirais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdirais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdirait</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdiras</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdirent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdirez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdiriez</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdirions</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdirons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdiront</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdir</form>
+    <feat name='tense' value='inf'/>
+  </inflected>
+  <inflected>
+    <form>abasourdis</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdis</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissaient</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissait</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissant</form>
+    <feat name='tense' value='gerondif'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdisses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdisses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissez</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissiez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissions</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissons</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdîtes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdit</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdit</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdît</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abasourdissant</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abasourdissante</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissantes</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissant</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissants</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abasourdissement</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abasourdissement</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abasourdissements</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à bas prix</lemma>
+  <pos name='adverb'/>
+  <inflected>
+    <form>à bas prix</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à bas régime</lemma>
+  <pos name='adverb'/>
+  <inflected>
+    <form>à bas régime</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à basse altitude</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>à basse altitude</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à basse altitude</lemma>
+  <pos name='adverb'/>
+  <inflected>
+    <form>à basse altitude</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à basse température</lemma>
+  <pos name='adverb'/>
+  <inflected>
+    <form>à basse température</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatage</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abatage</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatages</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatant</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abatant</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatants</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abâtardi</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abâtardie</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardies</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardi</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardis</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abâtardir</lemma>
+  <pos name='verb'/>
+  <inflected>
+    <form>abâtardie</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardies</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardi</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardîmes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardira</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardiraient</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardirai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardirais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardirais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardirait</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardiras</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardirent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardirez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardiriez</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardirions</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardirons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardiront</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardir</form>
+    <feat name='tense' value='inf'/>
+  </inflected>
+  <inflected>
+    <form>abâtardis</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardis</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissaient</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissait</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissant</form>
+    <feat name='tense' value='gerondif'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardisses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardisses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissez</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissiez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissions</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissons</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardîtes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abâtardit</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardit</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardît</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abâtardissement</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abâtardissement</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abâtardissements</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abat-carrage</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <inflected>
+    <form>abat\-carrages</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatée</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abatée</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatées</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abat\-faim</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <inflected>
+    <form>abat\-faim</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abat\-faim</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abat\-foin</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <inflected>
+    <form>abat\-foin</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abat\-foin</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatis</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abatis</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatis</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abat\-jour</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <inflected>
+    <form>abat\-jour</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abat\-jour</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abat\-jour</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abat\-jour</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abat</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abat</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abats</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à bâtons rompus</lemma>
+  <pos name='adverb'/>
+  <inflected>
+    <form>à bâtons rompus</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abats de sanglier</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abats de sanglier</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abats</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abats</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abat-son</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <inflected>
+    <form>abat\-sons</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abat\-sons</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattable</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abattable</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattable</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattables</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattables</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattage à la masse</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abattage à la masse</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattages à la masse</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattage au marteau piqueur</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abattage au marteau piqueur</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattage clandestin</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abattage clandestin</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattage d'arbres</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abattage d'arbres</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattage</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abattage</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattages</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattage rituel</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abattage rituel</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattant</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abattant</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattants</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattée</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abattée</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattées</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattement à la base</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abattement à la base</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattement d'impôts</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abattement d'impôts</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattement fiscal</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abattement fiscal</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattement</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abattement</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattements</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatteur de besogne</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='human'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abatteurs de besogne</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatteur de bestiaux</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='human'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abatteuse de bestiaux</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatteur de bois</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='human'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abatteur de bois</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatteuses de bois</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatteur de travail</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='human'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abatteur de travail</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatteuses de travail</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatteur d'ouvrage</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='human'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abatteur d'ouvrage</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatteuses d'ouvrage</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatteur</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abatteur</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatteurs</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abatteuse</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatteuses</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatteuse</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abatteuse</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatteuses</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattis de dinde</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abattis de dinde</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattis de volaille</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abattis de volaille</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattis</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abattis</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattis</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattis</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattoir</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abattoir</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattoirs</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattre</lemma>
+  <pos name='verb'/>
+  <inflected>
+    <form>abat</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abats</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abats</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abats</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattaient</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattait</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattant</form>
+    <feat name='tense' value='gerondif'/>
+  </inflected>
+  <inflected>
+    <form>abattent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abatte</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abatte</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattes</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattez</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattiez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattîmes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattions</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattirent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattis</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattissent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattisses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattisse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattissiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattissions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattîtes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattit</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattît</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattons</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattra</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattraient</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattrai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattrais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattrais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattrait</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattras</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattre</form>
+    <feat name='tense' value='inf'/>
+  </inflected>
+  <inflected>
+    <form>abattrez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattriez</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattrions</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattrons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattront</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattue</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattues</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattu</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattus</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattu</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abattue</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattues</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abattu</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattus</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattue</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abattue</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattues</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattu</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abattu</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattus</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abatture</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abatture</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abattures</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abattures</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abattures</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abax</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abax</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abax</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaza</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abaza</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abaza</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abazas</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abazas</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abaza</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abaza</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>Abaza</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>Abaza</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>Abaza</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>Abazas</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>Abazas</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbacomite</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abbacomite</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbacomites</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abba</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abba</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbas</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbasside</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abbasside</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbasside</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbassides</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abbassides</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>Abbasside</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>Abbasside</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>Abbasside</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>Abbassides</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>Abbassides</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbatial</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abbatiale</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbatiales</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abbatial</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbatiaux</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbatiale</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abbatiale</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbatiales</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbatiat</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abbatiat</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbatiats</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbaye bénédictine</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abbaye bénédictine</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbayes bénédictines</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbaye cistercienne</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abbaye cistercienne</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbaye de Cluny</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abbaye de Cluny</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbaye de</lemma>
+  <pos name='nominaldet'/>
+  <inflected>
+    <form>abbaye de</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbaye de Thélème</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abbaye de Thélème</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbaye</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abbaye</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbayes</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbaye princière</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abbayes princières</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbaye séculière</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abbaye séculière</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbé commendataire</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='human'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abbés commendataires</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbé de cour</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='human'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abbé de cour</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbés de cour</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbé</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abbé</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbé</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbés</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abbés</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abbesses</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbesse</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abbesse</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbesses</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbevillien</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abbevillien</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbevillienne</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abbevilliennes</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abbevilliens</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abbevillien</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abbevillien</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcédant</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abcédante</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédantes</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédant</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédants</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcédation</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abcédation</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédations</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcéder</lemma>
+  <pos name='verb'/>
+  <inflected>
+    <form>abcédaient</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédait</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcéda</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédâmes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédant</form>
+    <feat name='tense' value='gerondif'/>
+  </inflected>
+  <inflected>
+    <form>abcédas</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédassent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédasses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédasse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédassiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédassions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédâtes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédât</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédé</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcèdent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcèdent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcède</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcède</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcède</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcède</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcède</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédera</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcéderaient</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcéderai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcéderais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcéderais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcéderait</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcéderas</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédèrent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcéderez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcéderiez</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcéderions</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcéderons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcéderont</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcéder</form>
+    <feat name='tense' value='inf'/>
+  </inflected>
+  <inflected>
+    <form>abcèdes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcèdes</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcédez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédez</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédiez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédions</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abcédons</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcès cérébral post-traumatique</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <inflected>
+    <form>abcès cérébraux post\-traumatiques</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcès chaud</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abcès chaud</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcès de fixation</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abcès de fixation</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcès de fixation</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcès en bouton de chemise</lemma>
+  <pos name='noun'/>
+  <feat name='subcat' value='concret'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abcès en bouton de chemise</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcès en bouton de chemise</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcès ganglionnaire</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abcès ganglionnaire</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcès métastatique</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abcès métastatiques</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcès</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abcès</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abcès</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abcès suppuratif</lemma>
+  <pos name='noun'/>
+  <feat name='compound' value='comp'/>
+  <inflected>
+    <form>abcès suppuratif</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abc</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abc</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abc</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdicataire</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abdicataire</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdicataire</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdicataires</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdicataires</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdicataire</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abdicataire</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdicataire</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdicataires</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdicataires</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdicatif</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abdicatif</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdicatifs</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdicative</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdicatives</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdication</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abdication</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdications</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdiquer</lemma>
+  <pos name='verb'/>
+  <inflected>
+    <form>abdiquaient</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquais</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquait</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiqua</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquâmes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquant</form>
+    <feat name='tense' value='gerondif'/>
+  </inflected>
+  <inflected>
+    <form>abdiquas</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquassent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquasses</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquasse</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquassiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquassions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquâtes</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquât</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquée</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquées</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiqué</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquent</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdique</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdique</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdique</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdique</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdique</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquera</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiqueraient</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquerai</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquerais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquerais</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquerait</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiqueras</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquèrent</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquerez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiqueriez</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquerions</form>
+    <feat name='tense' value='cond'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquerons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiqueront</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='3'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquer</form>
+    <feat name='tense' value='inf'/>
+  </inflected>
+  <inflected>
+    <form>abdiqués</form>
+    <feat name='tense' value='ppast'/>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiques</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiques</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdiquez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquez</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquiez</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquiez</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='2'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquions</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquions</form>
+    <feat name='tense' value='subj'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquons</form>
+    <feat name='tense' value='ind'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdiquons</form>
+    <feat name='tense' value='imp'/>
+    <feat name='person' value='1'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdomen</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abdomen</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdomens</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdominal</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abdominale</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdominales</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abdominal</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdominaux</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdominaux</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abdominaux</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdomino\-génital</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abdomino\-génital</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdomino-génital</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abdomino\-génitaux</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdomino</lemma>
+  <pos name='prefix'/>
+  <inflected>
+    <form>abdomino</form>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdomino\-thoracique</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abdomino\-thoracique</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abdomino\-thoracique</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abdos</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abdos</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abducens</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abducens</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abducens</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abducteur</lemma>
+  <pos name='adj'/>
+  <inflected>
+    <form>abducteur</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abducteurs</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+  <inflected>
+    <form>abductrice</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abductrices</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abducteur</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abducteur</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abducteurs</form>
+    <feat name='gender' value='masculine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>abduction</lemma>
+  <pos name='noun'/>
+  <inflected>
+    <form>abduction</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='singular'/>
+  </inflected>
+  <inflected>
+    <form>abductions</form>
+    <feat name='gender' value='feminine'/>
+    <feat name='number' value='plural'/>
+  </inflected>
+</entry>
+<entry>
+  <lemma>à beaucoup près</lemma>
+  <pos name='adverb'/>
+  <inflected>
+    <form>à beaucoup près</form>
+  </inflected>
+</entry>
+</dico>

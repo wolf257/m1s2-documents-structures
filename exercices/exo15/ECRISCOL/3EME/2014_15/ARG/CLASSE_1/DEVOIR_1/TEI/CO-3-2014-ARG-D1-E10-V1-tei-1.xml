@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-ARG-1-10-V2
+</head>
+<p>
+Lucien est <mod type="corr"><orig>n\xE9e</orig><reg>n\xE9</reg></mod>, il entend sa mere <mod type="corr"><orig>crie</orig><reg>crier</reg></mod> et <mod type="add" stage="" who=""><add><mod type="del" stage="" who=""><del>le pere</del></mod></add></mod> <mod type="corr"><orig>pleurais</orig><reg>pleurer</reg></mod> il
+est <mod type="add" stage="" who=""><add>la posa</add></mod>. Il a vu la <mod type="corr"><orig>lumiere</orig><reg>lumi\xE8re</reg></mod> du jour. Il ne
+comprend pas pourquoi un monsieur le prend dans
+ses bras et lui <mod type="corr"><orig>mais</orig><reg>met</reg></mod> une <mod type="corr"><orig>fesser</orig><reg>fess\xE9e</reg></mod>. Les <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="corr"><orig>ressentais</orig><reg>ressentaient</reg></mod>
+de l'amour et de la joie. Lucien a tout de suite <mod type="corr"><orig>comprie</orig><reg>compris</reg></mod>
+qu'il <mod type="corr"><orig>etait</orig><reg>\xE9tait</reg></mod> <mod type="corr"><orig>aimer</orig><reg>aim\xE9</reg></mod>. Les <mod type="corr"><orig>poumon</orig><reg>poumons</reg></mod> <mod type="corr"><orig>s'embrase</orig><reg>s'embrassaient</reg></mod>. Lucien entend
+les <mod type="corr"><orig>medecin</orig><reg>m\xE9decins</reg></mod> qui <mod type="corr"><orig>vouler</orig><reg>voulaient</reg></mod> couper <mod type="corr"><orig>sont</orig><reg>son</reg></mod> cordon ombilical. Ses
+<mod type="corr"><orig>parent</orig><reg>parents</reg></mod> sont <mod type="corr"><orig>inquiet</orig><reg>inqui\xE9ts</reg></mod>, mais tout <mod type="corr"><orig>c'est</orig><reg>s'est</reg></mod> bien <mod type="corr"><orig>passer</orig><reg>pass\xE9</reg></mod> la <mod type="corr"><orig>mere</orig><reg>m\xE8re</reg></mod> remercie
+la <mod type="corr"><orig>sage femme</orig><reg>sage-femme</reg></mod> et <mod type="corr"><orig>tout</orig><reg>toute</reg></mod> <mod type="corr"><orig>l'equipe</orig><reg>l'\xE9quipe</reg></mod> car Lucien est <mod type="corr"><orig>n\xE9e</orig><reg>n\xE9</reg></mod> en bonne <mod type="corr"><orig>sante</orig><reg>sant\xE9</reg></mod>.\xA7</p>
+</div>
+﻿</body>
+</text>
+</TEI>

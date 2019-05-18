@@ -1,0 +1,154 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E8
+</head>
+<p>
+<pb/>
+Je voudrais être <mod type="subst"><del><mod type="del" stage="" who=""><del>masoner</del></mod></del><add stage="" who="">charpentier</add></mod>. Je vais vous raconter une de <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>journée</orig><reg>journées</reg></mod><lb/>
+lundi matin 5h10 on se <mod type="corr"><orig>levé</orig><reg>lève</reg></mod> on va <mod type="corr"><orig>mangé</orig><reg>manger</reg></mod> se <mod type="corr"><orig>preparé</orig><reg>préparer</reg></mod> se <mod type="corr"><orig>broser</orig><reg>brosser</reg></mod> les <mod type="corr"><orig>dens</orig><reg>dents</reg></mod><lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">c</add></mod>e</orig><reg>se</reg></mod> coiffer <mod type="corr"><orig>est</orig><reg>et</reg></mod>: 5h30 j'<mod type="corr"><orig>appele</orig><reg>appelle</reg></mod> mon patron <mod type="corr"><orig>cedric</orig><reg>Cédric</reg></mod> et je lui demande<lb/>
+<mod type="corr"><orig>quelle</orig><reg>quel</reg></mod> chantier je dois faire il me dit tu <mod type="corr"><orig>va</orig><reg>vas</reg></mod> au à S T<lb/>
+au 5 t. Une fois <mod type="corr"><orig>arriver</orig><reg>arrivé</reg></mod> sur le chantier<lb/>
+je me <mod type="corr"><orig>prepare</orig><reg>prépare</reg></mod> j'attache mon baudrier puis c'est <mod type="corr"><orig>partie</orig><reg>parti</reg></mod> une fois<lb/>
+<mod type="corr"><orig>mcenté</orig><reg>monté</reg></mod> sur la maison <mod type="corr"><orig>fred</orig><reg>Fred</reg></mod> avec le <mod type="corr"><orig>telescopique</orig><reg>téléscopique</reg></mod> me donne les<lb/>
+planches que je dois <mod type="corr"><orig>instaler</orig><reg>installer</reg></mod> au bout de <mod type="del" stage="" who=""><del>0</del></mod> 2 <mod type="corr"><orig>heure</orig><reg>heures</reg></mod> de <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod><lb/>
+c'est la pose j'<mod type="corr"><orig>enprofit</orig><reg>en profite</reg></mod> pour <mod type="corr"><orig>desende</orig><reg>descendre</reg></mod> chercher <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>ciguarette</orig><reg>cigarettes</reg></mod> puis<lb/>
+<mod type="corr"><orig>appele</orig><reg>appelle</reg></mod> ma femme 10h30 le <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod> <mod type="corr"><orig>reprent</orig><reg>reprend</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>je</del></mod></del><add stage="" who="">je</add></mod> <mod type="corr"><orig>fini</orig><reg>finis</reg></mod><lb/>
+de <mod type="corr"><orig>posér</orig><reg>poser</reg></mod> les <mod type="corr"><orig>quelque</orig><reg>quelques</reg></mod> <mod type="corr"><orig>planche</orig><reg>planches</reg></mod> puis c'est fini <mod type="corr"><orig>a</orig><reg>à</reg></mod> 11h00 j'ai <mod type="corr"><orig>fini</orig><reg>finis</reg></mod>,<lb/>
+J'<mod type="corr"><orig>appel</orig><reg>appelle</reg></mod> mon patron il me dit tu <mod type="corr"><orig>va</orig><reg>vas</reg></mod> dans la forêt chercher<lb/>
+du bois j'<mod type="corr"><orig>aroive</orig><reg>arrive</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> clairer <mod type="corr"><orig>prepare</orig><reg>prépare</reg></mod> #XXX# lui mettre de l'<mod type="corr"><orig>esance</orig><reg>essance</reg></mod><lb/>
+<mod type="corr"><orig>prende</orig><reg>prend</reg></mod> le quad et la <mod type="corr"><orig>rencorque</orig><reg>rencontre</reg></mod> puis c'est parti. <mod type="corr"><orig>Arrives</orig><reg>Arrivé</reg></mod> à la forêt §<lb/>
+
+<pb/>
+j'allume la <mod type="corr"><orig>transoneuse</orig><reg>tronçonneuse</reg></mod> je <mod type="corr"><orig>reper</orig><reg>repère</reg></mod> un #XXX# je vais direct l'<mod type="corr"><orig>abatre</orig><reg>abattre</reg></mod><lb/>
+un coup <mod type="corr"><orig>le</orig><reg>la</reg></mod> <mod type="corr"><orig>chaine</orig><reg>chaîne</reg></mod> tombe je le <mod type="del" stage="" who=""><del>chor</del></mod> je vais chercher mon tracteur<lb/>
+mon <mod type="corr"><orig>trenspllete</orig><reg>transpalette</reg></mod> puis ma remorque <mod type="del" stage="" who=""><del>a</del></mod> de <mod type="corr"><orig>retoir</orig><reg>retour</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la forêt je<lb/>
+charge la <mod type="corr"><orig>chaine</orig><reg>chaîne</reg></mod> puis c'est <mod type="corr"><orig>partie</orig><reg>parti</reg></mod> je le <mod type="corr"><orig>ramen</orig><reg>ramène</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la <mod type="corr"><orig>clairier</orig><reg>clairer</reg></mod> je le <mod type="corr"><orig>coup</orig><reg>coupe</reg></mod><lb/>
+avec la <mod type="corr"><orig>transoneuse</orig><reg>tronçonneuse</reg></mod> en <mod type="corr"><orig>potot</orig><reg>petits</reg></mod> <mod type="corr"><orig>morceau</orig><reg>morceaux</reg></mod> puis je le monte sur la scie<lb/>
+<mod type="corr"><orig>pui</orig><reg>puis</reg></mod> c'est <mod type="corr"><orig>partie</orig><reg>parti</reg></mod> je le <mod type="corr"><orig>coup</orig><reg>coupe</reg></mod> en planche de bois puis je <mod type="corr"><orig>repart</orig><reg>repars</reg></mod><lb/>
+chez madame et <mod type="corr"><orig>mesieurs</orig><reg>monsieur</reg></mod> del avaze pour leur construire leur<lb/>
+<mod type="corr"><orig>terasse</orig><reg>terrasse</reg></mod> <mod type="corr"><orig>arrives</orig><reg>arrivé</reg></mod> chez eux je <mod type="del" stage="" who=""><del>sc</del></mod> monte dans la #XXX# je #XXX#<lb/>
+puis <mod type="del" stage="" who=""><del>c'e</del></mod> une fois avoir fini de creuser se #XXX# a <mod type="corr"><orig>couller</orig><reg>coulé</reg></mod><lb/>
+le ciment je vais les <mod type="corr"><orig>âglot</orig><reg>agglos</reg></mod> puis <mod type="corr"><orig>ps</orig><reg>au</reg></mod> dessus de la terre et du §<lb/>
+
+<pb/>
+sable par dessus les planches puis les <mod type="corr"><orig>planche</orig><reg>planches</reg></mod> #XXX# il me<lb/>
+demande d'aller voir dans <mod type="subst"><del><mod type="del" stage="" who=""><del>la</del></mod></del><add stage="" who="">la</add></mod> cave parce que à chaque<lb/>
+fois qui vont dans la cave ils <mod type="corr"><orig>entende</orig><reg>entendent</reg></mod> des p bruits <mod type="corr"><orig>entrange</orig><reg>étranges</reg></mod><lb/>
+j'<mod type="corr"><orig>oure</orig><reg>ouvre</reg></mod> la porte et <mod type="corr"><orig>la</orig><reg>là</reg></mod> j'<mod type="corr"><orig>enter</orig><reg>entends</reg></mod> des bruits ils <mod type="corr"><orig>non</orig><reg>nous</reg></mod> <mod type="corr"><orig>donne</orig><reg>donnent</reg></mod> un pied<lb/>
+de biche pour <mod type="corr"><orig>ourire</orig><reg>ouvrir</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'<mod type="corr"><orig>interier</orig><reg>intérieur</reg></mod> du mer j'<mod type="corr"><orig>ourre</orig><reg>ouvre</reg></mod> c'<mod type="corr"><orig>esttait</orig><reg>était</reg></mod><lb/>
+de petit oeuf <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>entrn</del></mod></del><add stage="" who="">entrene</add></mod></orig><reg>en train</reg></mod> <mod type="corr"><orig>d'eclur</orig><reg>d'exclure</reg></mod> c'<mod type="corr"><orig>étais</orig><reg>était</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> qui <mod type="corr"><orig>fesait</orig><reg>faisait</reg></mod><lb/>
+du bruit alors je reboucha le <mod type="corr"><orig>trout</orig><reg>trou</reg></mod> puis je <mod type="corr"><orig>part</orig><reg>pars</reg></mod> sur<lb/>
+un autre chantier j'<mod type="corr"><orig>appele</orig><reg>appelle</reg></mod> mon patron il me dit d'aller<lb/>
+sur le chantier de <mod type="corr"><orig>mesieur</orig><reg>monsieur</reg></mod> et madame forrier eux <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>sont</orig><reg>ont</reg></mod><lb/>
+<mod type="corr"><orig>besoins</orig><reg>besoin</reg></mod> de monter sur le <mod type="corr"><orig>tois</orig><reg>toit</reg></mod> pour leur poser des §<lb/>
+
+<pb/>
+<mod type="del" stage="" who=""><del>de</del></mod> <mod type="corr"><orig>aglos</orig><reg>agglos</reg></mod> je m'attache je monte sur le <mod type="corr"><orig>tois</orig><reg>toit</reg></mod> puis c'est <mod type="corr"><orig>partie</orig><reg>parti</reg></mod><lb/>
+je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> <mod type="corr"><orig>me</orig><reg>ma</reg></mod> <mod type="corr"><orig>perceux</orig><reg>perceuse</reg></mod> puis je fini d'<mod type="corr"><orig>istaler</orig><reg>installer</reg></mod> <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>aglot</orig><reg>agglos</reg></mod> puis<lb/>
+je lui <mod type="del" stage="" who=""><del>tr téscephone  #XXX# la porte #XXX#</del></mod><lb/>
+<mod type="corr"><orig>tranquilment</orig><reg>tranquillement</reg></mod> la maison puis <mod type="corr"><orig>apres</orig><reg>après</reg></mod> je pars <mod type="corr"><orig>a</orig><reg>à</reg></mod> 18h00 je suis chez<lb/>
+<mod type="corr"><orig>mois</orig><reg>moi</reg></mod> avec ma femme et <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> 2 enfants je regarde la <mod type="corr"><orig>téle</orig><reg>télé</reg></mod><lb/>
+<mod type="corr"><orig>pui</orig><reg>puis</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> 20h00 on se <mod type="corr"><orig>prepare</orig><reg>prépare</reg></mod> avec ma femme et <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> enfants<lb/>
+<mod type="corr"><orig>pou</orig><reg>pour</reg></mod> aller au <mod type="corr"><orig>retaurent</orig><reg>restaurant</reg></mod> et <mod type="corr"><orig>apres</orig><reg>après</reg></mod> aller <mod type="corr"><orig>a</orig><reg>à</reg></mod> la <mod type="corr"><orig>foir</orig><reg>foire</reg></mod><lb/>
+de #XXX# avec ma petite famille famille <mod type="corr"><orig>apres</orig><reg>après</reg></mod> on<lb/>
+<mod type="corr"><orig>rente</orig><reg>rentre</reg></mod> puis <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>marc</orig><reg>Marc</reg></mod> et sa famille qui <mod type="corr"><orig>etait</orig><reg>étaient</reg></mod> avec nous §<lb/>
+
+<pb/>
+<mod type="corr"><orig>il</orig><reg>ils</reg></mod> sont <mod type="corr"><orig>rester</orig><reg>restés</reg></mod> <mod type="corr"><orig>j'ese qu a</orig><reg>jusqu'à</reg></mod> 1h00 du matin avec nous <mod type="del" stage="" who=""><del>X#</del></mod> §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

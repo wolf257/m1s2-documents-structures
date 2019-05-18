@@ -1,0 +1,108 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>﻿EC-CE1-2016-ABZ-D3-E29
+</head>
+<p>
+<hi place=" " time="T2" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who=""><del>la maîtresse et la de cocodi</del></mod></del><add stage="" who="">la maîtresse</add></mod> et</hi> <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">l</hi>a</orig><reg>La</reg></mod> <mod type="corr"><orig>ma#X#</orig><reg>maman</reg></mod><lb/>
+<mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">de cocodi</hi></orig><reg>de Cocodi</reg></mod> lui <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">dena</hi></orig><reg>donna</reg></mod> une punition il <mod type="corr"><orig>n'alle</orig><reg>n’allait</reg></mod> pas <mod type="corr"><orig>avoi#X#</orig><reg>avoir</reg></mod><lb/>
+de <mod type="corr"><orig>desere</orig><reg>dessert</reg></mod> pendant deux jours. <hi place=" " time="T2" who="Pσ" style="underline">et</hi> <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">l</hi>e</orig><reg>Le</reg></mod> <mod type="corr"><orig>landemain</orig><reg>lendemain</reg></mod> il<lb/>
+ne <mod type="corr"><orig>mangere</orig><reg>mangea</reg></mod> <mod type="corr"><orig>acun</orig><reg>aucun</reg></mod> <mod type="corr"><orig>camara</orig><reg>camarade</reg></mod> <mod type="add" stage="T2" who="P"><add>.</add></mod> <mod type="corr"><orig>®<hi place=" " time="T2" who="Pσ" style="underline">a</hi>lore</orig><reg>Alors</reg></mod> <mod type="add" stage="T2" who="P"><add>Donc</add></mod> <mod type="corr"><orig>tou</orig><reg>tout</reg></mod> <mod type="corr"><orig>fin</orig><reg>finit</reg></mod> bien.<lb/>
+<mod type="add" stage="T2" who="P"><add>Alors</add></mod> <mod type="corr"><orig>quante</orig><reg>quand</reg></mod> il est <mod type="corr"><orig>rentre</orig><reg>rentré</reg></mod> il a <mod type="corr"><orig>u</orig><reg>eu</reg></mod> <mod type="corr"><orig>5</orig><reg>cinq</reg></mod> <mod type="corr"><orig>desere</orig><reg>desserts</reg></mod> d'un<lb/>
+<mod type="corr"><orig>cou</orig><reg>coup</reg></mod>. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

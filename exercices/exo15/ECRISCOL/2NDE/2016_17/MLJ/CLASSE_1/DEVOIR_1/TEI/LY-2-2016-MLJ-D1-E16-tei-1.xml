@@ -1,0 +1,145 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2016-MLJ-D1-E16
+</head>
+<p>
+<pb/>
+
+Une fois <mod type="corr"><orig>arriver</orig><reg>arrivé</reg></mod>, Sam se dirige de suite<lb/>
+vers sa salle, de peur d'être un peu plus<lb/>
+en retard. <mod type="corr"><orig>c'était</orig><reg>C'était</reg></mod> la première fois que<lb/>
+cela lui arrivait. <mod type="corr"><orig>mais</orig><reg>Mais</reg></mod> Sam était <mod type="corr"><orig>tomber</orig><reg>tombé</reg></mod><lb/>
+sur la mauvaise. Son professeur ne l'accepte<lb/>
+pas en cours. <mod type="corr"><orig>il</orig><reg>Il</reg></mod> est donc seul, ne savant<lb/>
+pas où aller. §<lb/>
+<mod type="corr"><orig>lui même</orig><reg>Lui-même</reg></mod> surpris. Sam décide de s'enfuir<lb/>
+du lycée, de ne pas passer par la "case"<lb/>
+CPE. Sam n'est pas habitué à <mod type="corr"><orig>se</orig><reg>ce</reg></mod> genre de<lb/>
+situation. <mod type="corr"><orig>il</orig><reg>Il</reg></mod> pensait en partant de chez<lb/>
+lui que cette journée, allait être<lb/>
+<mod type="corr"><orig>bana<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">l</add></mod>e</orig><reg>banale</reg></mod>, mise à part son retard; à<lb/>
+l'inverse elle ne l'<mod type="corr"><orig>étais</orig><reg>était</reg></mod> pas. §<lb/>
+
+Sam pense d'abord à <mod type="corr"><orig>rentré</orig><reg>rentrer</reg></mod> chez lui,<lb/>
+mais décline rapidement cette envie, de<lb/>
+peur de la réaction de ces parents.<lb/>
+<mod type="corr"><orig>il</orig><reg>Il</reg></mod> se retrouve <mod type="corr"><orig>éxactement</orig><reg>exactement</reg></mod> dans la même<lb/>
+situation que lorsqu'il <mod type="corr"><orig>à</orig><reg>a</reg></mod> été <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">virer</add></mod></orig><reg>viré</reg></mod>.<lb/>
+<mod type="del" stage="" who=""><del>Cependant, Sam</del></mod> Sam décide d'aller dans<lb/>
+un endroit familier, où il a l'habitude<lb/>
+de se retrouver avec sa famille, <mod type="corr"><orig>endroid</orig><reg>endroit</reg></mod><lb/>
+
+<pb/>
+
+dans lequel il se sent <mod type="corr"><orig>reconforter</orig><reg>reconforté</reg></mod>. <mod type="corr"><orig>il</orig><reg>Il</reg></mod> se<lb/>
+dirige dans le bois. Sam se <mod type="corr"><orig>rémémore</orig><reg>remémore</reg></mod> les<lb/>
+longues balades. D'un coup Sam <mod type="corr"><orig>aperçois</orig><reg>aperçoit</reg></mod><lb/>
+une silhouette étrange, qui se rapproche<lb/>
+de plus en plus de lui. Sam commence<lb/>
+à <mod type="corr"><orig>cébrousser</orig><reg>rebrousser</reg></mod> #XXX#, à s'enfuir, courir.<lb/>
+
+Soudain, Sam se révailla en sursaut, et<lb/>
+<mod type="corr"><orig>fût</orig><reg>fut</reg></mod> <mod type="corr"><orig>rassurer</orig><reg>rassuré</reg></mod> que toutes ces mésavantures<lb/>
+n'étaient qu'un rêve, et qu'en réalité<lb/>
+il n'était pas en retard pour partir<lb/>
+au lycée. Sa journée, allait belle et<lb/>
+bien être ordinaire, <mod type="corr"><orig>dumoins</orig><reg>du moins</reg></mod> il<lb/>
+l'<mod type="corr"><orig>espérais</orig><reg>espérait</reg></mod>. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

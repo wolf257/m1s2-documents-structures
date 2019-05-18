@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E17-V2
+</head>
+<p>
+Quand je serai grand, un lundi, il y aura un <mod type="corr"><orig>t<hi place=" " time="" who="Pσ" style="underline">e</hi>ste</orig><reg>test</reg></mod><lb/>
+pour savoir qui sera pris entre moi et mon<lb/>
+camarade pour être pompier de <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">m</hi>arseille</orig><reg>Marseille</reg></mod>. <mod type="corr"><orig>M<mod type="del" stage="" who="P"><del>a</del></mod>is</orig><reg>Mais</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>l</del></mod></del><add stage="" who="P">L</add></mod>es</orig><reg>les</reg></mod><lb/>
+minutes <mod type="corr"><orig>suivante<mod type="add" stage="T3" who=""><add>s</add></mod></orig><reg>suivantes</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod> le jugement tomba <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">est</hi></orig><reg>et</reg></mod> <mod type="add" stage="T3" who=""><add>et</add></mod> le <mod type="corr"><orig>stres<hi place=" " time="" who="Pσ" style="underline">se</hi></orig><reg>stress</reg></mod><lb/>
+<mod type="corr"><orig>commen<hi place=" " time="" who="Pσ" style="underline">cera</hi></orig><reg>commençera</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>à</reg></mod> <mod type="add" stage="T3" who=""><add>à</add></mod> monter. Le <mod type="corr"><orig>colo<hi place=" " time="" who="Pσ" style="underline">n</hi>nel</orig><reg>colonel</reg></mod> <mod type="add" stage="T3" who=""><add>colonel</add></mod> annonça que <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">se</hi></orig><reg>ce</reg></mod> <mod type="add" stage="T3" who=""><add>ce</add></mod><lb/>
+<mod type="corr"><orig>sera<mod type="del" stage="" who="P"><del>s</del></mod><mod type="add" stage="" who="P"><add>it</add></mod></orig><reg>serai</reg></mod> moi le pompier de <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">m</hi>arseille</orig><reg>Marseille</reg></mod> <mod type="add" stage="T3" who=""><add>Marseille</add></mod>. Alors, <mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod> ce moment<lb/>
+là <mod type="add" stage="" who="P"><add>,</add></mod> j'<mod type="corr"><orig>étai<hi place=" " time="" who="Pσ" style="underline">t</hi></orig><reg>étais</reg></mod> <mod type="add" stage="T3" who=""><add>étais</add></mod> tellement content que je <mod type="corr"><orig>commença<mod type="add" stage="" who="P"><add>is</add></mod></orig><reg>commençais</reg></mod> mon<lb/>
+service <hi place=" " time="" who="Pσ" style="underline">1h00</hi> <mod type="add" stage="T3" who=""><add>une heure</add></mod> plus tard. Et puis, ce sera le plus <mod type="corr"><orig>beau<hi place=" " time="" who="Pσ" style="underline">x</hi></orig><reg>beau</reg></mod> <mod type="add" stage="T3" who=""><add>beau</add></mod><lb/>
+jour de ma vie. En <mod type="corr"><orig>rentr<hi place=" " time="" who="Pσ" style="underline">e</hi>nt</orig><reg>rentrant</reg></mod> je <mod type="corr"><orig>racont<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">erai</add></mod></orig><reg>raconterai</reg></mod> ma journée <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>à</reg></mod> <mod type="add" stage="T3" who=""><add>à</add></mod><lb/>
+mes parents et <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>à</reg></mod> <mod type="add" stage="T3" who=""><add>à</add></mod> toute ma famille. §<lb/>              </p>
+</div>
+﻿</body>
+</text>
+</TEI>

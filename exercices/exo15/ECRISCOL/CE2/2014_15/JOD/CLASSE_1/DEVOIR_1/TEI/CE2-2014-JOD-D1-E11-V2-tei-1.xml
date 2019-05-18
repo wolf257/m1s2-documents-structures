@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E11-V2
+</head>
+<p>
+<pb/>
+
+Il était une fois un petit garçon <mod type="corr"><orig>appel<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>appelé</reg></mod> "Gabriel"<lb/>
+<mod type="corr"><orig>Mais</orig><reg>mais</reg></mod> sur le chemin de l'école il perd sa toupie.<lb/>
+-Tu as perdu quelque chose? lui demanda Anne-Lise<lb/>
+-<mod type="corr"><orig>Ma</orig><reg>ma</reg></mod> toupie chinoise sur le chemin de l'école. §<lb/>
+-<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">A</add></mod>près</orig><reg>Après</reg></mod> l'<mod type="corr"><orig>ecole</orig><reg>école</reg></mod> on va chez le gardien de l'<mod type="corr"><orig>oubli<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>oubli</reg></mod><lb/>
+-Je suis <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>d</del></mod></del><add stage="" who="P">d '</add></mod>accord</orig><reg>d'accord</reg></mod> lui dit Gabriel. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>arriver</del></mod></del><add stage="" who="P">Arrivé</add></mod></orig><reg>Arrivé</reg></mod> devant le<lb/>
+maison du Gardien. -<mod type="corr"><orig>tu</orig><reg>Tu</reg></mod> <mod type="corr"><orig>toque</orig><reg>toques</reg></mod> <mod type="add" stage="" who="P"><add>toques</add></mod> lui dit Anne-Lise<lb/>
+le Gardien le fait <mod type="corr"><orig>antré<mod type="add" stage="" who="P"><add>r</add></mod></orig><reg>entrer</reg></mod>. Bonjour lui dit l'<mod type="corr"><orig><mod type="add" stage="" who="P"><add>h</add></mod>omme</orig><reg>homme</reg></mod>.<lb/>
+-<mod type="corr"><orig>vous</orig><reg>Vous</reg></mod> <mod type="corr"><orig>pouve<mod type="subst"><del><mod type="del" stage="" who="P"><del>r</del></mod></del><add stage="" who="P">z</add></mod></orig><reg>pouvez</reg></mod> me rendre ma toupie. -<mod type="corr"><orig>oui</orig><reg>Oui</reg></mod> <mod type="corr"><orig>mai<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>mais</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">d'</add></mod>abord</orig><reg>d'abord</reg></mod><lb/>
+tu dois faire une <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>preuve</orig><reg>épreuve</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">T</add></mod>on</orig><reg>Ton</reg></mod> épreuve <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>sc</del></mod></del><add stage="" who="P">c'</add></mod>est</orig><reg>c'est</reg></mod> <mod type="add" stage="" who="P"><add>DEUX .</add></mod><lb/>
+tu dois trouver deux clés <mod type="corr"><orig>caché<mod type="add" stage="" who="P"><add>es</add></mod></orig><reg>cachées</reg></mod> dans ma maison<lb/>
+-<mod type="corr"><orig>Mai</orig><reg>Mais</reg></mod> <mod type="corr"><orig>ieras</orig><reg>il y a</reg></mod> <mod type="add" stage="" who="P"><add>Mais il y a</add></mod> des <mod type="corr"><orig>piège</orig><reg>pièges</reg></mod> <mod type="add" stage="" who="P"><add>s</add></mod>. <mod type="corr"><orig>pour</orig><reg>Pour</reg></mod> <mod type="add" stage="" who="P"><add>ne</add></mod> pas que tu <mod type="add" stage="" who="P"><add>te</add></mod> <mod type="corr"><orig>perd<mod type="add" stage="" who="P"><add>es</add></mod></orig><reg>te perds</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod>
+-Je te donne une carte. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">C</add></mod>es</orig><reg>Ces</reg></mod> deux clés magiques<lb/>
+<mod type="corr"><orig>pour<mod type="subst"><del><mod type="del" stage="" who="P"><del>ai</del></mod></del><add stage="" who="P">ront</add></mod></orig><reg>pourront</reg></mod> <mod type="corr"><orig>ouvrir<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>ouvrir</reg></mod> un <mod type="del" stage="" who="P"><del>de</del></mod> <mod type="corr"><orig>casié<mod type="add" stage="" who="P"><add>r</add></mod></orig><reg>casiers</reg></mod> <mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">y</add></mod>stère</orig><reg>mystère</reg></mod>. <mod type="corr"><orig>mais</orig><reg>Mais</reg></mod><lb/>
+<mod type="corr"><orig>ses</orig><reg>ces</reg></mod> <mod type="add" stage="" who="P"><add>ces</add></mod> clés <mod type="corr"><orig>coréponde</orig><reg>correspondent</reg></mod> <mod type="add" stage="" who="P"><add>correspondent</add></mod>à un seul <mod type="corr"><orig>casiè</orig><reg>casier</reg></mod> <mod type="add" stage="" who="P"><add>casier</add></mod> §<lb/>
+
+<pb/>
+
+Mais si <mod type="add" stage="" who="P"><add>ce n'est</add></mod> pas le bon tu dois <mod type="add" stage="" who="P"><add>en</add></mod><mod type="corr"><orig>trouvé<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">r</add></mod></orig><reg>trouver</reg></mod> deux<lb/>
+autres. <mod type="corr"><orig>tener</orig><reg>Tenez</reg></mod> <mod type="del" stage="" who="P"><del>obtenir</del></mod><mod type="add" stage="" who="P"><add>Tenez</add></mod>les deux clés oh! ma<lb/>
+toupie. Merci<mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig>Aurevois</orig><reg>au revoir</reg></mod> <mod type="add" stage="" who="P"><add>Au revoir</add></mod>. Gabriel <mod type="corr"><orig>repar<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>repart</reg></mod> §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

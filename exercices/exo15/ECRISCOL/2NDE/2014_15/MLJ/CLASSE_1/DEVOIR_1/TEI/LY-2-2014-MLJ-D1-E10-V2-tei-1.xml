@@ -1,0 +1,138 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E10-V2
+</head>
+<p>
+<pb/>
+L'Homme s'arrêta un moment, fixant la lumière<lb/>
+éblouissante de ce réverbère, qui se distinguait de<lb/>
+l'épais brouillard de la nuit, puis marcha jusqu'à<lb/>
+celui-ci. Quand il fût arrivé à côté du réverbère<lb/>
+il recula de trois pas en arrière puis le fixa<lb/>
+encore une fois, les yeux légèrement plissés un petit air<lb/>
+pensif, avec une cigarette à la bouche comme à son habi-<lb/>
+tude et un léger sourire, portant sa légendaire tenur<lb/>
+se constituant de sa veste en cuir noire. Son t-shirt<lb/>
+blanc immaculé, son jean mythique et ses bsakets<lb/>
+noires; cette tenue faisait entièrement partie de<lb/>
+lui. Malgré le fait qu'il <mod type="corr"><orig>ai</orig><reg>ait</reg></mod> les yeux un peu<lb/>
+plisées, on pouvait voir la lumière du réverbère<lb/>
+se reflétant dans ses yeux azur créant des milliers<lb/>
+de petites étoiles scintillantes à l'intérieur de<lb/>
+ceux-ci. Notre homme était de taille moyenne.<lb/>
+environ <mod type="subst"><del><mod type="del" stage="" who=""><del>1m75</del></mod></del><add stage="" who="">un mètre soixante-quinze</add></mod> avait les cheveux et une petite barbe<lb/>
+apparente châtain avec des petits refles blonds et<lb/>
+légèrement plus clairs crées une fois de plus par<lb/>
+la lumière du réverbère. Ces cheveux étaient par-<lb/>
+faitement coiffés, il avait un nez correctement dessi-
+né, la peau lisse, légèrement bronzée, sans imper-<lb/>
+fections et brillante à cause de la lumière. Il avait<lb/>
+aussi de petites oreilles qui lui <mod type="corr"><orig>vallait</orig><reg>valait</reg></mod> quelques petites §<lb/>
+
+<pb/>
+<mod type="corr"><orig>taquinais</orig><reg>taquinées</reg></mod> de ses proches, mais que sa femme <mod type="corr"><orig>trouvaient</orig><reg>trouvait</reg></mod> <mod type="corr"><orig>mignon<lb/>ne</orig><reg>mignonnes</reg></mod>. L'homme était aussi quelqu'un de très sentimentale, en effet<lb/>
+même si parfois il pouvait être désagréable, il avait un grand <mod type="subst"><del><mod type="del" stage="" who=""><del>coer</del></mod></del><add stage="" who="">coeur</add></mod><lb/>
+et était très protecteur envers sa famille et ses amis car ils étaient<lb/>
+très importants pour lui. Il était aussi très intelligent et réfléchi,<lb/>
+on pouvait avoir une discussion qui tenait la route avec lui, car il<lb/>
+avait toujours des arguments <mod type="corr"><orig>interessants</orig><reg>intéressants</reg></mod> qui <mod type="corr"><orig>vallaient</orig><reg>valaient</reg></mod> la peine d'<mod type="corr"><orig>êtres</orig><reg>être</reg></mod><lb/>
+écoutés. §<lb/>
+Sous la nuit sans étoiles, d'une obscurité et d'une épaisseur<lb/>
+d'#XXX#, l'homme depuis un moment déjà regardait la lumière<lb/>
+du réverbère, puis se décida enfin à rejoindre ses proches. §<lb/>  </p>
+</div>
+﻿</body>
+</text>
+</TEI>

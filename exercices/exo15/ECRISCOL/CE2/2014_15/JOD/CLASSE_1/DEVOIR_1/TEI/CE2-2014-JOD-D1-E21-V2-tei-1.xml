@@ -1,0 +1,134 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E21-V2
+</head>
+<p>
+<pb/>
+
+Ce matin Gabriel apporte sa toupie à l'école. Quand il cherche<lb/>
+sa toupie sans sa poche, et il découvre qu'il a perdu<mod type="add" stage="" who="P"><add>e</add></mod>. Il voit<lb/>
+<mod type="corr"><orig>Anne-lise</orig><reg>Anne-Lise</reg></mod> qui joue. Il va la <mod type="corr"><orig>cherché<mod type="add" stage="" who="P"><add>r</add></mod></orig><reg>chercher</reg></mod>. <mod type="corr"><orig>Anne-lise</orig><reg>Anne-Lise</reg></mod> <mod type="corr"><orig>vien<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>vient</reg></mod> et lui<lb/>
+dit: Tu as perdu quelque chose? lui demanda <mod type="corr"><orig>Anne-lise</orig><reg>Anne-Lise</reg></mod>. §<lb/>
+<mod type="del" stage="" who=""><del>Ma toup</del></mod> §<lb/>
+Ma <mod type="corr"><orig>toupi</orig><reg>toupie</reg></mod> chinoise sur le chemin de l'école. §<lb/>
+Gabriel et sa soeur Anne-<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>l</del></mod></del><add stage="" who="P">L</add></mod>ise</orig><reg>Lise</reg></mod> la <mod type="corr"><orig>cherche<mod type="add" stage="" who="P"><add>nt</add></mod></orig><reg>cherchent</reg></mod>. Quand <mod type="corr"><orig>soudin</orig><reg>soudain</reg></mod> <mod type="add" stage="" who="P"><add>soudain</add></mod> 
+<mod type="corr"><orig>il<lb/> repère</orig><reg>ils repèrent</reg></mod> une maison lointaine. -Regarde lui dit <mod type="corr"><orig>Anne-lise</orig><reg>Anne-Lise</reg></mod>. C'est<lb/>
+la maison du Gardien de l'oubli. <mod type="corr"><orig>Va<mod type="del" stage="" who=""><del>si</del></mod></orig><reg>Va</reg></mod> à la maison je t'<mod type="corr"><orig>at<mod type="add" stage="" who="P"><add>t</add></mod>end<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>attends</reg></mod> <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>là</reg></mod>.<lb/>
+Gabriel toque à la porte et un grand monsieur l'ouvre. §<lb/>
+-<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>c</del></mod></del><add stage="" who="P">C</add></mod>herche<mod type="add" stage="" who="P"><add>s</add></mod> tu</orig><reg>Cherches-tu</reg></mod> une toupie multicolore et quand elle tourne elle<lb/>
+lance des <mod type="corr"><orig>note<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>notes</reg></mod> de musique. Oui <mod type="corr"><orig>commen</orig><reg>comment</reg></mod> le saviez-vous? §<lb/>
+parce que j'<mod type="corr"><orig>étai<mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">s</add></mod></orig><reg>étais</reg></mod> en train de jouer avec. Pouvez-vous me<lb/>
+la rendre s'il vous <mod type="corr"><orig>plai<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">t</add></mod></orig><reg>plaît</reg></mod>? Oui <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod>  une <mod type="corr"><orig>condission</orig><reg>condition</reg></mod> <mod type="add" stage="" who="P"><add>condition</add></mod>, que tu <mod type="corr"><orig>traverse<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>traverses</reg></mod><lb/>
+cette forêt <mod type="corr"><orig>la bâs</orig><reg>là-bas</reg></mod> pour que tu me rendes ce trésor <mod type="add" stage="" who="P"><add>trésor</add></mod>. Un génie §<lb/>
+
+<pb/>
+
+maléfique me l'a pris. Gabriel se mit directement en route.<lb/>
+Après <mod type="corr"><orig>3</orig><reg>trois</reg></mod> <mod type="add" stage="" who="P"><add>trois</add></mod> heures de <mod type="corr"><orig>route<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>route</reg></mod> Gabriel arrive enfin à la <mod type="corr"><orig><mod type="subst"><del>f<mod type="del" stage="" who="P"><del>ein</del></mod></del><add stage="" who="P">in</add></mod></orig><reg>fin</reg></mod> de<lb/>
+la forêt. Le génie à la barbe longue et <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>cheuveux</orig><reg>cheveux</reg></mod> <mod type="corr"><orig>long<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>longs</reg></mod> arriva<lb/>
+Il lui dit que <mod type="corr"><orig>veux tu</orig><reg>veux-tu</reg></mod>, petit de sa plus grosse <mod type="corr"><orig>voie</orig><reg>voix</reg></mod> <mod type="add" stage="" who="P"><add>voix</add></mod>. Je <mod type="corr"><orig>voudrai</orig><reg>voudrais</reg></mod><lb/>
+le trésor que vous avez <mod type="corr"><orig>vole<mod type="del" stage="" who="P"><del>r</del></mod></orig><reg>volé</reg></mod> au gardien de l'oubli.<lb/>
+<mod type="corr"><orig>J'amais</orig><reg>Jamais</reg></mod>, <mod type="corr"><orig>a par<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>à part</reg></mod> si tu <mod type="corr"><orig>répond</orig><reg>réponds</reg></mod> à cette multiplication.<lb/>
+Combien font 5 x 3=...Gabriel <mod type="corr"><orig>réfléchi<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>réfléchit</reg></mod>. Cela fait 15.<lb/>
+Bravo je te donne ce trésor et tu ne <mod type="corr"><orig>revien<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>reviens</reg></mod> plus<lb/>
+jamais d'accord. D'accord lui <mod type="corr"><orig>répond<mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">it</add></mod></orig><reg>répondit</reg></mod> Gabriel. §<lb/>
+Gabriel <mod type="corr"><orig>revin<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>revint</reg></mod> <mod type="corr"><orig>donna</orig><reg>donner</reg></mod> le trésor au Gardien de l'oubli.<lb/>
+Merci lui dit le <mod type="corr"><orig>g<mod type="subst"><del><mod type="del" stage="" who="P"><del>rar</del></mod></del><add stage="" who="P">ar</add></mod>dien</orig><reg>gardien</reg></mod> de l'oubli. En échange de <mod type="corr"><orig>sa</orig><reg>ça</reg></mod><lb/>
+je te redonne ta toupie. Gabriel <mod type="corr"><orig>reparti<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">t</add></mod></orig><reg>repartit</reg></mod> avec <mod type="del" stage="" who=""><del>XXX#</del></mod><mod type="add" stage="" who="P"><add>sa toupie</add></mod> §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

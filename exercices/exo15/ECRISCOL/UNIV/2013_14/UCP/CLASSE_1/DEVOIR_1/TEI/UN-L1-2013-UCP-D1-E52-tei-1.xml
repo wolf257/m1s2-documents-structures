@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>UN-L1-2013-UCP-D1-E52
+</head>
+<p>
+C'est cette promotion inespérée qui explique la simplicité<lb/>
+de Julien. Comme il vient d'un milieu pauvre, il sait donner<lb/>
+la juste valeur des choses. Il n'y a pas meilleur fossoyeur<lb/>
+que lui, car il fait ce qu'on lui demande et jamais il<lb/>
+aurait osé<mod type="del" stage="" who=""><del>s</del></mod> prendre des objets sur les corps exhumés<lb/>
+sans qu'on lui en donne l'autorisation. D'autres personnes<lb/>
+n'auraient pas hésit<mod type="subst"><del><mod type="del" stage="T2" who=""><del>er</del></mod></del><add stage="T2" who="">é</add></mod> à voler les alliances de mes<lb/>
+grands parents et ensuite me faire croire qu'ils<lb/>
+<mod type="add" stage="T2" who=""><add>n'</add></mod>ont rien trouv<mod type="subst"><del><mod type="del" stage="T2" who=""><del>er</del></mod></del><add stage="T2" who="">é</add></mod> dans le caveau fami<mod type="subst"><del><mod type="del" stage="T2" who=""><del>ll</del></mod></del><add stage="T2" who="">l</add></mod>ial<mod type="del" stage="T2" who=""><del>e</del></mod>. §<lb/>
+Mais heureusement c'est Julien qui a exhumé les corps<lb/>
+et grâce aux objets exhumés, il me permet de garder<lb/>
+un lien avec mes ancêtres. Même si je n'ai pas<lb/>
+connu mes grands<mod type="add" stage="T2" who="P"><add>-</add></mod>parents leurs alliances provoquent<lb/>
+en moi du chagrin. Selon papa, ses parents étaient très<lb/>
+amoureux et quand grand-père décéda, grand-mère<lb/>
+ne <mod type="corr"><orig>trouvé</orig><reg>trouvait</reg></mod> plus le sens de la vie et se laissa <mod type="corr"><orig>mourrir</orig><reg>mourir</reg></mod>. §<lb/>
+<metamark place=" " time="T2" who="P" style="underline">Attention: -au marque d'énonciation (temps verbaux,<lb/> -continuité thématique</metamark> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

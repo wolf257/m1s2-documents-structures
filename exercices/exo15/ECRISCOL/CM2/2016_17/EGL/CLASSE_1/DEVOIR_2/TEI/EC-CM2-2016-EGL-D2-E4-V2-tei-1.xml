@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D2-E4-V2
+</head>
+<p>
+<pb/>
+Un jour. <mod type="subst"><del><mod type="del" stage="" who=""><del>le</del></mod></del><add stage="" who="">Le</add></mod> petit <mod type="corr"><orig>frére</orig><reg>frère</reg></mod> de <mod type="corr"><orig>louis</orig><reg>Louis</reg></mod> est tombé<lb/>
+malade, Louis aimerait bien aussi ne pas aller à<lb/>
+l'école. <mod type="del" stage="" who=""><del>Louis</del></mod>. <mod type="corr"><orig>dehors</orig><reg>Dehors</reg></mod>, il fait froid. Louis<lb/>
+aimerait <mod type="corr"><orig>retourné</orig><reg>retourner</reg></mod> <mod type="corr"><orig>alor</orig><reg>alors</reg></mod> Louis se met se met<lb/>
+sous la <mod type="corr"><orig>goutier</orig><reg>gouttière</reg></mod> qui <mod type="corr"><orig>débort</orig><reg>déborde</reg></mod>. <mod type="corr"><orig>louis</orig><reg>Louis</reg></mod> <mod type="corr"><orig>retourn</orig><reg>retorne</reg></mod> à<lb/>
+la maison en <mod type="corr"><orig>gretante</orig><reg>grelottant</reg></mod> <mod type="corr"><orig>loui</orig><reg>Louis</reg></mod> <mod type="corr"><orig>pleur</orig><reg>pleure</reg></mod> finalement et<lb/>
+le médecin arrive et prépare une <mod type="corr"><orig>piqure</orig><reg>piqûre</reg></mod> §<lb/>
+
+<pb/>
+<mod type="corr"><orig>préfèr</orig><reg>préfère</reg></mod> aller à l'école §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

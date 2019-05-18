@@ -1,0 +1,136 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E20
+</head>
+<p>
+<pb/>
+Quand je <mod type="corr"><orig>serais</orig><reg>serai</reg></mod> grande je serais coiffeuse. §<lb/>
+Et j'<mod type="corr"><orig>habiterer</orig><reg>habiterai</reg></mod> à <mod type="corr"><orig>pont-audemer</orig><reg>Pont-Audemer</reg></mod>. J'aurais<lb/>
+des animaux. J'aurais un ou deux<lb/>
+bébé chat. Et puis un chien. Et j'<mod type="corr"><orig>habiterer</orig><reg>habiterai</reg></mod><lb/>
+dans une maison. Pendant les vacances<lb/>
+j'irai en vacances. J'irai <mod type="corr"><orig>ou</orig><reg>où</reg></mod> il y a<lb/>
+une plage. Avec mes parents. Et mes<lb/>
+enfants si j'en ai. Le samedi j'irai faire<lb/>
+mes courses. Si je travaille pas. Le Dimanche<lb/>
+j'irai me promener dehors ou au lac. Le<lb/>
+Lundi je <mod type="corr"><orig>trallerai</orig><reg>travaillerai</reg></mod> de 9h00 <mod type="corr"><orig>j'usqu'à</orig><reg>jusqu'à</reg></mod> 18h00.<lb/>
+Le Mardi aussi. Le mercredi de 9h00 à 12h00 §<lb/>
+
+<pb/>
+Le jeudi de 9h00 à 18h00. Le<lb/>
+Vendredi de 9h00 à 17h00. Le<lb/>
+samedi de 9h00 à 16h00. Et le<lb/>
+dimanche je ne travaille pas. §<lb/>
+Le dimanche j'irai voir mes parents<lb/>
+et ma famille <mod type="del" stage="" who=""><del>après les courses</del></mod>. Le<lb/>
+samedi après les courses j'irai faire les<lb/>
+magasins. Si j'ai le <mod type="corr"><orig>tant</orig><reg>temps</reg></mod> de le faire. §<lb/>
+Et tous les soirs après le <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod> j'irai<lb/>
+<mod type="corr"><orig>promenai</orig><reg>promener</reg></mod> mon chien. Et tous les soirs<lb/>
+aussi quand je rentre après le <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod>. §<lb/>
+Je donnerais à manger à mes <mod type="corr"><orig>chat</orig><reg>chats</reg></mod>. Et<lb/>
+mes <mod type="corr"><orig>chien</orig><reg>chiens</reg></mod>. Et à boire à mes <mod type="corr"><orig>chat</orig><reg>chats</reg></mod> et mon<lb/>
+chien. Et je ferais la litière à mes<lb/>
+chats le soir. Si j'aurais une fille ou un<lb/>
+garçon. Ma fille va s'appeler <mod type="corr"><orig>juliette</orig><reg>Juliette</reg></mod>. Et si<lb/>
+<mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> un garçon <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> sera <mod type="corr"><orig>jules</orig><reg>Jules</reg></mod>. §<lb/>
+
+<pb/>
+<mod type="corr"><orig>on</orig><reg>On</reg></mod> mange à table, des <mod type="corr"><orig>patte</orig><reg>pâtes</reg></mod> et des <mod type="corr"><orig>saucise</orig><reg>saucisses</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,123 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D2-E17-V2
+</head>
+<p>
+<pb/>
+La peur et la joie! §<lb/>
+Tout à coup, la voiture avança, lentement d'abord, ensuite de plus en<lb/>
+plus vite... §<lb/>
+Nadine et Nathacha avaient de plus en plus peur, parce que la<lb/>
+voiture allait de plus en plus vite. Elles se rendaient <mod type="corr"><orig>content</orig><reg>compte</reg></mod> qu'elles<lb/>
+avaient fait, une bêtise. A un moment il y a un policier qui <mod type="corr"><orig>l'es</orig><reg>les</reg></mod><lb/>
+voit <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les deux dans l'automobile <mod type="corr"><orig>sens</orig><reg>sans</reg></mod> adultes dedans. Le policier<lb/>
+<mod type="corr"><orig>surprent</orig><reg>surprend</reg></mod> qu'il y a un poid lourd qui <mod type="corr"><orig>fonçe</orig><reg>fonce</reg></mod> droit sur la voiture!<lb/>
+Il décide alors de monter dans l'automobile pour l'arrêter. Mais il y<lb/>
+<mod type="corr"><orig>à</orig><reg>a</reg></mod> le gros camion qui arrive droit dans la voiture. Nadine et Nathacha §<lb/>
+
+<pb/>
+se sont retrouvées à l'hôpital. Donc le service hospitalier a<lb/>
+appelé la mère <mod type="corr"><orig>dès</orig><reg>des</reg></mod> deux fillettes. La mère était très inquiète, elle<lb/>
+décida alors d'aller les voir à l'hôpital. Les avenants disaient que<lb/>
+Nadine et Natacha auraient <mod type="corr"><orig>puent</orig><reg>pu</reg></mod> avoir un plus gros choque!<lb/>
+Mais heureusement deux semaines plus tard les deux filles rentraient<lb/>
+chez elles. Nadine est dans un fauteuil roulant mais pour elle tout<lb/>
+allait bien parce qu'elle était <mod type="corr"><orig>rentrer</orig><reg>rentrée</reg></mod> chez elle. Et pour Natacha, elle<lb/>
+avait <mod type="corr"><orig>eut</orig><reg>eu</reg></mod> des béquilles mais pour elle aussi tout allait bien parce<lb/>
+qu'elle était <mod type="corr"><orig>au près</orig><reg>auprès</reg></mod> de sa famille. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

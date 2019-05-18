@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E15-V0
+</head>
+<p>
+« Le cabanon de l'oncle Jo » §<lb/>
+
+<mod type="add" stage="T2" who=""><add>L'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> a <mod type="del" stage="" who=""><del>de l'oncle</del></mod> disparu</add></mod> §<lb/>
+J'<mod type="corr"><orig>invent</orig><reg>invente</reg></mod> la suite de l'histoire. §<lb/>
+
+. Ce matin L'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> a disparu. Lili est <mod type="corr"><orig>tres</orig><reg>très</reg></mod> §<lb/>
+inquiète Puis elle part chercher l'oncle Jo. Lili<lb/>
+cherche Partout elle demande aux voisins, aucune<lb/>
+trace de lui. 
+
+. Elle cherche dans le terrain vague, enfin l'oncle<lb/>
+<mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> est là, elle court dans ses bras et ils rentrent<lb/>
+chez eux. §<lb/>
+
+. Pendant ce temps Tata Denise pleure dans le<lb/>
+salon, elle est très inquiète Pour l'oncle Jo et lili<lb/>
+
+<mod type="corr"><orig>Soud<mod type="del" stage="" who=""><del>XXX#</del></mod>ain</orig><reg>Soudain</reg></mod> elle entend sonner à la Porte <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>t</del></mod></del><add stage="" who="">T</add></mod>ata</orig><reg>Tata</reg></mod> Denise<lb/>
+se lève en <mod type="corr"><orig>ple<mod type="subst"><del><mod type="del" stage="" who=""><del>n</del></mod></del><add stage="" who="">u</add></mod>rant</orig><reg>pleurant</reg></mod> quand elle a vu l'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod><lb/>
+et <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod>, elle a sauté<mod type="del" stage="" who=""><del>XXX#</del></mod> dans <mod type="corr"><orig>leur</orig><reg>leurs</reg></mod> bras. §<lb/>
+
+<mod type="corr"><orig>DePuis</orig><reg>Depuis</reg></mod> ce jour l'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> n'a plus <mod type="del" stage="" who=""><del>jo</del></mod> mais<lb/>
+disparu. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

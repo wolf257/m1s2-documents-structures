@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E16-V1
+</head>
+<p>
+<pb/>
+
+Un <mod type="corr"><orig>enfant<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>enfant</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">à</hi></orig><reg>a</reg></mod> <mod type="add" stage="T2" who=""><add>a</add></mod> perdu sa toupie sur<lb/>
+le <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">chemine</hi></orig><reg>chemin</reg></mod> <mod type="add" stage="T2" who=""><add>chemin</add></mod> de l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ecole</hi></orig><reg>école</reg></mod> <mod type="del" stage="" who="P"><del><mod type="corr"><orig>j'ai vou</orig><reg>j'avoue</reg></mod>.<mod type="add" stage="" who="P"><add>vu</add></mod> C'est moi</del></mod>.<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">tu</hi></orig><reg>Tu</reg></mod> <mod type="add" stage="T2" who=""><add>Tu</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">à<mod type="add" stage="T2" who=""><add>s</add></mod></hi></orig><reg>as</reg></mod> perdu quelque chose?<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">L</hi><mod type="add" stage="T2" who=""><add>l</add></mod>ui</orig><reg>lui</reg></mod> <mod type="corr"><orig>demand<hi place=" " time="" who="Pσ" style="underline">e</hi></orig><reg>demanda</reg></mod> Anne-lise. Ma toupie<lb/>
+chinoise sur le <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">chemine</hi></orig><reg>chemin</reg></mod> <mod type="add" stage="T2" who=""><add>chemin</add></mod> de l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ecole</hi></orig><reg>école</reg></mod> <mod type="add" stage="T2" who=""><add>école</add></mod>. §<lb/>
+Je <mod type="corr"><orig>conn<hi place=" " time="" who="Pσ" style="underline">ait</hi></orig><reg>connais</reg></mod> <mod type="add" stage="T2" who=""><add>connais</add></mod> quelqu'un qui <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">requper</hi></orig><reg>récupère</reg></mod> <mod type="add" stage="T2" who=""><add>récupère</add></mod><lb/>
+les <mod type="corr"><orig>joue<hi place=" " time="" who="Pσ" style="underline">t</hi></orig><reg>jouets</reg></mod> <mod type="corr"><orig>perd<hi place=" " time="" who="Pσ" style="underline">u</hi></orig><reg>perdus</reg></mod>. <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">Ou</hi><mod type="add" stage="T2" who=""><add>ù</add></mod></orig><reg>Où</reg></mod> il <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>h</add></mod><hi place=" " time="" who="Pσ" style="underline">abite</hi></orig><reg>habite</reg></mod> <mod type="add" stage="T2" who=""><add>,</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">s</hi><mod type="add" stage="T2" who=""><add>S</add></mod>uis<mod type="add" stage="T2" who=""><add> -</add></mod>moi</orig><reg>Suis-moi</reg></mod>.<lb/>
+<mod type="del" stage="" who=""><del>Suis</del></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">Sais</hi></orig><reg>C'est</reg></mod> <mod type="add" stage="T2" who=""><add>c'est</add></mod> loin: <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>à</reg></mod> <mod type="add" stage="T2" who=""><add>à</add></mod> une <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">centenne</hi></orig><reg>centaine</reg></mod> <mod type="add" stage="T2" who=""><add>centaine</add></mod><lb/>
+de <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">metre</hi><mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>mètres</reg></mod> Nous y <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">voila</hi><mod type="add" stage="T2" who=""><add>à</add></mod></orig><reg>voilà</reg></mod>. C'est grand.<lb/>
+<mod type="del" stage="" who=""><del>bonjour</del></mod> Bonjour <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">moncieu</hi></orig><reg>monsieur</reg></mod> <mod type="add" stage="T2" who=""><add>monsieur</add></mod> j'ai perdu <lb/>
+ma toupie vous <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">serier</hi></orig><reg>sauriez</reg></mod> <mod type="add" stage="T2" who=""><add>sauriez</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ou</hi><mod type="add" stage="T2" who=""><add>ù</add></mod></orig><reg>où</reg></mod> elle est. §<lb/>
+-Je <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">croi</hi><mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>crois</reg></mod> que je l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ai<mod type="del" stage="T2" who=""><del>s</del></mod></hi></orig><reg>ai</reg></mod>. <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">r</hi><mod type="add" stage="T2" who=""><add>R</add></mod>egarde</orig><reg>Regarde</reg></mod> par<lb/>
+ici. OH <mod type="add" stage="" who="P"><add>,</add></mod> je l'<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ai<mod type="del" stage="T2" who=""><del>s</del></mod></hi></orig><reg>ai</reg></mod> <mod type="corr"><orig>trouv<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">ée</add></mod></orig><reg>trouvée</reg></mod>, merci <mod type="corr"><orig>beaucoue</orig><reg>beaucoup</reg></mod> <mod type="del" stage="T2" who=""><del>beauc</del></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>beaucoup</add></mod></orig><reg>beaucoup</reg></mod><lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">i</hi>l</orig><reg>Il</reg></mod> commence <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi><mod type="add" stage="T2" who=""><add>à</add></mod></orig><reg>à</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ce</hi></orig><reg>se</reg></mod> <mod type="add" stage="T2" who=""><add>se</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">fair</hi><mod type="add" stage="T2" who=""><add>e</add></mod></orig><reg>faire</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">tar<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">d</add></mod></hi></orig><reg>tard</reg></mod>. Je §<lb/>
+
+<pb/>
+
+vais rentrer. Maman maman
+j'ai <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">retrouvre</hi></orig><reg>retrouvé</reg></mod> <mod type="add" stage="T2" who=""><add>retrouvé</add></mod> ma toupie §<lb/>
+FIN §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

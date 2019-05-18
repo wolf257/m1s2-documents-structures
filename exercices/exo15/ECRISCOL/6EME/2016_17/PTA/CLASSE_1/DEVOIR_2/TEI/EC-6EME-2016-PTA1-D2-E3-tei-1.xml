@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E3
+</head>
+<p>
+<pb/>
+<mod type="corr"><orig>Aujouduit</orig><reg>Aujourd'hui</reg></mod>, <mod type="corr"><orig>devien</orig><reg>devient</reg></mod> <mod type="corr"><orig>ca</orig><reg>sa</reg></mod> Maison <mod type="corr"><orig>ces</orig><reg>ses</reg></mod> amis l'<mod type="corr"><orig>hatender</orig><reg>attendaient</reg></mod> <mod type="corr"><orig>il-y-a ves</orig><reg>il y avait</reg></mod><lb/>
+son amis: <mod type="corr"><orig>ton</orig><reg>Tom</reg></mod>, <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod>, <mod type="corr"><orig>camille</orig><reg>Camille</reg></mod> et <mod type="corr"><orig>caroline</orig><reg>Caroline</reg></mod>. Puis <mod type="corr"><orig>il sala</orig><reg>ils allèrent</reg></mod> tous à l'école.<lb/>
+Mais <mod type="corr"><orig>ca</orig><reg>leur</reg></mod> professeur <mod type="corr"><orig>aujourd'huit</orig><reg>aujourd'hui</reg></mod> n'<mod type="corr"><orig>étè</orig><reg>était</reg></mod> <mod type="corr"><orig>pa<mod type="del" stage="" who=""><del>l</del></mod></orig><reg>pas</reg></mod> là. Il y <mod type="corr"><orig>avec</orig><reg>avait</reg></mod> donc un<lb/>
+<mod type="corr"><orig>remplacent</orig><reg>remplaçant</reg></mod> qui <mod type="corr"><orig>ca pelait</orig><reg>s'appelait</reg></mod> M. la touche. <mod type="del" stage="" who=""><del>A</del></mod> <mod type="corr"><orig>Aujourd'huit</orig><reg>Aujourd'hui</reg></mod> dit-il on<lb/>
+<mod type="corr"><orig>vat</orig><reg>va</reg></mod> voir ce que votre professeur Mme Menth avait <mod type="corr"><orig>prévue</orig><reg>prévu</reg></mod> <mod type="corr"><orig>Aujourd'huit</orig><reg>aujourd'hui</reg></mod>.<lb/>
+Il dit tous! à la bibliothèque, pour <mod type="corr"><orig>decouvrir</orig><reg>découvrir</reg></mod> le prix des <mod type="corr"><orig>Dévorens</orig><reg>dévoreurs</reg></mod><lb/>
+de BD, et de <mod type="corr"><orig>conte</orig><reg>contes</reg></mod>. Laurie prend la BD le petit loup puis, <mod type="corr"><orig>tom</orig><reg>Tom</reg></mod> prend<lb/>
+le conte <mod type="corr"><orig>la</orig><reg>La</reg></mod> belle et la bête <mod type="del" stage="" who=""><del>,</del></mod> puis, <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> <mod type="corr"><orig>prands</orig><reg>prend</reg></mod> le conte <mod type="corr"><orig>la</orig><reg>La</reg></mod> belle au bois<lb/>
+dormand puis, camille prend, le petit poucet et caroline prend, le livre les 7 <mod type="corr"><orig>nans</orig><reg>nains</reg></mod>.<lb/>
+<mod type="corr"><orig>puis</orig><reg>Puis</reg></mod> sonne la cloche de l'école car il est midi, Laurie rentre chez <mod type="corr"><orig>selle</orig><reg>elle</reg></mod>.<lb/>
+<mod type="corr"><orig>C'est</orig><reg>Ses</reg></mod> <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>rentre</orig><reg>rentrés</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> on <mod type="corr"><orig>achète</orig><reg>acheté</reg></mod> une pizza, une fois que la pizza <mod type="corr"><orig>fini</orig><reg>finit</reg></mod>?<lb/>
+<mod type="corr"><orig>Ca</orig><reg>Sa</reg></mod> mère dit à Laurie il est l'heure que tu aille à l'école, mais non dit <mod type="corr"><orig>laurie</orig><reg>Laurie</reg></mod> car on et<lb/>
+Mercredi. Puis <mod type="corr"><orig>tom</orig><reg>Tom</reg></mod>, sonne à la porte de <mod type="corr"><orig>laurie</orig><reg>Laurie</reg></mod>, dit <mod type="corr"><orig>ca</orig><reg>sa</reg></mod> mère <mod type="corr"><orig>bonjours</orig><reg>bonjour</reg></mod> <mod type="corr"><orig>tom</orig><reg>Tom</reg></mod> c'est pour §<lb/>
+
+<pb/>
+faire du vélo avec Laurie <mod type="subst"><del><mod type="del" stage="" who=""><del>,</del></mod></del><add stage="" who="">.</add></mod> Sa mère dit tu <mod type="corr"><orig>rentrera</orig><reg>rentreras</reg></mod> à 16h00, OK dit Laurie. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

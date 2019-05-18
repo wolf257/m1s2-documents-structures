@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E9-V2
+</head>
+<p>
+<mod type="corr"><orig>Dés</orig><reg>dès</reg></mod> que j'ai entendu ça, tata <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>d</del></mod></del><add stage="" who="P">D</add></mod>enise</orig><reg>Denise</reg></mod> et moi sommes <mod type="corr"><orig>parti<mod type="add" stage="" who="P"><add>es</add></mod></orig><reg>parties</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la recherche<lb/>
+de l'oncle Jo. Nous avons <mod type="corr"><orig>pass<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>passé</reg></mod> <mod type="corr"><orig>toute<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>toute</reg></mod> la ville au peigne fin.<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>n</del></mod></del><add stage="" who="P">N</add></mod>ous</orig><reg>Nous</reg></mod> ne l'avons pas <mod type="corr"><orig>trouv<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>trouvé</reg></mod>. Nous commencions <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>désespér<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>désespérer</reg></mod>, en plus,<lb/>
+il <mod type="corr"><orig>commenc<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ait</add></mod></orig><reg>commençait</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> pleuvoir. Nous sommes <mod type="corr"><orig>rentrée<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>rentrées</reg></mod> chez tata <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>d</del></mod></del><add stage="" who="P">D</add></mod>enis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod>. Nous<lb/>
+allions <mod type="del" stage="" who="P"><del>allés</del></mod> nous <mod type="corr"><orig>couch<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>coucher</reg></mod> quand soudain ! §<lb/>
+Nous vîmes l'oncle <mod type="corr"><orig>jo<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>Jo</reg></mod>, <mod type="corr"><orig>en train</orig><reg>entrant</reg></mod> dans une petite cabane,<lb/>
+qui, nous <mod type="corr"><orig>faisais</orig><reg>faisait</reg></mod> de grand signe avec son chapeau de paille.<lb/>
+Pris de Panique je criais <mod type="add" stage="" who="P"><add>:</add></mod> §<lb/>
+"-Oncle <mod type="corr"><orig>Jo<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>Jo</reg></mod>, Oncle <mod type="corr"><orig>Jo<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>Jo</reg></mod>, reviens." <mod type="corr"><orig>dîje</orig><reg>dis-je</reg></mod> en sanglotant<lb/>
+"-Reviens Jo" criait tante <mod type="corr"><orig>denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod>" tu <mod type="corr"><orig>va</orig><reg>vas</reg></mod> <mod type="corr"><orig>attrap<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>attraper</reg></mod> une<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">in</add></mod>solation</orig><reg>insolation</reg></mod>! §<lb/>
+Oncle <mod type="corr"><orig>Joe</orig><reg>Jo</reg></mod> a remis son chapeau et son sourire <mod type="del" stage="" who=""><del>s'éfaça</del></mod><mod type="add" stage="" who=""><add>s'est</add></mod> <mod type="add" stage="" who=""><add>é</add></mod><mod type="add" stage="" who="P"><add>f</add></mod><mod type="add" stage="" who=""><add>facé</add></mod>. Il <mod type="subst"><del><mod type="del" stage="" who=""><del>alla</del></mod></del><add stage="" who="">est allé</add></mod> le plus<lb/>
+vite possible <mod type="corr"><orig>jusqu<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">' à</add></mod> a</orig><reg>jusqu'à</reg></mod> la porte de l'appartement. Nous nous <mod type="subst"><del><mod type="del" stage="" who=""><del><mod type="corr"><orig>précipitames</orig><reg>précipitâmes</reg></mod></del></mod></del><add stage="" who="">sommes <mod type="corr"><orig>pré<metamark place=" " time="" who="P" style="underline">cipiés</metamark></orig><reg>précipitées</reg></mod></add></mod> pour lui ouvrir <mod type="corr"><orig>Pendant</orig><reg>pendant</reg></mod> qu'il s'asseyait sur son <mod type="corr"><orig>fauteil</orig><reg>fauteuil</reg></mod>.<lb/>
+tata <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>d</del></mod></del><add stage="" who="P">D</add></mod>enis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod> <mod type="del" stage="" who=""><del>cour</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>était partie un serviette chaude</del></mod></del><add stage="" who="">était partie chercher un verre d'eau</add></mod> <mod type="del" stage="" who=""><del><mod type="corr"><orig>poure</orig><reg>pour</reg></mod></del></mod><mod type="add" stage="" who=""><add>pour</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">le s'échait</hi></orig><reg>le sécher</reg></mod>, et<lb/>
+moi, je fermais la fenêtre. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>f</del></mod></del><add stage="" who="P">F</add></mod>inalement</orig><reg>Finalement</reg></mod> Oncle Jo s'est <mod type="corr"><orig>endormi<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>endormi</reg></mod>.<lb/>
+Nous sommes tous <mod type="corr"><orig>all<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">és</add></mod></orig><reg>allés</reg></mod> nous coucher. Oncle Jo <mod type="corr"><orig>étai<mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">t</add></mod></orig><reg>était</reg></mod> sauvé!!<lb/>
+Quel soulagement! §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

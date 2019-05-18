@@ -1,0 +1,103 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2016-ABZ-D2-E20-V2
+</head>
+<p>
+Quand je serai adulte, je serai<lb/>policière pour les radars. <mod type="corr"><orig>j<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>j</del></mod></del><add stage="T2" who="P">J</add></mod>’</orig><reg>J’</reg></mod>aurai<lb/>deux enfants je ferai des voya<lb/>ges avec mes enfants à <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>d</del></mod></del><add stage="T2" who="P">D</add></mod>’/isneyland</orig><reg>Disneyland</reg></mod><lb/><mod type="corr"><orig>p<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>p</del></mod></del><add stage="T2" who="P">P</add></mod>aris</orig><reg>Paris</reg></mod>. <mod type="corr"><orig>j<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>j</del></mod></del><add stage="T2" who="P">J</add></mod>’</orig><reg>J’</reg></mod>irai à la piscine, à la<lb/>plage et au restaurant. <mod type="corr"><orig>j<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>j</del></mod></del><add stage="T2" who="P">J</add></mod>’</orig><reg>J’</reg></mod>habiterai<lb/>à <mod type="del" stage="" who=""><del>f</del></mod> b<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>b</del></mod></del><add stage="T2" who="P">B</add></mod> t dans une maison. <mod type="corr"><orig>j<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>j</del></mod></del><add stage="T2" who="P">J</add></mod>e</orig><reg>Je</reg></mod><lb/>ferai des <mod type="corr"><orig>vo<mod type="del" stage="" who=""><del>i</del></mod>yages</orig><reg>voyages</reg></mod> en voiture je<lb/>ferai du sport <mod type="corr"><orig>j<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>j</del></mod></del><add stage="T2" who="P">J</add></mod>’</orig><reg>J’</reg></mod>aurai un animal<lb/>de <mod type="corr"><orig>com pagnie<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>com pagnie</del></mod></del><add stage="T2" who="P">compagnie</add></mod></orig><reg>compagnie</reg></mod>, un chat et j’irai<lb/>voir ma famille. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

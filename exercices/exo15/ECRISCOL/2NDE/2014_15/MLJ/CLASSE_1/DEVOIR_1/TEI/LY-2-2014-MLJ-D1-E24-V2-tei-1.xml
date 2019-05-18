@@ -1,0 +1,165 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E24-V2
+</head>
+<p>
+<pb/>
+"Sous la nuit sans étoiles, d'une obscurité et d'une épaisseur d'encre,<lb/>
+l'homme depuis un moment déjà marchait quand il aperçut au<lb/>
+loin la lumière d'un réverbère." §<lb/>
+Étant attiré par cette douce luminosité, d'une couleur claire et<lb/>
+apaisante, il se dirigea vers ce lampadaire, d'un pas boitant et<lb/>
+<mod type="corr"><orig>irrégulié</orig><reg>irrégulier</reg></mod>. Lorsqu'il fut en dessous de ce berceau de lumière,<lb/>
+il remarqua alors des petits insectes qui tourbillonaient autour de sa<lb/>
+personne. Il se retourna plusieurs fois, mais fut vite attiré par son<lb/>
+reflet, affiché sur une baie-vitrée d'un magasin, qui se trouvait à<lb/>
+environ trois pas. Il détourna le regard plusieurs fois, mais, comme<lb/>
+poussé par curiosité, il se regarda. Aucune expression d'étonnement<lb/>
+ne s'afficha sur son visage, comme <mod type="corr"><orig>si il</orig><reg>s'il</reg></mod> se reconnaissait. Il attira<lb/>
+ses vêtements, plus précisement, haillons qui tombaient en miettes: <lb/>
+des chaussures ayant la semelle décollée et quelques trous, il avait par-dessous<lb/>
+un patalon noir, devenu gris à cause de la poussière et saleté<lb/>
+qui se pesaient dessus lorsqu'il s'asseyait par terre. Il portait également<lb/>
+une chemise en lambeaux, parsemée de <mod type="corr"><orig>taches</orig><reg>tâches</reg></mod> d'<mod type="corr"><orig>alcools</orig><reg>alcool</reg></mod> différents et<lb/>
+avait pour veste, un blazer, qui avait la manche droite décousue, ses<lb/>
+boutons étaient <mod type="corr"><orig>tombé<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>tombés</reg></mod> sauf un petit qui ne tenait qu'à un ou deux<lb/>
+fils. Mais lorsqu'il se regarda plus attentivement, il remarqua qu'il<lb/>
+n'avait que la peau sur les os, cette peau anormalement verdâtre,<lb/>
+sans éclats alors qu'auparavant, elle était mate, comme une §<lb/>
+
+<pb/>
+personne revant de vacances d'été. A travers sa chemise, à<lb/>
+dire vrai, ces quelques bouts de tissus, en percevait les os de<lb/>
+son cou, plus saillants encore que sa maigreur, les os qui<lb/>
+faisaient tant ressortir ses yeux larmayants, ces yeux verts gris, de<lb/>
+couleur émeraude et qui <mod type="corr"><orig>pouvait</orig><reg>pouvaient</reg></mod> vous hypnotiser si vous <mod type="corr"><orig>plongier</orig><reg>plongiez</reg></mod><lb/>
+votre regard dans le sien. Ses jours, d'habitude <mod type="corr"><orig>roug<mod type="subst"><del><mod type="del" stage="T2" who=""><del>eodes</del></mod></del><add stage="T2" who="">eaudes</add></mod></orig><reg>rougeaudes</reg></mod>, étaient<lb/>
+blanchâtres, presques livides et s'en était d'ailleurs affolant. Ses<lb/>
+lèvres sèches, craquelées montraient bien qu'il avait subi une<lb/>
+énorme peine. §<lb/>
+Il était de même qu'un rat des égouts, sale et <mod type="corr"><orig>puant<mod type="del" stage="T2" who=""><del>s</del></mod></orig><reg>puant</reg></mod> et c'est<lb/>
+pour cela que depuis presqu'une semaine, aucune <mod type="corr"><orig>personnes</orig><reg>personne</reg></mod> ne<lb/>
+voulait s'approcher de lui, comme rejeté de ce monde. Il portait<lb/>
+<mod type="corr"><orig>d'ailleur<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>d'aileurs</reg></mod> à son visage une expression d'enfant battu, triste, proche d'un<lb/>
+mort. Et lorsqu'on le voyait marcher, on pouvait remarquer à quel<lb/>
+point il était lasse, lasse de marcher, de respirer, de vivre. §<lb/>
+Il se retourna de la réflexion de son image, comme horrifié.<lb/>
+Il continua de marcher, et se remémora ses derniers instants avec elle...<lb/>
+Ce moment où il l'avait <mod type="corr"><orig>regardée</orig><reg>regardé</reg></mod>, avec ses yeux <mod type="corr"><orig>pleine</orig><reg>plein</reg></mod> de vie puis<lb/>
+soudain, elle lui souriait d'un éclat de diamant...<lb/>
+Le moment aussi où elle lui parlait en regardant ses beaux yeux<lb/>
+verts émeraudes... §<lb/>
+Le moment où elle lui a dit je t'aime pour la première fois.<lb/>
+Et enfin, ce moment où ses yeux se sont emplis d'un vide,<lb/>
+qui ne pourrait se remplir. §<lb/>
+C'est de là que sa vie <mod type="subst"><del><mod type="del" stage="T2" who=""><del>à</del></mod></del><add stage="T2" who="">a</add></mod> commencé à se détruire, à le détruire.<lb/>
+Il avait tout fait pour elle, et inversement, elle pour lui. §<lb/>
+Il continua de marhcer, jusqu'à arriver à un pont. Un pont qu'il<lb/>
+avait traversé de nombreuses fois sans en admirer sa beauté. Même<lb/>
+sous une nuit sans <mod type="corr"><orig>étoile<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>étoiles</reg></mod>, la beauté de l'image qu'on pouvait<lb/>
+percevoir, nous coupait le souffle. §<lb/>
+Il fit une comparaison entre et ce pont. §<lb/>
+
+<pb/>
+Encore et toujours, sa pensée se tournait vers elle. §<lb/>
+Puis il fixa alors l'horizon et ses yeux ne brillèrent plus, non, ils<lb/>
+retrouvèrent leur beauté et étincellèrent. §<lb/>
+Tout à commencé en pensant à elle, alors tout se termina, avec<lb/>
+une immense joie et un soulagement, en pensant à elle. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

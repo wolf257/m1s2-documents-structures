@@ -1,0 +1,32 @@
+
+            ------- NOM - PRP - NOM  ------- 
+            
+- NOM - PRP - NOM :  boîte de nuit
+- NOM - PRP:det - NOM :  tête des Nations
+- NOM - PRP:det - NOM :  reste du monde
+- NOM - PRP - NOM :  millier de migrants
+- NOM - PRP - NOM :  pays à l’interdire
+- NOM - PRP:det - NOM :  majorité des pays
+- NOM - PRP - NOM :  euros par mois
+- NOM - PRP:det - NOM :  ciel du soir
+- NOM - PRP - NOM :  droite en vue
+- NOM - PRP - NOM :  Retour sur l’année
+- NOM - PRP:det - NOM :  respect du temps
+- NOM - PRP - NOM :  temps de repos
+- NOM - PRP:det - NOM :  bal des festivités
+- NOM - PRP - NOM :  lieu à travers
+- NOM - PRP - NOM :  incendie à bord
+- NOM - PRP - NOM :  idées de sorties
+- NOM - PRP - NOM :  week-end de l’année
+- NOM - PRP:det - NOM :  L’attaque du club
+- NOM - PRP:det - NOM :  nuit du réveillon
+- NOM - PRP - NOM :  mois à l’EI
+- NOM - PRP:det - NOM :  radio du groupe
+- NOM - PRP - NOM :  question de semaines
+- NOM - PRP - NOM :  mort à l’âge
+- NOM - PRP - NOM :  marque de lunettes
+- NOM - PRP - NOM :  lunettes de soleil
+- NOM - PRP - NOM :  ans de prison
+- NOM - PRP - NOM :  rangs de l’organisation
+- NOM - PRP - NOM :  ministère de l’agriculture
+- NOM - PRP:det - NOM :  départements du Sud-Ouest

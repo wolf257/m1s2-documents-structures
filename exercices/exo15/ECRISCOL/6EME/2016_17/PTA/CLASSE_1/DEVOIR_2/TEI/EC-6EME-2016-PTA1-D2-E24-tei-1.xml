@@ -1,0 +1,133 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E24
+</head>
+<p>
+<pb/>
+<mod type="corr"><orig>An</orig><reg>En</reg></mod> sortant elle rencontre son nouveau voisin lui<lb/>
+aussi va au collège P n. <mod type="corr"><orig>Il</orig><reg>Ils</reg></mod> <mod type="corr"><orig>désside</orig><reg>décident</reg></mod> de faire la<lb/>
+route <mod type="corr"><orig>anssemble</orig><reg>ensemble</reg></mod> <mod type="corr"><orig>arrivé</orig><reg>arrivés</reg></mod> au collége Laurie <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>X#</del></mod></del><add stage="" who="">v</add></mod>a</orig><reg>va</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> son casier elle <mod type="corr"><orig>mais</orig><reg>met</reg></mod><lb/>
+<mod type="corr"><orig>quelque</orig><reg>quelques</reg></mod> <mod type="corr"><orig>cahier</orig><reg>cahiers</reg></mod> pour alléger sons sac. <mod type="corr"><orig>le</orig><reg>Le</reg></mod> nouveau <mod type="corr"><orig>max</orig><reg>Max</reg></mod> était pérdu<lb/>
+Laurie va voir <mod type="corr"><orig>max</orig><reg>Max</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> lui <mod type="corr"><orig>di</orig><reg>dit</reg></mod>"Tu <mod type="corr"><orig>est</orig><reg>es</reg></mod> perdu" il <mod type="corr"><orig>répondi</orig><reg>répondit</reg></mod> oui <mod type="corr"><orig>jene</orig><reg>je ne</reg></mod><lb/>
+<mod type="corr"><orig>sai</orig><reg>sais</reg></mod> <mod type="corr"><orig>pus</orig><reg>plus</reg></mod> <mod type="corr"><orig>ou</orig><reg>où</reg></mod> est mon casier "Laurie lui <mod type="corr"><orig>di</orig><reg>dit</reg></mod> tu sais son <mod type="corr"><orig>numero</orig><reg>numéro</reg></mod><lb/>
+oui A3 <mod type="corr"><orig>a</orig><reg>ah</reg></mod> <mod type="corr"><orig>vien</orig><reg>viens</reg></mod> <mod type="corr"><orig>suis moi</orig><reg>suis-moi</reg></mod> je sais <mod type="corr"><orig>ou</orig><reg>où</reg></mod> <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod>. <mod type="corr"><orig>Tien</orig><reg>Tiens</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>le vaile</del></mod><lb/></del><add stage="" who="">le voila</add></mod></orig><reg>le voilà</reg></mod> il est juste <mod type="corr"><orig>acoter</orig><reg>à côté</reg></mod> du mien <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> <mod type="corr"><orig>coul</orig><reg>cool</reg></mod>. <mod type="corr"><orig>la</orig><reg>La</reg></mod> <mod type="corr"><orig>soneri</orig><reg>sonnerie</reg></mod> <mod type="corr"><orig>retanti</orig><reg>rétentit</reg></mod><lb/>
+<mod type="corr"><orig>a</orig><reg>ah</reg></mod> il est <mod type="corr"><orig>leur</orig><reg>l'heure</reg></mod> d'aller <mod type="corr"><orig>an</orig><reg>en</reg></mod> <mod type="corr"><orig>cour</orig><reg>cours</reg></mod> on <mod type="corr"><orig>commense</orig><reg>commence</reg></mod> par physique<lb/>
+arrivé <mod type="corr"><orig>an</orig><reg>en</reg></mod> dans le <mod type="corr"><orig>cour</orig><reg>cours</reg></mod> <mod type="corr"><orig>max</orig><reg>Max</reg></mod> se <mod type="corr"><orig>présunta</orig><reg>présenta</reg></mod>. Bonjour je <mod type="corr"><orig>mappel</orig><reg>m'appelle</reg></mod><lb/>
+<mod type="corr"><orig>max</orig><reg>Max</reg></mod> je <mod type="corr"><orig>vien</orig><reg>viens</reg></mod> de Paris mon <mod type="corr"><orig>collégé</orig><reg>collège</reg></mod> <mod type="corr"><orig>sappeler</orig><reg>s'appelait</reg></mod> L n<lb/>
+je suis parti <mod type="corr"><orig>parceque</orig><reg>parce que</reg></mod> je <mod type="corr"><orig>meus</orig><reg>me</reg></mod> <mod type="del" stage="" who=""><del>allés</del></mod> <mod type="corr"><orig>faisé</orig><reg>faisait</reg></mod> <mod type="corr"><orig>asselais</orig><reg>harceler</reg></mod>. §<lb/>
+<mod type="corr"><orig>ducous</orig><reg>Du coup</reg></mod> je suis <mod type="corr"><orig>venus</orig><reg>venu</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> P t <mod type="corr"><orig>voila</orig><reg>voilà</reg></mod> <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> <mod type="corr"><orig>tous</orig><reg>tout</reg></mod>. §<lb/>
+<mod type="del" stage="" who=""><del>je ten</del></mod> Le <mod type="corr"><orig>proféseur</orig><reg>professeur</reg></mod> lui <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> <mod type="corr"><orig>vatasoir</orig><reg>va t'assoir</reg></mod> <mod type="corr"><orig>maxie</orig><reg>Maxie</reg></mod> non <mod type="corr"><orig>monsseur</orig><reg>monsieur</reg></mod> mais <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod><lb/>
+<mod type="corr"><orig>max</orig><reg>Max</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>la</orig><reg>là</reg></mod> Boom Boom un ogre <mod type="corr"><orig>tatraper</orig><reg>attrapa</reg></mod> un enfant par la<lb/>
+<mod type="corr"><orig>fenaitre</orig><reg>fenêtre</reg></mod> <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> le monde <mod type="corr"><orig>sord</orig><reg>sort</reg></mod> <mod type="corr"><orig>de le</orig><reg>du</reg></mod> <mod type="corr"><orig>profeseur</orig><reg>professeur</reg></mod>. Laurie <mod type="corr"><orig>sétait</orig><reg>s'était</reg></mod> <mod type="corr"><orig>cianseer</orig><reg>coincée</reg></mod> le<lb/>
+<mod type="corr"><orig>pier</orig><reg>pied</reg></mod> dans la chaise <mod type="corr"><orig>max</orig><reg>Max</reg></mod> se <mod type="corr"><orig>préssipita</orig><reg>précipita</reg></mod> <mod type="corr"><orig>verre</orig><reg>vers</reg></mod> elle lui <mod type="corr"><orig>décoinssa</orig><reg>décoinça</reg></mod> le <mod type="corr"><orig>pier</orig><reg>pied</reg></mod><lb/>
+l'<mod type="corr"><orig>orge</orig><reg>ogre</reg></mod> <mod type="corr"><orig>lanssa</orig><reg>lança</reg></mod> une chaise sur la porte <mod type="corr"><orig>puer</orig><reg>puis</reg></mod> une table <mod type="corr"><orig>les</orig><reg>la</reg></mod> porte est <mod type="corr"><orig>bloqué</orig><reg>bloquée</reg></mod> il ne<lb/>
+<mod type="corr"><orig>peuve</orig><reg>peuvent</reg></mod> <mod type="corr"><orig>pus</orig><reg>plus</reg></mod> sortir l'<mod type="corr"><orig>orgre</orig><reg>ogre</reg></mod> <mod type="corr"><orig>lor</orig><reg>leur</reg></mod> <mod type="corr"><orig>di</orig><reg>dit</reg></mod> miammiam je vais bien <mod type="corr"><orig>mangais</orig><reg>manger</reg></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> midi<lb/>
+deux <mod type="corr"><orig>anfant</orig><reg>enfants</reg></mod> frais <mod type="corr"><orig>venais</orig><reg>venaient</reg></mod> il les <mod type="corr"><orig>atrapas</orig><reg>attrapa</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>sanala</orig><reg>s'en alla</reg></mod> bien. <mod type="corr"><orig>Arriver</orig><reg>Arrivé</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la maison<lb/>
+de l'ogre l'ogre les <mod type="corr"><orig>pris</orig><reg>prit</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> leur <mod type="corr"><orig>di</orig><reg>dit</reg></mod> vous <mod type="corr"><orig>était</orig><reg>etês</reg></mod> <mod type="corr"><orig>prais</orig><reg>pris</reg></mod> §<lb/>
+
+<pb/>
+il appela <mod type="corr"><orig>dautre</orig><reg>d'autres</reg></mod> <mod type="corr"><orig>ogre</orig><reg>ogres</reg></mod> <mod type="corr"><orig>miantenant</orig><reg>maintenant</reg></mod> on mange des <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> midi miam<lb/>
+<mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>la</orig><reg>là</reg></mod> une fée <mod type="corr"><orig>apparer</orig><reg>apparaît</reg></mod> <mod type="corr"><orig>pris</orig><reg>prit</reg></mod> les <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>disseparer</orig><reg>disparaît</reg></mod> les <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod> <mod type="corr"><orig>fus</orig><reg>furent</reg></mod> <mod type="corr"><orig>endormie</orig><reg>endormis</reg></mod><lb/>
+la fée <mod type="corr"><orig>rantra</orig><reg>rentra</reg></mod> dans un <mod type="corr"><orig>grant</orig><reg>grand</reg></mod> <mod type="corr"><orig>abres</orig><reg>arbre</reg></mod> magique <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>dépasa</orig><reg>déposa</reg></mod> les <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod> dans un<lb/>
+#XXX# <mod type="corr"><orig>est</orig><reg>et</reg></mod> les <mod type="corr"><orig>protéga</orig><reg>protégea</reg></mod> de l'<mod type="corr"><orig>orgre</orig><reg>ogre</reg></mod> avec un <mod type="corr"><orig>sor</orig><reg>sort</reg></mod>. <mod type="corr"><orig>j</orig><reg>J</reg></mod>'ai bien dormi <mod type="del" stage="" who=""><del>mais m</del></mod><lb/>
+<mod type="corr"><orig><mod type="add" stage="" who=""><add>mes</add></mod></orig><reg>mais</reg></mod> <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> au au net vous <mod type="corr"><orig>étet</orig><reg>etês</reg></mod> dans mon arbre <mod type="del" stage="" who=""><del>je</del></mod> vous <mod type="corr"><orig><mod type="del" stage="" who=""><del>s</del></mod>es</orig><reg>ai</reg></mod> <mod type="corr"><orig>sauver</orig><reg>sauvé</reg></mod> des <mod type="corr"><orig>ogre</orig><reg>ogres</reg></mod><lb/>
+<mod type="corr"><orig>au</orig><reg>oh</reg></mod> <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> à P t non dans le monde magique des <mod type="corr"><orig>fée</orig><reg>fées</reg></mod> <mod type="corr"><orig>issi</orig><reg>aussi</reg></mod> nous sauvons<lb/>
+les <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod> des <mod type="corr"><orig>ogre</orig><reg>ogres</reg></mod> <mod type="corr"><orig>tener</orig><reg>tenez</reg></mod> un arc des #XXX# pour toi Laurie <mod type="corr"><orig>est</orig><reg>et</reg></mod> une epée pour toi<lb/>
+<mod type="corr"><orig>marc</orig><reg>Marc</reg></mod>. <mod type="corr"><orig>miantenant</orig><reg>Maintenant</reg></mod> je vais vous <mod type="corr"><orig>emmmenait</orig><reg>emmener</reg></mod> dans le village des <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod> <mod type="corr"><orig>an</orig><reg>en</reg></mod> la sa<lb/>
+tousse <mod type="corr"><orig>revais</orig><reg>rêvez</reg></mod> <mod type="corr"><orig>miantenant</orig><reg>maintenant</reg></mod> vous <mod type="corr"><orig>vivais</orig><reg>vivez</reg></mod> <mod type="corr"><orig>irri</orig><reg>heureux</reg></mod> FIN §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

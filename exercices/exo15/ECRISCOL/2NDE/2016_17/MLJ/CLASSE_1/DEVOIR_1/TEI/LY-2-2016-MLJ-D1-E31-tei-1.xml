@@ -1,0 +1,143 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2016-MLJ-D1-E31
+</head>
+<p>
+<pb/>
+Sam <mod type="corr"><orig>rejoind</orig><reg>rejoint</reg></mod> son meilleur ami Max dans la rue ils<lb/>
+courent <mod type="corr"><orig>tout<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>tous</reg></mod> les deux pour ne pas arriver en retard<lb/>
+à leur cours de Maths. <mod type="corr"><orig>A</orig><reg>Ah</reg></mod> les maths ??? n'a<lb/>
+jamais rien compris au π, y x x ect pour lui les maths<lb/>
+sont une perte de temps, Malgré leur <mod type="corr"><orig>course</orig><reg>cours</reg></mod><lb/>
+les deux jeunes hommes <mod type="corr"><orig>arrive<mod type="add" stage="" who=""><add>nt</add></mod></orig><reg>arrivent</reg></mod> en <mod type="corr"><orig>retards</orig><reg>retard</reg></mod> ils rentrent<lb/>
+s'<mod type="corr"><orig>escu#XXX#t</orig><reg>excusent</reg></mod> et s'assoient pendant une heure Sam a<lb/>
+le temps de parler à son voison <mod type="corr"><orig>révasser</orig><reg>rêvasser</reg></mod> dormir<lb/>
+et envoyer <mod type="corr"><orig>secretement</orig><reg>secrètement</reg></mod> des #XXX# 2 heures passent la<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>récrée</orig><reg>récré</reg></mod> arrive Max et Sam <mod type="corr"><orig>retrouve<mod type="add" stage="" who=""><add>nt</add></mod></orig><reg>retrouvent</reg></mod> <mod type="corr"><orig>la</orig><reg>les</reg></mod><lb/>
+<mod type="corr"><orig>amie<mod type="add" stage="" who=""><add>s</add></mod></orig><reg>amis</reg></mod> des différentes classes ils se rendirent après à leur<lb/>
+cours de sport de 2 heures Sam est un grand<lb/>
+sportif il pratique le foot la boxe et le<lb/>
+freerun c'est 2 petites heures sont comme échapatoir<lb/>
+pour lui un moyen de se <mod type="corr"><orig>defouler</orig><reg>défouler</reg></mod> il commence<lb/>
+une séance de musculation mais manque d'échauffement<lb/>
+le jeune homme se foule la cheville et doit<lb/>
+
+<pb/>
+se rendre d'<mod type="corr"><orig>urgen<mod type="subst"><del><mod type="del" stage="" who=""><del>t</del></mod></del><add stage="" who="">c</add></mod>e</orig><reg>urgence</reg></mod> à l'infirmerie on lui place un<lb/>
+bandage et on lui dit d'attendre l'heure<lb/>
+du déjeuner, la sonnerie retentit le jeune <mod type="corr"><orig>hom<mod type="add" stage="" who=""><add>m</add></mod>e</orig><reg>homme</reg></mod> à<lb/>
+la chance d'arriver en avance et ne connait<lb/>
+pas le calvaire de la <mod type="corr"><orig>langue</orig><reg>longue</reg></mod> attente il<lb/>
+s'installe avec Max et commence à manger<lb/>
+comme d'habitude Max n'apprecie pas son<lb/>
+<mod type="corr"><orig>repa</orig><reg>repas</reg></mod> et sort une barre de chocolat qu'il<lb/>
+partage avec son amie il se rend en suite 1<lb/>
+heure<mod type="del" stage="" who=""><del>s</del></mod> au CDI dans le but de finir le<lb/>
+livre dramatique qu'il doit lire pour les cours<lb/>
+"l'<mod type="del" stage="" who=""><del>a</del></mod>Assomoir" d'Emile Zola il se rend ensuite<lb/>
+directement en histoire <mod type="corr"><orig>ou</orig><reg>où</reg></mod> il va <mod type="corr"><orig>resté</orig><reg>rester</reg></mod> 2 <mod type="corr"><orig>heure</orig><reg>heures</reg></mod><lb/>
+il adore cette <mod type="corr"><orig>matiére</orig><reg>matière</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> y <mod type="corr"><orig>resté</orig><reg>reste</reg></mod> 2 <mod type="corr"><orig>heure</orig><reg>heures</reg></mod><lb/>
+ne le dérange pas c'est bo<mod type="del" stage="" who=""><del>XXX#</del></mod> 16h30 <mod type="del" stage="" who=""><del>XXX#</del></mod> Sam<lb/>
+rentre chez lui <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>pied</orig><reg>pieds</reg></mod> et va <mod type="corr"><orig>cherche</orig><reg>chercher</reg></mod> sa<lb/>
+soeur, Jessie au Collége arrivé chez lui il se<lb/>
+douche mange et commence à réviser<lb/> 
+pour son <mod type="corr"><orig>control</orig><reg>contrôle</reg></mod> de français de demain<lb/>
+après avoir révisé il allume sa <mod type="corr"><orig>console</orig><reg>consolle</reg></mod> sur<lb/>
+laquelle il passera toute la <mod type="del" stage="" who=""><del>XXX#</del></mod>nuit il se couchera<lb/>
+<mod type="corr"><orig>trés</orig><reg>très</reg></mod> tard <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> qui fait que demain <mod type="corr"><orig>seras</orig><reg>sera</reg></mod> en retard.. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,33 @@
+
+            ------- NOM - ADJ ------- 
+            
+    - NOM - ADJ : club d’Istanbul
+    - NOM - ADJ : Tiers payant
+    - NOM - ADJ : paquet neutre
+    - NOM - ADJ : secrétaire général
+    - NOM - ADJ : ministre socialiste
+    - NOM - ADJ : Nations unies
+    - NOM - ADJ : temps forts
+    - NOM - ADJ : élections présidentielle
+    - NOM - ADJ : l’actualité française
+    - NOM - ADJ : policiers marocains
+    - NOM - ADJ : châtiments corporels
+    - NOM - ADJ : revenu universel
+    - NOM - ADJ : d’emploi âgés
+    - NOM - ADJ : rendez-vous astronomiques
+    - NOM - ADJ : événements marquants
+    - NOM - ADJ : Mails professionnels
+    - NOM - ADJ : repos obligatoire
+    - NOM - ADJ : bord d’un
+    - NOM - ADJ : destination touristique
+    - NOM - ADJ : vigilance orange
+    - NOM - ADJ : club privé
+    - NOM - ADJ : président s’est
+    - NOM - ADJ : personnalités politiques
+    - NOM - ADJ : entreprises technologiques
+    - NOM - ADJ : champion olympique
+    - NOM - ADJ : skieur français
+    - NOM - ADJ : djihadiste français
+    - NOM - ADJ : délinquant multirécidiviste
+    - NOM - ADJ : travail dominical
+    - NOM - ADJ : Grippe aviaire

@@ -1,0 +1,158 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E3-V2
+</head>
+<p>
+<pb/>
+
+L'homme §<lb/>
+sous la nuit sans étoiles, d'une obscurité et d'une<lb/>
+épaisseur d'encre, l'homme depuis un moment <mod type="corr"><orig>déja</orig><reg>déjà</reg></mod> marchait<lb/>
+quand il aperçut au loin la lumière d'un réverbère. Il<lb/>
+était vingt-trois heures cinquante neuf. L'homme §<lb/>
+
+<pb/>
+
+adoptant une démarche mafiéuse s'arrête, fait un<lb/>
+tour de lui-même lorsqu'il apercoit ce qu'il voulait,<lb/>
+un banc. Il était couvert de moisissure et de mousse<lb/>
+mais malgré cela l'homme s'assit dessus. Cette nuit<lb/>
+glaciale d'un <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">mois</add></mod> de décembre l'obligea <mod type="corr"><orig>a</orig><reg>à</reg></mod> fermer<lb/>
+sa veste en cuir noire et de se vêtir de son béret.<lb/>
+Il se met à l'aise sur le banc et se met à observer<lb/>
+les alentours. Il remarque une silouhette noire, et<lb/>
+bien sure ses yeux globuleux de couleur différentes<lb/>
+l'on repere. Cette <mod type="corr"><orig>silouhette</orig><reg>silhouette</reg></mod> s'approche du banc<lb/>
+et se met à côter de celui-ci. Le nez crochu<lb/>
+bien musclé <mod type="corr"><orig>renifler</orig><reg>reniflait</reg></mod> l'odeur d'une substance illégale en<lb/>
+France. §<lb/>
+Après avoir <mod type="corr"><orig>passer</orig><reg>passé</reg></mod> dix minutes à ne rien se<lb/>
+dire, l'homme pris sa main bien grosse et blessée à<lb/>
+<mod type="corr"><orig>plusieures</orig><reg>plusieurs</reg></mod> reprises et la posa sur l'épaule de la <mod type="corr"><orig>silouhette</orig><reg>silhouette</reg></mod>. §<lb/>
+
+<pb/>
+
+Le froid de cette nuit d'hiver lui fissura ses<lb/>
+lèvres devenues blanches, lui bloquant les lèvres il<lb/>
+lutta pour réussir à ouvrir sa bouche: §<lb/>
+"La marchandise, la cagoule et les gants, parfait"<lb/>
+La <mod type="corr"><orig>silouhette</orig><reg>silhouette</reg></mod> portant un chapeau melon se leva,<lb/>
+fixa cet homme à la corpulence et au physique<lb/>
+d'Hercule cachant la lumière du réverbère et lui<lb/>
+répond d'une voix cassée: §<lb/>
+"en route" §<lb/>
+L'homme se mit à marcher ne connaissant à peine<lb/>
+la <mod type="del" stage="" who=""><del>sil</del></mod> silouhette au chapeau melon se méfie de tout<lb/>
+ses faits et gestes. Malgré que l'homme au chapeau<lb/>
+melon ne lui inspire pas confiance il se met<lb/>
+derrière l'homme. §<lb/>
+Au fur et à mesure qu'ils se rapprochent du <mod type="corr"><orig>domicil</orig><reg>domicile</reg></mod><lb/>
+de l'homme, il commence à ressentir une douleur §<lb/>
+
+<pb/>
+
+au dos comme si on lui plantait un objet au dos.<lb/>
+Il se mit à marcher encore quelques mètres et il<lb/>
+s'éffondra comme un immeuble auquel on aurait détruit<lb/>
+le <mod type="corr"><orig>rez de chaussée</orig><reg>rez-de-chaussée</reg></mod>. Cette douleur était véritable,<lb/>
+la silouhette lui avait <mod type="corr"><orig>planter</orig><reg>planté</reg></mod> un poignard<lb/>
+dans le dos. §<lb/>
+Au bout de cinq minutes, la silouhette <mod type="subst"><del><mod type="del" stage="" who=""><del>empara</del></mod></del><add stage="" who="">s'empara</add></mod><lb/>
+des clefs <mod type="add" stage="" who=""><add>et</add></mod> du butin et s'en alla cambrioler<lb/>
+la maison de l'homme... §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

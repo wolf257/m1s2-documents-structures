@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E18
+</head>
+<p>
+<pb/>
+Fabien marche jusqu’à l’école enfin <mod type="corr"><orig>ariver</orig><reg>arrivé</reg></mod> à l’école<lb/>
+<mod type="del" stage="" who=""><del>F</del></mod>Fabien entre puis voit la plus belle fille de l’école il en<lb/>
+est <mod type="corr"><orig>tomber</orig><reg>tombé</reg></mod> amoureux et une bande de CM2 lui dit <mod type="corr"><orig>est</orig><reg>et</reg></mod><lb/>
+« minute va nous chercher de l’eau ». <mod type="corr"><orig>Pui</orig><reg>Puis</reg></mod> l’ami de Fabien <mod type="corr"><orig>arive</orig><reg>arrive</reg></mod> et dit <mod type="corr"><orig>l’esse</orig><reg>laisse</reg></mod> le <mod type="corr"><orig>trent qu’il</orig><reg>tranquille</reg></mod> la cloche <mod type="corr"><orig>sone</orig><reg>sonne</reg></mod><lb/>
+<mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les enfants <mod type="del" stage="" who=""><del>en</del></mod> se <mod type="corr"><orig>range</orig><reg>rangent</reg></mod> enfin <mod type="corr"><orig>prèsque</orig><reg>presque</reg></mod> tous le plus<lb/>
+<mod type="corr"><orig>tétus</orig><reg>tétu</reg></mod> se <mod type="corr"><orig>fachat</orig><reg>fâcha</reg></mod> avec la <mod type="corr"><orig>maîtr<mod type="del" stage="" who=""><del>è</del></mod>esse</orig><reg>maîtresse</reg></mod> elle lui quand <mod type="corr"><orig>ont</orig><reg>on</reg></mod><lb/>
+<mod type="corr"><orig>retrera</orig><reg>rentrera</reg></mod> tu vas aller au <mod type="corr"><orig>quoint</orig><reg>coin</reg></mod> il rentra de sport<lb/>
+mais la <mod type="corr"><orig>maître</orig><reg>maîtresse</reg></mod> a <mod type="corr"><orig>oublier</orig><reg>oublié</reg></mod> la punition et Mia la plus<lb/>
+<mod type="corr"><orig>jouli</orig><reg>jolie</reg></mod> fille de toute l’école dit à la maîtresse §<lb/>
+
+<pb/>
+« <mod type="corr"><orig>maîtresse</orig><reg>Maîtresse</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>ta</del></mod></del><add stage="" who="">ta</add></mod></orig><reg>t’as</reg></mod> <mod type="corr"><orig>oublier</orig><reg>oublié</reg></mod> de <mod type="corr"><orig>mètre</orig><reg>mettre</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>gar</del></mod></del><add stage="" who="">Gari</add></mod> au <mod type="corr"><orig>quoint</orig><reg>coin</reg></mod> ».<lb/>
+«Oui c’est vrai Gari va au <mod type="corr"><orig>quoint</orig><reg>coin</reg></mod> » Gari dit «<lb/>
+oui maitresse tout de suite » bien <mod type="corr"><orig>faite</orig><reg>faites</reg></mod> les calculs qui <mod type="del" stage="" who=""><del>a</del></mod> au<lb/>
+tableau et les maths … Puis Gari sorti <mod type="corr"><orig>du<mod type="del" stage="" who=""><del>i</del></mod></orig><reg>du</reg></mod> <mod type="corr"><orig>quoint</orig><reg>coin</reg></mod><lb/>
+tout seul et la maîtresse le mit dans le rouge enfin<lb/>
+la <mod type="subst"><del><mod type="del" stage="" who=""><del>journee</del></mod></del><add stage="" who="">journée</add></mod> est terminée et tout le monde va<lb/>
+<mod type="corr"><orig>cher</orig><reg>chez</reg></mod> soi. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

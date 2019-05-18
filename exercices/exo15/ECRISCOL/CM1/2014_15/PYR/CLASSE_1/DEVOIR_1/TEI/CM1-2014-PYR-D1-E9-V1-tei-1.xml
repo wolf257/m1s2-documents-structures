@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E9-V1
+</head>
+<p>
+Il <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">etai</hi></orig><reg>était</reg></mod> une <hi place=" " time="" who="Pσ" style="underline"><mod type="del" stage="" who=""><del>foit</del></mod></hi> un petit garçon qui <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">aller</hi></orig><reg>allait</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>à</reg></mod><lb/>
+<hi place=" " time="" who="Pσ" style="underline">l'école</hi>. Tout <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>un</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> coup la toupie <mod type="corr"><orig>gli<mod type="subst"><del><mod type="del" stage="" who="P"><del>ca</del></mod></del><add stage="" who="P">ssa</add></mod></orig><reg>glissa</reg></mod> de <mod type="corr"><orig>c'est</orig><reg>ses</reg></mod> <mod type="add" stage="" who="P"><add>ses</add></mod><lb/>
+<mod type="corr"><orig>mai<hi place=" " time="" who="Pσ" style="underline">n</hi></orig><reg>mains</reg></mod> <mod type="add" stage="" who="P"><add>mais</add></mod> il ne <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>se</del></mod></del><add stage="" who="P">s'en</add></mod></orig><reg>s'en</reg></mod> <mod type="corr"><orig>rend<mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">it</add></mod></orig><reg>rendit</reg></mod> pas <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">contre</hi></orig><reg>compte</reg></mod> <mod type="add" stage="" who="P"><add>compte</add></mod>. §<lb/>
+<mod type="corr"><orig>A<mod type="add" stage="" who="P"><add>r</add></mod>rivé</orig><reg>Arrivé</reg></mod> dans la <mod type="corr"><orig>cour<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>cour</reg></mod> de <hi place=" " time="" who="Pσ" style="underline">l'école</hi> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi><mod type="add" stage="T2" who=""><add>A</add></mod>nne-<hi place=" " time="" who="Pσ" style="underline">l</hi>ise</orig><reg>Anne-Lise</reg></mod><lb/>
+lui demanda <mod type="add" stage="" who="P"><add>DEUX.S</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">t</hi><mod type="add" stage="T2" who=""><add>T</add></mod>u</orig><reg>Tu</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>as</reg></mod> perdu quelque chose<lb/>
+Oui <mod type="add" stage="" who="P"><add>,</add></mod> ma toupie chinoise <mod type="add" stage="" who="P"><add>,</add></mod> sur le chemin<lb/>
+de l'<mod type="corr"><orig>{Pσecole}</orig><reg>école</reg></mod>. <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">j</hi><mod type="add" stage="T2" who=""><add>J</add></mod>e</orig><reg>Je</reg></mod> vais <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">tesder</hi></orig><reg>t'aider</reg></mod> <mod type="add" stage="" who="P"><add>t'aider</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> la <mod type="corr"><orig>retrouv<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>retrouver</reg></mod> <mod type="del" stage="" who="P"><del>dit</del></mod><lb/>
+<mod type="add" stage="" who="P"><add>dit Anne-Lise .</add></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>gabrile</del></mod></orig><reg>Gabriel</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>gabriele</add></mod></orig><reg>Gabriel</reg></mod>. <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">j</hi><mod type="add" stage="T2" who=""><add>J</add></mod>e</orig><reg>Je</reg></mod> <mod type="corr"><orig>veu<mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">x</add></mod></orig><reg>veux</reg></mod> bien <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">tédé</hi></orig><reg>t'aider</reg></mod> <mod type="add" stage="" who="P"><add>t'aider</add></mod> à la <mod type="corr"><orig>cherch<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">er .</add></mod></orig><reg>chercher</reg></mod> Oh oui <mod type="add" stage="" who="P"><add>,</add></mod><lb/>
+c'est vrai <mod type="add" stage="" who="P"><add>,</add></mod> tu <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">fera</hi></orig><reg>feras</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">ç</add></mod>a</orig><reg>ça</reg></mod> pour moi <mod type="add" stage="" who="P"><add>.</add></mod> Oui <mod type="add" stage="" who="P"><add>,</add></mod> <mod type="corr"><orig>biensure</orig><reg>bien sûr</reg></mod> <mod type="add" stage="" who="P"><add>bien sûr .</add></mod><lb/>
+<mod type="corr"><orig><mod type="del" stage="" who="P"><del>dabore</del></mod></orig><reg>d'abord</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">j</hi><mod type="add" stage="T2" who=""><add>J</add></mod>e</orig><reg>Je</reg></mod> vais <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">dabore</hi></orig><reg>d'abord</reg></mod> <mod type="corr"><orig>dem<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">a</add></mod>nder</orig><reg>demander</reg></mod> au gardien<lb/>
+<mod type="corr"><orig><mod type="add" stage="" who="P"><add>Suis -</add></mod>moi</orig><reg>Suis-moi</reg></mod> mon petit <mod type="add" stage="" who="P"><add>,</add></mod> je vais te <mod type="corr"><orig>montr<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>monter</reg></mod> une<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">Sale</hi></orig><reg>salle</reg></mod>. Oui! <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">s</hi><mod type="add" stage="T2" who=""><add>S</add></mod>uper<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>Super</reg></mod> est <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>là</reg></mod>! <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">m</hi><mod type="add" stage="T2" who=""><add>M</add></mod>erci</orig><reg>Merci</reg></mod> <mod type="corr"><orig>monsieu<mod type="add" stage="" who="P"><add>r</add></mod></orig><reg>monsieur</reg></mod><lb/>
+le gardien. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

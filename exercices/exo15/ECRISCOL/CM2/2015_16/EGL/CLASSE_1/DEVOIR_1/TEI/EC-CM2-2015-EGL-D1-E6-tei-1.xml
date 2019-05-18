@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D1-E6
+</head>
+<p>
+<pb/>
+Alors le dimanche, je suis monté dans l'arbre dehors j'ai<lb/>
+<mod type="corr"><orig>crier</orig><reg>crié</reg></mod> de toutes mes forces pour que mes parents m'<mod type="corr"><orig>entende</orig><reg>entendent</reg></mod>.<lb/>
+Ils ont tout de suite <mod type="corr"><orig>appelés</orig><reg>appelé</reg></mod> les pompiers mais ils étaient<lb/>
+tous <mod type="corr"><orig>occupé</orig><reg>occupés</reg></mod> à <mod type="corr"><orig>étindre</orig><reg>éteindre</reg></mod> l'incendie de l'immeuble au loin.<lb/>
+Alors nous avons <mod type="corr"><orig>du</orig><reg>dû</reg></mod> attendre 7 <mod type="corr"><orig>h</orig><reg>heures</reg></mod> mes parents s'<mod type="corr"><orig>inquieter</orig><reg>inquiétaient</reg></mod><lb/>
+énormément. Enfin ils arrivent et comme j'avais le<lb/>
+vertige j'étais <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>comptent</orig><reg>content</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> me <mod type="corr"><orig>descenderre</orig><reg>descendirent</reg></mod> très<lb/>
+rapidement. Le lendemain matin, j'étais persuadé que<lb/>
+j'allais avoir une bonne note. Super <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> sonne mais<lb/>
+la maîtresse nous a pas ouvert les portes comme d'<mod type="corr"><orig>habidude</orig><reg>habitude</reg></mod>.<lb/>
+Alors nous avons ouvert les portes la porte de la<lb/>
+classe était <mod type="corr"><orig>férmé</orig><reg>fermée</reg></mod> une <mod type="corr"><orig>remplassante</orig><reg>remplaçante</reg></mod> est <mod type="corr"><orig>venu</orig><reg>venue</reg></mod> nous<lb/>
+lui avons <mod type="corr"><orig>demander</orig><reg>demandé</reg></mod> où était la maîtresse. C'était la<lb/>
+mauvaise <mod type="corr"><orig>nouvel</orig><reg>nouvelle</reg></mod> elle était morte avec l'incendie de<lb/>
+hier. <mod type="corr"><orig>nous</orig><reg>Nous</reg></mod> lui avons dit ce que nous faisions le matin §<lb/>
+
+<pb/>
+j'ai eu 10/10 <mod type="corr"><orig>a</orig><reg>à</reg></mod> ma rédaction §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

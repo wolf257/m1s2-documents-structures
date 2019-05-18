@@ -1,0 +1,190 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E12-V2
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles, d'une obscurité et d'une<lb/>
+	
+épaisseur d'encre, l'homme depuis un moment déjà marchait quand<lb/>
+
+il aperçut au loin la lumière d'un réverbère. <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">De</add></mod> puis un moment<lb/>
+
+déjà est un euphémisme: à chaque pas une douleur aïgue le<lb/>
+
+transperçait de part en part. La <mod type="corr"><orig>vu</orig><reg>vue</reg></mod> paradisïaque de ce réverbère<lb/>
+
+le fit courir jusque dans le halo de lumière et il se mit en<lb/>
+
+boule sur le goudron tellement doux et lisse de cette route.<lb/>
+
+Maintenant, sous la lumière on pouvait <mod type="corr"><orig>distingué</orig><reg>distinguer</reg></mod> tout de <mod type="corr"><orig>cette</orig><reg>cet</reg></mod><lb/>
+
+"homme". Il était <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">plus que maigre</add></mod>, il avait la peau sur les os et<lb/>
+
+<mod type="del" stage="" who=""><del>XXX#</del></mod> si blanche que la lumière du jour <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del>le turais</del></mod></del><add stage="T2" who="">la brûlerais</add></mod></orig><reg>la brûlerait</reg></mod>. Cet<lb/>
+
+homme était nommé dans le passé Alexandre mais <mod type="corr"><orig>a</orig><reg>à</reg></mod> quoi bon? Il avait<lb/>
+
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">en réalité</add></mod> <mod type="subst"><del><mod type="del" stage="T2" who=""><del>sa</del></mod></del><add stage="T2" who="">vingt</add></mod> ans mais en paraissait <mod type="subst"><del><mod type="del" stage="T2" who=""><del>40</del></mod></del><add stage="T2" who="">quarante</add></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> cause de sa peau ridé<mod type="add" stage="T2" who=""><add>e</add></mod> et <mod type="add" stage="T2" who=""><add>de</add></mod><lb/>
+
+son <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">manque</add></mod> de nourriture. Cela <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">faisait</add></mod> trois mois que la lumière du<lb/>
+
+jour ne lui <mod type="corr"><orig>ét<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">ait</add></mod></orig><reg>était</reg></mod> pas <mod type="corr"><orig>parvenu</orig><reg>parvenue</reg></mod>. Ses yeux <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> <mod type="corr"><orig>devenu</orig><reg>devenus</reg></mod> presque <mod type="corr"><orig>aveugle</orig><reg>aveugles</reg></mod> §<lb/>
+
+
+<pb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> cause de l'obscurité permanente. Il portait anciennement une<lb/>
+
+chemise <mod type="corr"><orig>bleu</orig><reg>bleue</reg></mod> avec des fleurs des tropiques qui maintenant n'<mod type="corr"><orig>était</orig><reg>étaient</reg></mod> plus<lb/>
+
+que des lambeaux de tissus <mod type="corr"><orig>taché<mod type="add" stage="T2" who=""><add>es</add></mod></orig><reg>tâchés</reg></mod> de sang, de boue, de poussière et<lb/>
+
+même d'<mod type="corr"><orig>ancienne</orig><reg>anciennes</reg></mod> <mod type="corr"><orig>larme</orig><reg>larmes</reg></mod> <mod type="corr"><orig>qu<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">and</add></mod></orig><reg>quand</reg></mod> il avait assez d'eau dans son corps pour<lb/>
+
+pouvoir pleurer. Il était aussi vêtu d'un jean: jean qui était<lb/>
+
+réputé pour sa robustesse à toute épreuve. Maintenant réduit à<lb/>
+
+l'état de bouts de tissus <mod type="corr"><orig>corbonisé<mod type="subst"><del><mod type="del" stage="T2" who=""><del>e</del></mod></del><add stage="T2" who="">s</add></mod></orig><reg>carbonisés</reg></mod> sur les <mod type="corr"><orig>extrémité<mod type="add" stage="T2" who=""><add>es</add></mod></orig><reg>extrémités</reg></mod> et <mod type="corr"><orig>déchi<mod type="subst"><del><mod type="del" stage="T2" who=""><del>er</del></mod></del><add stage="T2" who="">és</add></mod></orig><reg>déchiré</reg></mod> <mod type="corr"><orig>part</orig><reg>par</reg></mod><lb/>
+
+des ronces ou <mod type="corr"><orig>part</orig><reg>par</reg></mod> des chutes il ne se <mod type="corr"><orig>rapellait</orig><reg>rappelait</reg></mod> même plus De<lb/>
+
+la même manière, ses chaussures de marche d'excellente facture<lb/>
+
+étaient tellement <mod type="corr"><orig><mod type="subst"><del>usé</del><add stage="T2" who="">es</add></mod></orig><reg>usées</reg></mod> qu'à <mod type="corr"><orig>certain<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>certains</reg></mod> <mod type="corr"><orig>moment<mod type="add" stage="" who=""><add>T2s</add></mod></orig><reg>moments</reg></mod> on pouvait voir une<lb/>
+
+chaussette sortir par l'avant des chaussures. Lorsqu'Alexandre bayait<lb/>
+
+on pouvait ses dents <mod type="corr"><orig>apparaître<mod type="add" stage="T2" who=""><add>ent</add></mod></orig><reg>apparaître</reg></mod> ou plûtot ce qui en restait car à ca#XXX#.<lb/>
+
+Les multiples carences et par le manque de lumière, il avait perdu<lb/>
+
+presque la totalité de ses dents. Pareil pour ses mains <mod type="corr"><orig>auquelles</orig><reg>auxquelles</reg></mod> il<lb/>
+
+ne restait que les ongles  des <mod type="del" stage="" who=""><del>XXX#</del></mod> pouces. §<lb/>
+
+L'homme portait également un sac à dos, ce dernier étant §<lb/>
+
+
+<pb/>
+rempli de tous les trésors minéraux du monde: des cristaux<lb/>
+
+magnifiques, des pierres précieuses <mod type="corr"><orig>énorme<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>énormes</reg></mod>, <mod type="corr"><orig>de<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>des</reg></mod> roches volcaniques rares<lb/>
+
+et mêmes l'<mod type="corr"><orig>ensembles</orig><reg>ensemble</reg></mod> des diamants composant le collier de la reine<lb/>
+
+Elizabeth. En temps normal il ferait <mod type="corr"><orig>parti</orig><reg>partie</reg></mod> des personnes les plus<lb/>
+
+<mod type="corr"><orig>riche</orig><reg>riches</reg></mod> du monde et il serait snob. <mod type="corr"><orig>Mait</orig><reg>Mais</reg></mod> maintenant en terme de<lb/>
+
+richesse il sait qu'il l'<mod type="add" stage="T2" who=""><add>etait: l'homme le plus riche du monde...</add></mod><lb/>
+
+La planète était dans une sorte de communisme extrême<lb/>
+
+tous appartenait à <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> le monde sans restriction sauf qu'il était<lb/>
+
+le seul <mod type="corr"><orig>a</orig><reg>à</reg></mod> pouvoir en <mod type="corr"><orig>profité</orig><reg>profiter</reg></mod>... ironie du sort. Il pensait avoir<lb/>
+
+trouvé un bon nom pour cet état politique: l'apocalyspe. Vous<lb/>
+
+savez la même que dans "Apocalyspe noir". De toute façon rien n'était<lb/>
+
+plus pareil depuis que la Lune est <mod type="corr"><orig>entré</orig><reg>entrée</reg></mod> en colision avec la terre... §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

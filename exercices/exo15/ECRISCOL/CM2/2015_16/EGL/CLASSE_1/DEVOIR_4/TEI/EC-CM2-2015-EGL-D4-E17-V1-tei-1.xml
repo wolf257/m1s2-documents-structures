@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E17-V1
+</head>
+<p>
+<pb/>
+Pedro donne une lettre à Nelly avec <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>marquer</del></mod></del><add stage="T2" who=""><sup>T2</sup>écrit</add></mod> dessus <metamark place=" " time="T3" who="P" style="underline">phrase ou partie de phrase incorrecte à réécrire</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>où il est écrit dessus</add></mod>  «NELLY<lb/>
+JE T'AIME» mais malheureusement Nelly n'a pas répondu. <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>Pedo</del></mod></del><add stage="T2" who=""><sup>T2</sup>Pedro</add></mod> ne<lb/>
+<hi place=" " time="T3" who="Pσ" style="underline">savait</hi><metamark place=" " time="T3" who="P" style="underline">temps</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>sait</add></mod> plus quoi faire, il décide alors de <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>l'invite</del></mod></del><add stage="T2" who=""><sup>T2</sup>l'inviter</add></mod> chez lui mais<lb/>
+Nelly <hi place=" " time="T3" who="Pσ" style="underline">n'a pas répondu</hi><metamark place=" " time="T3" who="P" style="underline">R</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>ne répondit pas</add></mod> à sa demande. Il décide <mod type="del" stage="" who=""><del><sup></sup>alors</del></mod> d'aller<lb/>
+à la mairie demander au <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>mair</del></mod></del><add stage="T2" who=""><sup>T2</sup>maire</add></mod> où est sa fille.<hi place=" " time="T3" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>Le</del></mod></del><add stage="T2" who=""><sup>T2</sup>La</add></mod> maire</hi><metamark place=" " time="T3" who="P" style="underline">R</metamark> <mod type="add" stage="T4" who=""><add><sup>T4</sup>Le père de la fille</add></mod> lui<lb/>
+dit <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>quel</del></mod></del><add stage="T2" who=""><sup>T2</sup>qu'elle</add></mod> est dans sa chambre et qu'il peut aller la voir. Donc celui-ci<lb/>
+court immédiatement la voir pour lui dire «NELLY Je<lb/>
+T'AIME», <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>mais</del></mod></del><add stage="T2" who=""><sup>T2</sup>or</add></mod> elle ne <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>réponds</del></mod></del><add stage="T2" who=""><sup>T2</sup>répondit</add></mod></hi><metamark place=" " time="T3" who="P" style="underline">Qui</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>réponds</add></mod></orig><reg>répond</reg></mod> pas et part de <mod type="corr"><orig>se</orig><reg>sa</reg></mod> chambre.§
+
+<pb/>
+Enfin il essaye sa dernière idée. Il demande à son père si<lb/>
+<hi place=" " time="T3" who="Pσ" style="underline">il n'aurai</hi><metamark place=" " time="T3" who="" style="underline">temps</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>n'aurait</add></mod> pas un <mod type="corr"><orig>porte-vo<hi place=" " time="T3" who="Pσ" style="underline">ie</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>voit</add></mod></orig><reg>porte-voix</reg></mod> mais il n'en n'<hi place=" " time="T3" who="Pσ" style="underline">à</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>n'a</add></mod> <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>pas</del></mod></del><add stage="T2" who=""><sup>T2</sup>pas.</add></mod>. Du<lb/>
+coup il part voir sa mère qui en <hi place=" " time="T3" who="Pσ" style="underline">à</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>a</add></mod> <mod type="corr"><orig>1</orig><reg>un</reg></mod> un Pedro <mod type="corr"><orig>emp<hi place=" " time="T3" who="Pσ" style="underline">re</hi>inte<mod type="add" stage="T4" who=""><add><sup>T4</sup>emprainte</add></mod></orig><reg>empreinte</reg></mod><lb/>
+le <mod type="corr"><orig>porte<mod type="add" stage="T3" who="P"><add><sup>T3P</sup>-</add></mod>voi<hi place=" " time="T3" who="Pσ" style="underline">e</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>voit</add></mod></orig><reg>porte-voix</reg></mod> <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>pas</del></mod></del><add stage="T2" who=""><sup>T2</sup>part</add></mod> à cheval devant la <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>mairi</del></mod></del><add stage="T2" who=""><sup>T2</sup>mairie</add></mod> et <mod type="del" stage="T2" who=""><del><sup>T2</sup><mod type="subst"><del>dite</del></mod></del><add stage="T2" who=""><sup>T2</sup>dit</add></mod> <mod type="del" stage="T2" who=""><del><sup>T2</sup>dans</del></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">le porte-voie</hi></del></mod></del><add stage="T4" who=""><sup>T4</sup>la haute voit</add></mod><metamark place=" " time="T3" who="P" style="underline">R</metamark> «Nelly <mod type="corr"><orig>veu<hi place=" " time="T3" who="Pσ" style="underline">t</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>veux</add></mod> tu</orig><reg>veux-tu</reg></mod> m'épouser?». Cette<lb/>
+fois Nelly répond et dit «OUI».§
+Ainsi Pedro et Nelly <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>se marire</del></mod></del><add stage="T2" who=""><sup>T2</sup>se marièrent,</add></mod>, <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>vécure heureux</del></mod></del><add stage="T2" who=""><sup>T2</sup>et vécu<hi place=" " time="T3" who="Pσ" style="underline">re</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>vécurent</add></mod> heureux.</add></mod>.§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

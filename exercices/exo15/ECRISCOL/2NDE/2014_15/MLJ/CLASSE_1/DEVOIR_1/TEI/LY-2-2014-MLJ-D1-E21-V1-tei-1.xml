@@ -1,0 +1,138 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E21-V1
+</head>
+<p>
+<pb/>
+L'homme avançait toujours, il était assez grand,<lb/>
+habillé tout de <mod type="corr"><orig>noire</orig><reg>noir</reg></mod> <mod type="corr"><orig>ils</orig><reg>il</reg></mod> était que très peu visible,<lb/>
+la lumière <mod type="subst"><del><mod type="del" stage="" who=""><del>des</del></mod></del><add stage="" who="">du</add></mod> réverbère éclairait sont visage pâle<lb/>
+au menton carré et au <mod type="corr"><orig>tr<mod type="subst"><del><mod type="del" stage="" who=""><del>è</del></mod></del><add stage="" who="">ai</add></mod>ts</orig><reg>traits</reg></mod> <mod type="corr"><orig>définient</orig><reg>définis</reg></mod>, seuls deux<lb/>
+petits yeux <mod type="corr"><orig>apportait</orig><reg>apportaient</reg></mod> un peu de luminosité à ce<lb/>
+personnage aux sourcils broussailleux et au nez marqué, <mod type="subst"><del><mod type="del" stage="" who=""><del>sa</del></mod></del><add stage="" who="">dont la</add></mod> perruque poudrée ne tenait plus <mod type="del" stage="" who=""><del>vraiment</del></mod> <mod type="add" stage="" who=""><add>en place, probablement <mod type="corr"><orig>du</orig><reg>dû</reg></mod> au <mod type="corr"><orig>faite</orig><reg>fait</reg></mod> qui l'<mod type="subst"><del><mod type="del" stage="" who=""><del>avanceait</del></mod></del><add stage="" who="">avancait</add></mod> à une vitesse incroyable, s'il avait comme nous nomiont #XXX# #XXX# #XXX# #XXX# #XXX# différence.</add></mod><lb/>
+L'homme <mod type="del" stage="" who=""><del>avançait</del></mod> se <mod type="corr"><orig>déplac<mod type="subst"><del><mod type="del" stage="" who=""><del>è</del></mod></del><add stage="" who="">ai</add></mod>t</orig><reg>déplaçait</reg></mod> comme <mod type="corr"><orig>obsairvé</orig><reg>observé</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">,</add></mod><lb/>
+l'on aurait pu croire que dans ce manteau <mod type="corr"><orig>noire</orig><reg>noir</reg></mod><lb/>
+dont il était vêtu <mod type="corr"><orig>ce</orig><reg>se</reg></mod> trouvait <mod type="subst"><del><mod type="del" stage="" who=""><del>là la</del></mod></del><add stage="" who="">le</add></mod> plus <mod type="corr"><orig>grand<mod type="del" stage="" who=""><del>XXX#</del></mod></orig><reg>grand</reg></mod> des<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX# #XXX#</del></mod></del><add stage="" who="">des secrets.</add></mod> §<lb/>
+Dèrrier le réverbère, <mod type="del" stage="" who=""><del>XXX# à</del></mod> un homme masqué <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">l'y</add></mod><lb/>
+attendait <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">il</add></mod> était vêtu d'un bleu nuit <mod type="corr"><orig>tres</orig><reg>très</reg></mod> noble<lb/>
+orné de quelques <mod type="corr"><orig>brodure</orig><reg>bordures</reg></mod> d'argent, il <mod type="corr"><orig>chuchotat</orig><reg>chuchota</reg></mod> à<lb/>
+l'homme en <mod type="corr"><orig>noire</orig><reg>noir</reg></mod> qui sortit une lettre et un<lb/>
+carnet de son manteau, qui était <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> deux<lb/>
+<mod type="corr"><orig>orné</orig><reg>ornés</reg></mod> d'un sceau où était représenté un serpent<lb/>
+qui formait un huit couché en ce mordant la <mod type="corr"><orig>queu</orig><reg>queue</reg></mod><lb/>
+au centre de <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">c</add></mod>e</orig><reg>ce</reg></mod> sceau, <mod type="del" stage="" who=""><del>se t#XXX#</del></mod> une étoile.<lb/>
+<mod type="del" stage="" who=""><del>En ce tendant la main</del></mod> Au moment où les deux<lb/>
+hommes ce tendirent la main, l'un pour donner<lb/>
+l'autre pour récupérer, l'on peut <mod type="corr"><orig>voire</orig><reg>voir</reg></mod> que tout<lb/>
+deux <mod type="corr"><orig>possaidait</orig><reg>possaidaient</reg></mod> un tatouage <mod type="add" stage="" who=""><add>au niveau du poigné droit</add></mod> pareil au sceau<lb/>
+qui <mod type="corr"><orig>ce</orig><reg>se</reg></mod> trouvait sur la lettre et le carnet.<lb/>
+L'homme masqué <mod type="corr"><orig>récuperat</orig><reg>récupéra</reg></mod> les deux <mod type="corr"><orig>objet</orig><reg>objets</reg></mod> et <mod type="corr"><orig>jettat</orig><reg>jeta</reg></mod><lb/>
+un coup d'<mod type="corr"><orig>oeuil</orig><reg>oeil</reg></mod> dans le carnet, celui-ci était<lb/>
+complet de <mod type="corr"><orig>nom</orig><reg>noms</reg></mod> completés de deux dates par<lb/>
+individu, ces personnes <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">étaient toutes des femmes,</add></mod> toutes nées en juin<lb/>
+et <mod type="del" stage="" who=""><del>XXX#</del></mod> toutes <mod type="corr"><orig>mortent</orig><reg>mortes</reg></mod> un 18 janvier. §<lb/>
+
+<pb/>
+Les deux hommes <mod type="corr"><orig>faisait</orig><reg>faisaient</reg></mod> <mod type="corr"><orig>partit</orig><reg>partie</reg></mod> d'une secte<lb/>
+visant à faire croire en la <mod type="corr"><orig>renaiscence</orig><reg>renaissance</reg></mod><lb/>
+du divinité grâce au sacrifice d'une jeune <mod type="corr"><orig>fem</orig><reg>femme</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>morte</del></mod> née en juin et morte un 18 janvier. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

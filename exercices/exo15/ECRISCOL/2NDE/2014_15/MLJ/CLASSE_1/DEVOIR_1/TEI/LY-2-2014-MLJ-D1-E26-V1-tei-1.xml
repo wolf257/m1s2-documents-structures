@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E26-V1
+</head>
+<p>
+<pb/>
+Il s'y arreta quelques minutes pour voir un peu plus<lb/>
+claire dans cette <mod type="subst"><del><mod type="del" stage="" who=""><del>obscuri</del></mod></del><add stage="" who="">nuit</add></mod> noir <mod type="del" stage="" who=""><del>et dans ses idées</del></mod>. <mod type="corr"><orig>Grace</orig><reg>Grâce</reg></mod><lb/>
+à cette lumière nous pouvions voir à quoi ressemblait<lb/>
+cet homme <mod type="del" stage="" who=""><del>adepte des balads en pleine nuit</del></mod> qui <mod type="subst"><del><mod type="del" stage="" who=""><del>revenait<lb/> des courses</del></mod></del><add stage="" who="">XXX# travail de nuit.</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>Il est 16h30</del></mod></del><add stage="" who="">Il <mod type="corr"><orig>etait</orig><reg>était</reg></mod> <mod type="del" stage="" who=""><del>1</del></mod> 8h25</add></mod> <mod type="add" stage="" who=""><add>il reste <mod type="corr"><orig>a</orig><reg>à</reg></mod> pied #XXX# #XXX# #XXX# #XXX#</add></mod> au Nord de la <mod type="corr"><orig>russi</orig><reg>Russie</reg></mod><lb/> 
+dans la région <mod type="corr"><orig>o<mod type="subst"><del><mod type="del" stage="" who=""><del>ù</del></mod></del><add stage="" who="">u</add></mod></orig><reg>où</reg></mod> la particularité est <mod type="subst"><del><mod type="del" stage="" who=""><del>qu'il</del></mod></del><add stage="" who="">que</add></mod> pendant<lb/>
+<mod type="corr"><orig>6</orig><reg>six</reg></mod> mois c'est le noir complet sans que le soleil ne se montre et<lb/>
+<mod type="corr"><orig>6</orig><reg>six</reg></mod> mois <mod type="corr"><orig>ou</orig><reg>où</reg></mod> le soleil ne veut plus quitter le ciel. Aprés ces<lb/>
+5 minutes d'<mod type="corr"><orig>arret</orig><reg>arrêt</reg></mod> l'homme repart et rentre seul chez lui.<lb/>
+Il est <mod type="subst"><del><mod type="del" stage="" who=""><del>venu vetu</del></mod></del><add stage="" who=""><mod type="corr"><orig>vêtut</orig><reg>vêtu</reg></mod></add></mod> d'un habit blanc, de grosses notes et une<lb/>
+chap#XXX#. Une fois <mod type="corr"><orig>rentré<mod type="del" stage="" who=""><del>XXX</del></mod></orig><reg>rentré</reg></mod> chez lui, <mod type="del" stage="" who=""><del>dans</del></mod> appartement où il vit<lb/>
+seul. <mod type="del" stage="" who=""><del>XXX#</del></mod>. Cet homme est organisé, il prend sa douche, <mod type="del" stage="" who=""><del>dejeune</del></mod> s'ha-<lb/>
+bille dejeune, fais la vaiselle et va acheter le journal. Il <mod type="subst"><del><mod type="del" stage="" who=""><del>aime</del></mod></del><add stage="" who="">est</add></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>les solitudes #XXX#</del></mod></del><add stage="" who="">solitaire car</add></mod> <mod type="del" stage="" who=""><del>il n'a jamais été en couple ou eut de réels<lb/>
+amis</del></mod> <mod type="add" stage="" who=""><add>vraiment</add></mod> <mod type="del" stage="" who=""><del>mais ce fait lui à surement permis de reussir dans la vie<lb/>
+à l'école il etait un élève moyen mais</del></mod> <mod type="corr"><orig>travailler</orig><reg>travaillé</reg></mod> <mod type="corr"><orig>ce<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>ce</reg></mod> <mod type="del" stage="" who=""><del><mod type="subst"><del>#XXX#</del><add stage="" who="">trait</add></mod> de caractère<lb/> lui <mod type="subst"><del>sont</del><add stage="" who="">ai</add></mod> #XXX#</del></mod>. Il revoit personne <mod type="corr"><orig>appart</orig><reg>à part</reg></mod> ses <mod type="del" stage="" who=""><del>famille</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>et</del></mod></del><add stage="" who="">ses collegue et</add></mod> ses proches <mod type="corr"><orig>cest</orig><reg>c'est</reg></mod><lb/>
+à dire son frère et sa mère <mod type="subst"><del><mod type="del" stage="" who=""><del>aux</del></mod></del><add stage="" who=""><mod type="corr"><orig>a</orig><reg>à</reg></mod></add></mod> qui il est très attaché. Malgré<lb/>
+ça ce jeune homme d'<mod type="corr"><orig>un</orig><reg>une</reg></mod> vingtaine d'années assez grand, avec<lb/>
+les traits du visage <mod type="corr"><orig>fin</orig><reg>fins</reg></mod> et les yeux bleus <mod type="add" stage="" who=""><add>lorsqu'il</add></mod> pratique la natation et<lb/>
+cours quelques fois <mod type="del" stage="" who=""><del>avant d'aller travailler</del></mod> quand il ne sait<lb/>
+pas quoi faire. Il habite loins de sa famille par son travail, ce<lb/>
+qui le rendu <mod type="subst"><del><mod type="del" stage="" who=""><del>encor</del></mod></del><add stage="" who="">encore</add></mod> plus solitaire mais mais ce fut <mod type="corr"><orig>a</orig><reg>à</reg></mod> cause du<lb/>
+<mod type="corr"><orig>decés</orig><reg>décès</reg></mod> de son pere qu'il se <mod type="subst"><del><mod type="del" stage="" who=""><del>ref</del></mod></del><add stage="" who="">renferma</add></mod> sur lui même, <mod type="corr"><orig>malgrés</orig><reg>malgré</reg></mod><lb/>
+cela ce jeune homme aime <mod type="corr"><orig>prendr<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">e</add></mod></orig><reg>prendre</reg></mod> soin de lui. Il songe <mod type="corr"><orig>a</orig><reg>à</reg></mod><lb/>
+quitter la Russie et revenir en France car c'est son pays natale.<lb/>
+Il accepte beaucoup de <mod type="corr"><orig>mutation</orig><reg>mutations</reg></mod> car il aime voyager, <mod type="del" stage="" who=""><del>son metier<lb/> est</del></mod> §<lb/>
+ </p>
+</div>
+﻿</body>
+</text>
+</TEI>

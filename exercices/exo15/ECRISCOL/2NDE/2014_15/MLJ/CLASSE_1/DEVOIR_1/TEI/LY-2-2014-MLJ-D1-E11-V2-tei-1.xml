@@ -1,0 +1,154 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E11-V2
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles, d'une obscurité et d'une épaisseur<lb/>
+d'encre, l'homme depuis un moment déjà marchait quand<lb/>
+il <mod type="corr"><orig>apperçut</orig><reg>aperçut</reg></mod> au loin de lumière d'un réverbère. §<lb/>
+Ce <mod type="corr"><orig>r<mod type="subst"><del><mod type="del" stage="T2" who=""><del>e</del></mod></del><add stage="T2" who="">é</add></mod>verbère</orig><reg>réverbère</reg></mod> était à plus de 500 mètres mais<lb/>
+il l'arrivait car c'était la seule source de <mod type="corr"><orig>lumi<mod type="subst"><del><mod type="del" stage="T2" who=""><del>e</del></mod></del><add stage="T2" who="">è</add></mod>re</orig><reg>lumière</reg></mod><lb/>
+qu'il avait <mod type="corr"><orig>vu<mod type="add" stage="T2" who=""><add>e</add></mod></orig><reg>vue</reg></mod> depuis plus d'une heure <mod type="add" stage="T2" who=""><add>.</add></mod> l'homme <mod type="add" stage="T2" who=""><add>,</add></mod><lb/>
+suite à une dispute avec sa femme <mod type="add" stage="T2" who=""><add>,</add></mod> quitta son domicile.<lb/>
+Il ne pouvait plus s'arrêter. Pour lui les années<lb/>
+passées avec sa femme <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del>e</del></mod></del><add stage="T2" who="">é</add></mod>taient</orig><reg>étaient</reg></mod> maintenant <mod type="corr"><orig>terminée<mod type="add" stage="T2" who=""><add>s.</add></mod></orig><reg>terminées</reg></mod><lb/>
+ §<lb/>
+Moralement atteint par cette dispute, plusieurs sentiments<lb/>
+le <mod type="corr"><orig>traversai<mod type="add" stage="T2" who=""><add>ent</add></mod></orig><reg>traversaient</reg></mod> et le <mod type="corr"><orig>mettai<mod type="add" stage="T2" who=""><add>en</add></mod>t</orig><reg>mettaient</reg></mod> mal à l'aise, à savoir la<lb/>
+colère accumulée pendant cet affrontement, de la<lb/>
+tristesse et <mod type="subst"><del><mod type="del" stage="T2" who=""><del>le</del></mod></del><add stage="T2" who="">du</add></mod> désespoir car <mod type="del" stage="" who=""><del>p</del></mod> allait devoir repartir<lb/>
+à zéro, pour recommencer sa vie. Malgré tous<lb/>
+ses sentiments malheureux <mod type="add" stage="T2" who=""><add>,</add></mod>seulement un d'eux était<lb/>
+la joie. Certes il <mod type="del" stage="" who=""><del>n</del></mod> était seul dans l'obscurité sans<lb/>
+endroit ou aller sauf qu'il était libre de faire ce<lb/>
+qu'il voulait quant il le voulait. §<lb/>
+ §<lb/>
+Cela faisait <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="T2" who=""><del>e</del></mod></del><add stage="T2" who="">é</add></mod>sormais</orig><reg>désormais</reg></mod> <mod type="corr"><orig>2</orig><reg>deux</reg></mod> heures que cet homme était<lb/>
+assis là à côté de ce <mod type="add" stage="T2" who=""><add>reverbère,</add></mod> le seul qui fonctio-<lb/>
+-nnait de toute la ville. Il restait là à ce <mod type="corr"><orig>comtempler</orig><reg>contempler</reg></mod>.<lb/>
+Il était <mod type="corr"><orig>vêtue</orig><reg>vêtu</reg></mod> d'un <mod type="del" stage="" who=""><del>g</del></mod> <mod type="corr"><orig>tee-shirt</orig><reg>t-shirt</reg></mod> qui ne servait stricte-<lb/>
+-ment <mod type="corr"><orig>a</orig><reg>à</reg></mod> rien puisque sa femme l'avait déchiré<lb/>
+pendant cette dispute. <mod type="corr"><orig>Au dessus</orig><reg>Au-dessus</reg></mod> de ce <mod type="corr"><orig>tee-shirt</orig><reg>t-shirt</reg></mod>, il portait §<lb/>
+
+<pb/>
+un gilet mais qui le protégeait à peine <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">e</add></mod></orig><reg>de</reg></mod> ce<lb/>
+froid glacial, son pantalon au contraire le <mod type="corr"><orig>rechaufait</orig><reg>réchauffait</reg></mod>.<lb/>
+Il avait les cheveux longs et <mod type="add" stage="" who=""><add>de #XXX#</add></mod> sales tombant sur <mod type="corr"><orig><mod type="del" stage="T2" who=""><del>c</del></mod><mod type="add" stage="T2" who=""><add>s</add></mod>es</orig><reg>ses</reg></mod> épaules.<lb/>
+Sous <mod type="corr"><orig>ces</orig><reg>ses</reg></mod> yeux remplis de cernes, <mod type="del" stage="" who=""><del>son</del></mod> une larme <mod type="del" stage="T2" who=""><del>#XXX#</del></mod> coulait,<lb/>
+ce qui témoignait l'état de fatigue dans lequel<lb/>
+il <mod type="subst"><del><mod type="del" stage="T2" who=""><del>est</del></mod></del><add stage="T2" who="">était</add></mod> réellement. Ses chaussures étaient <mod type="corr"><orig>troués</orig><reg>trouées</reg></mod><lb/>
+laissant <mod type="corr"><orig>pa<mod type="add" stage="T2" who=""><add>sser</add></mod></orig><reg>passer</reg></mod> l'<mod type="corr"><orig>air<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>air</reg></mod> à l'intérieur, ce qui le <mod type="corr"><orig>frigorifi<mod type="add" stage="T2" who=""><add>é</add></mod></orig><reg>frigorifiait</reg></mod><lb/>
+de haut en bas. <mod type="subst"><del><mod type="del" stage="T2" who=""><del>de</del></mod></del><add stage="T2" who="">Son></add></mod> corps <mod type="add" stage="T2" who=""><add>était</add></mod>, maigre et repoussant<lb/>
+comme <mod type="corr"><orig>si il</orig><reg>s'il</reg></mod> n'avait pas <mod type="corr"><orig>mang<mod type="del" stage="T2" who=""><del>er</del></mod><mod type="add" stage="T2" who=""><add>é</add></mod></orig><reg>mangé</reg></mod> pendant un mois.<lb/>
+Après <mod type="corr"><orig>4</orig><reg>qautre</reg></mod> heures d'<mod type="corr"><orig>ennui<mod type="del" stage="T2" who=""><del>s</del></mod></orig><reg>ennuis</reg></mod> et de <mod type="corr"><orig>reflexions</orig><reg>réflexions</reg></mod>, il ne pouvait<lb/>
+pas en tenir une de plus.<lb/>
+ §<lb/>
+Soudain il <mod type="corr"><orig>apperçut</orig><reg>aperçut</reg></mod> une personne s'approcher de lui<lb/>
+<mod type="corr"><orig>est</orig><reg>en</reg></mod> prononçant son nom "Paul". Cela était sans doute<lb/>
+une hallucination <mod type="corr"><orig>dût</orig><reg>due</reg></mod> à son manque de sommeil, <mod type="del" stage="" who=""><del>mais</del></mod><lb/>
+<mod type="del" stage="" who=""><del>il l'a voyait tres</del></mod> commençait à distinguer sa silhouette<lb/>
+<mod type="corr"><orig>malgré<mod type="del" stage="T2" who=""><del>s</del></mod></orig><reg>malgré</reg></mod> les larmes qui troublaient sa vision. <mod type="corr"><orig>Cétait</orig><reg>C'était</reg></mod><lb/>
+une femme <mod type="corr"><orig>minu<mod type="subst"><del><mod type="del" stage="T2" who=""><del>t</del></mod></del><add stage="T2" who="">e</add></mod></orig><reg>munie</reg></mod> d'une lampe torche, elle se<lb/>
+rapprochait de plus en plus. <mod type="corr"><orig>Arrivé</orig><reg>Arrivée</reg></mod> au <mod type="corr"><orig>r<mod type="del" stage="T2" who=""><del>e</del></mod><mod type="add" stage="T2" who=""><add>é</add></mod>verbère</orig><reg>réverbère</reg></mod><lb/>
+il <mod type="subst"><del><mod type="del" stage="T2" who=""><del>#XXX#</del></mod></del><add stage="T2" who="">#XXX#</add></mod> que c'était sa femme <mod type="corr"><orig>qu<mod type="subst"><del><mod type="del" stage="T2" who=""><del>i</del></mod></del><add stage="T2" who="">était</add></mod></orig><reg>qui était</reg></mod> <mod type="corr"><orig>ven<mod type="subst"><del><mod type="del" stage="T2" who=""><del>ait</del></mod></del><add stage="T2" who="">ue</add></mod></orig><reg>venue</reg></mod> le chercher<lb/>
+pour rentrer chez lui. <mod type="corr"><orig>l'</orig><reg>L'</reg></mod>homme retrouva le<lb/>
+sourire même <mod type="corr"><orig>si il</orig><reg>s'il</reg></mod> venait d'endurer une terrible <mod type="corr"><orig>epreuve</orig><reg>épreuve</reg></mod>.<lb/>
+En prenant du recul, il se rendit compte de cette<lb/>
+énorme erreur qui était de quitter sa femme. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

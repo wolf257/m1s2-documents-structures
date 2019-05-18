@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E14
+</head>
+<p>
+<pb/>
+
+La panique gagna la salle. Le professeur Dumbledore disait<lb/>
+aux élèves de se calmer, mais cela ne servit à rien.<lb/>
+Le professeur Quirrell alla dans son coin dès qu'il <mod type="add" stage="" who=""><add>fut</add></mod> réveillé<lb/>
+par les élèves qui le <mod type="corr"><orig>pientiner</orig><reg>piétiner</reg></mod>. Harry et Ron se <mod type="corr"><orig>glissè<lb/>rent</orig><reg>glissèrent</reg></mod> dans la foule pour aller prévenir Hermione qui<lb/>
+était toujours aux toilettes. Dès que elle fut prévenue, un<lb/>
+autre souci arriva.. C'était le troll !!!! Tenant son gourdin<lb/>
+à la main, sa couleur <mod type="corr"><orig>verte</orig><reg>vert</reg></mod> clair, mais surtout sa taille <mod type="del" stage="" who=""><del>,</del></mod><lb/>
+était <mod type="corr"><orig>térifiante</orig><reg>térrifiant</reg></mod> ! Ils se demandent comment ils vont<lb/>
+les <mod type="corr"><orig>battre<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>battre</reg></mod> sans leur baguette. Ron resta bouche bée, §<lb/>
+
+<pb/>
+Harry, lui chercha un plan, Hermione paniquait tellement<lb/>
+que elle se mit à crier d'une voix si <mod type="corr"><orig>aiguë</orig><reg>aigÜe</reg></mod>, que<lb/>
+le troll s'enfuit en poussant des petits cris de fillette.<lb/>
+Harry et Ron étaient très <mod type="corr"><orig>impresionner</orig><reg>impressionnés</reg></mod>. Les professeurs<lb/>
+accoururent dans les toilettes. Ils leurs <mod type="corr"><orig>répeter</orig><reg>répétaient</reg></mod> que ils<lb/>
+avaient eu beaucoup de chance contre un troll adulte<lb/>
+des montagnes. La fête reprit dans la grande salle. Harry, Ron<lb/>
+et Hermione était <mod type="corr"><orig>devenu</orig><reg>devenus</reg></mod> amis. Ron s'exusa, et Hermione<lb/>
+dit qu'elle <mod type="corr"><orig>arretra</orig><reg>arrêtera</reg></mod> de faire ça « Madame je-sais-tous », mais<lb/>
+qu'elle <mod type="corr"><orig>continurai</orig><reg>continuera</reg></mod> à les aider. Quirrell était rassuré. Rogue<lb/>
+rentra dans la salle en paniquant <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> en disant qu'il<lb/> 
+y avait à nouveau un troll. Ensuite, Hermione se leva<lb/>
+ouvrit la bouche. Rogue disait que c'était <mod type="add" stage="" who=""><add>une</add></mod> blague et<lb/>
+<mod type="corr"><orig>tous</orig><reg>tout</reg></mod> le monde rigola. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

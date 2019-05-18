@@ -1,0 +1,109 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2015-ABZ1-D1-E4
+</head>
+<p>
+Les cacatoès se <mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>cacher</orig><reg>cachés</reg></mod> <mod type="corr"><orig>chés</orig><reg>chez</reg></mod> les <mod type="corr"><orig>vosin</orig><reg>voisins</reg></mod>,<lb/>
+<mod type="del" stage="" who=""><del>l</del></mod>Le <mod type="corr"><orig>landemin</orig><reg>lendemain</reg></mod> matin <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>voiles</orig><reg>voient le</reg></mod> professeur<lb/>
+<mod type="del" stage="" who=""><del>X#</del></mod> <mod type="corr"><orig>dupont</orig><reg>Dupont</reg></mod> <mod type="corr"><orig>déséspérer</orig><reg>déséspéré</reg></mod> et <mod type="corr"><orig>la</orig><reg>là</reg></mod>...les dix cacatoès <mod type="corr"><orig>fonses</orig><reg>fonsent</reg></mod><lb/>
+<mod type="corr"><orig>com</orig><reg>comme</reg></mod> des flèches ils se <mod type="corr"><orig>mète</orig><reg>mettent</reg></mod> <mod type="corr"><orig>acoter</orig><reg>à côté</reg></mod> de lui et <mod type="corr"><orig>la</orig><reg>là</reg></mod>...<lb/>
+<mod type="corr"><orig>mait</orig><reg>mais</reg></mod> cacatoès! <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>mesie</del></mod></del><add stage="" who="">monsieur</add></mod> <mod type="corr"><orig>dupont</orig><reg>Dupont</reg></mod> il<lb/>
+leur <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> ne me <mod type="corr"><orig>feser</orig><reg>faites</reg></mod> <mod type="corr"><orig>plu</orig><reg>plus</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">j</add></mod>amer</orig><reg>jamais</reg></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> tour <mod type="corr"><orig>il</orig><reg>ils</reg></mod><lb/>
+#XXX# la tête et <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>rèst</orig><reg>restent</reg></mod> <mod type="corr"><orig>ansambl</orig><reg>ensemble</reg></mod> pour la<lb/>
+fin de leur vies. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

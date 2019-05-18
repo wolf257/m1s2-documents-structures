@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E4-V2
+</head>
+<p>
+J'ai pris la scie de mon père, j'ai <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> un<lb/>
+trou dans l'escalier, et j'ai <mod type="corr"><orig>appuiyer</orig><reg>appuyé</reg></mod> sur l'alarme<lb/>
+<mod type="corr"><orig>ascendie</orig><reg>incendie</reg></mod> et je suis remonté. J'ai <mod type="del" stage="" who=""><del>m</del></mod> mis<lb/>
+le doudou de ma soeur dans la machine<lb/>
+à laver, on est tous <mod type="corr"><orig>descendue</orig><reg>descendus</reg></mod> très vite. §<lb/>
+Ma <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> est <mod type="corr"><orig>allé</orig><reg>allée</reg></mod> trop vite et elle a mis<lb/>
+son pied dans le trou on <mod type="corr"><orig>avais</orig><reg>n'avait</reg></mod> rien <mod type="corr"><orig>remarquer</orig><reg>remarqué</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>X#</del></mod>, <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>M</del></mod></del><add stage="" who="">m</add></mod>ais</orig><reg>Mais</reg></mod> ma mère  n'<mod type="corr"><orig>étais</orig><reg>était</reg></mod> <mod type="add" stage="" who=""><add>pas là</add></mod>, <mod type="del" stage="" who=""><del>oui la</del></mod> <mod type="add" stage="" who=""><add>au bout d'un</add></mod> moment ma<lb/>
+soeur a <mod type="corr"><orig>remarquer</orig><reg>remarqué</reg></mod> ma mère <mod type="corr"><orig>étais</orig><reg>était</reg></mod> pas là, on est<lb/>
+tous <mod type="corr"><orig>reparti</orig><reg>repartis</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'<mod type="corr"><orig>apartement</orig><reg>appartement</reg></mod>, et on a vu ma<lb/>
+mère <mod type="del" stage="" who=""><del>X#</del></mod> <mod type="corr"><orig>coincer</orig><reg>coincée</reg></mod> dans le trou, mon père a<lb/>
+<mod type="corr"><orig>appelait</orig><reg>appelé</reg></mod> les <mod type="corr"><orig>pompie<mod type="del" stage="" who=""><del>r</del></mod></orig><reg>pompiers</reg></mod>. Les <mod type="corr"><orig>pompier</orig><reg>pompiers</reg></mod> <mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>arriver</orig><reg>arrivés</reg></mod><lb/>
+et on vu que les <mod type="del" stage="" who=""><del>X#</del></mod> <mod type="corr"><orig>s</orig><reg>c</reg></mod>'était une fausse<lb/>
+alerte, <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>on</orig><reg>ont</reg></mod> <mod type="corr"><orig>décoincer</orig><reg>décoincé</reg></mod> ma mère, et il<lb/>
+<mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>reparti</orig><reg>repartis</reg></mod>. <mod type="del" stage="" who=""><del>J'ai eu un 7,5/10</del></mod>. Quand ma<lb/>
+soeur a vu son doudou dans la machine<lb/>
+à laver, elle a crié <mod type="corr"><orig>s</orig><reg>c</reg></mod>'était trop marrant.<lb/>
+J'ai eu un 7,5/10. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

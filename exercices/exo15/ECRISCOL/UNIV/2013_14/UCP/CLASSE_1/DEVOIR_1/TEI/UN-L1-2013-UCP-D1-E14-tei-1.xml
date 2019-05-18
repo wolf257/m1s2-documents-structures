@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>UN-L1-2013-UCP-D1-E14
+</head>
+<p>
+Julien avait donc pris son service le lundi suivant, et en l'espace<lb/>
+de quelques semaines il put se permettre une chambre plus<lb/>
+correcte. Mais s'il avançait, il était le seul. La mort<lb/>
+de papa semblait avoir autant dévasté la maison que<lb/>
+l'esprit de ses proches, et rien n'y faisait: personne<lb/>
+ne pouvait ou ne voulait mettre de l'oublie dans ses affaires. Une combinaison de nonchalance et de regret<lb/>
+s'était établie dans la famille si bien que nulle âme-<lb/>
+qui-vive ne se décida à partager les biens de papa<lb/>
+avant plusieurs semaines. §<lb/>
+Mais Julien continuait, allait de l'avant, et je<lb/>
+l'admirais de ne pas se renfermer comme il était<lb/>
+<mod type="corr"><orig>séansé</orig><reg>censé</reg></mod> de le faire. Un soir il me rendit visite, une<lb/>
+moue sur son visage <mod type="corr"><orig>dûe</orig><reg>due</reg></mod> à l'état de la maison. Il n'avait<lb/>
+jamais été très brillant, mais ce soir-là il avait bel et bien<lb/>
+été le plus lucide des deux. "Vous vous enfermez", m'avait-il<lb/>
+dit en posant un regard absent sur la fenêtre donnant sur<lb/>
+un amas de ronces qui un jour avait été un jardin. «Et si<lb/>
+vous vous entêtez à ne pas sortir, cela ne s'arrangera pas. Enfin, moi, ce<lb/>
+que j'en dis...". Il avait passé la porte quelques minutes<lb/>
+plus tard, me laissant contempler seul les ruines restantes<lb/>
+de la vie de papa. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

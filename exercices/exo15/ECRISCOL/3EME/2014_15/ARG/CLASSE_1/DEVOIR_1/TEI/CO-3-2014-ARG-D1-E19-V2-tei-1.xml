@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E19-V2
+</head>
+<p>
+<metamark place=" " time="T2" who="P" style="underline">Tu dois veiller à conserver le même système de temps</metamark> §<lb/>
+Quand je <hi place=" " time="T2" who="Pσ" style="underline">suis</hi> dans le ventre de ma mère,<lb/>
+tout <mod type="corr"><orig>sem<hi place=" " time="T2" who="Pσ" style="underline">bla</hi></orig><reg>semblait</reg></mod> normal pour moi<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>,</del></mod></del><add stage="T2" who="P">.</add></mod> <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>c'</del></mod></del><add stage="T2" who="P">C'</add></mod>est comme<lb/>
+si <mod type="del" stage="T2" who="P"><del>je suis</del></mod><metamark place=" " time="T2" who="P" style="underline">mal dit</metamark> dans <hi place=" " time="T2" who="Pσ" style="underline">mon propre domaine</hi>, je me<lb/>
+métamorphose peu à peu<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>,</del></mod></del><add stage="T2" who="P">.</add></mod> <hi place=" " time="T2" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">S</add></mod>oudain tout à coup</hi><lb/>
+j'entends des cris, <hi place=" " time="T2" who="Pσ" style="underline">des voix</hi><metamark place=" " time="T2" who="P" style="underline">sg</metamark> qui m'<mod type="corr"><orig>effra<hi place=" " time="T2" who="Pσ" style="underline">ye</hi></orig><reg>effraient</reg></mod><metamark place=" " time="T2" who="P" style="underline">pl.</metamark><metamark place=" " time="T2" who="P" style="underline">accorde ton sujet et ton verbe</metamark>, je<lb/>
+sens des m<hi place=" " time="T2" who="Pσ" style="underline">ains</hi> <mod type="del" stage="" who=""><del>me</del></mod> qui <mod type="corr"><orig>touch<hi place=" " time="T2" who="Pσ" style="underline">e</hi></orig><reg>touchent</reg></mod><metamark place=" " time="T2" who="P" style="underline">idem</metamark> ma petite<lb/>
+tête<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>,</del></mod></del><add stage="T2" who="P">.</add></mod> <hi place=" " time="T2" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="T2" who="P"><del>j</del></mod></del><add stage="T2" who="P">J</add></mod>e</hi><metamark place=" " time="T2" who="P" style="underline">Attention. Il faut revoir l'utilisation de la ponctuation</metamark> refuse d'obéir<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>,</del></mod></del><add stage="T2" who="P">.</add></mod> <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>j</del></mod></del><add stage="T2" who="P">J</add></mod>e sens qu'on me <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">prena</hi></orig><reg>prit</reg></mod><metamark place=" " time="T2" who="P" style="underline">même problème de concordance des temps</metamark><lb/>
+de force ma têt<hi place=" " time="T2" who="Pσ" style="underline">e sors d'un trou</hi>, mes yeux sont<lb/>
+<mod type="corr"><orig>aveugl<hi place=" " time="T2" who="Pσ" style="underline">é</hi></orig><reg>aveuglés</reg></mod> par une lumière intense, je vois des<lb/>
+personnages, <hi place=" " time="T2" who="Pσ" style="underline">tout mon corps</hi><metamark place=" " time="T2" who="P" style="underline">sg</metamark> <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">sont</hi></orig><reg>est</reg></mod><metamark place=" " time="T2" who="P" style="underline">pl</metamark> effrayé je<lb/> 
+pleure j'ai du mal à respirer, on<mod type="del" stage="T2" who="P"><del>t</del></mod> m'enveloppe<lb/>
+dans un drap et on<mod type="del" stage="T2" who="P"><del>t</del></mod> me donne à une dame<lb/>
+joyeuse, je m'étonne mais je me di<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod> qu'un<lb/>
+autre monde m'<mod type="corr"><orig>attends</orig><reg>attend</reg></mod>. §<lb/>
+<metamark place=" " time="T2" who="P" style="underline">On ne retrouve pas tous les éléments attendus, présents à la fin du texte.</metamark> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

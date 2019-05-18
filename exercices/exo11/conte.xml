@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="application/xml" href="conte.xsl" ?>
+
+<pageConte>
+    
+    <notice> 
+        Après chaque clic, regardez la première ligne de votre écran, elle contient le lieu où l'on vous a transporté. Un peu de js n'aurait pas fait de mal, mais restons en xsl pour cette fois-ci :-).
+    </notice>
+    
+    <intro>
+        Ce texte soumis à la 83e réunion de travail de l'Ouvroir de Littérature Potentielle, s'inspire de la pré- entation des instructions destinées aux ordinateurs ou bien encore de l'enseignement programmé. C'est une structure analogue à la littérature "en arbre" proposée par F. Le Lionnais à la 79e réunion.
+    </intro>
+    
+    <lieu num="1">
+        <question>
+            Désirez-vous connaître l'histoire des trois alertes petits pois ?
+        </question>
+        
+        <choix cible="4"> Si oui, &#9758; 4. </choix>
+        <choix cible="2"> si non, &#9758;  2. </choix>
+    </lieu>
+
+    
+    <lieu num="2">
+        <question>
+            Préférez-vous celle des trois minces grands échalas ?
+        </question>
+        
+        <choix cible="16"> Si oui, &#9758;  16. </choix>
+        <choix cible="3"> si non, &#9758;  3. </choix>
+    </lieu>
+
+    <lieu num="3">
+        <question>
+            Préférez-vous celle des trois moyens médiocres arbustes ?
+        </question>
+        
+        <choix cible="17"> Si oui, &#9758;  17. </choix>
+        <choix cible="21"> si non, &#9758;  21. </choix>
+    </lieu>
+
+    <lieu num="4">
+        <question>
+            Il y avait une fois trois petits pois vêtus de vert qui dormaient gentiment dans leur cosse. Leur visage bien rond respirait par les trous de leurs narines et l'on entendait leur ronflement doux et harmonieux.
+        </question>
+        
+        <choix cible="9"> Si vous préférez une autre description, &#9758;  9. </choix>
+        <choix cible="5"> si celle-çi vous convient, &#9758;  5. </choix>
+    </lieu>
+
+    <lieu num="5">
+        <question>
+            Ils ne rêvaient pas. Ces petits êtres en effet ne rêvent jamais.
+        </question>
+        
+        <choix cible="6"> Si vous préférez qu'ils rêvent, &#9758;  6. </choix>
+        <choix cible="7"> sinon, &#9758;  7. </choix>
+    </lieu>
+
+    <lieu num="6">
+        <question>
+            Ils rêvaient. Ces petits êtres en effet rêvent toujours et leurs nuits sécrètent des songes charmants.
+        </question>
+        
+        <choix cible="11"> si vous désirez connaître ces songes, &#9758;  11. </choix>
+        <choix cible="7"> si vous n'y tenez pas, vous &#9758;  7. </choix>
+    </lieu>
+
+    <lieu num="7">
+        <question>
+            Leurs pieds mignons trempaient dans de chaudes chaussettes et ils portaient au lit des gants de velours noir.
+        </question>
+        
+        <choix cible="8"> Si vous préférez des gants d'une autre couleur, &#9758;  8. </choix>
+        <choix cible="10"> si cette couleur vous convient, &#9758;  10. </choix>
+    </lieu>
+
+    <lieu num="8">
+        <question>
+            Ils portaient au lit des gants de velours bleu.
+        </question>
+
+        <choix cible="7"> Si vous préférez des gants d'une autre couleur, &#9758;  7. </choix>
+        <choix cible="10"> si cette couleur vous convient, &#9758;  10. </choix>
+    </lieu>
+
+    <lieu num="9">
+        <question>
+            Il y avait une fois trois petits pois qui roulaient leur bosse sur les grands chemins. Le soir venu, fatigués et las, ils s'endormirent très rapcibleement.
+        </question>
+
+        <choix cible="5"> Si vous désirez connaître la suite, &#9758;  5. </choix>
+        <choix cible="21"> si non, &#9758;  21. </choix>
+    </lieu>
+
+    <lieu num="10">
+        <question>
+            Tous les trois faisaient le même rêve, ils s'aimaient en effet tendrement et, en bons fiers trumeaux, songeaient toujours semblablement.
+        </question>
+
+        <choix cible="11"> Si vous désirez connaître leur rêve, &#9758;  11. </choix>
+        <choix cible="12"> si non, &#9758;  12. </choix>
+    </lieu>
+
+    <lieu num="11">
+        <question>
+            Ils rêvaient qu'ils allaient chercher leur soupe à la cantine populaire et qu'en ouvrant leur gamelle ils découvraient que c'était de la soupe d'ers. D'horreur, ils s'éveillent.
+        </question>
+
+        <choix> Si vous voulez savoir pourquoi ils s'éveillent d'horreur, consulter le Larousse au mot "ers" et n'en parlons plus. </choix>
+        <choix cible="12"> si vous jugez inutile d'approfondir la question, &#9758;  12. </choix>
+    </lieu>
+
+    <lieu num="12">
+        <question>
+            Opopoï ! s'écrient-ils en ouvrant les yeux. Opopoï ! quel songe avons-nous enfanté là ! Mauvais présage, dit le premier. Oui-da, dit le second, c'est bien vrai, me voilà triste. Ne vous troublez pas ainsi, dit le troisième qui était le plus futé, il ne s'agit pas de s'émouvoir, mais de comprendre, bref, Je m'en vais vous analyser ça.
+        </question>
+
+        <choix cible="15"> Si vous désirez connaître tout de suite l'interprétation de ce songe, &#9758;  15. </choix>
+        <choix cible="13"> si vous souhaitez au contraire connaître les réactions des deux autres, &#9758;  13. </choix>
+    </lieu>
+
+    <lieu num="13">
+        <question>
+            Tu nous la bailles belle, dit le premier. Depuis quand sais-tu analyser les songes? Oui, depuis quand ? ajouta le second.
+        </question>
+
+        <choix cible="14"> Si vous désirez aussi savoir depuis quand, &#9758;  14. </choix>
+        <choix cible="14"> si non, &#9758;  14 tout de même, car vous ne le saurez pas plus. </choix>
+    </lieu>
+
+    <lieu num="14">
+        <question>
+            Depuis quand? s'écria le troisième. Est-ce que je sais moi! Le fait est que je pratique la chose. Vous allez voir !
+        </question>
+
+        <choix cible="15"> Si vous voulez aussi voir, &#9758;  15. </choix>
+        <choix cible="15"> si non, passez également à 15, car vous ne verrez rien. </choix>
+    </lieu>
+
+    <lieu num="15">
+        <question>
+            Eh bien! voyons, dirent ses frères. Votre ironie ne ne me plaît pas, répliqua l'autre, et vous ne saurez rien.
+            D'ailleurs, au cours de cette conversation d'un ton assez vif, votre sentiment d'horreur ne s'est-il pas estompé ? effacé même? Alors à quoi bon remuer le bourbier de votre inconscient de papilionacées? Allons plutôt nous laver à la fontaine et saluer ce gai matin dans l'hygiène et la sainte euphorie! Aussitôt dit, aussitôt fait : les voilà qui se glissent hors de leur cosse, se laissent doucement rouler sur le sol et puis au petit trot gagnent joyeusement le théâtre de leurs ablutions.
+        </question>
+
+        <choix cible="16"> Si vous désirez savoir ce qui se passe sur le théâtre de leurs ablutions, &#9758;  16. </choix>
+        <choix cible="21"> si vous ne le désirez pas, vous &#9758;  21. </choix>
+    </lieu>
+
+    <lieu num="16">
+        <question>
+            Trois grands échalas les regardaient faire.
+        </question>
+
+        <choix cible="21"> Si les trois grands échalas vous déplaisent, &#9758;  21. </choix>
+        <choix cible="18"> s'ils vous conviennent, &#9758;  18. </choix>
+    </lieu>
+
+    <lieu num="17">
+        <question>
+            Trois moyens médiocres arbustes les regardaient faire.
+        </question>
+
+        <choix cible="21"> Si les trois moyens médiocres arbustes vous déplaisent, &#9758;  21. </choix>
+        <choix cible="18"> s'ils vous conviennent, &#9758;  18. </choix>
+    </lieu>
+
+    <lieu num="18">
+        <question>
+            Se voyant ainsi zyeutés, les trois alertes petits pois qui étaient fort pudiques s'ensauvèrent.
+        </question>
+
+        <choix cible="19"> Si vous désirez savoir ce qu'ils firent ensuite, &#9758;  19. </choix>
+        <choix cible="21"> si vous ne le désirez pas, vous &#9758;  21. </choix>
+    </lieu>
+
+    <lieu num="19">
+        <question>
+            Ils coururent bien fort pour regagner leur cosse et, refermant celle-ci derrière eux, s'y endormirent de nouveau.
+        </question>
+
+        <choix cible="20"> Si vous désirez connaître la suite, &#9758;  20. </choix>
+        <choix cible="21"> si vous ne le désirez pas, vous &#9758;  21. </choix>
+    </lieu>
+
+    <lieu num="20">
+        <question>
+            Il n'y a pas de suite le conte est terminé.
+        </question>
+        
+        <choix cible="1"> On reprend :-) &#9758;  1. </choix>
+    </lieu>
+
+    <lieu num="21">
+        <question>
+            Dans ce cas, le conte est également terminé.
+        </question>
+        
+        <choix cible="1"> On reprend :-) &#9758;  1. </choix>
+    </lieu>
+
+    
+    <auteur> Raymond Queneau. </auteur>
+    
+    <source> OuLiPo La littérature potentielle, Gallimard, cibleées, Paris, 1973, p. 277. </source>
+    
+</pageConte>

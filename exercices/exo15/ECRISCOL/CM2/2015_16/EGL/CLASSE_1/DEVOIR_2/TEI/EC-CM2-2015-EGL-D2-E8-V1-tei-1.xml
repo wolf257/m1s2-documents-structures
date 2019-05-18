@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>﻿partie: EC-CM2-2015-EGL-D2-E8-V1
+</head>
+<p>
+<pb/>
+Tout à coup la voiture <mod type="subst"><del><mod type="del" stage="" who=""><del>avonça</del></mod></del><add stage="" who="">avança</add></mod> lentement d'abord<lb/>
+ensuite de plus en plus vite<lb/>
+La voiture <mod type="corr"><orig>roulé</orig><reg>roulait</reg></mod> à 120 <mod type="corr"><orig>kmk</orig><reg>km SLASH h</reg></mod> les <mod type="corr"><orig>fille</orig><reg>filles</reg></mod> <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> <mod type="corr"><orig>inquet</orig><reg>inquiètes</reg></mod> les deux <mod type="add" stage="T2" who=""><add>.</add></mod><lb/>
+<mod type="del" stage="" who=""><del>fille</del></mod> son<mod type="del" stage="" who=""><del>t</del></mod> <mod type="add" stage="T2" who=""><add>.</add></mod> <mod type="add" stage="T2" who=""><add>elle se sont</add></mod> <mod type="corr"><orig>sorti</orig><reg>sortirent</reg></mod> de la voiture <mod type="add" stage="T2" who=""><add>.</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>quand</del></mod></del><add stage="" who="">Quand</add></mod> <mod type="corr"><orig>il</orig><reg>elles</reg></mod> <mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>soti</orig><reg>sorties</reg></mod> il<lb/>
+avait une voie <mod type="corr"><orig>férait</orig><reg>ferrée</reg></mod> au <mod type="corr"><orig>mêm</orig><reg>même</reg></mod> <mod type="corr"><orig>momment</orig><reg>moment</reg></mod> le train<lb/>
+<mod type="corr"><orig>passé</orig><reg>passait</reg></mod> <mod type="del" stage="" who=""><del>devant</del></mod> la voiture et le train <mod type="del" stage="T2" who=""><del>.</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>se</del></mod></del><add stage="" who="">Se</add></mod> <mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>perqu<mod type="del" stage="" who=""><del>e</del></mod>té</orig><reg>percutés</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> fait <mod type="corr"><orig>escploser</orig><reg>exploser</reg></mod><lb/>
+la voiture et dans <mod type="add" stage="" who=""><add>le train</add></mod> il a e eu 55 <mod type="corr"><orig>mort</orig><reg>morts</reg></mod> et 34 <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>p</del></mod></del><add stage="" who="">b</add></mod>léser</orig><reg>blessés</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>bléser.</add></mod></orig><reg>blessés</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>les</del></mod></del><add stage="" who="">Les</add></mod><lb/> 
+<mod type="corr"><orig>fille</orig><reg>filles</reg></mod> n'<mod type="corr"><orig>avait</orig><reg>avaient</reg></mod> rien les filles <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> <mod type="add" stage="T2" who=""><add>à</add></mod> 35 <mod type="subst"><del><mod type="del" stage="" who=""><del>km</del></mod></del><add stage="T2" who="">km</add></mod> du <mod type="corr"><orig>maginsin</orig><reg>magasin</reg></mod>. <mod type="subst"><del><mod type="del" stage="" who=""><del>il</del></mod></del><add stage="T2" who="">Il</add></mod><lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>fo</del></mod></del><add stage="" who="">vouller</add></mod></orig><reg>voulaient</reg></mod> appeler au <mod type="corr"><orig>téléhpone</orig><reg>téléphone</reg></mod> mais <mod type="corr"><orig>il</orig><reg>elles</reg></mod> n'<mod type="corr"><orig>avait</orig><reg>avaient</reg></mod> pas de<lb/>
+<mod type="corr"><orig>réseaux</orig><reg>réseau</reg></mod> et de <mod type="corr"><orig>baterie</orig><reg>batterie</reg></mod> <mod type="add" stage="T2" who=""><add>.</add></mod> <mod type="del" stage="" who=""><del>il</del></mod> <mod type="add" stage="T2" who=""><add>Il</add></mod> <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> <mod type="corr"><orig>sorti</orig><reg>sorties</reg></mod> du <mod type="corr"><orig>maginsin</orig><reg>magasin</reg></mod> <mod type="add" stage="" who=""><add>à</add></mod> 9h elle a<lb/>
+<mod type="corr"><orig>appeler</orig><reg>appelé</reg></mod> la gendarmerie. Les filles <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> dans une grotte<lb/>
+<mod type="corr"><orig>il</orig><reg>elles</reg></mod> <mod type="corr"><orig>entender</orig><reg>entendirent</reg></mod> des <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>pruid</del></mod></del><add stage="T2" who="">puis</add></mod></orig><reg>bruits</reg></mod> <mod type="corr"><orig>s'était</orig><reg>c'était</reg></mod> des ours; des <mod type="corr"><orig>loup</orig><reg>loups</reg></mod>;<lb/>
+des chevaux <mod type="corr"><orig>savage</orig><reg>sauvages</reg></mod>...La mére, ne <mod type="corr"><orig>manger</orig><reg>mageait</reg></mod> pas<lb/>
+ne <mod type="corr"><orig>puver</orig><reg>buvait</reg></mod> pas; ne <mod type="corr"><orig>dormer</orig><reg>dormait</reg></mod> pas depuis 3 jours 3 jous plus §<lb/>
+
+<pb/>
+tard la gendarmerie les avait <mod type="corr"><orig>retrouvé</orig><reg>retrouvées</reg></mod> <mod type="del" stage="" who=""><del>mais</del></mod> <mod type="add" stage="T2" who=""><add>les deux filles.Mais</add></mod> quand <mod type="corr"><orig>il</orig><reg>elles</reg></mod> <mod type="corr"><orig>son</orig><reg>sont</reg></mod><lb/>
+<mod type="corr"><orig>rentrer</orig><reg>rentrées</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>le</del></mod></del><add stage="T2" who="">la mère</add></mod> était morte. <mod type="subst"><del><mod type="del" stage="" who=""><del>les</del></mod></del><add stage="" who="">Les</add></mod> filles <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> très <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>triste</del></mod></del><add stage="T2" who="">trist</add></mod></orig><reg>tristes</reg></mod> pendant<lb/>
+1 ans <mod type="add" stage="T2" who=""><add>.</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>il</del></mod></del><add stage="T2" who="">Il</add></mod> <mod type="del" stage="" who=""><del>ap</del></mod> <mod type="corr"><orig>habiter</orig><reg>habitèrent</reg></mod> <mod type="del" stage="" who=""><del>j</del></mod> chez <mod type="del" stage="" who=""><del>t</del></mod> <mod type="corr"><orig>lors</orig><reg>leur</reg></mod> pére et les filles <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>aller</del></mod></del><add stage="T2" who="">allé</add></mod></orig><reg>allèrent</reg></mod><lb/>
+voir la <mod type="corr"><orig>tompe</orig><reg>tombe</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>de sa</del></mod></del><add stage="T2" who="">de leur</add></mod> <mod type="corr"><orig>mére</orig><reg>mère</reg></mod> <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les <mod type="corr"><orig>dimanche</orig><reg>dimanches</reg></mod>. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

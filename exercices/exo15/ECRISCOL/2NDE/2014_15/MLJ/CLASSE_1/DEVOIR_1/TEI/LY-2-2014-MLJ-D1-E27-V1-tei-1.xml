@@ -1,0 +1,133 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E27-V1
+</head>
+<p>
+Sous <mod type="corr"><orig>la<mod type="del" stage="" who=""><del>n</del></mod></orig><reg>la</reg></mod> nuit sans étoiles,<lb/>
+d'une obscurité et à une épaisseur<lb/>
+d'encre, l'homme depuis un moment<lb/>
+<mod type="corr"><orig>déja</orig><reg>déjà</reg></mod> marchait quand il aperçut au loin<lb/>
+la lumière d'un reverbère <mod type="del" stage="" who=""><del>l</del></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> partir<lb/>
+de <mod type="corr"><orig>se</orig><reg>ce</reg></mod> moment <mod type="corr"><orig>la</orig><reg>là</reg></mod> il se render<lb/>
+compte qu'<mod type="corr"><orig>ils</orig><reg>il</reg></mod> a marché de Mantes<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> Paris sans ce rendre compte<lb/>
+des heures <mod type="corr"><orig>écoulé</orig><reg>écoulées</reg></mod> et des kilomètres<lb/>
+10. parcourue, <mod type="corr"><orig>etant</orig><reg>étant</reg></mod> dans ces pensées étant<lb/>
+<mod type="del" stage="" who=""><del>partir de chez lui fermée une une #XXX#</del></mod><lb/>
+Sortie faire un #XXX# et fume sa<lb/>
+cigarette <mod type="corr"><orig>a</orig><reg>à</reg></mod> cause d'une dispute avec<lb/>
+sa femme <mod type="add" stage="" who=""><add>et est en plein divorse</add></mod>, il avait besoin de<lb/>
+s'aérer la tête. Les yeux <mod type="corr"><orig>plongé</orig><reg>plongés</reg></mod> dans le vide<lb/>
+il ne voit plus <mod type="corr"><orig>passé</orig><reg>passer</reg></mod> les <mod type="corr"><orig>kilomètre</orig><reg>kilomètres</reg></mod> et les heures,<lb/>
+Voyant ce reverbère <mod type="del" stage="" who=""><del>XXX#</del></mod> qui attira sa vue<lb/>
+il sorta de ses <mod type="corr"><orig>pensé</orig><reg>pensées</reg></mod> et vit en de <mod type="corr"><orig>s<mod type="subst"><del><mod type="del" stage="" who=""><del>c</del></mod></del><add stage="" who="">s</add></mod>ous</orig><reg>sous</reg></mod><lb/>
+du reverbère un panneau avec écrit<lb/>
+Paris, il se frotta les yeux ce demandant<lb/>
+si c'était bien <mod type="corr"><orig>réels</orig><reg>réel</reg></mod> et oui c'etait bien<lb/>
+le cas et une voit conscien de son arrivé<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>en</del></mod></del><add stage="" who="">a</add></mod></orig><reg>à</reg></mod> Paris il voulu <mod type="del" stage="T2" who=""><del>#XXX#</del></mod> <mod type="corr"><orig>traversé</orig><reg>traverser</reg></mod> la<lb/>
+route pour aller <mod type="corr"><orig>a</orig><reg>à</reg></mod> la gare pour voir<lb/>
+<mod type="corr"><orig>si il</orig><reg>s'il</reg></mod> y avait un dernier train pour aller<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> Mantes-La-Jolie, mais il n'atteindra<lb/>
+jamais la gare car il se fit <mod type="corr"><orig>écrasé</orig><reg>écraser</reg></mod><lb/>
+par un Camion d'Ambulance qui le<lb/>
+fit <mod type="corr"><orig>mourrir</orig><reg>mourir</reg></mod> sur le coup. 1h plus<lb/>
+tard sa femme <mod type="corr"><orig>appelé</orig><reg>appelée</reg></mod> par les secours<lb/>
+arriva sur place et pleura <mod type="corr"><orig>ce</orig><reg>se</reg></mod> sentant<lb/>
+coupable. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

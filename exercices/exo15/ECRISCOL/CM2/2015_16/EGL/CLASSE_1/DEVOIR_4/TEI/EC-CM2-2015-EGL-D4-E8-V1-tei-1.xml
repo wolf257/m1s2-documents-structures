@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E8-V1
+</head>
+<p>
+<pb/>
+Nelly <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>N'</del></mod></del><add stage="" who=""><sup></sup>n'</add></mod>avait <mod type="del" stage="T2" who=""><del><sup>T2</sup>pas</del></mod> toujours <mod type="add" stage="T2" who=""><add><sup>T2</sup>pas</add></mod> r<mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup>e</del></mod></del><add stage="T4" who=""><sup>T4</sup>é</add></mod>pondu<mod type="del" stage="T3" who="P"><del><sup>T3P</sup>e</del></mod> <hi place=" " time="T3" who="Pσ" style="underline">a</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>à</add></mod> la question<lb/>
+<mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup> le jeune homme romantique</del></mod></del><add stage="T2" who=""><sup>T2</sup>Pedro</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>vouler</del></mod></del><add stage="T2" who=""><sup>T2</sup>voul<hi place=" " time="T3" who="Pσ" style="underline">é</hi></add></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>vouler</add></mod></orig><reg>voulait</reg></mod> savoir <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>pourquois</del></mod></del><add stage="T2" who=""><sup>T2</sup>pourquoi</add></mod><lb/>
+elle ne <mod type="corr"><orig>repond<hi place=" " time="T3" who="Pσ" style="underline">er</hi><mod type="add" stage="T3" who=""><add><sup>T3</sup>repondé</add></mod></orig><reg>répondait</reg></mod> pas <hi place=" " time="T3" who="Pσ" style="underline">a</hi><mod type="add" stage="T3" who=""><add><sup>T3</sup>à</add></mod> <hi place=" " time="T3" who="Pσ" style="underline">la</hi> question<hi place=" " time="T3" who="Pσ" style="underline">s</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>question</add></mod>. Alors <mod type="del" stage="T2" who=""><del><sup>T2</sup>encore</del></mod> redemande<lb/>
+<metamark place=" " time="T3" who="P" style="underline">dialogue : présentation.</metamark> tranquillement<hi place=" " time="T3" who="Pσ" style="underline">.</hi> <mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup>et</del></mod></del><add stage="T2" who=""><sup>T2</sup><hi place=" " time="T3" who="Pσ" style="underline">Et</hi></add></mod> <metamark place=" " time="T3" who="P" style="underline">Phrase ou partie de phrase incorrecte. - à réécrire ou à ponctuer correctement - </metamark> di<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">s</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>dit</add></mod><metamark place=" " time="T3" who="P" style="underline">GS</metamark> <mod type="corr"><orig>pourquois</orig><reg>pourquoi</reg></mod> <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>du</del></mod></del><add stage="T2" who=""><sup>T2</sup>tu</add></mod> me parl<hi place=" " time="T3" who="Pσ" style="underline">e</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>parles</add></mod> pas. §<lb/>
+Nelly a <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>fais</del></mod></del><add stage="T2" who=""><sup>T4</sup>fai<hi place=" " time="T3" who="Pσ" style="underline">s</hi></add></mod></orig><reg>fait</reg></mod> un signe mais <hi place=" " time="T3" who="Pσ" style="underline">il</hi> ne <mod type="del" stage="T2" who=""><del><sup>T2</sup>comprends</del></mod><mod type="add" stage="T2" who=""><add><sup>T2</sup>comprend<hi place=" " time="T3" who="Pσ" style="underline">s</hi></add></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>comprend</add></mod> pas<mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>.</del></mod></del><add stage="T2" who=""><sup>T2</sup>,</add></mod> <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>et</del></mod></del><add stage="T2" who=""><sup>T2</sup>Puis</add></mod> un <mod type="add" stage="T4" who=""><add><sup>T4</sup>un</add></mod><lb/>
+<hi place=" " time="T3" who="Pσ" style="underline">amie</hi><metamark place=" " time="T3" who="P" style="underline">un ou une</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>ami</add></mod> a Nelly vient et fai<hi place=" " time="T3" who="Pσ" style="underline">s</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>fait</add></mod> <mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T2</sup>dessigne</del></mod></del><add stage="T2" who=""><sup>T2</sup>des signes.</add></mod> e<hi place=" " time="T3" who="Pσ" style="underline">t</hi> <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup><hi place=" " time="T3" who="Pσ" style="underline">le jeune garçon romantique et dis</hi></del></mod></del><add stage="T2" who=""><sup>T2</sup>Pedro</add></mod> <metamark place=" " time="T3" who="P" style="underline">Phrase ou partie de phrase incorrecte. - à réécrire ou à ponctuer correctement - </metamark><lb/>
+ : tu peux me dire pourquoi elle <mod type="add" stage="T4" who=""><add><sup>T4</sup>ne</add></mod> me parle <hi place=" " time="T3" who="Pσ" style="underline">pas</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>pas</add></mod>.<lb/>
+et <hi place=" " time="T3" who="Pσ" style="underline">l'ami<mod type="del" stage="T4" who=""><del><sup>T4</sup>e</del></mod></hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>ami</add></mod> <mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup>di<hi place=" " time="T3" who="Pσ" style="underline">s</hi><metamark place=" " time="T3" who="P" style="underline">GS</metamark></del></mod></del><add stage="T4" who=""><sup>T4</sup>dit</add></mod> parce que elle est muette<mod type="add" stage="T2" who=""><add><sup>T2</sup>.</add></mod><mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>est</del></mod></del><add stage="T2" who=""><sup>T2</sup><hi place=" " time="T3" who="Pσ" style="underline">Et puis</hi></add></mod><hi place=" " time="T3" who="Pσ" style="underline">quand elle<lb/> 
+<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">te</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>a</add></mod> fai<hi place=" " time="T3" who="Pσ" style="underline">s</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>fait</add></mod> le signe <mod type="add" stage="T4" who=""><add><sup>T4</sup>elle</add></mod> veut dire quelle t'aime</hi> <metamark place=" " time="T3" who="P" style="underline">Phrase ou partie de phrase incorrecte. - à réécrire ou à ponctuer correctement - </metamark> et le garçon <mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup>roman<hi place=" " time="T3" who="Pσ" style="underline">d</hi>ique</del></mod></del><add stage="T4" who=""><sup>T4</sup>romantique</add></mod> §<lb/>
+
+<pb/>
+reste heu#xxx#<mod type="add" stage="T4" who=""><add><sup>T4</sup>heureux</add></mod> <mod type="del" stage="" who=""><del><sup></sup>et</del></mod> avec Nelly pour la vie.§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

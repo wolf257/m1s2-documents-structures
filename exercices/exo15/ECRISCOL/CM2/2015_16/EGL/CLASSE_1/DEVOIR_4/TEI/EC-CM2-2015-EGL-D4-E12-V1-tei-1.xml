@@ -1,0 +1,144 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E12-V1
+</head>
+<p>
+<pb/>
+
+<metamark place=" " time="T3" who="P" style="underline">temps</metamark> <hi place=" " time="T3" who="Pσ" style="underline">il accrocha</hi> <metamark place=" " time="T3" who="P" style="underline">oui</metamark>une banderole à un avion.§<lb/>
+Mais Nelly <mod type="del" stage="" who=""><del><sup></sup>ne</del></mod> n'avait pas répondu<mod type="del" stage="T2" who=""><del><sup>T2</sup>t</del></mod>.§<lb/>
+
+Il 
+<mod type="del">
+<del>
+<mod type="subst" stage="T2" who=""><del><sup>T2</sup>avait</del><add stage="T2" who=""><sup>T2</sup>s'est</add></mod>
+</del>
+</mod> <mod type="corr"><orig>tattooage</orig><reg>tatouage</reg></mod> 
+
+<mod type="add" stage="T1" who="">
+<add><sup>T1</sup>
+Il s'<hi place=" " time="T3" who="Pσ" style="underline">est</hi> <metamark place=" " time="T3" who="P" style="underline">temps</metamark> fait un tat<hi place=" " time="T3" who="Pσ" style="underline">oo</hi>age
+<mod type="add" stage="T4" who=""><add><sup>T4</sup>tatouage</add></mod> 
+</add>
+</mod>  
+avec écrit <metamark place=" " time="T3" who="P" style="underline">partie de phrase incorrecte à réécrire</metamark> «JE T'AIME NELLLY». § <lb/>
+Mais Nelly <mod type="del" stage="T2" who=""><del><sup>T2</sup>ne</del></mod> n'avait pas répondu<mod type="del" stage="T2" who=""><del><sup>T2</sup>t</del></mod>.§<lb/>
+Il <mod type="del" stage="T3" who="P"><del><sup>T3P</sup>écriva</del></mod><metamark place=" " time="T3" who="P" style="underline">temps</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>écrivit</add></mod> «NELLY, JE T'AIME» sur le mur de sa<lb/> 
+maison. Mais <mod type="del" stage="" who=""><del><sup></sup>nelly</del></mod> Nelly n'avait pas répondu<mod type="del" stage="T2" who=""><del><sup>T2</sup>t</del></mod>.§<lb/>
+
+Il <metamark place=" " time="T3" who="P" style="underline">oui</metamark> acheta <metamark place=" " time="T3" who="P" style="underline">temps</metamark> un pull blanc, en écrivant «NELLY, <lb/>JE T'AIME». Mais Nelly n'avait pas répondu<mod type="del" stage="T2" who=""><del><sup>T2</sup>t</del></mod>.§<lb/>
+
+Un jour <mod type="add" stage="T2" who=""><add><sup>T2</sup>Un jour il <mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">se</hi></del></mod> senti<mod type="add" stage="T4" who=""><add><sup>T4</sup>t</add></mod> <metamark place=" " time="T3" who="P" style="underline">temps</metamark> beaucoup de sentimen<hi place=" " time="T3" who="Pσ" style="underline">t</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>s</add></mod> pour elle,</add></mod> il alla lui<hi place=" " time="T3" who="Pσ" style="underline">t</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>lui</add></mod> parler, en lui<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">t</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>lui</add></mod> disant:§<lb/>
+<mod type="add" stage="" who=""><add><sup></sup>«</add></mod>NELLY, JE T'AIME<mod type="add" stage="" who=""><add><sup></sup>»</add></mod>.§<lb/>
+
+Nelly <mod type="del" stage="" who=""><del><sup></sup>#xxx#</del></mod> n'avait pas répondu<mod type="del" stage="T2" who=""><del><sup>T2</sup>t</del></mod> 
+
+
+<mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup>E</del></mod>lle</del><add stage="T4" who=""><sup>T4</sup>elle</add></mod> avait un<lb/>
+<mod type="corr"><orig>peu<hi place=" " time="T3" who="Pσ" style="underline">t</hi></orig><reg>peu</reg></mod> de sentiment pour lui<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">t</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>lui</add></mod>
+
+<mod type="add" stage="T4" who=""><add><sup>T4</sup>mais elle avait un <mod type="del" stage="T4" who=""><del><sup>T4</sup>peu<hi place=" " time="T3" who="Pσ" style="underline">t</hi></del></mod><mod type="add" stage="" who=""><add><sup></sup>peu</add></mod> peur de lui dire.</add></mod>, 
+
+<mod type="add" stage="T4" who=""><add><sup>T4</sup>et</add></mod> elle alla lui<mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">t</hi></del></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>lui</add></mod> dire:§<lb/>
+
+«PEDRO, JE T'AIME<mod type="add" stage="" who=""><add><sup></sup>»</add></mod>.§<lb/>
+Pedro n'avait pas répondu<mod type="del" stage="" who=""><del><sup></sup>t</del></mod>.§<lb/>
+
+<pb/>
+§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

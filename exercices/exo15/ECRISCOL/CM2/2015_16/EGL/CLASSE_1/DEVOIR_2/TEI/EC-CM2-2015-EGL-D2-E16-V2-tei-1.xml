@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>partie: EC-CM2-2015-EGL-D2-E16-V2
+</head>
+<p>
+<pb/>
+Tout à <mod type="corr"><orig>cou<mod type="subst"><del><mod type="del" stage="" who=""><del>p</del></mod></del><add stage="" who="">q</add></mod></orig><reg>coup</reg></mod>, la <mod type="corr"><orig>voitur</orig><reg>voiture</reg></mod> avança lentement <mod type="corr"><orig>d abord</orig><reg>d'abord</reg></mod>,<lb/>
+ensuite de plus en plus vite...Elles <mod type="corr"><orig>ses</orig><reg>s'est</reg></mod> <mod type="corr"><orig>ecrassa</orig><reg>écrasa</reg></mod>,<lb/>
+contre, un arbre. Les filles <mod type="corr"><orig>et</orig><reg>sont</reg></mod> <mod type="corr"><orig>inconsciente</orig><reg>inconscientes</reg></mod> <mod type="corr"><orig>pui</orig><reg>puis</reg></mod><lb/>
+des gents <mod type="corr"><orig>àvut</orig><reg>ont vu</reg></mod> cette voiture <mod type="corr"><orig>écraser</orig><reg>écrasée</reg></mod> contre un<lb/>
+arbre. Alos ils font le <mod type="corr"><orig>toures</orig><reg>tour</reg></mod> de la voiture,<lb/>
+pour voir si <mod type="corr"><orig>ils</orig><reg>il y</reg></mod> a <mod type="corr"><orig>riun</orig><reg>rien</reg></mod> de <mod type="corr"><orig>dangeure</orig><reg>dangereux</reg></mod>. Ainsi ils<lb/>
+<mod type="corr"><orig>sortes</orig><reg>sortent</reg></mod> les deux fillettes, ils les <mod type="corr"><orig>mertes</orig><reg>mettent</reg></mod> coucher.<lb/>
+par <mod type="corr"><orig>ters</orig><reg>terre</reg></mod>. Ensuite ils <mod type="corr"><orig>regarde</orig><reg>regardent</reg></mod> si elles <mod type="corr"><orig>vantiles</orig><reg>ventilent</reg></mod><lb/>
+si elles sont <mod type="corr"><orig>inconsciente</orig><reg>inconscientes</reg></mod> ou <mod type="corr"><orig>consciente</orig><reg>conscientes</reg></mod> car<lb/>
+
+<pb/>
+ils <mod type="corr"><orig>avertisser</orig><reg>avertissent</reg></mod> et ils les <mod type="corr"><orig>mais</orig><reg>mettent</reg></mod> en P.L.S. <mod type="corr"><orig>Il</orig><reg>Ils</reg></mod> <mod type="corr"><orig>détache</orig><reg>détachent</reg></mod><lb/>
+lunettes, col, ceinture, mettent les <mod type="corr"><orig>droits</orig><reg>droites</reg></mod>,<lb/>
+ils placent le bras <mod type="corr"><orig>a</orig><reg>à</reg></mod> 90° et la paume dans paume<lb/>
+sur l'oreille gauche. Enfin ils <mod type="corr"><orig>léves</orig><reg>lèvent</reg></mod> le genou puis<lb/>
+ils se <mod type="corr"><orig>recule</orig><reg>reculent</reg></mod> et Ils ont <mod type="corr"><orig>nais</orig><reg>mis</reg></mod> les fillettes en P.L.S<lb/>
+ils <mod type="corr"><orig>regarde</orig><reg>regardent</reg></mod> si elles sont stables et les. §<lb/>
+pompiers <mod type="corr"><orig>arrive</orig><reg>arrivent</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

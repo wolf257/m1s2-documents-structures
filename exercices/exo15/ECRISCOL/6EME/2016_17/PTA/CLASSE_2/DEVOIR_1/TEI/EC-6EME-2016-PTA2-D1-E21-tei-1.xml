@@ -1,0 +1,127 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E21
+</head>
+<p>
+<pb/>
+<mod type="corr"><orig>quand</orig><reg>Quand</reg></mod> je serai grande j'aimerai<lb/>
+<mod type="corr"><orig>êtres</orig><reg>être</reg></mod> <mod type="del" stage="" who=""><del>sois</del></mod> <mod type="corr"><orig>patissiére</orig><reg>patissière</reg></mod> <mod type="del" stage="" who=""><del>ou garder<lb/> des <mod type="subst"><del>petite</del><add stage="" who="">petit</add></mod> enfants</del></mod>. 
+<mod type="corr"><orig>dans</orig><reg>Dans</reg></mod> <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>journée<lb/> journé</del></mod></del><add stage="" who="">journée</add></mod></orig><reg>journées</reg></mod> <mod type="corr"><orig>je aurait</orig><reg>j'aurai</reg></mod> <mod type="corr"><orig>plain</orig><reg>plein</reg></mod> de <mod type="corr"><orig>chose</orig><reg>choses</reg></mod><lb/>
+je <mod type="corr"><orig>fairais</orig><reg>ferais</reg></mod> des <mod type="corr"><orig>gateaux</orig><reg>gâteaux</reg></mod> <mod type="add" stage="" who=""><add>des <mod type="corr"><orig>bonbon</orig><reg>bonbons</reg></mod></add></mod><mod type="del" stage="" who=""><del>ou je<lb/> m'ocuperais deux jourais avec eu.</del></mod><lb/>
+puis <mod type="del" stage="" who=""><del>renz</del></mod> je rentrerais chez<lb/>
+moi pour <mod type="corr"><orig>dejeuner</orig><reg>déjeuner</reg></mod>, puis<lb/>
+je repartirais pour faire des<lb/>
+<mod type="del" stage="" who=""><del>g</del></mod> <mod type="corr"><orig>gateaux</orig><reg>gâteaux</reg></mod>, <mod type="del" stage="" who=""><del>ou jouer avec les<lb/>
+enfants</del></mod> <mod type="add" stage="" who=""><add>des <mod type="corr"><orig>gourmandise</orig><reg>gourmandises</reg></mod></add></mod>. Je repartirais pour<lb/>
+<mod type="corr"><orig>rentrais</orig><reg>rentrer</reg></mod> chez moi. <mod type="corr"><orig>puis</orig><reg>Puis</reg></mod> §<lb/>
+
+<pb/>
+les <mod type="corr"><orig>jour</orig><reg>jours</reg></mod> <mod type="corr"><orig>passeras</orig><reg>passeront</reg></mod>, puis<lb/>
+<mod type="corr"><orig>preparé</orig><reg>préparerais</reg></mod> du pain du pain des<lb/>
+<mod type="corr"><orig>croissant</orig><reg>croissants</reg></mod>, pain au lait. §<lb/>
+"Gourmandise" §<lb/>
+et quand <mod type="corr"><orig>jouvrirais</orig><reg>j'ouvrirais</reg></mod> <mod type="add" stage="" who=""><add>à</add></mod> la boutique je le<lb/>
+fêterais avec ma <mod type="corr"><orig>meilleur</orig><reg>meilleure</reg></mod> amie<lb/>
+mon <mod type="corr"><orig>marie</orig><reg>mari</reg></mod> si on n'en <mod type="corr"><orig>n'a</orig><reg>a</reg></mod>, les enfants<lb/>
+toute la famillie quoi mais si<lb/>
+il aura <mod type="corr"><orig>quelqun</orig><reg>quelqu'un</reg></mod> avec qui je voudrais<lb/>
+<mod type="del" stage="" who=""><del>faire</del></mod> <mod type="corr"><orig>tenire</orig><reg>tenir</reg></mod> la boutique <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> avec<lb/>
+ma <mod type="corr"><orig>meilleur</orig><reg>meilleure</reg></mod> et la <mod type="corr"><orig>seul</orig><reg>seule</reg></mod> nous deux<lb/>
+<mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>serais</orig><reg>serait</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> cool surtout<lb/>
+avec elle. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

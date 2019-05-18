@@ -1,0 +1,133 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E20-V1
+</head>
+<p>
+L'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> est <mod type="corr"><orig>partie</orig><reg>parti</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> Denise non!!!! Ne <mod type="corr"><orig>part</orig><reg>pars</reg></mod> pas ma vie.
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>part</orig><reg>pars</reg></mod> à la recherche de l'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod>. Alors que Lili est partie <mod type="del" stage="" who="P"><del>est partie</del></mod> à la recherche de <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod>. Je vais <mod type="corr"><orig>allez</orig><reg>aller</reg></mod> voir dans les <mod type="corr"><orig>rech<mod type="del" stage="" who="P"><del>è</del></mod><mod type="add" stage="" who="P"><add>e</add></mod>rches</orig><reg>recherches</reg></mod>
+pour <mod type="corr"><orig>emploi<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>emploi</reg></mod>. Alors Lili cherche <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> une fois <mod type="corr"><orig>arrivé</orig><reg>arrivée</reg></mod> à cherche <mod type="corr"><orig>emploi<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>emploi</reg></mod>
+-OUWWWW! <mod type="corr"><orig>Arrivé</orig><reg>arrivée</reg></mod> devant le pôle emploi de St-Denis.
+-J'en ai du Boulot! Mais quelque <mod type="corr"><orig>ch<mod type="del" stage="" who="P"><del>ô</del></mod><mod type="add" stage="" who="P"><add>o</add></mod>se</orig><reg>chose</reg></mod> <mod type="corr"><orig>traca<mod type="del" stage="" who="P"><del>ss</del></mod><mod type="add" stage="" who="P"><add>c</add></mod>e</orig><reg>tracasse</reg></mod> Lili Elle
+pense que l'oncle <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> a été <mod type="corr"><orig>quidnapé</orig><reg>kidnappé</reg></mod> bon elle entre <mod type="corr"><orig>est</orig><reg>et</reg></mod>
+commence par <mod type="corr"><orig>demmande</orig><reg>demander</reg></mod> à la sécurité,  §<lb/>
+-Excusez moi vous n'auriez pas <mod type="corr"><orig>vue</orig><reg>vu</reg></mod> un vieux monsieur:
+"Non pardon". Lili a demandé à <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les <mod type="corr"><orig>gent</orig><reg>gens</reg></mod> qui se
+<mod type="corr"><orig>charger</orig><reg>chargent</reg></mod> de chercher des <mod type="corr"><orig>employé</orig><reg>employés</reg></mod>. Lili est <mod type="corr"><orig>fatigué</orig><reg>fatiguée</reg></mod> elle
+<mod type="corr"><orig>déscide</orig><reg>décide</reg></mod> de <mod type="corr"><orig>rentré</orig><reg>rentrer</reg></mod>. §<lb/>
+
+Je n'ai pas trouvé <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> bon ma vie on va manger un
+petit quelque chose SNIFSNIF. Après avoir <mod type="corr"><orig>manger</orig><reg>mangé</reg></mod>, §<lb/>
+-je vais voir tout les amis de <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod>, Bisous ne te fais pas 
+mal ma vie.  §<lb/>
+
+Alors on va commencer par aller voir <mod type="corr"><orig>jean-jack</orig><reg>Jean-Jack</reg></mod> au
+garage, §<lb/>
+-Bonjour <mod type="corr"><orig>jean-jack</orig><reg>Jean-Jack</reg></mod> je suis Lili la <mod type="corr"><orig>niës</orig><reg>nièce</reg></mod> de <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> <mod type="corr"><orig>est ce</orig><reg>est-ce</reg></mod> que
+<mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> est avec toi. "Non pourquoi" Lili répond parce qu'on le
+cherche "QUOI" dit <mod type="corr"><orig>jean-jack</orig><reg>Jean-Jack</reg></mod> Lili se sauve en courant avec
+un <mod type="corr"><orig>peut</orig><reg>peu</reg></mod> la honte. Maintenant Lili <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>peurt</orig><reg>peur</reg></mod> de ne plus le
+<mod type="corr"><orig>retrouvé</orig><reg>retrouver</reg></mod> alors elle rentre. §<lb/>
+
+Sans même dire quoi que ce soit <mod type="corr"><orig>a</orig><reg>à</reg></mod> Denise elle <mod type="corr"><orig>s'assoit</orig><reg>s'asseoit</reg></mod>
+sur le fauteuil de <mod type="corr"><orig>jo</orig><reg>Jo</reg></mod> et elle observe la fenêtre elle observe,
+elle observe puis tout à coup elle <mod type="corr"><orig>ressenti</orig><reg>ressentit</reg></mod> un <mod type="corr"><orig>présentiment</orig><reg>pressentiment</reg></mod> §<lb/>
+
+<pb/>
+
+A suivre... §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

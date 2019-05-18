@@ -1,0 +1,143 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E21
+</head>
+<p>
+<pb/>
+Quand je <mod type="corr"><orig>serais</orig><reg>serai</reg></mod> adulte, je <mod type="corr"><orig>voudrait</orig><reg>voudrais</reg></mod> avoir un métier. Je <mod type="corr"><orig>voudrait</orig><reg>voudrais</reg></mod><lb/>
+faire <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>sage</del></mod></del><add stage="" who="">sache</add></mod></orig><reg>sage</reg></mod> femme. §<lb/>
+Alors je me <mod type="corr"><orig>leverais</orig><reg>lèverais</reg></mod> tôt pour aller à mon travail. Je<lb/>
+<mod type="corr"><orig>prendrait</orig><reg>prendrai</reg></mod> mon petit déjeuner, je me brosserais les dents<lb/>
+et j'irais me laver. Après je m'habillerais, je me coifferais<lb/>
+et je prendrai ma tenue de <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>sage</del></mod></del><add stage="" who="">sache</add></mod></orig><reg>sage</reg></mod> femme. J'aurais<lb/>
+aussi ma voiture et des enfants et un homme, c'est <mod type="subst"><del><mod type="del" stage="" who=""><del>la</del></mod></del><add stage="" who="">la</add></mod><lb/>
+baby-sitter qui les <mod type="corr"><orig>emmenerais</orig><reg>emmenerait</reg></mod>. Bon quand j'arriverais à<lb/>
+mon travail, je me metterais en tenue, et je discuterais avec<lb/>
+mes collègues de ce qu'on <mod type="del" stage="" who=""><del>dev</del></mod> devait faire ce <mod type="corr"><orig>jour là</orig><reg>jour-là</reg></mod>. §<lb/>
+Après peut-être qu'une femme devra accoucher je ferais §<lb/>
+
+<pb/>
+mon travail. <mod type="del" stage="" who=""><del>J'aueai</del></mod> J'aiderais plein de <mod type="corr"><orig>femme</orig><reg>femmes</reg></mod> pour<lb/>
+accoucher. Je finirais tard le soir, quand je rentrerais chez<lb/>
+moi mon homme <mod type="corr"><orig>seras</orig><reg>sera</reg></mod> là et mes enfants aussi. Bien <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod><lb/>
+c'est moi qui préparerais à manger. Après on mangera<lb/>
+tous ensemble, on discutera à table de notre journée,<lb/>
+<mod type="del" stage="" who=""><del>que avec é ques</del></mod> que <mod type="corr"><orig>sait-il</orig><reg>s'est-il</reg></mod> passé au travail, à l'école.<lb/>
+Après on se lavera les dents et on regardera un petit peu la<lb/>
+télé. On <mod type="corr"><orig>n'ira</orig><reg>ira</reg></mod> <mod type="corr"><orig>ce</orig><reg>se</reg></mod> coucher et <mod type="del" stage="" who=""><del>je</del></mod> on se mettra en<lb/>
+pyjama, moi en chemise de <mod type="corr"><orig>muit</orig><reg>nuit</reg></mod>. Après je raconterais<lb/>
+une histoire aux enfants et ils dormirons. Je <mod type="corr"><orig>veut</orig><reg>veux</reg></mod> que mes<lb/>
+enfants s'<mod type="corr"><orig>appelle</orig><reg>appellent</reg></mod> Capucine et Jules. Après je lirais<lb/>
+un peu dans mon lit avec mon homme, <mod type="corr"><orig>apès</orig><reg>après</reg></mod> j'éteignerais<lb/>
+la lumière et je fermerais les yeux mon homme aussi.<lb/>
+Peut-être que pendant la nuit je me leverais pour<lb/>
+aller manger ou boire. Ou même pour aller au WC.<lb/>
+Peut-être aussi que ça <mod type="corr"><orig>soillent</orig><reg>soit</reg></mod> mon homme ou mes<lb/>
+enfants. §<lb/>
+
+<pb/>
+Et aussi je <mod type="corr"><orig>voudrait</orig><reg>voudrais</reg></mod> avoir des animaux. Un chat et<lb/>
+un chien. Le chien je l'appellerais Combatant et je<lb/>
+<mod type="corr"><orig>veut</orig><reg>veux</reg></mod> qu'il <mod type="corr"><orig>soille</orig><reg>soit</reg></mod> grand et blanc. Le chat je <mod type="corr"><orig>voudrait</orig><reg>voudrais</reg></mod> qu'il<lb/>
+<mod type="corr"><orig>aille</orig><reg>ait</reg></mod> plein de <mod type="corr"><orig>poil</orig><reg>poils</reg></mod> et qu'il <mod type="corr"><orig>saille</orig><reg>soit</reg></mod> gros et roux je<lb/>
+<mod type="corr"><orig>t appellerais</orig><reg>t'appellerais</reg></mod> Garfield. Et même <mod type="corr"><orig>peut être</orig><reg>peut-être</reg></mod> que le soir<lb/>
+j'entendrais mon chat boire, manger, miauler.<lb/>
+Ou mon chien <mod type="del" stage="" who=""><del>m</del></mod> aboyer, manger, boire. J'aurais une<lb/>
+belle et grande maison avec une <mod type="corr"><orig>coure</orig><reg>cour</reg></mod>, pour mon chien et<lb/>
+mes enfants. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

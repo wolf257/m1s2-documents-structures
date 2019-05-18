@@ -1,0 +1,126 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E6
+</head>
+<p>
+<pb/> 
+Il prend son vélo sort de <mod type="corr"><orig>cher</orig><reg>chez</reg></mod> lui ferme le portail et en route pour l'école! <mod type="subst"><del><mod type="del" stage="" who=""><del>Il</del></mod></del><add stage="" who="">Il</add></mod> rencontre<lb/>
+son copain <mod type="subst"><del><mod type="del" stage="" who=""><del>Théo</del></mod></del><add stage="" who="">Théo</add></mod> il dit"j'ai hâte d'aller à l’<mod type="corr"><orig>é<mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">c</add></mod>ole</orig><reg>école</reg></mod>! » "Moi <mod type="subst"><del><mod type="del" stage="" who=""><del>ausst</del></mod></del><add stage="" who="">aussi</add></mod>! » dit Fabien<lb/>
+il sorta <mod type="corr"><orig>eu<mod type="subst"><del><mod type="del" stage="" who=""><del>X</del></mod></del><add stage="" who="">x</add></mod></orig><reg>eux</reg></mod> deux en discutant puis il arrive à l'école "bon" dit Fabien "on a de<lb/>
+la récré!""Oui» "<mod type="corr"><orig>Heuresement</orig><reg>Heureusement</reg></mod> » dit Théo <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les copains sont <mod type="corr"><orig>la</orig><reg>là</reg></mod>!<mod type="del" stage="" who=""><del>dix mi</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>dix minute plus tard</del></mod><lb/></del><add stage="" who="">dix minutes plus tard.</add></mod> dring dring! la cloche sonne, tous les enfants <mod type="corr"><orig>forme</orig><reg>forment</reg></mod> un rang<lb/>
+et ils <mod type="corr"><orig>rentra#X#</orig><reg>rentrent</reg></mod> en classe, la maîtresse dit, <mod type="corr"><orig>aller</orig><reg>allez</reg></mod>!on va <mod type="corr"><orig>fair</orig><reg>faire</reg></mod> <mod type="corr"><orig>l'apelle</orig><reg>l’appel</reg></mod>, Tom,<lb/>
+présent!, Julie, présente!...<mod type="subst"><del><mod type="del" stage="" who=""><del>pus</del></mod></del><add stage="" who="">puis</add></mod> <mod type="corr"><orig>l'apelle</orig><reg>l’appel</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">est</add></mod> fait tout le monde <mod type="subst"><del><mod type="del" stage="" who=""><del>st</del></mod><lb/></del><add stage="" who="">est</add></mod> <mod type="corr"><orig>la</orig><reg>là</reg></mod>, bon on va faire de l'orthographe! dit la maîtresse..<lb/>
+pu<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">i</add></mod>s> ils <mod type="corr"><orig>alla</orig><reg>allèrent</reg></mod> en récré, super, c'est la récré!!!! <mod type="corr"><orig>aller</orig><reg>allez</reg></mod> les <mod type="corr"><orig><mod type="del" stage="" who=""><del>an</del></mod>enfant</orig><reg>enfants</reg></mod><lb/>
+vous <mod type="corr"><orig>pouver</orig><reg>pouvez</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>y aller!</del></mod></del><add stage="" who="">aller <mod type="corr"><orig>joué</orig><reg>jouer</reg></mod>!</add></mod> oui!!!!!!!!!!!!!!!!!!!dix minutes<lb/>
+plus tard les <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod> on rentre! enfin <mod type="corr"><orig>arriver</orig><reg>arrivés</reg></mod> en classe « <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> fait du bien de<lb/>
+prendre l'air" dit Fabien en <mod type="corr"><orig>chuchotent</orig><reg>chuchotant</reg></mod> en <mod type="corr"><orig>arrivnt</orig><reg>arrivant</reg></mod> à sa <mod type="corr"><orig>plasse</orig><reg>place</reg></mod>, une<lb/>
+<mod type="corr"><orig>demi heure</orig><reg>demi-heure</reg></mod> plus tard. <mod type="corr"><orig>bon</orig><reg>Bon</reg></mod> les <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod>, <mod type="del" stage="" who=""><del>on va manger</del></mod> dit la<lb/>
+maîtresse on va <mod type="corr"><orig><mod type="subst"><del>mang<mod type="del" stage="" who=""><del>r</del></mod></del><add stage="" who="">er</add></mod></orig><reg>manger</reg></mod>! <mod type="corr"><orig>se</orig><reg>ceux</reg></mod> qui <mod type="subst"><del><mod type="del" stage="" who="v"><del>X#</del></mod></del><add stage="" who="">vont</add></mod> à la cantine<lb/>
+sous le <mod type="corr"><orig>préa</orig><reg>préau</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>les</del></mod></del><add stage="" who="">les</add></mod> <mod type="corr"><orig>autre</orig><reg>autres</reg></mod> venez av<mod type="subst"><del><mod type="del" stage="" who=""><del>X#</del></mod></del><add stage="" who="">e</add></mod>c moi puis tout<lb/>
+le monde <mod type="corr"><orig>manga</orig><reg>mangea</reg></mod>, <mod type="corr"><orig>puid</orig><reg>puis</reg></mod> il <mod type="del" stage="" who=""><del>vot</del></mod><mod type="del" stage="" who=""><del>von</del></mod> <mod type="corr"><orig>joué</orig><reg>jouaient</reg></mod> dans leur <mod type="subst"><del><mod type="del" stage="" who=""><del>chan#X#</del></mod></del><add stage="" who="">chambre</add></mod>,<lb/>
+en classe, il faut la dictée <mod type="corr"><orig>exeter exetera</orig><reg>et caetera et caetera</reg></mod>! Puis <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>retour</del></mod><lb/>
+</del><add stage="" who="">retounrene</add></mod></orig><reg>retournèrent</reg></mod> en récré et puis on retourne chez soit! lui <mod type="corr"><orig>Fabin</orig><reg>Fabien</reg></mod><lb/>
+rentre chez lui et rencontre <mod type="corr"><orig>c'est</orig><reg>ses</reg></mod> parents. §<lb/>
+
+<pb/>
+<mod type="del" stage="" who=""><del>le#X#r</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>coco</del></mod></del><add stage="" who="">coucou</add></mod> mon chéri <mod type="corr"><orig>dit</orig><reg>disent</reg></mod> <mod type="corr"><orig>tils</orig><reg>ils</reg></mod> ensemble en <mod type="subst"><del><mod type="del" stage="" who=""><del>ce</del></mod></del><add stage="" who="">coeur</add></mod>. Coucou maman et papa<lb/>
+j'ai <mod type="corr"><orig>passer</orig><reg>passé</reg></mod> une <mod type="corr"><orig>exelente</orig><reg>excellente</reg></mod> journée, super nous aussi, bon on prend le <mod type="corr"><orig>goutre</orig><reg>goûter</reg></mod> propose<lb/>
+alors le père, ha oui j'ai faim! enfin c'est ®<mod type="del" stage="" who=""><del>leur</del></mod><mod type="add" stage="" who=""><add>le</add></mod><mod type="del" stage="" who=""><del>le</del></mod><mod type="add" stage="" who=""><add>l’heure</add></mod>® de <mod type="corr"><orig>joué</orig><reg>jouer</reg></mod> <mod type="del" stage="" who=""><del>!</del></mod> Pour <mod type="del" stage="" who=""><del>P</del></mod> <mod type="corr"><orig>Fabin</orig><reg>Fabien</reg></mod>!<lb/>
+après c'est <mod type="corr"><orig>leur</orig><reg>l’heure</reg></mod> de manger, et ensuite on va faire la <mod type="corr"><orig>toillette</orig><reg>toilette</reg></mod> et au lit! enfin<lb/>
+toute la <mod type="corr"><orig>#maisXX#</orig><reg>maison</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>est</del></mod></del><add stage="" who="">est</add></mod> calme, voilà une <mod type="corr"><orig>exelente</orig><reg>excellente</reg></mod> <mod type="corr"><orig>journé</orig><reg>journée</reg></mod>! §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

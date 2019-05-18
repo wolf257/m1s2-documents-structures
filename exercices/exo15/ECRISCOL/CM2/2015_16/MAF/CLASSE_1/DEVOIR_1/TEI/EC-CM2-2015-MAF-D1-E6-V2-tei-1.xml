@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E6-V2
+</head>
+<p>
+Un jour j'ai eu 10/10. <mod type="corr"><orig>j'ai</orig><reg>J'ai</reg></mod> <mod type="corr"><orig>ecrit</orig><reg>écrit</reg></mod> sur ma<lb/>
+rédaction que <mod type="corr"><orig>javais</orig><reg>j'avais</reg></mod>, <mod type="corr"><orig>étoufai</orig><reg>étouffé</reg></mod> mon <mod type="corr"><orig>frére</orig><reg>frère</reg></mod> quand<lb/>
+il dormait. <mod type="corr"><orig>j'avais</orig><reg>J'avais</reg></mod> pris un coussin et je <mod type="corr"><orig>lai</orig><reg>l'ai</reg></mod><lb/>
+<mod type="corr"><orig>étoufai</orig><reg>étouffé</reg></mod> je ne l'avais <mod type="corr"><orig>méme</orig><reg>même</reg></mod> pas dit à,<lb/>
+<mod type="corr"><orig>mas</orig><reg>ma</reg></mod> mère. Ma <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> mis un 10/10.<lb/>
+<mod type="corr"><orig>mais</orig><reg>Mais</reg></mod> le soir <mod type="corr"><orig>méme</orig><reg>même</reg></mod> on devait <mod type="corr"><orig>fair</orig><reg>faire</reg></mod> signer<lb/> 
+<mod type="corr"><orig>nousc</orig><reg>nos</reg></mod> <mod type="corr"><orig>cahier</orig><reg>cahiers</reg></mod> j'ai montré à mas <mod type="corr"><orig>mére</orig><reg>mère</reg></mod>. §<lb/>
+<mod type="corr"><orig>mais</orig><reg>Mais</reg></mod> elle <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> tapé avec la ceinture. <mod type="corr"><orig>mais</orig><reg>Mais</reg></mod><lb/>
+je lui <mod type="corr"><orig>et</orig><reg>ai</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> maman tu <mod type="corr"><orig>et</orig><reg>es</reg></mod> <mod type="corr"><orig>content</orig><reg>contente</reg></mod> j'ai<lb/>
+eu un 10/10. <mod type="corr"><orig>elle</orig><reg>Elle</reg></mod> <mod type="corr"><orig>mas</orig><reg>m'a</reg></mod> plus <mod type="corr"><orig>tapès</orig><reg>tapé</reg></mod>. <mod type="corr"><orig>le</orig><reg>Le</reg></mod> lendemain<lb/>
+je suis <mod type="corr"><orig>arriver</orig><reg>arrivé</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'école: bras cassé, jambe<lb/>
+<mod type="corr"><orig>cassé</orig><reg>cassée</reg></mod>, et nez cassé §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

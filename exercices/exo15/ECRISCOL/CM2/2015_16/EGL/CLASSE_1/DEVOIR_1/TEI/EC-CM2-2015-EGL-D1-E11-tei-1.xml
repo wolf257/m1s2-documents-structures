@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D1-E11
+</head>
+<p>
+<pb/>
+Dimanche dernier comme j'avais eu une mauvaise<lb/>
+<mod type="corr"><orig>naute</orig><reg>note</reg></mod>, je me suis dit que je <mod type="corr"><orig>pouvé</orig><reg>pouvais</reg></mod> me <mod type="corr"><orig>ratrappé</orig><reg>rattraper</reg></mod><lb/>
+pour faire une rédaction, et j'ai eu une <mod type="corr"><orig>trés</orig><reg>très</reg></mod><lb/>
+bonne idée. Donc j'ai commencé à faire ma rédaction<lb/>
+et dans ma rédaction il se <mod type="corr"><orig>passé</orig><reg>passait</reg></mod> que mon père<lb/>
+s'était coupé avec un couteau dans la cuisine. Puis<lb/>
+il s'était passé une autre histoire <mod type="corr"><orig>s'étais</orig><reg>c'était</reg></mod> ma soeur<lb/>
+qui était <mod type="corr"><orig>tombé</orig><reg>tombée</reg></mod> dans les escaliers, il <mod type="corr"><orig>fallais</orig><reg>fallait</reg></mod> <mod type="corr"><orig>quond</orig><reg>qu'on</reg></mod> l'<lb/>
+<mod type="corr"><orig>enmmenent</orig><reg>emmène</reg></mod> à l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod>. Et il <mod type="corr"><orig>s'étais</orig><reg>s'était</reg></mod> passé une<lb/>
+<mod type="corr"><orig>hautre</orig><reg>autre</reg></mod> histoire ma soeur <mod type="corr"><orig>avais</orig><reg>avait</reg></mod> mis de la poudre<lb/>
+à laver dans la boîte de lait en poudre. ça <mod type="corr"><orig>avais</orig><reg>avait</reg></mod><lb/>
+<mod type="corr"><orig>tré</orig><reg>très</reg></mod> bien marché. Il s'était encore passé une autre<lb/>
+histoire mon père <mod type="corr"><orig>à</orig><reg>a</reg></mod> failli mourir. Et il <mod type="corr"><orig>s'étais</orig><reg>s'était</reg></mod> encore<lb/>
+passé une histoire où c'est le jour où j'<mod type="corr"><orig>avait</orig><reg>avais</reg></mod> <mod type="corr"><orig>détraquer</orig><reg>détraqué</reg></mod><lb/>
+la machine à laver et <mod type="corr"><orig>inonder</orig><reg>inondé</reg></mod> l'<mod type="corr"><orig>apartemment</orig><reg>appartement</reg></mod> des voisins §<lb/>
+
+<pb/>
+du dessous. Maintenant j'<mod type="corr"><orig>espere</orig><reg>espère</reg></mod> que la maîtresse va <mod type="corr"><orig>ascpeter</orig><reg>accepter</reg></mod> les<lb/>
+<mod type="corr"><orig>cinqs</orig><reg>cinq</reg></mod> <mod type="corr"><orig>histoire</orig><reg>histoires</reg></mod> que j'ai <mod type="corr"><orig>raconté</orig><reg>racontées</reg></mod> pour ma grande rédaction. <mod type="corr"><orig>Voila</orig><reg>Voilà</reg></mod> <mod type="corr"><orig>Mes</orig><reg>mes</reg></mod><lb/>
+<mod type="corr"><orig>rédaction</orig><reg>rédactions</reg></mod> du dimanche dernier. <mod type="corr"><orig>C'étais</orig><reg>C'était</reg></mod> une <mod type="corr"><orig>trés</orig><reg>très</reg></mod> bonne idée. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

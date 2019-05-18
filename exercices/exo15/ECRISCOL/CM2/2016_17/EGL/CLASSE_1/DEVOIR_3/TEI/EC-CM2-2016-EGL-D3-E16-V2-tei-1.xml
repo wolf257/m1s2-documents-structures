@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E16-V2
+</head>
+<p>
+<pb/>
+Quand je serai grande je serai <mod type="corr"><orig>patisière</orig><reg>pâtissière</reg></mod> <mod type="add" stage="T2" who=""><add>pâtissière</add></mod>. Un matin je me <mod type="add" stage="T2" who=""><add>suis</add></mod><lb/>
+<mod type="corr"><orig>laive</orig><reg>lavée</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>l<hi place=" " time="" who="Pσ" style="underline">ai</hi>vé</add></mod></orig><reg>lavée</reg></mod> pour aller <hi place=" " time="" who="Pσ" style="underline">a</hi> <mod type="add" stage="T3" who=""><add>à</add></mod> mon travail. Puis une fois <mod type="corr"><orig>arrivé</orig><reg>arrivée</reg></mod> <hi place=" " time="" who="Pσ" style="underline">a</hi><mod type="add" stage="T3" who=""><add>à</add></mod> la <mod type="corr"><orig>patiserie</orig><reg>pâtisserie</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod> <mod type="add" stage="T2" who=""><add>pâtisserie</add></mod><lb/>
+j'ai fait des <mod type="corr"><orig>gâtea<hi place=" " time="" who="Pσ" style="underline">u</hi></orig><reg>gâteaux</reg></mod> <mod type="add" stage="T3" who=""><add>gâteaux</add></mod> pour les <mod type="corr"><orig>personn<hi place=" " time="" who="Pσ" style="underline">e</hi></orig><reg>personnes</reg></mod> <mod type="add" stage="T3" who=""><add>personnes</add></mod> qui m'en <mod type="corr"><orig><mod type="del" stage="T2" who=""><del>a</del></mod><hi place=" " time="" who="Pσ" style="underline"><mod type="add" stage="T2" who=""><add>on</add></mod></hi></orig><reg>ont</reg></mod><lb/>
+demandé un. Une fois le soir une amie m'appelle pour<lb/>
+que je <mod type="subst"><del><mod type="del" stage="" who=""><del>face</del></mod></del><add stage="" who="">fasse</add></mod> un gâteau <mod type="add" stage="T2" who=""><add>des gâteaux</add></mod> pour sa fille. <mod type="corr"><orig>Evid<hi place=" " time="" who="Pσ" style="underline">am</hi>ant</orig><reg>Evidemment</reg></mod> <mod type="add" stage="" who="P"><add>Evidemment</add></mod><lb/>
+j'ai répondu <mod type="subst"><del><mod type="del" stage="T2" who=""><del>oui</del></mod></del><add stage="T2" who="">oui</add></mod> mais quand je lui <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">et</hi></orig><reg>ai</reg></mod> <mod type="add" stage="T2" who=""><add>est</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">demander</hi></orig><reg>demandé</reg></mod><lb/>
+c'est pour quand <mod type="add" stage="" who="P"><add>,</add></mod> elle <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ma</hi></orig><reg>m'a</reg></mod> répondu <mod type="add" stage="T2" who=""><add>c'est pour quand? Elle <mod type="corr"><orig>répondus</orig><reg>répondit</reg></mod></add></mod> pour ce soir. Je lui<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">est</hi></orig><reg>ai</reg></mod> répondu d'<mod type="corr"><orig>accor</orig><reg>accord</reg></mod>. Mais en vrai je <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ni</hi></orig><reg>n'y</reg></mod> <mod type="corr"><orig>croyer</orig><reg>croyais</reg></mod> <hi place=" " time="" who="Pσ" style="underline">pas</hi> mais <mod type="add" stage="T2" who=""><add><mod type="corr"><orig>répondus</orig><reg>répondis</reg></mod> d'accord. Mais je <mod type="corr"><orig>ni</orig><reg>n'y</reg></mod> <mod type="corr"><orig>croyer</orig><reg>croyais</reg></mod> pas. Mais</add></mod><lb/>
+je <mod type="del" stage="" who=""><del>le</del></mod> l(est pour le <mod type="corr"><orig>bonn<hi place=" " time="" who="Pσ" style="underline">e</hi> heure</orig><reg>bonheur</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>bonne heure</add></mod></orig><reg>bonheur</reg></mod> de sa fille. Une fois<lb/>
+fait <mod type="add" stage="" who="P"><add>,</add></mod> je suis <mod type="corr"><orig>all<hi place=" " time="" who="Pσ" style="underline">é</hi></orig><reg>allée</reg></mod> chez elle. Je lui <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">est</hi></orig><reg>ai</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>ais</add></mod></orig><reg>ai</reg></mod> <mod type="corr"><orig>donner</orig><reg>donné</reg></mod> le gâteau <mod type="add" stage="T2" who=""><add>donné les gâteaux</add></mod><lb/>
+elle <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ma</hi></orig><reg>m'a</reg></mod> <mod type="add" stage="T3" who=""><add>m'a</add></mod> remercié. Puis elle <mod type="add" stage="T3" who=""><add>m'a</add></mod> dit que je pouvais<lb/>
+rester <mod type="del" stage="T2" who=""><del>même</del></mod> <mod type="add" stage="T2" who=""><add>et puis</add></mod> sa fille me <mod type="corr"><orig>la</orig><reg>l'a</reg></mod> dit aussi. <mod type="del" stage="" who=""><del>Du coup</del></mod> Donc<lb/>
+j'ai répondu <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>répond<hi place=" " time="" who="Pσ" style="underline">ue</hi></add></mod></orig><reg>répondu</reg></mod> <mod type="add" stage="T3" who=""><add>répondu</add></mod> oui <mod type="add" stage="" who=""><add>/Puis</add></mod> on a fait la fête tous <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">en</hi> semble</orig><reg>ensemble</reg></mod> <mod type="add" stage="T3" who=""><add>ensemble</add></mod>. §<lb/>
+
+<pb/>
+<mod type="subst"><del><mod type="del" stage="T2" who=""><del>Puis</del></mod></del><add stage="T2" who="">Ensuite</add></mod> je suis <mod type="corr"><orig>rentré</orig><reg>rentrée</reg></mod> chez moi me reposer dans mon<lb/>
+lit. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E6
+</head>
+<p>
+Il <mod type="subst"><del><mod type="del" stage="" who=""><del>fut</del></mod></del><add stage="" who="">fait</add></mod> nuit je me réveille à 2:00 du <mod type="corr"><orig>mat</orig><reg>matin</reg></mod> il est <mod type="corr"><orig>temp</orig><reg>temps</reg></mod> de partir au boulot je <mod type="corr"><orig>fait</orig><reg>fais</reg></mod><lb/>
+ma toilette tous <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>quil</orig><reg>qu'il</reg></mod> faut <mod type="corr"><orig>et</orig><reg>est</reg></mod> en <mod type="corr"><orig>rout</orig><reg>route</reg></mod>! <mod type="corr"><orig>c'est</orig><reg>C'est</reg></mod> tout <mod type="corr"><orig>pret</orig><reg>près</reg></mod><lb/>
+de la maison, <mod type="corr"><orig>jentre</orig><reg>j'entre</reg></mod> chez le vétérinaire et je vois dans<lb/>
+mon <mod type="subst"><del><mod type="del" stage="" who=""><del>bureau</del></mod></del><add stage="" who="">bureau</add></mod> j'<mod type="corr"><orig>énlève</orig><reg>enlève</reg></mod> mon manteau et <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>que</del></mod></del><add stage="" who="">quel<lb/>qun</add></mod></orig><reg>quelqu'un</reg></mod> dans la salle d'attente je l'appelle "Mr. <mod type="del" stage="" who=""><del>rail rtute</del></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>roti</del></mod></del><add stage="" who="">rictaroti</add></mod>!" "oui" me répond <mod type="corr"><orig>selui la</orig><reg>celui-là</reg></mod> c'est pour <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> mon<lb/>
+chat pour son vaccin après le vaccin <mod type="corr"><orig>terminer</orig><reg>terminé</reg></mod> je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod><lb/>
+mon chat nougat il est <mod type="corr"><orig>dous</orig><reg>doux</reg></mod> comme une crème! §<lb/>
+bon il a dix ans, hop! le vaccin! il se <mod type="corr"><orig>sen</orig><reg>sent</reg></mod> fatigué<lb/>
+je lui <mod type="corr"><orig>fil</orig><reg>file</reg></mod> des <mod type="corr"><orig>crocette</orig><reg>croquettes</reg></mod> et comme <mod type="corr"><orig>por</orig><reg>pour</reg></mod> <mod type="corr"><orig>magi</orig><reg>magie</reg></mod> il va<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>meu mueux meux</del></mod></del><add stage="" who="">mieux</add></mod>! <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> ne <mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">'</add></mod>étonne</orig><reg>m'étonne</reg></mod> pas<lb/>
+il est presque comme <mod type="corr"><orig>garfield</orig><reg>Garfield</reg></mod>! <mod type="corr"><orig>j'ai</orig><reg>J'ai</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> PRESQUE!<lb/>
+enfin la journée est <mod type="corr"><orig>fini</orig><reg>finie</reg></mod> on dort et voilà!<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>me</del></mod></del><add stage="" who="">la</add></mod> <mod type="corr"><orig>journé</orig><reg>journée</reg></mod> faite, MIAOU!!!!, non pas<lb/>
+nougat! §<lb/>
+{DESSIN}</p>
+</div>
+﻿</body>
+</text>
+</TEI>

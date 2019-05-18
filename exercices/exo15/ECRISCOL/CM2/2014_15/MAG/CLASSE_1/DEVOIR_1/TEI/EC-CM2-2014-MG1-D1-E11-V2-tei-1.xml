@@ -1,0 +1,138 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E11-V2
+</head>
+<p>
+Le Gaba non de l'oncle Jo §<lb/>
+
+Lili se demande si oncle Jo a trouvé un <mod type="corr"><orig>travaille</orig><reg>travail</reg></mod> ou il les aime plus<lb/>
+elle sait pas. Lili se demande aussi si oncle Jo va <mod type="corr"><orig>dispar<mod type="subst"><del><mod type="del" stage="" who="P"><del>etre</del></mod></del><add stage="" who="P">aître</add></mod></orig><reg>disparaître</reg></mod> pour<lb/>
+toute la vie. §<lb/>
+
+Tata <mod type="corr"><orig>Denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod> est très triste et <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> veut la <mod type="corr"><orig>reconforter</orig><reg>réconforter</reg></mod>, mais<lb/> 
+<mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> doit <mod type="corr"><orig>fai<mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">re</add></mod></orig><reg>faire</reg></mod> autre chose, elle doit <mod type="corr"><orig>comprend<mod type="add" stage="" who="P"><add>r</add></mod>e</orig><reg>comprendre</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>apropos</del></mod></del><add stage="" who="P">à propos</add></mod></orig><reg>à propos</reg></mod> de l'oncle Jo.<lb/>
+Lili a eu une idée, elle va partir <mod type="corr"><orig>a</orig><reg>à</reg></mod> la recherche de <mod type="corr"><orig>tou<mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">s</add></mod></orig><reg>tous</reg></mod> les <mod type="corr"><orig>endroit<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>endroits</reg></mod><lb/>
+<mod type="corr"><orig>préfèré<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>préférés</reg></mod> de l'oncle Jo. §<lb/>
+
+Elle va au café <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>là</reg></mod> où oncle Jo boit <mod type="corr"><orig>tou<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>tous</reg></mod> les <mod type="corr"><orig>matin<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>matins</reg></mod> un café pour se<lb/>
+<mod type="corr"><orig>reveillé</orig><reg>réveiller</reg></mod>. Elle a pas vu oncle Jo, alors elle va se demander.<lb/>
+Mais non il ne <mod type="corr"><orig>la</orig><reg>l'a</reg></mod> pas vu §<lb/>
+
+Ensuite elle <mod type="corr"><orig>va<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>va</reg></mod> demander au voisine. Non toujours pas<lb/>
+Et <mod type="corr"><orig>Maintenant</orig><reg>maintenant</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>l</del></mod></del><add stage="" who="">L</add></mod>ili</orig><reg>Lili</reg></mod> va aller à la maison de son <mod type="del" stage="" who=""><del>a</del></mod> meilleur ami<lb/>
+<mod type="corr"><orig>deseder</orig><reg>décédé</reg></mod>. Oncle Jo est bien là mais il est pas tout seul, il est<lb/>
+avec un monsieur barbu et <mod type="corr"><orig>agê</orig><reg>âgé</reg></mod>, et oncle Jo donne de <lb/>
+l'argent à <mod type="corr"><orig>cette</orig><reg>cet</reg></mod> homme, Lili ne comprend pas <mod type="corr"><orig>pourquoi</orig><reg>pourquoi</reg></mod><lb/>
+ mais elle <mod type="corr"><orig>rentré</orig><reg>rentre</reg></mod> à la maison pour en parler avec<lb/>
+tata <mod type="corr"><orig>Denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod>. §<lb/>
+
+<mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> dit: Tata <mod type="corr"><orig>Denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod>. Tata <mod type="corr"><orig>Denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod> <mod type="corr"><orig>r<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>pond</orig><reg>répond</reg></mod>. Oui ma vie<lb/>
+Mais trop tard oncle Jo est <mod type="corr"><orig>rentrée</orig><reg>rentré</reg></mod>, <mod type="corr"><orig>lili</orig><reg>Lili</reg></mod> a pas eu le temps<lb/>
+de le <mod type="corr"><orig>dir<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>dire</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> Tata <mod type="corr"><orig>Denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod>. §<lb/>
+
+Un peu plus tard dans la journée. Lili <mod type="corr"><orig>s'appr<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">êt</add></mod>e</orig><reg>s'apprête</reg></mod><lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> le <mod type="corr"><orig>dir<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>dire</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> Tata <mod type="corr"><orig>Denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod>. Mais <mod type="corr"><orig>tout ta coup</orig><reg>tout à coup</reg></mod> oncle Jo<lb/>
+<mod type="corr"><orig>intervien<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>intervient</reg></mod>! Oncle Jo a dit: Non <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">ses</hi></orig><reg>c'est</reg></mod> <mod type="add" stage="" who="P"><add>c'est</add></mod> pas <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>sa</del></mod></del><add stage="" who="P">ça</add></mod></orig><reg>ça</reg></mod> je voulais <mod type="corr"><orig>vouz</orig><reg>vous</reg></mod><lb/>
+
+<pb/>
+
+Faire la surprise, on va <mod type="corr"><orig>demenager</orig><reg>déménager</reg></mod> car j'ai<lb/>
+trouvé du <mod type="corr"><orig>travail<mod type="del" stage="" who="P"><del>le</del></mod></orig><reg>travail</reg></mod> <mod type="corr"><orig>là bas</orig><reg>là-bas</reg></mod>. Maintenant Lili<lb/>
+et tata <mod type="corr"><orig>Denis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Denise</reg></mod> <mod type="corr"><orig>compren<mod type="subst"><del><mod type="del" stage="" who="P"><del>d</del></mod></del><add stage="" who="P">nent</add></mod></orig><reg>comprennent</reg></mod>. <mod type="corr"><orig>Desormais</orig><reg>Désormais</reg></mod> oncle Jo vit<lb/>
+heureux <mod type="add" stage="" who="P"><add>.</add></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

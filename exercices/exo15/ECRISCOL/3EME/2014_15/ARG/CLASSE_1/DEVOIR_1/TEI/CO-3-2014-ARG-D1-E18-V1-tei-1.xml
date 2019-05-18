@@ -1,0 +1,129 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E18
+</head>
+<p>
+<metamark place=" " time="T2" who="P" style="underline">De bonnes choses. Une formulation<lb/>
+intéressante. Mais il manque des<lb/>
+éléments du texte qu'on devait retourner.</metamark> §<lb/>
+J'étais quelque part je ne savais pas ou j'étais<lb/>
+mais j'étais et j'étais si bien, jusqu'<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>a</del></mod></del><add stage="T2" who="P">à</add></mod> ce qu'on<lb/>
+m<mod type="add" stage="T2" who="P"><add>'</add></mod>arrache de l<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>as</del></mod></del><add stage="T2" who="P">à</add></mod>. Je vais vous raconter comment je<lb/>
+suis arriv<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>er</del></mod></del><add stage="T2" who="P">é</add></mod> dans ce monde. §<lb/>
+ §<lb/>
+Je senti<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>e</del></mod></del><add stage="T2" who="P">s</add></mod> quelque chose me tir<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>ais</del></mod></del><add stage="T2" who="P">er</add></mod> par la tête et<lb/>
+tout à coup je vis une lumière aveuglante <metamark place=" " time="T2" who="P" style="underline">ponctuation</metamark> le son<lb/>
+d'une femme qui criait et <mod type="corr"><orig>pleur<hi place=" " time="T2" who="Pσ" style="underline">er</hi></orig><reg>pleurait</reg></mod> en même <mod type="corr"><orig>temp</orig><reg>temps</reg></mod><lb/>
+un homme qui criait <mod type="add" stage="" who=""><add>"</add></mod>pousse<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>r</del></mod></del><add stage="T2" who="P">z</add></mod> Madame, pousse<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>r</del></mod></del><add stage="T2" who="P">z</add></mod>!<mod type="add" stage="" who=""><add>"</add></mod><lb/>
+puis je vis le reste de mon corps. Puis une femme<lb/>
+me <mod type="corr"><orig><mod type="del" stage="T2" who="P"><del>tena</del></mod></orig><reg>tint</reg></mod><metamark place=" " time="T2" who="P" style="underline">revoir conjugaison du passé simple</metamark> par le pied me <mod type="corr"><orig>mis</orig><reg>mit</reg></mod> la tête à l'envers<lb/>
+et me <mod type="corr"><orig>ta<mod type="del" stage="T2" who="P"><del>pper</del></mod></orig><reg>tappa</reg></mod> les fesses je ne comp<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>ris</del></mod></del><add stage="T2" who="P">renais</add></mod> pas pourquoi<lb/>
+mais je cria<mod type="add" stage="T2" who="P"><add>i</add></mod> un cri<mod type="del" stage="T2" who="P"><del>s</del></mod> strident et <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">ç</add></mod>a me soulag<mod type="add" stage="T2" who="P"><add>e</add></mod>a.<lb/>
+Ensuite <mod type="add" stage="T2" who="P"><add>,</add></mod> cette même femme me dirigea vers un<lb/>
+homme le sourire j<mod type="del" stage="T2" who="P"><del>'</del></mod>usqu'en haut il me souri<hi place=" " time="T2" who="Pσ" style="underline">a</hi><mod type="add" stage="T2" who="P"><add>it</add></mod><lb/>
+et me <mod type="corr"><orig>tir<mod type="del" stage="T2" who="P"><del>er</del></mod></orig><reg>tira</reg></mod> les joues en f<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>e</del></mod></del><add stage="T2" who="P">ai</add></mod>sant des bruits biz<mod type="add" stage="T2" who="P"><add>z</add></mod>ar<mod type="add" stage="T2" who="P"><add>es</add></mod><lb/>
+il <mod type="del" stage="" who=""><del>étais</del></mod> <mod type="corr"><orig>parai<hi place=" " time="T2" who="Pσ" style="underline">sser</hi></orig><reg>paraissait</reg></mod> tellement bête et ridicule que<lb/>
+je ne pus m'empêcher <hi place=" " time="T2" who="Pσ" style="underline">de rire</hi> puis une autre<lb/>
+femme m'<mod type="corr"><orig>enmena</orig><reg>amena</reg></mod> me laver et me dirigea<lb/>
+chez la même femme qui criait et <mod type="corr"><orig>pleur<hi place=" " time="T2" who="Pσ" style="underline">er</hi></orig><reg>pleurait</reg></mod> tout<lb/>
+à l'heure elle me <mod type="corr"><orig>mis</orig><reg>mit</reg></mod> dans <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>c</del></mod></del><add stage="T2" who="P">s</add></mod>es bras je<lb/>
+vo<mod type="del" stage="T2" who="P"><del>i</del></mod>yait son visage stupéfait, fatigu<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>er</del></mod></del><add stage="T2" who="P">é</add></mod> et heureux.<lb/>
+A ce moment<mod type="add" stage="T2" who="P"><add>-</add></mod>l<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>a</del></mod></del><add stage="T2" who="P">à</add></mod> je souris je ne sais pas<lb/> 
+pourquoi mais j'étais heureux aussi c'étai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">t</add></mod><lb/>
+sans doute <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">ç</add></mod>a les liens du sang. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

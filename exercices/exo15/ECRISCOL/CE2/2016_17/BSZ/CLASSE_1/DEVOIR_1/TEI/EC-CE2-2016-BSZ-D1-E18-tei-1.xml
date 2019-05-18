@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E18
+</head>
+<p>
+<pb/>
+
+Je me <mod type="corr"><orig>l'aive</orig><reg>lève</reg></mod> je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> mon <mod type="corr"><orig>petit-dejeuner</orig><reg>petit-déjeuner</reg></mod> de star<lb/>
+puis j'appelle mon <mod type="corr"><orig>malagere</orig><reg>manager</reg></mod> il me dit "<mod type="corr"><orig>écrie</orig><reg>écris</reg></mod> <mod type="corr"><orig>un</orig><reg>une</reg></mod><lb/>
+chanson et <mod type="corr"><orig>evoe la moi</orig><reg>envoie-la-moi</reg></mod> par <mod type="corr"><orig>telephone</orig><reg>téléphone</reg></mod>" et je lui dit<lb/>
+mon <mod type="corr"><orig>emploie</orig><reg>emploi</reg></mod> du temps <mod type="corr"><orig>lort qu'ait ce</orig><reg>alors qu'est-ce</reg></mod> que va faire<lb/>
+<mod type="corr"><orig>aujourd'huit</orig><reg>aujourd'hui</reg></mod> je vais faire les <mod type="corr"><orig>magasin</orig><reg>magasins</reg></mod> <mod type="del" stage="" who=""><del>puis</del></mod> avec<lb/>
+mes <mod type="corr"><orig>copine</orig><reg>copines</reg></mod> puis je vais <mod type="del" stage="" who=""><del>ale</del></mod> à la piscine, au parc manger<lb/>
+une glace, <mod type="corr"><orig>a</orig><reg>à</reg></mod> la fin je <mod type="corr"><orig>écrie</orig><reg>écris</reg></mod> ta chanson et au<lb/>
+faite elle est pour qui la chanson <mod type="del" stage="" who=""><del>p</del></mod> Pablau elle est<lb/>
+pour une petite fille qui s'appelle <mod type="del" stage="" who=""><del>L</del></mod> Nilusi et<lb/>
+qui fête ses 17 ans alors <mod type="corr"><orig>fait</orig><reg>fais</reg></mod> la chanson très<lb/>
+très très vite <mod type="corr"><orig>dacore</orig><reg>d'accord</reg></mod> oui! et <mod type="corr"><orig>fait</orig><reg>fais</reg></mod> une <mod type="corr"><orig>video</orig><reg>vidéo</reg></mod> §<lb/>
+
+<pb/>
+<mod type="corr"><orig>quoit</orig><reg>Quoi</reg></mod>! je <mod type="corr"><orig>doi<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">t</add></mod></orig><reg>dois</reg></mod> aussi faire une <mod type="corr"><orig>video</orig><reg>vidéo</reg></mod> oui une<lb/>
+<mod type="del" stage="" who=""><del>une</del></mod> <mod type="corr"><orig>video</orig><reg>vidéo</reg></mod> et vite et aussi <mod type="corr"><orig>signe la</orig><reg>signé-la</reg></mod> <mod type="corr"><orig>sil</orig><reg>s'il</reg></mod> te <mod type="corr"><orig>plant</orig><reg>plaît</reg></mod><lb/>
+oh je signerai bon je dois te laisser mon <mod type="corr"><orig>marie</orig><reg>mari</reg></mod> arrive<lb/>
+bisous <mod type="corr"><orig>biso</orig><reg>bisous</reg></mod> <mod type="corr"><orig>baille</orig><reg>bye</reg></mod> bonjour mon chéri <mod type="corr"><orig>dit</orig><reg>dis</reg></mod> tu <mod type="del" stage="" who=""><del>parlau</del></mod><lb/>
+<mod type="corr"><orig>parlait</orig><reg>parlais</reg></mod> à qui à mon <mod type="corr"><orig>maladegere</orig><reg>manager</reg></mod> <mod type="corr"><orig>va</orig><reg>vas</reg></mod> cherche les <mod type="corr"><orig>fille</orig><reg>filles</reg></mod><lb/>
+en même temps de acheter des <mod type="corr"><orig>macaron</orig><reg>macarons</reg></mod> à la boulangerie<lb/>
+<mod type="corr"><orig>dacor<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>d'accord</reg></mod> bisou <mod type="corr"><orig>j'ivais</orig><reg>j'y vais</reg></mod> bisou à <mod type="corr"><orig>tou</orig><reg>tout</reg></mod> <mod type="del" stage="" who=""><del>h</del></mod>à l'heure<lb/>
+salut les <mod type="corr"><orig>fille</orig><reg>filles</reg></mod> salut papa <mod type="corr"><orig>aller</orig><reg>allez</reg></mod> maman <mod type="corr"><orig>atantt</orig><reg>attends</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

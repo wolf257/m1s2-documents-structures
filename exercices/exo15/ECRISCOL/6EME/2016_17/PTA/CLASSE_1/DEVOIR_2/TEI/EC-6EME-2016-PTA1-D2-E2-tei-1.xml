@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E2
+</head>
+<p>
+<pb/>
+Elle va <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'école, sa <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod> n'est<lb/>
+pas là, <mod type="subst"><del><mod type="del" stage="" who=""><del>est dans la</del></mod></del><add stage="" who="">elle alla</add></mod> dans la classe de Ce1, elle<lb/>
+<mod type="corr"><orig>déssine</orig><reg>dessine</reg></mod>, elle fait des mots <mod type="corr"><orig>croissé</orig><reg>croisés</reg></mod>. En rentrant<lb/>
+de l'école, elle raconte sa journée et <mod type="del" stage="" who=""><del>leur</del></mod> ses<lb/>
+parents font une surprise et <mod type="corr"><orig>dit</orig><reg>disent</reg></mod><lb/>
+-tu <mod type="corr"><orig>va</orig><reg>vas</reg></mod> savoir en cherchant par toi-même.<lb/>
+-En cherchant dans ta chambre je suis<lb/>
+<mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> que tu <mod type="corr"><orig>va</orig><reg>vas</reg></mod> trouver. §<lb/>
+<mod type="corr"><orig>elle</orig><reg>Elle</reg></mod> se <mod type="corr"><orig>dis</orig><reg>dit</reg></mod>. "C'est comme une partie<lb/>
+de cherche objet. Enfin elle <mod type="corr"><orig>trouvat</orig><reg>trouva</reg></mod><lb/>
+une <mod type="corr"><orig>boite</orig><reg>boîte</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> la ramena <mod type="corr"><orig>a</orig><reg>à</reg></mod> sa <mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">è</add></mod>re</orig><reg>mère</reg></mod><lb/>
+-C'est ça ma <mod type="subst"><del><mod type="del" stage="" who=""><del>surpiei</del></mod></del><add stage="" who="">surprise</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>!</del></mod></del><add stage="" who="">?</add></mod> §<lb/>
+-Oui c'est ça mais tu <mod type="corr"><orig>na</orig><reg>n'as</reg></mod> <mod type="corr"><orig>qua</orig><reg>qu'à</reg></mod> ouvrir. §<lb/>
+En ouvrant il y avait de la mousse<lb/>
+en <mod type="del" stage="" who=""><del>t</del></mod> cherchant dans cette <mod type="corr"><orig>boite</orig><reg>boîte</reg></mod> elle <mod type="corr"><orig>trouvé<mod type="del" stage="" who=""><del>r</del></mod></orig><reg>trouva</reg></mod><lb/>
+une bague <mod type="subst"><del><mod type="del" stage="" who=""><del>et</del></mod></del><add stage="" who="">,</add></mod> <mod type="corr"><orig>une</orig><reg>un</reg></mod> collier et un <mod type="corr"><orig>diamand</orig><reg>diamant</reg></mod>.<lb/>
+Ce <mod type="corr"><orig>diaman<mod type="subst"><del><mod type="del" stage="" who=""><del>d</del></mod></del><add stage="" who="">t</add></mod></orig><reg>diamant</reg></mod> c'est un mélange d'or<lb/>
+et de <mod type="corr"><orig>ruby</orig><reg>rubis</reg></mod>. <mod type="corr"><orig>Aprés</orig><reg>Après</reg></mod> avoir <mod type="corr"><orig>chercher</orig><reg>cherché</reg></mod> son père<lb/>
+les <mod type="corr"><orig>améne</orig><reg>amène</reg></mod> dans un <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>restaurant</del></mod></del><add stage="" who="">retaurant</add></mod></orig><reg>restaturant</reg></mod> chinois.<lb/>
+<mod type="corr"><orig>et</orig><reg>Et</reg></mod> elle va aller chez sa copine et <mod type="corr"><orig>i</orig><reg>y</reg></mod> <mod type="corr"><orig>dormir</orig><reg>dormit</reg></mod>, §<lb/>
+
+<pb/>
+se lave les <mod type="corr"><orig>dent</orig><reg>dents</reg></mod>, se mit en <mod type="corr"><orig>pijamas</orig><reg>pyjama</reg></mod>, <mod type="corr"><orig>Aprés</orig><reg>après</reg></mod><lb/>
+elle joue et raconte sa journée et fut par<lb/>
+s'endormir. "Bonne nuit". Elle <mod type="corr"><orig>rêvat</orig><reg>rêva</reg></mod><lb/>
+de sa journée et ne <mod type="corr"><orig>croyer</orig><reg>croyait</reg></mod> pas <mod type="corr"><orig>mieu</orig><reg>mieux</reg></mod>. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D3-E9-V1
+</head>
+<p>
+<pb/>
+Quand je serai <mod type="subst"><del><mod type="del" stage="" who=""><del>grand</del></mod></del><add stage="" who="">adulte</add></mod> <mod type="subst"><del><mod type="del" stage="T3" who=""><del>,</del></mod></del><add stage="T3" who="">.</add></mod> <mod type="add" stage="" who=""><add>je serai au <mod type="corr"><orig>ch<hi place=" " time="" who="Pσ" style="underline">au</hi>mage</orig><reg>chômage</reg></mod></add></mod> le matin <hi place=" " time="" who="Pσ" style="underline">de la journée</hi><lb/>
+je <mod type="corr"><orig>fera<hi place=" " time="" who="Pσ" style="underline">i</hi></orig><reg>ferai</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">grasse mat</hi></orig><reg>grasse matinée</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> ensuite je <mod type="subst"><del><mod type="del" stage="" who=""><del>manjerai</del></mod></del><add stage="" who="">mangerai</add></mod> <mod type="add" stage="T3" who=""><add>,</add></mod><lb/>
+mes <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>entrai</del></mod></del><add stage="" who="">entr<hi place=" " time="" who="Pσ" style="underline">é</hi></add></mod></orig><reg>entrées</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>mes entré</del></mod></orig><reg>mes entrées</reg></mod> seront <mod type="add" stage="" who="P"><add>:</add></mod> du <mod type="corr"><orig>paté</orig><reg>pâté</reg></mod> de campagne avec de la saucisse <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">chaisse</hi></orig><reg>sèche</reg></mod> <mod type="add" stage="T3" who=""><add><hi place=" " time="" who="Pσ" style="underline">sai</hi>che sèche</add></mod><lb/>
+<mod type="corr"><orig>Apr<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">è</add></mod>s</orig><reg>Après</reg></mod>, en plat <mod type="corr"><orig>prin<hi place=" " time="" who="Pσ" style="underline">si</hi>pal</orig><reg>principal</reg></mod> <mod type="add" stage="T3" who=""><add>principal</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">sa</hi></orig><reg>ça</reg></mod> <mod type="add" stage="T3" who=""><add>ça</add></mod> sera du maÏs avec du<lb/>
+magret. Et pour finir <mod type="add" stage="T3" who=""><add>,</add></mod> le <mod type="subst"><del><mod type="del" stage="" who=""><del>désere</del></mod></del><add stage="" who="">dessert</add></mod> sera<lb/>
+un yaourt, un <mod type="subst"><del><mod type="del" stage="" who=""><del>brougmon</del></mod></del><add stage="" who="">brugnon</add></mod> et une part de frangipane<lb/>
+L'après midi <mod type="add" stage="T3" who=""><add>,</add></mod> <mod type="add" stage="" who=""><add>j'irai</add></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>jurasique</orig><reg>Jurassic</reg></mod> <mod type="add" stage="" who="P"><add>Jurassic</add></mod> <mod type="corr"><orig>parc</orig><reg>Park</reg></mod> <mod type="add" stage="T3" who=""><add>Parc</add></mod> je rentrerai <mod type="add" stage="" who=""><add>vers 13h</add></mod> pour<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>mangér</del></mod></del><add stage="" who="">mang<hi place=" " time="" who="Pσ" style="underline">ai</hi></add></mod></orig><reg>manger</reg></mod> <mod type="add" stage="T3" who=""><add>manger</add></mod>. <mod type="del" stage="" who=""><del>Et je mangerai salde de tomate</del></mod> <mod type="add" stage="T3" who=""><add>Je ne mangerai pas je <mod type="subst"><del><mod type="del" stage="" who=""><del>mange</del></mod></del><add stage="" who="">mangerai</add></mod> <mod type="del" stage="" who=""><del>d'entré</del></mod></add></mod> §<lb/>
+
+<pb/>
+d'<mod type="corr"><orig>entr<hi place=" " time="" who="Pσ" style="underline">é</hi></orig><reg>entrées</reg></mod> <mod type="add" stage="T3" who=""><add>d'entrée</add></mod> alors <mod type="add" stage="T3" who=""><add>,</add></mod> je pousserai directement au plat<lb/>
+principal et <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">se</hi></orig><reg>ce</reg></mod> sera du saumon avec de la salade<lb/>
+<mod type="del" stage="" who=""><del>Ensuite, je ferai</del></mod> Après <mod type="del" stage="" who="P"><del>,</del></mod> manger <mod type="add" stage="T3" who=""><add>,</add></mod> je ferai <mod type="add" stage="T3" who=""><add>une</add></mod> nuit<lb/>
+blanche et je <mod type="corr"><orig>j<hi place=" " time="" who="Pσ" style="underline">ou</hi>rai</orig><reg>jouerai</reg></mod> <mod type="add" stage="T3" who=""><add>jouerai</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>à</reg></mod> <mod type="add" stage="T3" who=""><add>à</add></mod> mon <mod type="corr"><orig>téléphon<mod type="del" stage="" who=""><del>n</del></mod>e</orig><reg>téléphone</reg></mod> et ma journée<lb/>
+sera <mod type="corr"><orig>fin<hi place=" " time="" who="Pσ" style="underline">i</hi></orig><reg>fini</reg></mod> <mod type="add" stage="T3" who=""><add>fini<hi place=" " time="" who="Pσ" style="underline">s</hi> finie</add></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

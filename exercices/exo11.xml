@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+<exercice>
+    
+    <infoPage>
+        <titrePage> exercice_11 </titrePage>
+    </infoPage>
+    
+    <infoExo>
+        <titreExo> Exercice 11 : « Un conte » </titreExo>
+        <sousTitrePerso> Parce qu'il y a toujours cette part d'enfant en nous. </sousTitrePerso>
+    </infoExo>
+    
+    <!--  =============================  -->
+    <question index="1">
+        
+        <bloc>
+            <titre> Consigne </titre>
+                        
+            <pathimage> ./exo11/c.png </pathimage>
+            
+            <tableau>
+                <ligne_t index="*">
+                    <colonne lien="./exo11/conte.xml"> Lien vers la page du conte </colonne>
+                </ligne_t>
+            </tableau>
+        </bloc>
+        
+        
+        <code>
+            <pathZip> ./exo11/fichiers.zip </pathZip>
+        </code>
+        
+    </question>
+    
+</exercice>

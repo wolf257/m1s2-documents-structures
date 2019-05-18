@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E5
+</head>
+<p>
+Il <mod type="corr"><orig>par</orig><reg>part</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'école et va en classe et c'était la rentrée.<lb/>
+<mod type="corr"><orig>leur</orig><reg>Leur</reg></mod> <mod type="corr"><orig>maîtraisse</orig><reg>maîtresse</reg></mod> appelle <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> tout le monde <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>t áppeller</orig><reg>appelé</reg></mod> maintenant <mod type="corr"><orig>il</orig><reg>ils</reg></mod> est<lb/>
+vont en classe. <mod type="corr"><orig>et</orig><reg>Et</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> sont <mod type="corr"><orig>content</orig><reg>contents</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> peuvent choisir leur <mod type="corr"><orig>plasse</orig><reg>place</reg></mod> <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> se <mod type="corr"><orig>mes</orig><reg>met</reg></mod><lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> côté d'un garçon il s'appelle <mod type="corr"><orig>paul</orig><reg>Paul</reg></mod> la <mod type="corr"><orig>maîtraisse</orig><reg>maîtresse</reg></mod> dit "c'est <mod type="corr"><orig>leur</orig><reg>l’heure</reg></mod> de la <mod type="corr"><orig>recré</orig><reg>récré</reg></mod>.<lb/>
+<mod type="corr"><orig>et</orig><reg>Et</reg></mod> <mod type="corr"><orig>paul</orig><reg>Paul</reg></mod> et <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> vont parler <mod type="corr"><orig>a</orig><reg>à</reg></mod> côté d'un arbre et <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>retourne</orig><reg>retournent</reg></mod> en classe <mod type="corr"><orig>il</orig><reg>ils</reg></mod> ont fait de<lb/>
+la de la conjugaison il <mod type="corr"><orig>et</orig><reg>est</reg></mod> 12:00 l'horloge sonne et les parents viennent<lb/>
+<mod type="corr"><orig>ler</orig><reg>les</reg></mod> chercher et il rentre a la maison et la maman et papa <mod type="corr"><orig>rentre</orig><reg>rentrent</reg></mod> <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> youpi et leur saute<lb/>
+<mod type="corr"><orig>dessue</orig><reg>dessus</reg></mod> <mod type="corr"><orig>leur</orig><reg>les</reg></mod> parents sont <mod type="corr"><orig>content</orig><reg>contents</reg></mod> ils #X#ont <mod type="corr"><orig>manger</orig><reg>mangé</reg></mod> quand <mod type="corr"><orig>il</orig><reg>ils</reg></mod> ont fini, <mod type="corr"><orig>ils</orig><reg>il</reg></mod> leur reste leur<lb/>
+<mod type="corr"><orig>desert</orig><reg>dessert</reg></mod> et <mod type="corr"><orig>la</orig><reg>le</reg></mod> papa et maman lui <mod type="corr"><orig>dit</orig><reg>disent</reg></mod> "ça <mod type="corr"><orig>c'est</orig><reg>s’est</reg></mod> bien passé ta nouvelle <mod type="corr"><orig>rentré</orig><reg>rentrée</reg></mod> » et <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod><lb/>
+leur <mod type="corr"><orig>repond</orig><reg>répond</reg></mod> « <mod type="corr"><orig>ou<mod type="subst"><del><mod type="del" stage="" who=""><del>u</del></mod></del><add stage="" who="">i</add></mod></orig><reg>oui</reg></mod> j'ai <mod type="corr"><orig>rencontrer</orig><reg>rencontré</reg></mod> un copain il s'appelle <mod type="corr"><orig>paul</orig><reg>Paul</reg></mod> » et on a <mod type="corr"><orig>boucoup</orig><reg>beaucoup</reg></mod> <mod type="corr"><orig>discuter</orig><reg>discuté</reg></mod> ».<lb/>
+<mod type="corr"><orig>il</orig><reg>Ils</reg></mod> vont tous dormir et le lendemain les parents de <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> sont <mod type="corr"><orig>partie</orig><reg>partis</reg></mod> travailler <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> <mod type="corr"><orig>prende</orig><reg>prend</reg></mod><lb/>
+<mod type="corr"><orig>leur</orig><reg>le</reg></mod> déjeuner et va <mod type="corr"><orig>a</orig><reg>à</reg></mod> l’<mod type="corr"><orig>ecole</orig><reg>école</reg></mod> <mod type="corr"><orig>paul</orig><reg>Paul</reg></mod> <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>sont</orig><reg>son</reg></mod> copain. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

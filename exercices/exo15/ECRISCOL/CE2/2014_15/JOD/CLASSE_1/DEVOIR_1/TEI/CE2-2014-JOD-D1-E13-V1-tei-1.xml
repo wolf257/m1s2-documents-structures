@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E13-V1
+</head>
+<p>
+Il était une fois un garçon qui va <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'école <lb/>
+avec sa toupie sur le chemin il la <mod type="corr"><orig>pedue</orig><reg>perd</reg></mod> <mod type="add" stage="" who="P"><add>perd</add></mod>.<lb/>
+Après les cours <mod type="corr"><orig>an</orig><reg>on</reg></mod> <mod type="add" stage="" who="P"><add>on</add></mod> lui demande: §<lb/>
+-Tu as perdu quelque chose? lui demanda Anne-<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>l</del></mod></del><add stage="" who="P">L</add></mod>ise</orig><reg>Lise</reg></mod> §<lb/>
+-Ma <mod type="corr"><orig>toupi<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>toupie</reg></mod> chinoise sur le chemin de l'école.<lb/>
+<mod type="corr"><orig>Retounons</orig><reg>Retournons</reg></mod> <mod type="add" stage="" who="P"><add>Retournons</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> l'école <mod type="corr"><orig>pou<mod type="add" stage="" who="P"><add>r</add></mod></orig><reg>pour</reg></mod> <mod type="corr"><orig>trover</orig><reg>trouver</reg></mod> ta toupie.<lb/>
+<mod type="corr"><orig>A<mod type="add" stage="" who="P"><add>l</add></mod>lons</orig><reg>Allons</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'école le directeur <mod type="corr"><orig>la</orig><reg>l'a</reg></mod> <mod type="add" stage="" who="P"><add>l'a</add></mod> <mod type="corr"><orig>surmaen</orig><reg>sûrement</reg></mod> <mod type="add" stage="" who="P"><add>sûrement</add></mod><lb/> 
+<mod type="corr"><orig>ramasée</orig><reg>ramassé</reg></mod> <mod type="add" stage="" who="P"><add>ramassé ,</add></mod> va le voir. Gabriel alla voir le<lb/>
+<mod type="corr"><orig>direteur</orig><reg>directeur</reg></mod> et il lui dit:"J'ai perdu ma toupie<lb/>
+chinoise" le directeur dit:"<mod type="corr"><orig>vien<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>viens</reg></mod> avec moi"<lb/>
+Il lui montre la <mod type="corr"><orig>sale</orig><reg>salle</reg></mod> <mod type="add" stage="" who="P"><add>salle</add></mod> des <mod type="corr"><orig>odje</orig><reg>objets</reg></mod> <mod type="add" stage="" who="P"><add>objets</add></mod> <mod type="corr"><orig>trovés</orig><reg>trouvés</reg></mod> <mod type="add" stage="" who="P"><add>trouvés</add></mod><lb/>
+et puis il trouve sa toupie chinoise
+puis il <mod type="corr"><orig>par<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>part</reg></mod> chez lui. §<lb/>
+fin. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

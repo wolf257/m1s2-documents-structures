@@ -1,0 +1,127 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-PAS-D1-E13-V2
+</head>
+<p>
+<pb/>
+
+Il était une fois un petit garçon qui s'appelait Gabriel"
+Gabriel avait une toupie chinoise en métal, multicolore. §<lb/>
+Il y <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>tenent</del></mod></del><add stage="" who="P">tenait</add></mod></orig><reg>tenait</reg></mod>   beaucoup. §<lb/>
+Elle tourne en lançant des notes joyeuses. §<lb/>
+Un jour sur le chemin de l'école Gabriel <mod type="corr"><orig>perdi<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>perdit</reg></mod> sa <mod type="corr"><orig>toupi<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>toupie</reg></mod> en <lb/>
+métal. §<lb/>
+Il pleura sur le chemin de l'école quand <mod type="del" stage="" who="P"><del>t-</del></mod>il arriva <lb/>
+à <mod type="corr"><orig>l'<mod type="del" stage="" who="P"><del>é</del></mod></orig><reg>l '</reg></mod> école. §<lb/>
+Anne-lise lui demanda <mod type="add" stage="" who="P"><add>:</add></mod> <mod type="add" stage="" who="P"><add>"</add></mod> pourquoi <mod type="corr"><orig>pleur<mod type="add" stage="" who="P"><add>es-</add></mod> tu</orig><reg>pleures-tu</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>g</del></mod></del><add stage="" who="P">G</add></mod>abliel</orig><reg>Gabriel</reg></mod> <mod type="add" stage="" who="P"><add>?</add></mod> <mod type="add" stage="" who="P"><add>"</add></mod> <lb/>
+parce que sur le chemin <mod type="del" stage="" who=""><del>XXX#</del></mod> de l'école <mod type="del" stage="" who=""><del>XXX</del></mod> j'ai perdu ma <mod type="corr"><orig>toupi<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>toupie</reg></mod> <lb/>
+en métal <mod type="corr"><orig>préférer<mod type="add" stage="" who="P"><add>ée</add></mod></orig><reg>préférée</reg></mod>. §<lb/>
+<mod type="corr"><orig>Anne-Lis<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>Anne-Lise</reg></mod> dit à <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>g</del></mod></del><add stage="" who="P">G</add></mod>abriel</orig><reg>Gabriel</reg></mod> qu'elle <mod type="corr"><orig>l<mod type="add" stage="" who="P"><add>'</add></mod>aiderait</orig><reg>l'aiderait</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>a</del></mod><mod type="add" stage="" who="P"><add>à</add></mod></orig><reg>à</reg></mod> retrouver sa toupie <mod type="add" stage="" who="P"><add>.</add></mod> <lb/>
+En <mod type="corr"><orig>rentr<mod type="subst"><del><mod type="del" stage="" who="P"><del>en</del></mod></del><add stage="" who="P">ont</add></mod></orig><reg>rentrant</reg></mod> à la maison <mod type="add" stage="" who="P"><add>,</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>g</del></mod></del><add stage="" who="P">G</add></mod>abriel</orig><reg>Gabriel</reg></mod> vit une maison <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">I</add></mod>l</orig><reg>Il</reg></mod> y <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>rentrie</del></mod></del><add stage="" who="P">entra</add></mod></orig><reg>rentra</reg></mod> <lb/>
+et rencontra un <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>me[u</del></mod>sieur nomais]</del><add stage="" who="P">monsieur nommé</add></mod></orig><reg>monsieur</reg></mod> <mod type="corr"><orig>nomais</orig><reg>nommé</reg></mod> le gardien de l'oubli. §<lb/>
+Le gardien de l'<mod type="corr"><orig>oubli<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>oubli</reg></mod> montra à <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>g</del></mod></del><add stage="" who="P">G</add></mod>abriel</orig><reg>Gabriel</reg></mod> une <mod type="corr"><orig>grand</orig><reg>grande</reg></mod> salle
+avec <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>plien</del></mod></del><add stage="" who="P">plein</add></mod></orig><reg>plein</reg></mod> de <mod type="corr"><orig>joue<mod type="subst"><del><mod type="del" stage="" who="P"><del>r</del></mod></del><add stage="" who="P">ts.</add></mod></orig><reg>jouets .</reg></mod> §<lb/>
+
+<pb/>
+
+La toupie de <mod type="corr"><orig>gabriel</orig><reg>Gabriel</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>est-ai</del></mod></del><add stage="" who="P">y était,</add></mod></orig><reg>était</reg></mod> sur la <mod type="corr"><orig>table-bas<mod type="add" stage="" who="P"><add>se</add></mod></orig><reg>table basse</reg></mod> le <mod type="corr"><orig>gardi<mod type="subst"><del><mod type="del" stage="" who=""><del>ne</del></mod></del><add stage="" who="">en</add></mod></orig><reg>gardien</reg></mod> <lb/>
+de l'<mod type="corr"><orig>oublie</orig><reg>oubli</reg></mod> regarda la <mod type="corr"><orig>toupi<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>toupie</reg></mod> §<lb/>
+Après <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>10 m</del></mod></del><add stage="" who="P">dix minutes,</add></mod></orig><reg>minutes</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>g</del></mod></del><add stage="" who="P">G</add></mod>abriel</orig><reg>Gabriel</reg></mod> retrouva sa toupie. §<lb/>
+En <mod type="corr"><orig>partent</orig><reg>partant</reg></mod> de la maison du <mod type="corr"><orig>gardiendel'oublie</orig><reg>gardien de l'oubli</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>g</del></mod></del><add stage="" who="P">G</add></mod>abriel</orig><reg>Gabriel</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>est</del></mod></del><add stage="" who="P">était</add></mod></orig><reg>était</reg></mod> très 
+joyeux §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

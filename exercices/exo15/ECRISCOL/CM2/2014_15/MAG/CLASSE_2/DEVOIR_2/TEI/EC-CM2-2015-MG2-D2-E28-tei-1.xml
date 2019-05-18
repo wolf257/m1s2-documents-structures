@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MG2-D2-E28
+</head>
+<p>
+Paillette, trop curieuse s'approchait des hommes pour les observ<lb/>
+er puis elle rentrait à sa tanière et dormait, elle répet<lb/>
+ait cette opération chaque nuit et elle s'approchait de plus en
+plus des hommes. Eux ne la voyaient pas elle était trés <mod type="corr"><orig>discr<lb/>éte</orig><reg>discrète</reg></mod>. Et un jour elle était tellement proche qu'elle pouvait enten<lb/>
+dre<mod type="del" stage="" who=""><del>r</del></mod> leur souffle et leurs paroles. Mais en s'avançant elle
+<mod type="corr"><orig>croquai</orig><reg>croqua</reg></mod> un <mod type="corr"><orig>baton</orig><reg>bâton</reg></mod> et les <mod type="corr"><orig>homme</orig><reg>hommes</reg></mod> la capturèrent pour la
+placer dans un<mod type="del" stage="" who=""><del>e</del></mod> zoo. Le lendemain Loup bleu, les rouqu<lb/>
+ins, Flamme noire et cousin Gris s'aperçurent de l'absence
+de Paillette et Loup bleu décida d'aller la secourir. Les
+<mod type="del" stage="" who=""><del>hommes</del></mod> hommes étaient <mod type="corr"><orig>malin</orig><reg>malins</reg></mod> ils savaient que les loups
+viendraient la sauver et ils s'y attandaient. A la <mod type="corr"><orig>tannierre</orig><reg>tanière</reg></mod>
+Flamme noire protestait elle ne voulait pas que Loup bleu
+y aille seul mais il était déjà parti et manque §<lb/>
+
+<pb/>
+
+de chance il se retrouva avec Paillette dans un
+zoo. Après avoir essayé de la sauver dans une bataille
+<mod type="corr"><orig>térifiante</orig><reg>térrifiante</reg></mod>. Puisque Flamme noire ne les virent pas reve<lb/>
+nir, elle suivit leur trace. Mais quand elle arriva
+sur le champ de <mod type="del" stage="" who=""><del>de</del></mod> bataille elle ne vit rien
+juste des traces de pas et des traces de
+combat. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

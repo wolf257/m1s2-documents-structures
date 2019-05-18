@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-PAS-D1-E17-V2
+</head>
+<p>
+<pb/>
+
+Gabriel a une toupie. Il va à l'école. §<lb/>
+A l'école, le petit garçon va parler à son amie, §<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>Q</del></mod></del><add stage="" who="">q</add></mod>ui</orig><reg>qui</reg></mod> s'appelle Anne-Lise. "Tu as perdu  quelque ?" chose lui demanda Anne-Lise
+"Ma toupie chinoise sur le chemin de l'école." §<lb/>
+A la sortie de l'école, Gabriel et Anne-Lise trouvent une maison.
+Anne-Lise <mod type="corr"><orig>regard<mod type="subst"><del><mod type="del" stage="" who=""><del>ent</del></mod></del><add stage="" who="">e</add></mod></orig><reg>regarde</reg></mod> une maison. Elle attend Gabriel. §<lb/>
+Il est rentré dans la maison <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>:</del></mod></del><add stage="" who="">.</add></mod></orig><reg>.</reg></mod>  §<lb/>
+A l'interieur de la maison <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>.</del></mod></del><add stage="" who="">,</add></mod></orig><reg>,</reg></mod> §<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">I</add></mod>l</orig><reg>Il</reg></mod> y a un monsieur avec un manteau blanc avec des clés sur le manteau.
+Ils montent des escaliers. §<lb/>
+<mod type="del" stage="" who=""><del>Ils</del></mod> Gabriel et le monsieur rentrent dans une salle où il <mod type="corr"><orig>y<mod type="del" stage="" who=""><del>a</del></mod></orig><reg>y</reg></mod> a <mod type="corr"><orig>pleins</orig><reg>plein</reg></mod> de
+jouets. §<lb/>
+Le monsieur <mod type="corr"><orig>ap<mod type="del" stage="" who="P"><del>p</del></mod>ercoit</orig><reg>aperçoit</reg></mod> la toupie de Gabriel. §<lb/>
+Le monsieur est méchant, il ne veut pas dire à Gabriel où se trouve la toupie §<lb/>
+
+<pb/>
+
+Le gardien de l'oubli proposa une épreuve à Gabriel. §<lb/>
+"Tu vas devoir chercher la toupie". §<lb/>
+"Je l'ai trouvée!". §<lb/>
+"Tu peux partir". §<lb/>
+Gabriel retrouva sa toupie et il rentra chez <mod type="add" stage="" who="P"><add>lui</add></mod> joyeusement. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

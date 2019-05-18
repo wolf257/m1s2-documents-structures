@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E15
+</head>
+<p>
+<pb/>
+Je voudrais devenir boulangère parce que<lb/>
+j'aime bien <mod type="corr"><orig>préparée</orig><reg>préparer</reg></mod> le <mod type="del" stage="" who=""><del>pcom</del></mod> pain quand<lb/>
+il faut en faire. <mod type="corr"><orig>Où</orig><reg>Ou</reg></mod> <mod type="corr"><orig>bienfaire</orig><reg>bien faire</reg></mod> de la<lb/>
+<mod type="corr"><orig>patisserie</orig><reg>pâtisserie</reg></mod> en boulangerie je ferai des<lb/>
+gâteau avec ma grand mère. Je voudrai<lb/>
+bien faire avec ma <mod type="corr"><orig>grand mère</orig><reg>grand-mère</reg></mod> des tartes<lb/>
+au pommes parce que j'aime faire la<lb/>
+cuisine le dimanche après-midi. Je<lb/>
+<mod type="corr"><orig>commencera</orig><reg>commencerai</reg></mod> à 1h30 pour finir à 18h30,<lb/>
+ou plutôt <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> dépendra de mon emploi du temps. §<lb/>
+
+<pb/>
+Aussi, j'<mod type="corr"><orig>aimerai</orig><reg>aimerais</reg></mod> bien <mod type="corr"><orig>travaillé</orig><reg>travailler</reg></mod> <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les jours<lb/>
+avec l'horaire qu'il faudra <mod type="corr"><orig>respecté</orig><reg>respecter</reg></mod>. Le<lb/>
+soir quand je <mod type="corr"><orig>rentrera</orig><reg>rentrerai</reg></mod> pas trop tard, <mod type="corr"><orig>vue</orig><reg>vu</reg></mod><lb/>
+que la boulangerie et la <mod type="corr"><orig>patisserie</orig><reg>pâtisserie</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> commence<lb/>
+tôt et <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> finit pas tard. Aussi je <mod type="corr"><orig>voudrait</orig><reg>voudrais</reg></mod><lb/>
+<mod type="corr"><orig>travaillé</orig><reg>travailler</reg></mod> dans les écoles parce que <mod type="del" stage="" who=""><del>je</del></mod> j'aime<lb/>
+bien <mod type="corr"><orig>travaillé</orig><reg>travailler</reg></mod> avec les élèves de <mod type="corr"><orig>marternelle</orig><reg>maternelle</reg></mod>.<lb/>
+ou bien de primaire. Je me <mod type="del" stage="" who=""><del>lo</del></mod> <mod type="corr"><orig>leverai</orig><reg>lèverai</reg></mod><lb/>
+à 1h00 puisque la primaire <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="del" stage="" who=""><del>si</del></mod> commence<lb/>
+à 8h30. Je <mod type="corr"><orig>rentrera</orig><reg>rentrerai</reg></mod> à 17h30. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

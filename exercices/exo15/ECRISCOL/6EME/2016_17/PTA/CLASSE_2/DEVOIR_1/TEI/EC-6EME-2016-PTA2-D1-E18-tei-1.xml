@@ -1,0 +1,133 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E18
+</head>
+<p>
+<pb/>
+Quand je <mod type="corr"><orig>seera</orig><reg>serai</reg></mod> adulte. Je me <mod type="corr"><orig>leverais</orig><reg>lèverais</reg></mod> quand mon <mod type="corr"><orig>reveil</orig><reg>réveil</reg></mod><lb/>
+<mod type="corr"><orig>sonera</orig><reg>sonnera</reg></mod>. Je <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>m'habilleurait</del></mod></del><add stage="" who="">m'habiellerait</add></mod></orig><reg>m'habillerais</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> je regarderais<lb/>
+par la fenêtre mes <mod type="subst"><del><mod type="del" stage="" who=""><del>chevaux</del></mod></del><add stage="" who="">chevaux</add></mod> <mod type="corr"><orig>galoper</orig><reg>galoper</reg></mod> dans le pré<lb/>
+Je <mod type="corr"><orig>désendrai</orig><reg>descendrai</reg></mod> les <mod type="corr"><orig>escalers</orig><reg>escaliers</reg></mod> mes deux chiens, <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">S</add></mod>urprise</orig><reg>surprise</reg></mod> un<lb/>
+<mod type="corr"><orig>border-collie</orig><reg>border collie</reg></mod> et mystère un terre-neuve, m'attendrai pour<lb/>
+que je <mod type="corr"><orig>lors</orig><reg>leur</reg></mod> donne à manger. Quand j'<mod type="corr"><orig>aura</orig><reg>aurai</reg></mod> <mod type="corr"><orig>déjeuner</orig><reg>déjeuné</reg></mod><lb/>
+je me <mod type="corr"><orig>préparerer</orig><reg>préparerai</reg></mod> pour <mod type="corr"><orig>allez</orig><reg>aller</reg></mod> travailler. Je <mod type="corr"><orig>métterais</orig><reg>mettrai</reg></mod><lb/>
+le <mod type="del" stage="" who=""><del>c</del></mod> <mod type="corr"><orig>colier</orig><reg>collier</reg></mod> <mod type="del" stage="" who=""><del>d</del></mod> à mes chiens, et nous partirons tous<lb/>
+les trois au salon de <mod type="corr"><orig>toilletage</orig><reg>toilettage</reg></mod>. Quand nous <mod type="corr"><orig>seront</orig><reg>serons</reg></mod><lb/>
+<mod type="corr"><orig>arriver</orig><reg>arrivés</reg></mod>, nous <mod type="del" stage="" who=""><del>arron</del></mod> irons dire bonjour à mes<lb/>
+<mod type="corr"><orig>colégues</orig><reg>collègues</reg></mod>. Puis j'<mod type="corr"><orig>irait</orig><reg>irai</reg></mod> mettre Surprise et Mystère<lb/>
+dans mon bureau. Ils <mod type="corr"><orig>sont</orig><reg>ont</reg></mod> leurs paniers dans mon<lb/>
+bureau. <mod type="corr"><orig>Aprés</orig><reg>Après</reg></mod> je mettrai ma blouse et je <mod type="corr"><orig>sortirait</orig><reg>sortirais</reg></mod><lb/>
+de mon bureau. Des clients arrivèrent, le premier avait<lb/>
+un <mod type="corr"><orig>buvier-bernois</orig><reg>bouvier bernois</reg></mod> et il s'appellait zeus. Son maître me<lb/>
+dira: <mod type="del" stage="" who=""><del>un che</del></mod> de le laver et de le brosser. J'<mod type="corr"><orig>emmenit</orig><reg>emmenai</reg></mod><lb/>
+zeus <mod type="corr"><orig>jusqua</orig><reg>jusqu'à</reg></mod> la <mod type="corr"><orig>bénoire</orig><reg>baignoire</reg></mod>. Et je le <mod type="corr"><orig>laverait</orig><reg>laverais</reg></mod>. Il sortirait<lb/>
+de la <mod type="corr"><orig>bennoire</orig><reg>baignoire</reg></mod> tout <mod type="corr"><orig>mouiller</orig><reg>mouillé</reg></mod>. Je <mod type="corr"><orig>prendrait</orig><reg>prendrais</reg></mod> une <mod type="corr"><orig>servitte</orig><reg>serviette</reg></mod><lb/>
+et <mod type="del" stage="" who=""><del>l'és</del></mod> l'<mod type="corr"><orig>esuirai</orig><reg>essuyerai</reg></mod> et il me fera des léchouilles. <mod type="corr"><orig>Aprés</orig><reg>Après</reg></mod> je §<lb/>
+
+<pb/>
+<mod type="del" stage="" who=""><del>s</del></mod> le metterait sur la table et je le <mod type="corr"><orig>brosserait</orig><reg>brosserais</reg></mod>. Quand<lb/>
+j'<mod type="corr"><orig>aura</orig><reg>aurai</reg></mod> <mod type="corr"><orig>finit</orig><reg>fini</reg></mod> de le brosser, son maître arriva il me dit<lb/>
+que son chien était tout beau <mod type="subst"><del><mod type="del" stage="" who=""><del>maintem</del></mod></del><add stage="" who="">maintenant</add></mod>. Je lui dit<lb/>
+le prix: 80E. Il me donnera les 80E. Après je <mod type="corr"><orig>puis</orig><reg>pris</reg></mod><lb/>
+ma pause déjeuner. Il <mod type="corr"><orig>manger</orig><reg>mangeait</reg></mod> au restaurant avec ma<lb/>
+<mod type="corr"><orig>colégue</orig><reg>collègue</reg></mod>. Après nous <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>rentre</del></mod></del><add stage="" who="">rentrerent</add></mod></orig><reg>rentrerons</reg></mod> au salon. Un<lb/>
+deuxième client arriva il avait un <mod type="corr"><orig>burger</orig><reg>berger</reg></mod> allemand. §<lb/>
+Mais <mod type="del" stage="" who=""><del>n</del></mod> pour <mod type="subst"><del><mod type="del" stage="" who=""><del>mon</del></mod></del><add stage="" who="">moi</add></mod> le travail d'aujourd'hui. Alors <mod type="del" stage="" who=""><del>je<lb/>par</del></mod> j'<mod type="corr"><orig>alla</orig><reg>allai</reg></mod> <mod type="del" stage="" who=""><del>r</del></mod> chercher mes deux chiens et nous rentrons<lb/>
+chez. Quand nous <mod type="corr"><orig>seront</orig><reg>serons</reg></mod> <mod type="corr"><orig>arriver</orig><reg>arrivés</reg></mod> j'<mod type="corr"><orig>ira</orig><reg>irai</reg></mod> voir mes<lb/>
+chevaux. <mod type="corr"><orig>Après</orig><reg>Après</reg></mod> je <mod type="corr"><orig>ferait</orig><reg>ferais</reg></mod> à manger, et je <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>regarderait</del></mod><lb/></del><add stage="" who="">regarderait</add></mod></orig><reg>regarderais</reg></mod> un film puis j'<mod type="corr"><orig>ira</orig><reg>irai</reg></mod> me coucher §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

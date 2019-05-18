@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D3-E13-V1
+</head>
+<p>
+<pb/>
+<hi place=" " time="" who="Pσ" style="underline">Demain matin</hi> <mod type="add" stage="T3" who=""><add>,</add></mod> je rencontrerai <mod type="corr"><orig>m<hi place=" " time="" who="Pσ" style="underline">ais</hi></orig><reg>mes</reg></mod> <mod type="corr"><orig>c<hi place=" " time="" who="Pσ" style="underline">o</hi>l<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">e</add></mod>gue</orig><reg>collègues</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>collegues</add></mod></orig><reg>collègues</reg></mod><lb/>
+pour qu'<mod type="corr"><orig>ell<hi place=" " time="" who="Pσ" style="underline">e</hi></orig><reg>elles</reg></mod> <mod type="add" stage="T3" who=""><add>elles</add></mod> m'<mod type="corr"><orig>espliq<hi place=" " time="" who="Pσ" style="underline">ue</hi></orig><reg>expliquent</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>m'espliquent</add></mod></orig><reg>m'expliquent</reg></mod> <mod type="corr"><orig>o<mod type="subst"><del><mod type="del" stage="" who="P"><del>u</del></mod></del><add stage="" who="P">ù</add></mod></orig><reg>où</reg></mod> est mon<lb/>
+salon de coiffure. Une <mod type="corr"><orig>heu<hi place=" " time="" who="Pσ" style="underline">r</hi></orig><reg>heure</reg></mod> <mod type="add" stage="T3" who=""><add>heure</add></mod> <mod type="corr"><orig>plus-tard</orig><reg>plus tard</reg></mod> <mod type="add" stage="T3" who=""><add>,</add></mod><lb/>
+<mod type="corr"><orig>quel<mod type="del" stage="" who="P"><del>e</del></mod>qu'un</orig><reg>quelqu'un</reg></mod> <mod type="add" stage="T3" who=""><add>quelqu'un</add></mod> arrivera et je l'<mod type="corr"><orig>acceu<hi place=" " time="" who="Pσ" style="underline">l</hi>ler<hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>accueillerai</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>l'accueilai</add></mod></orig><reg>l'accueillerai</reg></mod><lb/>
+<mod type="del" stage="" who="P"><del>et</del></mod> quand je la <mod type="corr"><orig>coiffe<mod type="del" stage="" who="P"><del>u</del></mod>r<hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>coifferai</reg></mod> <mod type="add" stage="T3" who=""><add>coifferai</add></mod> je lui dirai<lb/>
+pourquoi j'aime <hi place=" " time="" who="Pσ" style="underline">la coiffure</hi> <mod type="add" stage="T3" who=""><add>coiffer les gens.</add></mod> j'aime <mod type="add" stage="T3" who=""><add>J'aime</add></mod> §<lb/>
+
+<pb/>
+<hi place=" " time="" who="Pσ" style="underline">la coiffure</hi> car <mod type="del" stage="T3" who=""><del>j'aime coiffer les j gens</del></mod> <mod type="add" stage="T3" who=""><add>je <mod type="corr"><orig>fesai</orig><reg>faisais</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> depuis toute petite,</add></mod><lb/>
+quand <mod type="add" stage="T3" who=""><add>Quand</add></mod> <mod type="corr"><orig>j<mod type="add" stage="" who="P"><add>'</add></mod>aurai</orig><reg>j'aurai</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>j'airai</add></mod></orig><reg>j'aurai</reg></mod> fini de la coiffer <mod type="add" stage="T3" who=""><add>,</add></mod> je lui<lb/>
+dirai <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">sa coutera</hi></orig><reg>ça coûtera</reg></mod> <mod type="corr"><orig>10</orig><reg>dix</reg></mod> <mod type="corr"><orig>eur<hi place=" " time="" who="Pσ" style="underline">o</hi></orig><reg>euros</reg></mod> <mod type="add" stage="T3" who=""><add>10 euros</add></mod> <mod type="del" stage="" who="P"><del>la coiffure</del></mod>,<lb/>
+elle <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">senira</hi></orig><reg>s'en ira</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>sen-ira</add></mod></orig><reg>s'en ira</reg></mod>. <mod type="del" stage="" who="P"><del>Sayer</del></mod> <mod type="del" stage="" who=""><del>c'est</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>c</del></mod></del><add stage="" who="">s</add></mod>a</orig><reg>ça</reg></mod> sera midi <mod type="add" stage="" who="P"><add>.</add></mod><lb/>
+je <mod type="add" stage="T3" who=""><add>Je</add></mod> <mod type="corr"><orig>m<hi place=" " time="" who="Pσ" style="underline">e</hi>ngerai</orig><reg>mangerai</reg></mod> <mod type="add" stage="T3" who=""><add>mangerai</add></mod> avec mes <mod type="corr"><orig>c<hi place=" " time="" who="Pσ" style="underline">o</hi>legue</orig><reg>collègues</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>collegues</add></mod></orig><reg>collègues</reg></mod>. Je ne<lb/>
+<mod type="corr"><orig>travailler<hi place=" " time="" who="Pσ" style="underline">a</hi></orig><reg>travaillerai</reg></mod> <mod type="add" stage="T3" who=""><add>travaillerai</add></mod> pas l'<mod type="corr"><orig>apr<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">è-</add></mod></orig><reg>après-</reg></mod> midi <mod type="add" stage="" who="P"><add>ni</add></mod> le mardi,<lb/>
+mercredi <mod type="del" stage="" who="P"><del>,</del></mod> et le vendredi. <mod type="corr"><orig>Voil<mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>Voilà</reg></mod> ma<lb/>
+<mod type="corr"><orig>journée<hi place=" " time="" who="Pσ" style="underline">s</hi></orig><reg>journée</reg></mod> sera <mod type="corr"><orig>termin<hi place=" " time="" who="Pσ" style="underline">ai</hi></orig><reg>terminée</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>terminer</add></mod></orig><reg>terminée</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,108 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E1
+</head>
+<p>
+<mod type="del" stage="" who=""><del>J</del></mod> Je suis un <mod type="del" stage="" who=""><del>ge guai</del></mod> guide au <mod type="del" stage="" who=""><del>zzo</del></mod><lb/>
+<mod type="add" stage="" who=""><add>zoo</add></mod>. Je fais <mod type="subst"><del><mod type="del" stage="" who=""><del>visites</del></mod></del><add stage="" who="">visiter</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>au xagn</del></mod></del><add stage="" who="">aux gans</add></mod></orig><reg>aux gens</reg></mod><lb/>
+les <mod type="corr"><orig>annim<mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">au</add></mod>x</orig><reg>animaux</reg></mod>. <mod type="corr"><orig>Aujor'dui</orig><reg>Aujourd'hui</reg></mod> il <mod type="corr"><orig>y<mod type="del" stage="" who=""><del>a</del></mod></orig><reg>y</reg></mod> a au <mod type="corr"><orig>boucaub</orig><reg>beaucoup</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>qu</del></mod> de <mod type="corr"><orig>persone</orig><reg>personnes</reg></mod>. Les <mod type="corr"><orig>annimaux</orig><reg>animaux</reg></mod> sont <mod type="corr"><orig>abitués</orig><reg>habitués</reg></mod> <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>gans</orig><reg>gens</reg></mod>.<lb/>
+Les <mod type="corr"><orig>girafes</orig><reg>girafes</reg></mod> font des bétises elle font <mod type="corr"><orig>tonb<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>r</orig><reg>tomber</reg></mod> les <mod type="corr"><orig>gans</orig><reg>gens</reg></mod><lb/>
+et <mod type="corr"><orig>elle</orig><reg>elles</reg></mod> <mod type="corr"><orig>volé</orig><reg>volaient</reg></mod> des <mod type="corr"><orig>objer</orig><reg>objets</reg></mod>. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>j</del></mod></del><add stage="" who="">J'</add></mod>explique</orig><reg>J'explique</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>quoi qui</del></mod></del><add stage="" who="">qui</add></mod> <mod type="del" stage="" who=""><del>mage</del></mod><lb/>
+<mod type="add" stage="" who=""><add>mange</add></mod> quoi . <mod type="subst"><del><mod type="del" stage="" who=""><del>Atacon</del></mod></del><add stage="" who="">Attention</add></mod> il y a un spectacle <mod type="subst"><del><mod type="del" stage="" who=""><del>des</del></mod></del><add stage="" who="">avec</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>de des de</del></mod></del><add stage="" who="">deux</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>oisoi oiso</del></mod></del><add stage="" who="">oiseau</add></mod></orig><reg>oiseaux</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

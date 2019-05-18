@@ -1,0 +1,134 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2016-MLJ-D1-E11-V1
+</head>
+<p>
+<pb/>
+Julie courra puis elle <mod type="corr"><orig>ra<mod type="del" stage="" who=""><del>i</del></mod>tait</orig><reg>ratait</reg></mod> son bus.<lb/>
+Alors elle <mod type="corr"><orig>courru</orig><reg>courut</reg></mod> après <mod type="del" stage="T2" who=""><del>et</del></mod> elle trébucha,<lb/>
+elle se fit mal. Alors elle <mod type="corr"><orig>es</orig><reg>est</reg></mod> <mod type="corr"><orig>allé</orig><reg>allée</reg></mod> à pied<lb/>
+à son établissement scolaire situant <mod type="corr"><orig>a</orig><reg>à</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> 2km plus loin, puis elle est <mod type="corr"><orig>arriver</orig><reg>arrivée</reg></mod><lb/>
+en retard donc elle s'est fait virer<lb/>
+de cours. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">E</add></mod>lle</orig><reg>Elle</reg></mod> <mod type="corr"><orig>partir</orig><reg>partit</reg></mod> donc à<lb/>
+l'infirmerie où elle se fit soigner<lb/>
+Et enfin elle est <mod type="corr"><orig>allé</orig><reg>allée</reg></mod> à la vie<lb/>
+scolaire.] §<lb/>
+Rectification au dos §<lb/>
+
+<pb/>
+Julie <mod type="corr"><orig>courru</orig><reg>courut</reg></mod> pour rattraper<lb/>
+son bus, elle rattrapa et fit<lb/>
+signe au chauffeur afin d'ouvrir<lb/>
+les portes. Le chauffeur qui était<lb/>
+un grand homme noir se<lb/>
+moqua d'elle puis roulait.<lb/>
+Julie était triste. §<lb/>
+C'est alors qu'elle arriva<lb/>
+en retard en cours. §<lb/>
+Son prof lui dit "Qu'est-ce<lb/>
+que tu fabriques donc en cette<lb/>
+heure<mod type="del" stage="" who=""><del>s</del></mod>? <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>Va</orig><reg>Vas</reg></mod> donc en vie scolaire"<lb/>
+Julie était triste et dit au prof<lb/>
+"Je te <mod type="corr"><orig>maudit</orig><reg>maudis</reg></mod>" §<lb/>
+Quand <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>j</del></mod></del><add stage="" who="">J</add></mod>ulie</orig><reg>Julie</reg></mod> rentra tard chez elle<lb/>
+elle se fit violammant engueuler<lb/>
+et <mod type="corr"><orig>insultar</orig><reg>insulter</reg></mod> par <mod type="corr"><orig>s'a</orig><reg>sa</reg></mod> mère son<lb/>
+frère et <mod type="corr"><orig>s'on</orig><reg>son</reg></mod> père. Julie resta<lb/>
+triste. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

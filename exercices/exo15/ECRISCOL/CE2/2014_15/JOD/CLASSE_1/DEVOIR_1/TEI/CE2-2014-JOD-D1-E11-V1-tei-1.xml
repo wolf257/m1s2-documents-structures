@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E11-V1
+</head>
+<p>
+-Je montrai ma toupie à <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">A</add></mod>nne</orig><reg>Anne</reg></mod> <mod type="corr"><orig>lise</orig><reg>Lise</reg></mod>. §<lb/>
+-Bonjour dit Gabriel. Regarde ma toupie chinoise <mod type="corr"><orig>ho</orig><reg>oh</reg></mod> <mod type="add" stage="" who="P"><add>oh</add></mod>
+<mod type="corr"><orig>ho</orig><reg>oh</reg></mod> <mod type="corr"><orig>maisse</orig><reg>mais c'est</reg></mod> ma toupie <mod type="add" stage="" who="P"><add>tu as</add></mod> as perdu quelque chose? lui demanda<lb/>
+<mod type="corr"><orig>Anne lise</orig><reg>Anne-Lise</reg></mod>.-<mod type="corr"><orig>oui</orig><reg>Oui</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod> J'ai perdu ma toupie..<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>ma</del></mod></del><add stage="" who="P">Nous</add></mod></orig><reg>Nous</reg></mod>  devons <mod type="corr"><orig>retrer</orig><reg>rentrer</reg></mod> <mod type="add" stage="" who="P"><add>rentrer</add></mod> à la maison <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>quar</del></mod></del><add stage="" who="P">car</add></mod></orig><reg>car</reg></mod> nos<lb/>
+parents <mod type="corr"><orig>vos</orig><reg>vont</reg></mod> <mod type="add" stage="" who="P"><add>vont</add></mod> <mod type="corr"><orig>sinquiter</orig><reg>s'inquiéter</reg></mod> <mod type="add" stage="" who="P"><add>s'inquiéter</add></mod>. Demain nous allons<lb/>
+demander au Gardien. <mod type="corr"><orig>vien</orig><reg>Viens</reg></mod> <mod type="add" stage="" who="P"><add>Viens</add></mod> nous allons<lb/>
+demander au Gardien. Bonjour, monsieur.<lb/>
+-J'ai perdu ma toupie. Ma toupie chinoise<lb/>
+-sur le chemin de l'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>cole</orig><reg>école</reg></mod>. J'y <mod type="corr"><orig>tenai<mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">s</add></mod></orig><reg>tenais</reg></mod> <mod type="corr"><orig>baucoup</orig><reg>beaucoup</reg></mod> <mod type="add" stage="" who="P"><add>beaucoup</add></mod><lb/>
+-<mod type="corr"><orig>vien<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>viens</reg></mod> dit l'homme on va regarder dans<lb/>
+les <mod type="corr"><orig>affaire<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>affaires</reg></mod> <mod type="corr"><orig>perdu<mod type="add" stage="" who="P"><add>es</add></mod></orig><reg>perdues</reg></mod>...oh! ma toupie je l'ai 
+<mod type="corr"><orig>retrouv<mod type="subst"><del><mod type="del" stage="" who="P"><del>er</del></mod></del><add stage="" who="P">ée</add></mod></orig><reg>retrouvée</reg></mod>! Merci <mod type="corr"><orig>baucoup</orig><reg>beaucoup</reg></mod> <mod type="add" stage="" who="P"><add>beaucoup</add></mod> monsieur <mod type="add" stage="" who="P"><add>,</add></mod><lb/>
+<mod type="corr"><orig>aurevoir</orig><reg>au revoir</reg></mod> <mod type="add" stage="" who="P"><add>au</add></mod> §<lb/>
+FIN §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

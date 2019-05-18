@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E7-V2
+</head>
+<p>
+<mod type="corr"><orig>Des</orig><reg>Dès</reg></mod> que je suis sorti du ventre de ma <mod type="corr"><orig>mere</orig><reg>mère</reg></mod> <mod type="del" stage="" who=""><del>je voie<lb/>
+st</del></mod> j'ai <mod type="add" stage="" who=""><add>vu</add></mod> une <mod type="corr"><orig>lumiere</orig><reg>lumière</reg></mod> blanche qui me <mod type="corr"><orig>fis</orig><reg>fit</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> mal au<lb/>
+yeux <mod type="del" stage="" who=""><del>et j'ai atendu des bruit</del></mod> j'ai poussé un grand<lb/>
+cri <mod type="corr"><orig>trés</orig><reg>très</reg></mod> fort, <mod type="del" stage="" who=""><del>j'attendis</del></mod> et je sentai comme une flam-<lb/>
+me qui me chauffe mes <mod type="corr"><orig>poumon</orig><reg>poumons</reg></mod>, j'entendais des <mod type="corr"><orig>bruit</orig><reg>bruits</reg></mod> que<lb/>
+je n'<mod type="corr"><orig>avait</orig><reg>avais</reg></mod> jamais <mod type="corr"><orig>attendus</orig><reg>entendu</reg></mod> <mod type="del" stage="" who=""><del>les grand</del></mod> la sage qui <mod type="corr"><orig>cri<lb/>
+yait</orig><reg>criait</reg></mod> c'est un garçon, le docteur qui demandait <mod type="corr"><orig>a</orig><reg>à</reg></mod> ma <mod type="corr"><orig>mêre</orig><reg>mère</reg></mod> de<lb/>
+bien <mod type="corr"><orig>poussé</orig><reg>pousser</reg></mod>...) j'ai <mod type="corr"><orig>ou vert</orig><reg>ouvert</reg></mod> <mod type="corr"><orig>légerement</orig><reg>légèrement</reg></mod> les yeux et je<lb/>
+vis une femme <mod type="corr"><orig>coucher</orig><reg>couchée</reg></mod> <mod type="add" stage="" who=""><add>XXX#</add></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> directement  j'ai su que c'est ma mère<lb/>
+la femme qui me porte #XXX# je sen<lb/>
+tis un sentiment de joie <mod type="del" stage="" who=""><del>XXX#</del></mod> #XXX# je voulais bien<lb/>
+voir son beau #XXX# visage. <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+femme me <mod type="corr"><orig>pris</orig><reg>prit</reg></mod> et #XXX# et me <mod type="corr"><orig>me<lb/>
+tta</orig><reg>mit</reg></mod> dans une grande étoffe de <mod type="corr"><orig>cotton</orig><reg>coton</reg></mod> qu'on <mod type="corr"><orig>appel</orig><reg>appelle</reg></mod> <mod type="corr"><orig>un</orig><reg>une</reg></mod><lb/>
+<mod type="corr"><orig>serviete</orig><reg>serviette</reg></mod> et me <mod type="corr"><orig>donnus</orig><reg>donne</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>mêre</orig><reg>mère</reg></mod> et je sentis sa douce <mod type="corr"><orig>du<lb/>
+leur</orig><reg>douleur</reg></mod> et les <mod type="corr"><orig>baiser</orig><reg>baisers</reg></mod> et on me <mod type="corr"><orig>pris</orig><reg>prit</reg></mod> pour mettre dans une<lb/>
+<mod type="corr"><orig><mod type="add" stage="" who=""><add>boite</add></mod></orig><reg>boîte</reg></mod> de #XXX# transparent <mod type="corr"><orig>quon</orig><reg>qu'on</reg></mod> <mod type="corr"><orig>appel</orig><reg>appelle</reg></mod> une #XXX# §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

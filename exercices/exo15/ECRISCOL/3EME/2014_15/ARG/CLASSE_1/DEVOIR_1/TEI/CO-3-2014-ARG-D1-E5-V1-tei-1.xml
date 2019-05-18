@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E5-V1
+</head>
+<p>
+La <mod type="corr"><orig>sage femme</orig><reg>sage-femme</reg></mod> dit:"<mod type="add" stage="" who=""><add>je</add></mod>c'est un garçon" Il <mod type="add" stage="" who=""><add>je</add></mod> poussa un<lb/>
+cri strident. Il était très <mod type="corr"><orig>agitait</orig><reg>très</reg></mod>, je <mod type="corr"><orig>bougaient</orig><reg>bougeais</reg></mod><lb/>
+de tous les sens. Il<mod type="add" stage="" who=""><add>je</add></mod> regardais de tous les<lb/>
+côtés. La <mod type="corr"><orig>sage femme</orig><reg>sage-femme</reg></mod> <mod type="del" stage="" who=""><del>prend Lucien</del></mod> <mod type="add" stage="" who=""><add>me prena</add></mod> dans<lb/>
+ses bras et <mod type="del" stage="" who=""><del>posa Lucien</del></mod> <mod type="add" stage="" who=""><add>me posa</add></mod> sur le<lb/>
+ventre de sa <mod type="add" stage="" who=""><add>ma</add></mod> maman. Sa <mod type="add" stage="" who=""><add>ma</add></mod> maman<lb/>
+<mod type="corr"><orig>ètait</orig><reg>était</reg></mod> tres contente. <mod type="del" stage="" who=""><del>Lucien</del></mod> <mod type="add" stage="" who=""><add>je</add></mod> pleurait<lb/>
+<mod type="corr"><orig>tres</orig><reg>très</reg></mod> fort, la <mod type="corr"><orig>sage femme</orig><reg>sage-femme</reg></mod> essaya<lb/>
+de <mod type="del" stage="" who=""><del>le</del></mod> <mod type="add" stage="" who=""><add>me</add></mod> <mod type="corr"><orig>calme</orig><reg>calmer</reg></mod> <mod type="del" stage="" who=""><del>mais sans</del></mod> <mod type="add" stage="" who=""><add>en vain</add></mod>. La<lb/>
+porte <mod type="corr"><orig>s'ouvra</orig><reg>s'ouvrit</reg></mod> brusquement. Mon papa<lb/>
+<mod type="del" stage="" who=""><del><mod type="corr"><orig>ètait</orig><reg>était</reg></mod></del></mod> <mod type="add" stage="" who=""><add>me <mod type="corr"><orig>prena</orig><reg>prit</reg></mod></add></mod> et me <mod type="corr"><orig>fesa</orig><reg>fit</reg></mod> des Bisous<lb/>
+et il me chanta une Berceuse. Je me<lb/>
+suis enfin <mod type="corr"><orig>calmer</orig><reg>calmé</reg></mod>. Il y avait §<lb/>
+beaucoup de personnes autour de moi<lb/>
+il y avait une grosse lampe qui<lb/>
+<mod type="corr"><orig>eclairait</orig><reg>éclairait</reg></mod> mes yeux et je <mod type="corr"><orig>m'endormit</orig><reg>m'endormis</reg></mod><lb/>
+trois heures plus tard, je me <mod type="corr"><orig>reveilla</orig><reg>réveillai</reg></mod><lb/>
+dans une belle chambre <mod type="corr"><orig>bleu</orig><reg>bleue</reg></mod> avec<lb/>
+des <mod type="corr"><orig>dècoration</orig><reg>décorations</reg></mod> partout. <mod type="corr"><orig>J'etais</orig><reg>j'étais</reg></mod> si<lb/>
+<mod type="corr"><orig>contente</orig><reg>content</reg></mod>, mais soudainement je<lb/>
+<mod type="corr"><orig>sentit</orig><reg>sentis</reg></mod> une odeur bizarre qui pue<lb/>
+<mod type="del" stage="" who=""><del>et je <mod type="corr"><orig>pleura</orig><reg>pleurai</reg></mod>, ma mère, vient et me<lb/>
+porta.</del></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

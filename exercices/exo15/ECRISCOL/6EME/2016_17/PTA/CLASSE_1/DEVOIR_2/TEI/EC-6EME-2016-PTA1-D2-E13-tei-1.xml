@@ -1,0 +1,137 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E13
+</head>
+<p>
+<pb/>
+Laurie se met en marche elle rencontre comme <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les matins sa meilleure<lb/>
+amie (Laura) qui fait la route avec elle et <mod type="corr"><orig>discute</orig><reg>discutent</reg></mod> ensemble, puis elle rencontre<lb/>
+Antoine un ami qu'elle avait perdu de <mod type="corr"><orig>vu</orig><reg>vue</reg></mod> "<mod type="corr"><orig>au</orig><reg>Oh</reg></mod> Laura, c'est Antoine"<lb/>
+puis Laura répond "qui est Antoine Laurie?" "c'est un ami d'enfance on<lb/>
+<mod type="corr"><orig>c'est</orig><reg>s'est</reg></mod> rencontré en <mod type="corr"><orig>moyen</orig><reg>moyenne</reg></mod> <mod type="corr"><orig>se<mod type="subst"><del><mod type="del" stage="" who=""><del>c</del></mod></del><add stage="" who="">t</add></mod>ion</orig><reg>section</reg></mod>" puis Laurie hurla "<mod type="corr"><orig>est</orig><reg>Eh</reg></mod> Antoine c'est moi Laurie<lb/>
+<mod type="corr"><orig>ca</orig><reg>ça</reg></mod> va?" le jeune garçon ne se retourna même pas, Laurie hurla <mod type="corr"><orig>a</orig><reg>à</reg></mod> nouveau<lb/>
+mais <mod type="corr"><orig>la</orig><reg>là</reg></mod> elle hurla de <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> <mod type="corr"><orig>s'est</orig><reg>ses</reg></mod> <mod type="corr"><orig>poumon</orig><reg>poumons</reg></mod> "Antoine, Antoine c'est Laurie" elle<lb/>
+hurla tellement fort que le voisin <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> "<mod type="corr"><orig>arrété</orig><reg>arrêtez</reg></mod> de crier comme cela c'est un lieu<lb/>
+<mod type="corr"><orig>public</orig><reg>publique</reg></mod> mais <mod type="corr"><orig>commême</orig><reg>quand même</reg></mod>" puis le jeune garçon <mod type="del" stage="" who=""><del>du</del></mod> se retourna, mais ce n'était pas<lb/>
+Antoine c'était le nouveau au collège, puis <mod type="corr"><orig>il</orig><reg>ils</reg></mod> se <mod type="corr"><orig>parlère</orig><reg>parlèrent</reg></mod> il s'appelait Maxime en <mod type="corr"><orig>faits</orig><reg>fait</reg></mod><lb/>
+il venait <mod type="corr"><orig>de</orig><reg>des</reg></mod> Alpes cela a <mod type="corr"><orig>du</orig><reg>dû</reg></mod> le <mod type="corr"><orig>changé</orig><reg>changer</reg></mod> parce que les Alpes<lb/>
+ce n'est pas <mod type="corr"><orig>parrèlle</orig><reg>pareil</reg></mod> que M t c'est bien plus<lb/>
+petit <mod type="corr"><orig>ha</orig><reg>a</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> Laurie te voici au collège de M t<lb/>
+Maxime n'était pas super <mod type="corr"><orig>entousiaste</orig><reg>enthousiaste</reg></mod> d'aller au collège il<lb/>
+<mod type="corr"><orig>préferait</orig><reg>préférait</reg></mod> les <mod type="corr"><orig>garce</orig><reg>grasses</reg></mod> <mod type="corr"><orig>matinnées</orig><reg>matinées</reg></mod> que de se <mod type="corr"><orig>levé</orig><reg>lever</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> 7h pour se<lb/>
+<mod type="corr"><orig>préparé</orig><reg>préparer</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> aller au collège car il <mod type="corr"><orig>commencé</orig><reg>commençait</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> 8h00<lb/>
+du matin, Laurie retrouva <mod type="corr"><orig>c'est</orig><reg>ses</reg></mod> amies. Puis elle <mod type="corr"><orig>du</orig><reg>dut</reg></mod><lb/>
+aller en classe d'Allemand, Par chance <mod type="corr"><orig>dis elle</orig><reg>dit-elle</reg></mod> Mme Londes<lb/>
+<mod type="corr"><orig>été</orig><reg>était</reg></mod> absente <mod type="corr"><orig>met</orig><reg>mais</reg></mod> une remplaçante arriva Rogild? <mod type="corr"><orig>dit elle</orig><reg>dit-elle</reg></mod> cela me<lb/>
+<mod type="corr"><orig>dis</orig><reg>dit</reg></mod> <mod type="corr"><orig>celquechose</orig><reg>quelque chose</reg></mod>, puis la professeur <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> Mme Rogild s'il vous<lb/>
+plaît <mod type="corr"><orig>est</orig><reg>et</reg></mod> Laurie <mod type="corr"><orig>aperçue</orig><reg>aperçut</reg></mod> Maxime tout au fond de la<lb/>
+classe mais Laurie était au premier <mod type="corr"><orig>rend</orig><reg>rang</reg></mod> avec Laura, §<lb/>
+
+<pb/>
+mais Mme <mod type="subst"><del><mod type="del" stage="" who=""><del>Rogli</del></mod></del><add stage="" who="">Rogild</add></mod> était une vieille femme <mod type="corr"><orig>veove</orig><reg>veuve</reg></mod> elle n'avait<lb/>
+même pas fait cours elle <mod type="del" stage="" who=""><del>P</del></mod> parlait d'elle d'elle d'elle<lb/>
+et encore d'elle que son chien était chez le <mod type="corr"><orig>vétérinère</orig><reg>vétérinaire</reg></mod><lb/>
+toute la journée <mod type="subst"><del><mod type="del" stage="" who=""><del>quil</del></mod></del><add stage="" who="">qu'il</add></mod> <mod type="corr"><orig>soufrait</orig><reg>souffrait</reg></mod> le <mod type="corr"><orig>martir</orig><reg>martyre</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> qu'<lb/>
+elle était malade <mod type="corr"><orig>qand</orig><reg>quand</reg></mod> son chien était malade<lb/>
+Laurie n'<mod type="corr"><orig>atendait</orig><reg>attendait</reg></mod> que la sonnerie mais il était<lb/>
+que 45 <mod type="corr"><orig>min</orig><reg>minutes</reg></mod> mais le <mod type="corr"><orig>telephone</orig><reg>téléphone</reg></mod> de Mme Rogild<lb/>
+venait de <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>son</del></mod></del><add stage="" who="">sonnait</add></mod></orig><reg>sonner</reg></mod> c'était un ami <mod type="corr"><orig>a</orig><reg>à</reg></mod> elle<lb/>
+Laurie était <mod type="corr"><orig>étonais</orig><reg>étonnée</reg></mod> que la professeur réponde au<lb/>
+téléphone puis le révéil sonna c'était maintenant<lb/>
+une <mod type="corr"><orig>vrai</orig><reg>vraie</reg></mod> journée qui <mod type="corr"><orig>commencait</orig><reg>commençait</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

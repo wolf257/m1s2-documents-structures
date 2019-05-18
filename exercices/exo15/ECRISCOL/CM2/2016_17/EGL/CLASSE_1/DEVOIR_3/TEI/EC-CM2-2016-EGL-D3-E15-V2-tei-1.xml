@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E15-V2
+</head>
+<p>
+<pb/>
+Quand je serai grande <mod type="add" stage="T2" who=""><add>,</add></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">j'iraiS</hi></orig><reg>j'irai</reg></mod> <mod type="corr"><orig>m'acheté</orig><reg>m'acheter</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>m'ache<hi place=" " time="" who="Pσ" style="underline">tais</hi></add></mod></orig><reg>m'acheter</reg></mod> une maison à <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">m</hi>arseille</orig><reg>Marseille</reg></mod>. <mod type="del" stage="" who=""><del>Et</del></mod><mod type="del" stage="" who="P"><del><mod type="add" stage="" who=""><add>Aussi</add></mod></del></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">j'habiterai<mod type="add" stage="T2" who=""><add>s</add></mod></hi></orig><reg>j'habiterai</reg></mod><lb/>
+avec ma famille <mod type="del" stage="" who="P"><del>dans cette maison à marseille</del></mod>. <mod type="del" stage="" who="P"><del>j'irais</del></mod> faire les<lb/>
+magasins <mod type="del" stage="" who=""><del>quan</del></mod> de <mod type="corr"><orig>vêtemen<hi place=" " time="" who="Pσ" style="underline">t</hi><mod type="add" stage="T3" who=""><add>s</add></mod></orig><reg>vêtements</reg></mod> quand <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">sa</hi></orig><reg>ça</reg></mod> <mod type="add" stage="" who="P"><add>ce</add></mod> sera les soldes. Après <mod type="add" stage="T2" who=""><add>,</add></mod> j'irai<lb/>
+<mod type="corr"><orig>mangé<hi place=" " time="" who="Pσ" style="underline"><mod type="del" stage="" who=""><del>r</del></mod></hi></orig><reg>manger</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>mangai</add></mod></orig><reg>manger</reg></mod> au <mod type="subst"><del><mod type="del" stage="T2" who=""><del>kébabe</del></mod></del><add stage="T2" who="">kébab<mod type="del" stage="" who="P"><del>e</del></mod></add></mod> avec ma <mod type="corr"><orig>famille<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>famille</reg></mod>. <hi place=" " time="" who="Pσ" style="underline">Et faire cuisinière</hi><lb/>
+pour faire à manger <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>mangé</add></mod></orig><reg>manger</reg></mod> à mes enfants. Si je peux <hi place=" " time="" who="Pσ" style="underline">pas</hi> je ferai<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">e</hi>mbulanc<mod type="del" stage="" who="P"><del>ier</del></mod><mod type="add" stage="" who="P"><add>ière</add></mod></orig><reg>ambulancière</reg></mod> pour aider <mod type="add" stage="T2" who=""><add>aider</add></mod> les gens. <mod type="subst"><del><mod type="del" stage="" who="P"><del>C'est cesse que</del></mod></del><add stage="" who="P">Est-ce que</add></mod> j'aime bien<lb/>
+faire en métier. <mod type="del" stage="" who=""><del>Et</del></mod> Aussi <mod type="add" stage="T2" who=""><add>,</add></mod> j'irai au cinéma <mod type="corr"><orig><mod type="del" stage="T3" who=""><del><hi place=" " time="" who="Pσ" style="underline">a</hi></del></mod>voir</orig><reg>voir</reg></mod> un film<lb/>
+avec ma famille. Puis <mod type="add" stage="T2" who=""><add>,</add></mod> <hi place=" " time="" who="Pσ" style="underline">sortir</hi> <mod type="add" stage="T3" who=""><add>je sortirai</add></mod> faire des activités comme du<lb/>
+(foot, du basket, du ping-pong, de la natation, du cheval<lb/>
+et <mod type="del" stage="" who=""><del>le</del></mod> voir les <mod type="del" stage="" who=""><del>am</del></mod> animaux au zoo.) <mod type="corr"><orig>Peut être</orig><reg>Peut-être</reg></mod> <mod type="del" stage="" who=""><del>con</del></mod> qu'on<lb/>
+ira faire des <mod type="corr"><orig>promenad<hi place=" " time="" who="Pσ" style="underline">e</hi><mod type="add" stage="T3" who=""><add>s</add></mod></orig><reg>promenades</reg></mod> en vélo, <mod type="subst"><del><mod type="del" stage="" who="P"><del>en</del></mod></del><add stage="" who="P">à</add></mod> cheval, <mod type="subst"><del><mod type="del" stage="" who="P"><del>en</del></mod></del><add stage="" who="P">à</add></mod> moto, en <mod type="corr"><orig>scoo<hi place=" " time="" who="Pσ" style="underline">teur</hi></orig><reg>scooter</reg></mod> <mod type="add" stage="T3" who=""><add>scooter</add></mod><lb/>
+en <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">couade</hi><mod type="add" stage="" who="P"><add>quod</add></mod></orig><reg>quod</reg></mod> et <hi place=" " time="" who="Pσ" style="underline">c'est bon</hi> <mod type="add" stage="T3" who=""><add>rien d'autre</add></mod>. Après <mod type="add" stage="T2" who=""><add>, peut-être qu'<mod type="del" stage="" who=""><del>on</del></mod></add></mod> ira aussi au parc d'<mod type="corr"><orig>a<hi place=" " time="" who="Pσ" style="underline">t</hi>raction</orig><reg>attraction</reg></mod> <mod type="add" stage="T3" who=""><add>d'attraction</add></mod><lb/>
+Et si je peux pas prendre une maison à <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">m</hi><mod type="add" stage="T3" who=""><add>M</add></mod>arseille</orig><reg>Marseille</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="del" stage="" who=""><del>eb</del></mod><mod type="add" stage="" who=""><add>hé bés</add></mod></hi></orig><reg>eh beh</reg></mod> j'irai §<lb/>
+
+<pb/>
+m'<mod type="corr"><orig>achet<hi place=" " time="" who="Pσ" style="underline">é</hi></orig><reg>acheter</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>m'achetai</add></mod></orig><reg>m'acheter</reg></mod> une maison à <mod type="del" stage="" who=""><del>D</del></mod> Bordeaux ou <mod type="del" stage="" who=""><del>à d'autre pou</del></mod><lb/>
+dans d'<mod type="corr"><orig>autr<hi place=" " time="" who="Pσ" style="underline">e</hi><mod type="add" stage="T3" who=""><add>s</add></mod></orig><reg>autres</reg></mod> pays. Et je sortirai avec mes amies en <mod type="corr"><orig>boite</orig><reg>boîte</reg></mod> <mod type="add" stage="" who="P"><add>boîte de nuit</add></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

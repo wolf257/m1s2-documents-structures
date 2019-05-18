@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>﻿partie: EC-CM2-2015-EGL-D2-E3-V1
+</head>
+<p>
+<mod type="del" stage="" who=""><del>J'avais très peurt</del></mod> Tout à coup, la voiture avança lentement<lb/>
+<mod type="corr"><orig>dabord</orig><reg>d'abord</reg></mod>, ensuite de plus §<lb/>
+-en plus vite... §<lb/>
+-Nadine <mod type="corr"><orig>eu</orig><reg>eut</reg></mod> très <mod type="del" stage="" who=""><del>XXX#</del></mod> peur, <mod type="subst"><del><mod type="del" stage="" who=""><del>Nadine</del></mod></del><add stage="" who="">elle</add></mod> dit à sa soeur, ouvre la<lb/>
+-fenêtre ! Natacha se <mod type="corr"><orig>depecha</orig><reg>dépêcha</reg></mod> <mod type="add" stage="" who=""><add>vite</add></mod> d'<mod type="corr"><orig>ouvrire</orig><reg>ouvrir</reg></mod> la fenêtre, mais elle<lb/> 
+<mod type="corr"><orig>ni</orig><reg>n'y</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>arriver</del></mod></del><add stage="" who="">arriva</add></mod> pas, la pente <mod type="subst"><del><mod type="del" stage="" who=""><del>deviend</del></mod></del><add stage="" who="">devenait</add></mod> de plus, en plus red !<lb/> 
+Nadine toucha <mod type="del" stage="" who=""><del>XXX#</del></mod> à <mod type="corr"><orig>tout</orig><reg>tous</reg></mod> les boutons <mod type="add" stage="T2" who=""><add>rien pour l'arrêter</add></mod>. Sa mère, <mod type="corr"><orig>sortis</orig><reg>sortit</reg></mod><lb/>
+du magasin <mod type="add" stage="" who=""><add>elle ne vit pas l'automobile elle</add></mod> s'<mod type="corr"><orig>inquieta</orig><reg>inquiéta</reg></mod> elle <mod type="corr"><orig>couru</orig><reg>courut</reg></mod> pour voir <mod type="corr"><orig>ou</orig><reg>où</reg></mod> elle<mod type="add" stage="T2" who=""><add>s</add></mod> <mod type="corr"><orig>était</orig><reg>étaient</reg></mod>, elle<mod type="del" stage="T2" who=""><del>s</del></mod><lb/>
+<mod type="corr"><orig>apella</orig><reg>appela</reg></mod> la <mod type="del" stage="" who=""><del>p</del></mod> gendarmerie. Pendant <mod type="subst"><del><mod type="del" stage="" who=""><del>cè</del></mod></del><add stage="" who="">ce</add></mod> temps, <mod type="del" stage="" who=""><del>ta</del></mod> les<lb/> 
+deux <mod type="corr"><orig>fillette</orig><reg>fillettes</reg></mod> <mod type="corr"><orig>paniquère</orig><reg>paniquèrent</reg></mod>, Nadine trouva le frein à<lb/>
+main elle l'<mod type="corr"><orig>actiona</orig><reg>actionna</reg></mod> <mod type="del" stage="" who=""><del>est</del></mod> et l<mod type="del" stage="" who=""><del>a</del></mod>'automobile s'arrêta.<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>m</del></mod></del><add stage="" who="">M</add></mod>ais</orig><reg>Mais</reg></mod> <mod type="del" stage="" who=""><del>,</del></mod> un virage <mod type="corr"><orig>etait</orig><reg>était</reg></mod> proche <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="del" stage="" who=""><del>,</del></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> n'était pas bon signe.<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>l</del></mod></del><add stage="" who="">L</add></mod>e</orig><reg>Le</reg></mod> virage <mod type="corr"><orig>etait</orig><reg>était</reg></mod> juste devant, "ouf" la voiture freina <mod type="add" stage="" who=""><add>le soulagnement</add></mod> <mod type="add" stage="T2" who=""><add>pour les deux <mod type="corr"><orig>fillette</orig><reg>fillettes</reg></mod></add></mod><lb/>
+<mod type="corr"><orig>elle<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>elles</reg></mod> <mod type="corr"><orig>desendère</orig><reg>descendirent</reg></mod> de la voiture, <mod type="corr"><orig>retrouvère</orig><reg>retrouvèrent</reg></mod> leur mère <mod type="corr"><orig>est</orig><reg>et</reg></mod><lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>elle rentra</del></mod></del><add stage="T2" who="">elles rentrère</add></mod></orig><reg>elles rentrèrent</reg></mod> chez <mod type="corr"><orig>eux</orig><reg>elles</reg></mod> avec l'automobile bien <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> !<lb/>
+titre."catastrophe!" §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

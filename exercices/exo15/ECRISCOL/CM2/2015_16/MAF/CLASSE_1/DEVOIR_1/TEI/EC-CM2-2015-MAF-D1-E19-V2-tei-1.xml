@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E19-V2
+</head>
+<p>
+<mod type="corr"><orig>je</orig><reg>Je</reg></mod> suis <mod type="corr"><orig>aller</orig><reg>allé</reg></mod> à la campagne avec <mod type="del" stage="" who=""><del>mon frère</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>soeur</del></mod></del><add stage="" who="">mon frère</add></mod> et mes parents; §<lb/>
+en arrivant j'ai pris mon vélo et j'ai <mod type="corr"><orig>décendu</orig><reg>descendu</reg></mod> la pente qui mène<lb/>
+à la forêt, mais comme il y avait plein de cailloux et que <mod type="corr"><orig>sa</orig><reg>ça</reg></mod><lb/>
+<mod type="corr"><orig>tremblais</orig><reg>tremblait</reg></mod> à mort je me suis <mod type="corr"><orig>ramasé</orig><reg>ramassé</reg></mod> dans <mod type="add" stage="" who=""><add>les</add></mod> <mod type="corr"><orig>ronce</orig><reg>ronces</reg></mod>, <mod type="del" stage="" who=""><del>qu</del></mod> comme je n'<mod type="corr"><orig>avait</orig><reg>avais</reg></mod><lb/>
+pas <mod type="add" stage="" who=""><add>trop</add></mod> mal <mod type="del" stage="" who=""><del>jau</del></mod> j'ai continué la <mod type="corr"><orig>décente</orig><reg>descente</reg></mod> <mod type="del" stage="" who=""><del>mas</del></mod> mais 500m plus loin il<lb/>
+y avait une énorme flaque de boue et comme il y avait des<lb/>
+cailloux j'ai <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> un salto et j'ai <mod type="corr"><orig>attéris</orig><reg>atterri</reg></mod> la tête la première dans<lb/>
+la boue. Je suis <mod type="corr"><orig>rentre</orig><reg>rentré</reg></mod> à la maison avec les cheveux plein de boue<lb/>
+des épines de <mod type="corr"><orig>ronses</orig><reg>ronces</reg></mod> dans les mains mes <mod type="corr"><orig>habis</orig><reg>habits</reg></mod> <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> <mod type="corr"><orig>déchiré</orig><reg>déchirés</reg></mod> et mon<lb/>
+vélo tout <mod type="corr"><orig>cabosé</orig><reg>cabossé</reg></mod>. J'ai <mod type="corr"><orig>passè</orig><reg>passé</reg></mod> la fin du <mod type="corr"><orig>wee-kend</orig><reg>week end</reg></mod> dans <mod type="subst"><del><mod type="del" stage="" who=""><del>la</del></mod></del><add stage="" who="">ma</add></mod> chambre<lb/>
+<mod type="corr"><orig>poni</orig><reg>puni</reg></mod> de ma catastrophe car ma mère m'avait dit de ne pas<lb/>
+rouler trop vite dans la forêt parce que <mod type="corr"><orig>l'a</orig><reg>la</reg></mod> dernière fois <mod type="corr"><orig>accose</orig><reg>à cause</reg></mod><lb/>
+des cailloux <mod type="del" stage="" who=""><del>j'avais</del></mod> je m'<mod type="corr"><orig>était</orig><reg>étais</reg></mod> <mod type="corr"><orig>envoller</orig><reg>envolé</reg></mod> dans <mod type="subst"><del><mod type="del" stage="" who=""><del>l'</del></mod></del><add stage="" who="">un</add></mod> arbre, et que mon<lb/>
+père en voulant venir me chercher en haut s'était <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> une entorse <mod type="del" stage="" who=""><del>,</del></mod><lb/>
+elle se <mod type="corr"><orig>demandais</orig><reg>demandait</reg></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> que j'allais faire le <mod type="corr"><orig>wee-kend</orig><reg>week-end</reg></mod> prochain §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E11-V2
+</head>
+<p>
+Quand je serai grande je serai dans un zoo pour soigner les animaux.<lb/>
+C'était un lundi matin, j'<mod type="corr"><orig>allai<hi place=" " time="" who="Pσ" style="underline">T</hi></orig><reg>allais</reg></mod> <mod type="add" stage="T3" who=""><add>j'allais</add></mod> soigner les lions et les <mod type="corr"><orig>tigr<hi place=" " time="" who="Pσ" style="underline">e</hi></orig><reg>tigres</reg></mod> <mod type="add" stage="T3" who=""><add>tigres</add></mod> mais<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>Une</del></mod></del><add stage="" who="">une</add></mod> lionne <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">c</hi>'est</orig><reg>s'est</reg></mod> <mod type="add" stage="T3" who=""><add>s'est</add></mod> <mod type="corr"><orig>enfuis</orig><reg>enfuie</reg></mod> <mod type="add" stage="T2" who=""><add>enfuie</add></mod> <mod type="corr"><orig>heuresement</orig><reg>heureusement</reg></mod> <hi place=" " time="" who="Pσ" style="underline">le public</hi> <mod type="del" stage="" who=""><del>n'est pas</del></mod> n'<mod type="corr"><orig>étai</orig><reg>était</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>n'étais</add></mod></orig><reg>était</reg></mod> pas là<lb/>
+encore. Nous <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">l</hi>'avons</orig><reg>l'avons</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>vu</del></mod></del><add stage="" who="">retrouvé</add></mod><mod type="add" stage="T3" who=""><add>s</add></mod></orig><reg>retrouvée</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>retrouvés</add></mod></orig><reg>retrouvée</reg></mod> près de <mod type="corr"><orig><mod type="del" stage="" who=""><del>cet</del></mod><mod type="add" stage="" who=""><add><hi place=" " time="" who="Pσ" style="underline">c'est</hi></add></mod></orig><reg>ses</reg></mod> <mod type="add" stage="" who="P"><add>les siens</add></mod> lionceaux. <mod type="del" stage="" who=""><del>N</del></mod> Maintenant<lb/>
+la lionne <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="add" stage="T2" who=""><add>est</add></mod> avec <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">c'est</hi></orig><reg>ses</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>ces</add></mod></orig><reg>ses</reg></mod> lionceaux. Après j'ai <mod type="corr"><orig>nour<hi place=" " time="" who="Pσ" style="underline">is</hi></orig><reg>nourri</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>nourrie</add></mod></orig><reg>nourri</reg></mod> les tigres <mod type="add" stage="T3" who=""><add>,</add></mod> puis je<lb/>
+suis <mod type="corr"><orig>all<hi place=" " time="" who="Pσ" style="underline">é</hi></orig><reg>allée</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>aller</add></mod></orig><reg>allée</reg></mod> <mod type="corr"><orig>édait</orig><reg>aider</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>aid<hi place=" " time="" who="Pσ" style="underline">ait</hi></add></mod></orig><reg>aider</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>aidait</add></mod></orig><reg>aider</reg></mod> une <mod type="subst"><del><mod type="del" stage="" who=""><del>perssone</del></mod></del><add stage="" who="">personne</add></mod> qui avait <mod type="add" stage="" who=""><add>beaucoup</add></mod> d'<mod type="corr"><orig>otari<hi place=" " time="" who="Pσ" style="underline">e</hi></orig><reg>otaries</reg></mod> <mod type="add" stage="T3" who=""><add>otaries</add></mod> à <mod type="corr"><orig>nou<hi place=" " time="" who="Pσ" style="underline">r</hi>ir</orig><reg>nourrir</reg></mod> <mod type="add" stage="T3" who=""><add>nourrir</add></mod>. <mod type="corr"><orig>on<hi place=" " time="" who="Pσ" style="underline">t</hi></orig><reg>On</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>ont</add></mod></orig><reg>On</reg></mod> <mod type="corr"><orig>leur<mod type="add" stage="" who=""><add><hi place=" " time="" who="Pσ" style="underline">T2#s</hi></add></mod></orig><reg>leur</reg></mod><lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">à</hi></orig><reg>à</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>a</add></mod></orig><reg>à</reg></mod> donner <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>donné</add></mod></orig><reg>donner</reg></mod> du poisson <mod type="add" stage="T3" who=""><add>,</add></mod> mais une ne voulait pas <mod type="corr"><orig>mang<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>t</orig><reg>manger</reg></mod> <mod type="corr"><orig>on<hi place=" " time="" who="Pσ" style="underline">t</hi></orig><reg>on</reg></mod> <mod type="add" stage="T3" who=""><add>on</add></mod> lui a <lb/>
+<mod type="corr"><orig>donn<hi place=" " time="" who="Pσ" style="underline">er</hi></orig><reg>donné</reg></mod> du sucre <mod type="corr"><orig>du<hi place=" " time="" who="Pσ" style="underline">re</hi></orig><reg>dur</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>dures</add></mod></orig><reg>dur</reg></mod> pour otarie. Le soir je suis <mod type="corr"><orig>retouen<hi place=" " time="" who="Pσ" style="underline">er</hi></orig><reg>retournée</reg></mod><lb/>
+chez <mod type="add" stage="" who=""><add>moi</add></mod> pour <mod type="corr"><orig>diner</orig><reg>dîner</reg></mod>. <mod type="corr"><orig>mes</orig><reg>Mes</reg></mod> parents sont en <mod type="corr"><orig>vacance<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>vacances</reg></mod>. Comme je m'<mod type="corr"><orig>ennyy<hi place=" " time="" who="Pσ" style="underline">er</hi></orig><reg>ennuyais</reg></mod> <mod type="corr"><orig><mod type="add" stage="T3" who=""><add>m'enyyes</add></mod></orig><reg>m'ennuyais</reg></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>Je</del></mod></del><add stage="" who="">je</add></mod> suis <mod type="corr"><orig>all<hi place=" " time="" who="Pσ" style="underline">é</hi></orig><reg>allée</reg></mod> au restaurant puis en <mod type="corr"><orig>bo<mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">î</add></mod>te</orig><reg>boîte</reg></mod> de nuit. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

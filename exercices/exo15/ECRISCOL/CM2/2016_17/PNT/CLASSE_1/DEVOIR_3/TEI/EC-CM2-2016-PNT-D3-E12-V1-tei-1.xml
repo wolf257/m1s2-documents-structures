@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-PNT-D3-E12-V1
+</head>
+<p>
+<pb/>
+Quand je serai adulte, je serai maître. Le <mod type="del" stage="" who=""><del>midi</del></mod><lb/>
+matin, je ferai <hi place=" " time="" who="Pσ" style="underline">à</hi> <mod type="add" stage="" who="P"><add>avec</add></mod> <mod type="add" stage="T3" who=""><add>avec</add></mod> mes élèves <mod type="add" stage="T3" who=""><add>,</add></mod> de la rédaction et de<lb/>
+la géométrie. Le midi, je mangerai avec mes<lb/>
+<mod type="corr"><orig>c<hi place=" " time="" who="Pσ" style="underline">o</hi>lègues</orig><reg>collègues</reg></mod> <mod type="add" stage="T3" who=""><add>collègues</add></mod> la <mod type="subst"><del><mod type="del" stage="" who=""><del>sale</del></mod></del><add stage="" who="">classe</add></mod> de la <mod type="subst"><del><mod type="del" stage="" who=""><del>directrice</del></mod></del><add stage="" who="">directrice</add></mod>.<lb/>
+L'après midi, je ferai eps et histoire avec les <mod type="corr"><orig>enfant<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>enfants</reg></mod><lb/>
+<mod type="del" stage="" who="P"><del>s</del></mod>. Le soir, je corrigerai les cahiers du <mod type="corr"><orig>jour<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>jour</reg></mod> et<lb/>
+<mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">'</add></mod>histore<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>histoire</reg></mod> de mes élèves. Le lendemain, <hi place=" " time="" who="Pσ" style="underline">mes élèves</hi> §<lb/>
+
+<pb/>
+et moi iront à l'<mod type="corr"><orig>acrobranche</orig><reg>accrobranche</reg></mod> et à la plage. §<lb/>
+<hi place=" " time="" who="Pσ" style="underline">La semaine prochaine</hi>, les écoliers et moi <mod type="corr"><orig>iront</orig><reg>irons</reg></mod><lb/>
+aussi à Paris pour aller au musée du louvre.<lb/>
+<mod type="del" stage="" who=""><del>Si je</del></mod> je <mod type="corr"><orig>voul<hi place=" " time="" who="Pσ" style="underline">ai</hi></orig><reg>voudrai</reg></mod> <mod type="add" stage="T3" who=""><add>voudrai</add></mod> être maître <hi place=" " time="" who="Pσ" style="underline">c'est parce que</hi> <mod type="add" stage="T3" who=""><add>parce que</add></mod> j'<mod type="corr"><orig>ado<hi place=" " time="" who="Pσ" style="underline">rai</hi></orig><reg>aimerai</reg></mod> <mod type="add" stage="T3" who=""><add>aimerai</add></mod><lb/>
+ce métier <mod type="del" stage="" who="P"><del>:</del></mod> travailler, apprendre, savoir ses<lb/>
+leçons, faire des poésies, des chants <mod type="del" stage="" who=""><del>et de ç</del></mod> de l'<lb/>
+<mod type="corr"><orig>histoire<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>histoire</reg></mod> <mod type="add" stage="T3" who=""><add>histoire</add></mod> et du <mod type="corr"><orig>sport<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>sport</reg></mod> <mod type="add" stage="T3" who=""><add>sport</add></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E17
+</head>
+<p>
+Il <mod type="corr"><orig>arive</orig><reg>arrive</reg></mod> à l’école il <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>regein</del></mod></del><add stage="" who="">regoin</add></mod></orig><reg>rejoint</reg></mod> son copain Luca.<lb/>
+Luca dit à Fabien la maîtresse est pas <mod type="corr"><orig>la</orig><reg>là</reg></mod> on peut jouer<lb/>
+<mod type="corr"><orig>tous</orig><reg>toute</reg></mod> la <mod type="corr"><orig>journer</orig><reg>journée</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="del" stage="" who=""><del>la</del></mod> chat cool non. Fabien dit à <mod type="corr"><orig>aute</orig><reg>haute</reg></mod> <mod type="corr"><orig>voie</orig><reg>voix</reg></mod><lb/>
+<mod type="corr"><orig>zutt</orig><reg>zut</reg></mod> je voulais faire la dictée et des <mod type="corr"><orig>mathémathique</orig><reg>mathématiques</reg></mod> et aussi<lb/>
+des <mod type="corr"><orig>cal<mod type="del" stage="" who=""><del>u</del></mod>cul</orig><reg>calculs</reg></mod> … Luca l’<mod type="corr"><orig>intérron</orig><reg>interrompt</reg></mod> mais <mod type="corr"><orig>voiyion</orig><reg>voyons</reg></mod> toute la <mod type="corr"><orig>jounér</orig><reg>journée</reg></mod><lb/>
+à chat cool non Fabien dit mes <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>rentré</orig><reg>rentrés</reg></mod> à <mod type="corr"><orig>sète</orig><reg>cette</reg></mod><lb/>
+heure si Fabien appelle ses parents « allo maman la maîtresse<lb/>
+n’est pas <mod type="corr"><orig>la</orig><reg>là</reg></mod> viens me chercher » Luca dit à Fabien « tu<lb/>
+<mod type="corr"><orig>est</orig><reg>es</reg></mod> <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> tu <mod type="corr"><orig>veus</orig><reg>veux</reg></mod> pas jouer à chat. Le lendemain il<lb/>
+s’<mod type="corr"><orig>abille</orig><reg>habille</reg></mod> déjeune <mod type="corr"><orig>est</orig><reg>et</reg></mod> retourne à l’école cool y a la maîtresse ! je vais <mod type="corr"><orig>ret<mod type="subst"><del><mod type="del" stage="" who=""><del>XX#</del></mod></del><add stage="" who="">reouver</add></mod></orig><reg>retrouver</reg></mod> <mod type="del" stage="" who=""><del>à</del></mod> <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>albitude</orig><reg>habitudes</reg></mod> je ne suis<lb/>
+pas venu <mod type="corr"><orig>la</orig><reg>là</reg></mod> pour rien finalement. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

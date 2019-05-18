@@ -1,0 +1,42 @@
+ Extraction (au format TXT) d'items en relation de dépendance syntaxique de type OBJ (les classer et les compter) dans titres.
+         
+Nous avons 38 items répondant à ce critère. 
+             
+ - que 
+veut - faire 
+faire - année 
+devient - pays 
+à - l' 
+commence - à 
+expérimenter - revenu 
+adressé - vœux 
+faut - retenir 
+fêté - An 
+avait - ans 
+voulait - amuser 
+tente - relance 
+affirmer - soutien 
+fait - objet 
+contrôler - identité 
+fait - débat 
+est - être 
+être - artiste 
+reprennent - cours 
+minimise - hausse 
+attendent - zone 
+présentent - programmes 
+doit - ouvrir 
+construire - usine 
+envisage - réforme 
+dénoncent - expulsions 
+entend - poursuivre 
+poursuivre - Johan 
+montre - Pékin 
+dénonce - mascarade 
+tue - djihadistes 
+prend - retraite 
+vont - abattus 
+devraient - être 
+menacent - vie 
+fait - vendre 
+annonce - rentrée

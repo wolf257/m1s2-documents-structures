@@ -1,0 +1,178 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E13-V1
+</head>
+<p>
+<pb/>
+Sous la nuit <mod type="del" stage="" who=""><del>...</del></mod> d'un réverbère. <mod type="del" stage="" who=""><del>Il s'approcher alors,  le<lb/>
+#XXX# la lumière</del></mod>. Il se mit alors à courir vers ce<lb/>
+dernier, comme si la lumière le <mod type="corr"><orig>protégerai</orig><reg>protégerait</reg></mod> de quelque<lb/>
+chose. Une fois sous le cercle <mod type="subst"><del><mod type="del" stage="" who=""><del>chaune</del></mod></del><add stage="" who="">jaune</add></mod> blafard, il<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>s'apuy s'appuyer</del></mod></del><add stage="" who="">s'appuya</add></mod> contre le <mod type="corr"><orig>poteau</orig><reg>poto</reg></mod>, <mod type="corr"><orig>repris</orig><reg>reprit</reg></mod> son<lb/>
+souffle quelques instants, puis s'<mod type="corr"><orig>assis</orig><reg>assit</reg></mod> contre ce dernier.<lb/>
+On pouvait alors enfin observer <mod type="del" stage="" who=""><del>le #XXX# de #XXX#</del></mod>. cet<lb/>
+homme. §<lb/>
+Il <mod type="del" stage="" who=""><del>était tôt</del></mod> avait la <mod type="subst"><del><mod type="del" stage="" who=""><del>trent</del></mod></del><add stage="" who="">quarantaine</add></mod>. <mod type="del" stage="" who=""><del>De taille<lb/>
+moyenne, ni gros ni maigre. #XXX# #XXX#. Il était habillé<lb/>
+très #XXX#, avec son jean</del></mod> Il portait une paire<lb/>
+de chaussures de villes, un jean, un grand manteau en<lb/>
+cuir, <mod type="del" stage="" who=""><del>et</del></mod> un <mod type="subst"><del><mod type="del" stage="" who=""><del>un pull gris</del></mod></del><add stage="" who="">un jacquant bleu marbre</add></mod> <mod type="add" stage="" who=""><add>une grosse écharpe en laine et des gants noirs</add></mod>.. Il est vrai que l'hiver, cette année-là,<lb/>
+était <mod type="del" stage="" who=""><del>très froide</del></mod> étrangement plus froid que d'habitude.<lb/>
+
+. Ces gros vêtements d'hiver donnaient l'<mod type="corr"><orig>impresion</orig><reg>impression</reg></mod> qu'il<lb/>
+était grand et fort, alors qu'en réalité c'est un homme<lb/>
+plutôt mince et de taille moyenne, #XXX# grande force<lb/>
+physique. Il faut dire <mod type="subst"><del><mod type="del" stage="" who=""><del>que</del></mod></del><add stage="" who="">qu</add></mod>'il n'avait pas besoin de<lb/>
+cette <mod type="corr"><orig>derniére</orig><reg>dernière</reg></mod> pour son métier d'écrivain. Son tout dernier<lb/>
+roman <mod type="del" stage="" who=""><del>XXX#</del></mod> a d'ailleurs contribué à agrandir sa célébrité.<lb/>
+Il adore son métier, même si c'est à cause de lui qu'il <mod type="del" stage="" who=""><del>est #XXX#</del></mod><lb/>
+était <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>da<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">ns</add></mod></orig><reg>dans</reg></mod> <mod type="corr"><orig>cet<mod type="del" stage="" who=""><del>te</del></mod></orig><reg>cet</reg></mod> état <mod type="del" stage="" who=""><del>ce jour.</del></mod> cette nuit. <mod type="del" stage="" who=""><del>On voyait<lb/> très bien à travers ces jambes chevrolantes ses mains<lb/> tremblantes et #XXX# ses traits, presque déformés, qu'il<lb/> était rongé par la folie. #XXX#</del></mod> §<lb/>
+Il se releva <mod type="del" stage="" who=""><del>XXX#</del></mod> lentement. <mod type="subst"><del><mod type="del" stage="" who=""><del>Ses jambes</del></mod></del><add stage="" who="">il</add></mod> <mod type="corr"><orig>tremblai<mod type="del" stage="" who=""><del>en</del></mod>t</orig><reg>tremblait</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>mais ses #XXX# poings fermés</del></mod> de peur, mais ses poings<lb/>
+fermés laissaient entendre le contraire. §<lb/>
+
+<pb/>
+Ses grands yeux et ses traits, presque déformés<lb/>
+permettaient de comprendre qu'il était rongé<lb/>
+par la folie. Depuis le début <mod type="corr"><orig>de<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>de</reg></mod> ces vacances<lb/>
+qui s'annonçaient parfaites, il passait presque toutes <lb/>
+les nuits <mod type="corr"><orig>debou<mod type="del" stage="" who=""><del>XXX#</del></mod></orig><reg>debout</reg></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> Chaque réverbère était<lb/>
+comme un lieu #XXX# pour lui. Il s'y sentait bien. #XXX#<lb/>
+il <mod type="corr"><orig>si</orig><reg>se</reg></mod> retourna, comme si quelqu'un arrivait, vit qu'il<lb/>
+n'y avait personne. C'était comme s'il vivait un<lb/>
+cauchemar. Tout à coup, la #XXX# vacilla, qui<lb/>
+s'était brusquement #XXX# une gerbe <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+d'étincelles. Il se <mod type="corr"><orig>lever</orig><reg>levait</reg></mod> aussitôt, alluma une<lb/>
+#XXX# lampe portable, et se mit à #XXX# vers<lb/>
+la nuit, en <mod type="corr"><orig>quète</orig><reg>quête</reg></mod> d'une autre lumière... §<lb/>
+ 
+<pb/>
+Sous la nuit sans étoiles, d'une obscurité et d'une<lb/>
+épaisseur d'encre, l'homme, depuis un moment déjà, marchait<lb/>
+quand il aperçut au loin la lumière d'un révèrbère. Il<lb/>
+se mit alors à courir vers ce dernier, comme si la lumière<lb/>
+le protégerait de quelque chose. Une fois sous le<lb/>
+cercle jaune, blafard, il s'appuya contre le poteau, <mod type="corr"><orig>repris</orig><reg>reprit</reg></mod><lb/>
+son souffle quelques instants , puis s'<mod type="corr"><orig>assis</orig><reg>assit</reg></mod> contre <mod type="corr"><orig>ce-dernier</orig><reg>ce dernier</reg></mod>.<lb/>
+On pouvait alors enfin observer cet homme. §<lb/>
+ Il semblait avoir la quarantaine. Il portait une<lb/>
+paire de chaussures de ville, un jean, un grand manteau<lb/>
+en cuir, un #XXX# bleu marine, une grosse écharpe en<lb/>
+laine et des gants noirs. Il est vrai que l'hiver, cette<lb/>
+année-là, était étrangement plus froid que d'habitude.<lb/>
+Ces gros vêtements d'hiver donnaient l'impression d'un<lb/>
+homme grand et fort. Pourtant, en réalité, il était plutôt<lb/>
+mince, de taille moyenne et sans grande force physique.<lb/>
+Evidement il n'avait pas besoin de cette dernière pour<lb/>
+son métier d'écrivain. Son dernier roman a d'ailleurs<lb/>
+grandement participé à sa célébrité. Il y racontait<lb/>
+l'histoire d'un homme qui vivait son cauchemar,<lb/>
+n'ayant que la lumière de sa lampe de poche pour alliée.<lb/>
+Il adore son métier, mais c'est pourtant à cause de lui qu'il<lb/>
+était dans cet état. §<lb/>
+ Il se releva lentement. L'homme tremblait de peur<lb/>
+mais ses poings fermés laissaient entendre le contraire. Une<lb/>
+fois debout, on pouvait observer de plus <mod type="corr"><orig>prés</orig><reg>près</reg></mod> son visage.<lb/>
+Les sueurs froides qui coulaient de son front, ses<lb/>
+grands yeux #XXX# et ses traits, presque déformés,<lb/>
+prononcent qu'il était rongé par la folie. De nombreuses<lb/>
+rides étaient <mod type="corr"><orig>apparent</orig><reg>apparentes</reg></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> sur son visage <mod type="del" stage="" who=""><del>XXX#</del></mod> depuis<lb/>
+les derniers jours. §<lb/>
+etc. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

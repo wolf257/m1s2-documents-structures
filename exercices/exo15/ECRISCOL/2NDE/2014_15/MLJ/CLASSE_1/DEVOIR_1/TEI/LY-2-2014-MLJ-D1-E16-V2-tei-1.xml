@@ -1,0 +1,149 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E16-V2
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles, d'une obscurité et<lb/>
+d'une épaisseur d'encre, l'homme depuis un<lb/>
+moment déjà marchait quand il <mod type="corr"><orig>apperçut</orig><reg>aperçut</reg></mod> au loin<lb/>
+la lumière d'un réverbère qui laissait<lb/>
+<mod type="corr"><orig>appercevoir</orig><reg>apercevoir</reg></mod> <mod type="del" stage="T2" who=""><del>de loin</del></mod>, une silhouette adossée au<lb/>
+<mod type="corr"><orig>poteau</orig><reg>poto</reg></mod> de ce dernier, les bras <mod type="corr"><orig>balant<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>balants</reg></mod>. §<lb/>
+L'homme fut <mod type="corr"><orig>prit</orig><reg>pris</reg></mod> d'une soudaine curiosité<lb/>
+qui le pousse alors à s'en approcher,<lb/>
+l'air de rien. Au fur et <mod type="subst"><del><mod type="del" stage="T2" who=""><del>a</del></mod></del><add stage="T2" who="">à</add></mod> mesure qu'il<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>an</del></mod></del><add stage="" who="">avançait</add></mod>, il découvrait <mod type="add" stage="T2" who=""><add>.</add></mod> Cette mystérieuse<lb/>
+silhouette s'avérait être un homme, d'une<lb/>
+vingtaine d'années peut-être. Ils fûrent <mod type="corr"><orig>tout</orig><reg>tous</reg></mod><lb/>
+deux <mod type="corr"><orig>surprit</orig><reg>surpris</reg></mod> de l'étrange ressemblance qu'<mod type="corr"><orig>il<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>ils</reg></mod><lb/>
+<mod type="corr"><orig>partageai<mod type="add" stage="T2" who=""><add>ent</add></mod></orig><reg>partageaient</reg></mod>, ce qui eut le don d'attiser la<lb/>
+curiosité du jeune homme qui décide alors<lb/>
+d'aller à sa rencontre. L'homme, toujours adossé<lb/>
+contre ce <mod type="corr"><orig>poteau</orig><reg>poto</reg></mod> s'appelle <mod type="subst"><del><mod type="del" stage="" who=""><del>Ha</del></mod></del><add stage="" who="">Edward</add></mod>, il a<lb/>
+22 ans. les deux hommes échangent quelques banalités<lb/>
+et finissent par <mod type="subst"><del><mod type="del" stage="T2" who=""><del>échanger sur</del></mod></del><add stage="T2" who="">parler de</add></mod> leur ressemblance<lb/>
+évidente. <mod type="del" stage="" who=""><del>XXX#</del></mod> Edward était brun, les cheveux<lb/>
+bouclés d'une manière <mod type="corr"><orig>desctructurées</orig><reg>destructurée</reg></mod>. Ses yeux §<lb/>
+
+<pb/>
+en amandes étaient d'un vert <mod type="corr"><orig>emeraude</orig><reg>émeraude</reg></mod><lb/>
+que la lumière émise par le réverbère<lb/>
+emplifiait <mod type="corr"><orig>d'avantage</orig><reg>davantage</reg></mod> <mod type="del" stage="" who=""><del>XXX# #XXX#<lb/> #XXX# #XXX# #XXX#</del></mod> Sa peau était pâle<lb/>
+et ses lèvres naturellement rosées.<lb/>
+Sa mâchoir<mod type="add" stage="T2" who=""><add>e</add></mod> <mod type="corr"><orig>carré</orig><reg>carrée</reg></mod> donnait un air strict<lb/>
+à son visage, ce qui était en totale<lb/>
+discordance avec son regard qui lui, était<lb/>
+doux et enfantin. Ils parlèrent de longues<lb/>
+minutes, là, au pied ce <mod type="del" stage="" who=""><del>ce</del></mod> réverbère.<lb/>
+De longues minutes qui se transforment<lb/>
+même en heures <mod type="subst"><del><mod type="del" stage="T2" who=""><del>.</del></mod></del><add stage="T2" who="">!</add></mod> Ils <mod type="corr"><orig>avait</orig><reg>avaient</reg></mod> <mod type="corr"><orig>finit</orig><reg>finis</reg></mod> par découvrir<lb/>
+qu'ils étaient cousins éloignés ce qui était<lb/>
+surprenant. Ils se racontent alors leurs vies<lb/>
+<mod type="corr"><orig>respective<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>respectivent</reg></mod> jusqu'ici <mod type="subst"><del><mod type="del" stage="T2" who=""><del>,</del></mod></del><add stage="T2" who="">.</add></mod> les moments de<lb/>
+silences étaient rares et <mod type="corr"><orig>court<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>courts</reg></mod>. Les deux<lb/>
+hommes se quittent lorsque l'aube fut venue<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">Edward</add></mod> retourne alors chez lui, tout<lb/>
+<mod type="corr"><orig>sourient</orig><reg>souriant</reg></mod> <mod type="add" stage="T2" who=""><add>,</add></mod> de ce sourir<mod type="add" stage="T2" who=""><add>,</add></mod> <mod type="corr"><orig>étincellent</orig><reg>étincellant</reg></mod> qui lui<lb/>
+est propre <mod type="add" stage="T2" who=""><add>,</add></mod> tandis que l'homme <mod type="corr"><orig>continu</orig><reg>continue</reg></mod><lb/>
+sont chemin, les mains dans les poches,<lb/>
+la tête <mod type="corr"><orig>ailleur</orig><reg>ailleurs</reg></mod>. §<lb/>
+Aprés cette étrange soirée, les deux hommes<lb/>
+on continué de se voir. Ils sont désormais<lb/>
+bons amis. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

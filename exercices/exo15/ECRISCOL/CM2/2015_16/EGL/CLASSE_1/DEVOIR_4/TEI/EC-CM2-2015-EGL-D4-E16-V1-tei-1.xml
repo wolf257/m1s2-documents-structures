@@ -1,0 +1,109 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E16-V1
+</head>
+<p>
+
+Il installé <mod type="add" stage="T2" who=""><add><sup>T2</sup>installa</add></mod> <mod type="add" stage="T2" who=""><add><sup>T2</sup>des</add></mod> géante<mod type="add" stage="T2" who=""><add><sup>T2</sup>s</add></mod> <mod type="corr"><orig>lettre</orig><reg>lettres</reg></mod> <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>blan</del></mod></del><add stage="T2" who=""><sup>T2</sup>blanches</add></mod> et <mod type="corr"><orig>nair<mod type="add" stage="T2" who=""><add><sup>T2</sup>naires</add></mod></orig><reg>noires</reg></mod> <mod type="add" stage="" who=""><add><sup></sup>sur le <mod type="corr"><orig>pant</orig><reg>pont</reg></mod> des amoureux</add></mod><mod type="add" stage="T2" who=""><add><sup>T2</sup>,</add></mod> <metamark place=" " time="T3" who="P" style="underline">phrase ou partie de phrase incorrecte à réécrire</metamark> «NELLY, JE<lb/>
+<mod type="del" stage="" who=""><del><sup></sup>#xxx#</del></mod> T'AiME.» Nelly <mod type="del" stage="" who=""><del><sup></sup>ne</del></mod> n'<mod type="del" stage="T3" who="P"><del><sup>T3P</sup>avait</del></mod> <metamark place=" " time="T3" who="P" style="underline">temps</metamark> pas <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>repondu</del></mod></del><add stage="T2" who=""><sup>T2</sup>répond<hi place=" " time="T3" who="Pσ" style="underline">u</hi></add></mod>. Il parla <mod type="corr"><orig>au</orig><reg>à</reg></mod><lb/> 
+<mod type="corr"><orig>arte</orig><reg>haute</reg></mod> <mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod> voix «NELLY, JE T'<mod type="add" stage="" who=""><add><sup></sup>A</add></mod>iME». Nelly ne <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>répond</del></mod></del><add stage="T2" who=""><sup>T2</sup>répond<hi place=" " time="T3" who="Pσ" style="underline">u</hi></add></mod></orig><reg>répondit</reg></mod> pas.§
+Il insta<hi place=" " time="T3" who="Pσ" style="underline">l</hi><mod type="add" stage="T3" who=""><add><sup>T4</sup>l</add></mod>a des affich<hi place=" " time="T3" who="Pσ" style="underline">e</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>s</add></mod> sur toute les <mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>porte</del></mod></del><add stage="T2" who=""><sup>T2</sup>porte</add></mod><mod type="add" stage="T3" who="P"><add><sup>T3P</sup>s</add></mod> d<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>a</del></mod></del><add stage="" who=""><sup></sup>e</add></mod> la ville «NELLY, JE<lb/>
+T'AiME.» Nelly ne <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>repond</del></mod></del><add stage="T2" who=""><sup>T2</sup>répond<hi place=" " time="T3" who="Pσ" style="underline">u</hi></add></mod></orig><reg>répondit</reg></mod> pas<mod type="del" stage="T4" who=""><del><sup>T4</sup>.</del></mod> Il insta<hi place=" " time="T3" who="Pσ" style="underline">l</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>l</add></mod>a <mod type="corr"><orig>un<mod type="del" stage="T4" who=""><del><sup>T4</sup>e</del></mod></orig><reg>une</reg></mod> <mod type="corr"><orig>gran<hi place=" " time="T3" who="Pσ" style="underline">d</hi></orig><reg>grande</reg></mod> affiche <mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup>#xxx#</del></mod></del><add stage="T4" who=""><sup>T4</sup>panneau</add></mod> de<lb/>
+3m de <mod type="corr"><orig>long</orig><reg>longueur</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>encrien</del></mod></del><add stage="T2" who=""><sup>T2</sup>en cri<mod type="subst"><del><mod type="del" stage="T4" who=""><del><sup>T4</sup><hi place=" " time="T3" who="Pσ" style="underline">en</hi></del></mod></del><add stage="T4" who=""><sup>T4</sup>ant</add></mod></add></mod> «NELLY, JE T'AiME» Nelly <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>répond</del></mod></del><add stage="T2" who=""><sup>T2</sup>répond<hi place=" " time="T3" who="Pσ" style="underline">u</hi></add></mod></orig><reg>répondit</reg></mod><lb/>
+<mod type="corr"><orig>elli</orig><reg>Nelly</reg></mod> moi aussi,<mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>je t'aime</del></mod></del><add stage="T2" who=""><sup>T2</sup>«je t'aime»</add></mod>. <mod type="del" stage="T2" who=""><del><sup>T2</sup>Il</del></mod><hi place=" " time="T3" who="Pσ" style="underline"><mod type="add" stage="T2" who=""><add><sup>T2</sup>Ils</add></mod></hi><metamark place=" " time="T3" who="P" style="underline">GS</metamark> se <mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">maria</hi></orig><reg>marièrent</reg></mod>.<mod type="del" stage="" who=""><del><sup></sup>ure pli</del></mod>§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

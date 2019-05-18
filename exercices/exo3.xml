@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+<exercice>
+    
+    <infoPage>
+        <titrePage> exercice_3 </titrePage>
+    </infoPage>
+    
+    <infoExo>
+        <titreExo> Exercice 3 : TEI </titreExo>
+        <sousTitrePerso> Au siècle des Lumières </sousTitrePerso>
+    </infoExo>
+    
+    <!--  =============================  -->
+    <question index="1">
+        
+        <bloc>
+            <titre> Consigne </titre>
+                        
+            <pathimage> ./exo3/c1.png </pathimage>
+            
+        </bloc>
+        
+        <bloc>
+            <titre> Fichiers résultats</titre>
+            
+            
+            <tableau>
+                <ligne_t index="Rogneur - Rogue (Ousseynou)">
+                    <colonne lien="./exo3/fichierTEIO.xml"> fichierXML </colonne>
+                    <colonne lien="./exo3/img/1.png"> imageDict </colonne>
+                    <colonne lien="./exo3/img/2.png"> imageDict2 </colonne>
+                </ligne_t>
+                <ligne_t index="Rum - Runes (Sandy)">
+                    <colonne lien="./exo3/fichierTEIS.xml"> fichierXML </colonne>
+                    <colonne lien="./exo3/img/3.png"> imageDict </colonne>
+                </ligne_t>
+            </tableau>
+            
+        </bloc>
+
+        
+    </question>
+    
+</exercice>

@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>UN-L1-2013-UCP-D1-E44
+</head>
+<p>
+La réaction du patron fut sans équivoque qu'il l'engagea <mod type="corr"><orig>emmédiatement</orig><reg>immédiatement</reg></mod>.<lb/>
+la mort de mon père bouleversa ma mère puisqu'il avait été l'amour<lb/>
+de sa ve. <mod type="corr"><orig>Il</orig><reg>Ils</reg></mod> se <mod type="corr"><orig>connut</orig><reg>connurent</reg></mod> à l'âge de 20 ans, <mod type="corr"><orig>pur</orig><reg>pour</reg></mod> le plus beau des<lb/>
+<mod type="corr"><orig>hasard</orig><reg>hasards</reg></mod>. Cette anecdote est <mod type="corr"><orig>plutot</orig><reg>plutôt</reg></mod> longue et <mod type="corr"><orig>vue</orig><reg>vu</reg></mod> les <mod type="corr"><orig>circonstance</orig><reg>circonstances</reg></mod> <mod type="corr"><orig>dur</orig><reg>dures</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>raconté</orig><reg>raconter</reg></mod>,<lb/>
+j'y reviendrai un peu plus tard. Ma mère, était une femme assez forte,<lb/>
+elle a toujours préféré contenir ses larmes. Cependant, le <mod type="corr"><orig>jours</orig><reg>jour</reg></mod> de<lb/>
+la mort de mort, elle versa une larme et une seule. Car elle avait<lb/>
+pour principe de ne <mod type="corr"><orig>peut</orig><reg>pas</reg></mod> pleurer pour les vivants et encore moins<lb/>
+pour les morts. Aux yeux de tout le monde, excepté son fils, elle<lb/>
+passa pour une femme froide et sans âme. Elle le savait très bien.<lb/>
+Mais ce n'était pas pour autant qu'elle se serait assises sur ses<lb/>
+<mod type="corr"><orig>principe</orig><reg>principes</reg></mod> que sa propre loi avait <mod type="del" stage="" who=""><del>ét</del></mod> éduqué depuis l'enfance §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

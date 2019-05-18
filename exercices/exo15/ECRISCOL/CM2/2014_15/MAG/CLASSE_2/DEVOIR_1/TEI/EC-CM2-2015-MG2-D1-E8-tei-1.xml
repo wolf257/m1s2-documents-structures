@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MG2-D1-E8
+</head>
+<p>
+Je me suis <mod type="corr"><orig>couchée</orig><reg>couché</reg></mod> mais il m'a vu j'ai eu très<lb/>
+peur j'ai fait semblant que j' <mod type="subst"><del><mod type="del" stage="" who=""><del>était</del></mod></del><add stage="" who="">étais</add></mod> mort P.P<lb/>
+faisait comme moi. Rémi a cru que c'était le<lb/>
+rodeur, P.P avait un peu cru que c'était Mathilde<lb/>
+il a dit à Rémi, ils ont dit qu'ils <mod type="subst"><del><mod type="del" stage="" who="P"><del>continuère</del></mod></del><add stage="" who="P">continuèrent</add></mod><lb/>
+l'enquête ensemble. <mod type="del" stage="" who=""><del>Après</del></mod> 10 minutes plus tard, <mod type="corr"><orig>Ils</orig><reg>ils</reg></mod><lb/>
+disent c'est pénible on µ<mod type="add" stage="" who=""><add>ne</add></mod>µ <mod type="subst"><del><mod type="del" stage="" who="P"><del>vois</del></mod></del><add stage="" who="P">voit</add></mod> rien; après <mod type="add" stage="" who=""><add>5 <mod type="corr"><orig>min</orig><reg>minutes</reg></mod></add></mod>, plus tard<lb/>
+ils trouvent une trappe, et la P.P fait une corde<lb/>
+#XXX# pour monter ils sont montés et la #XXX#<lb/>
+par le directeur. <mod type="corr"><orig>il</orig><reg>Ils</reg></mod> convoque leurs parents, les<lb/>
+<mod type="corr"><orig>parants</orig><reg>parents</reg></mod> de Rémi très très déçus les parents de P.P<lb/>
+et de Mathilde <mod type="corr"><orig>Aussi</orig><reg>aussi</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

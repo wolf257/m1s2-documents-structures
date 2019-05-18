@@ -1,0 +1,141 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E16-V2
+</head>
+<p>
+<pb/>
+<metamark place=" " time="T2" who="P" style="underline">-Il faut revoir l'utilisation de la ponctuation<lb/>
+-Revoir les conjugaisons<lb/>
+passé simple</metamark> §<lb/>
+J'<mod type="corr"><orig>etai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod></orig><reg>étais</reg></mod> instal<mod type="add" stage="T2" who="P"><add>l</add></mod>é confortablement dans un nuag#X#<lb/>
+dans l'eau. Une nuit <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">je senti</hi></orig><reg>je sentis</reg></mod> les #XXX# se #XXX#<lb/>
+moi des <hi place=" " time="T2" who="Pσ" style="underline">douleurs</hi> <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">atrose</hi></orig><reg>atroces</reg></mod> <mod type="corr"><orig>s'em<hi place=" " time="T2" who="Pσ" style="underline">pura</hi></orig><reg>s'emparèrent</reg></mod> de mon corps j#X#<lb/>
+<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>sentait</del></mod></del><add stage="T2" who="P">sentais</add></mod> etouf<mod type="add" stage="T2" who="P"><add>f</add></mod>er <hi place=" " time="T2" who="Pσ" style="underline">écraser une spirale</hi> m<mod type="add" stage="T2" who="P"><add>'</add></mod><mod type="corr"><orig>atira</orig><reg>attira</reg></mod> ver<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod><lb/>
+endroit incon<mod type="del" stage="T2" who="P"><del>nue</del></mod><mod type="add" stage="T2" who="P"><add>nu</add></mod> je <mod type="corr"><orig>perçu<hi place=" " time="T2" who="Pσ" style="underline">t</hi></orig><reg>perçus</reg></mod> une <mod type="corr"><orig>lumiere</orig><reg>lumière</reg></mod> intense<lb/>
+br<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>u</del></mod></del><add stage="T2" who="P">û</add></mod>la les yeux j'eu<mod type="add" stage="T2" who="P"><add>s</add></mod> l'<mod type="corr"><orig>impresion</orig><reg>impression</reg></mod> de <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>devin</del></mod></del><add stage="T2" who="P">devenir</add></mod> ave#X#<lb/>
+une forme s'ap<mod type="add" stage="T2" who="P"><add>p</add></mod>rocha de moi et me pri<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">t</add></mod> me d#XXX#<lb/>
+un coup<mod type="del" stage="T2" who="P"><del>s</del></mod> <mod type="del" stage="" who=""><del>a ceux moment</del></mod> je pous<mod type="add" stage="T2" who="P"><add>s</add></mod>a<mod type="add" stage="T2" who="P"><add>i</add></mod> un cri stri#XXX#<lb/>
+<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>a</del></mod></del><add stage="T2" who="P">A</add></mod> ce<mod type="del" stage="T2" who="P"><del>ux</del></mod> moment l'air<mod type="del" stage="T2" who="P"><del>e</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>embrasa</del></mod></del><add stage="" who="">penetra<hi place=" " time="T2" who="Pσ" style="underline"></hi></add></mod> mes <mod type="corr"><orig>poumon</orig><reg>poumons</reg></mod><lb/>
+corp<mod type="add" stage="T2" who="P"><add>s</add></mod> me fit souffrir<mod type="del" stage="T2" who="P"><del>e</del></mod> quelque<mod type="add" stage="T2" who="P"><add>s</add></mod> seconde<mod type="add" stage="T2" who="P"><add>s</add></mod> on n<lb/>
+sur quelque chose de chaud alors <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>qui</del></mod></del><add stage="T2" who="P">qu'il</add></mod> faisai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">t</add></mod><lb/>
+cela me r<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>e</del></mod></del><add stage="T2" who="P">é</add></mod>chauf<mod type="add" stage="T2" who="P"><add>f</add></mod>a on me posa sur moi un ch#XXX#<lb/>
+riche mes qui me rechauf<mod type="add" stage="T2" who="P"><add>f</add></mod>a deux fois plus. <mod type="del" stage="" who=""><del>On me</del></mod><lb/>
+je me s<mod type="del" stage="T2" who="P"><del>'</del></mod>entai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod> bien j'entendi<mod type="add" stage="T2" who="P"><add>s</add></mod> une voix qui m'appel#XXX#<lb/>
+mon prénom une main me fr<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>o</del></mod></del><add stage="T2" who="P">ô</add></mod>la elle <mod type="corr"><orig>etait</orig><reg>était</reg></mod> douce<lb/>
+me véti<mod type="add" stage="T2" who="P"><add>t</add></mod> et je n'arrivais pas alla à lutter mes <hi place=" " time="T2" who="Pσ" style="underline">ye#XXX#</hi><lb/>
+<mod type="corr"><orig>fer<hi place=" " time="T2" who="Pσ" style="underline">ma</hi></orig><reg>se fermèrent</reg></mod> et une sensation de <mod type="corr"><orig><mod type="del" stage="T2" who="P"><del>plainitude</del></mod></orig><reg>plénitude</reg></mod> me gagna §<lb/>
+
+<pb/>
+une voix trembl<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>e</del></mod></del><add stage="T2" who="P">a</add></mod>nte me réveilla on m'embras<mod type="add" stage="T2" who="P"><add>s</add></mod>a et #XXX#<lb/>
+fois qu'on <mod type="corr"><orig>mes</orig><reg>me</reg></mod> <mod type="corr"><orig>depose</orig><reg>dépose</reg></mod> dans <mod type="del" stage="" who=""><del>manna</del></mod> ma couveuse je n#XXX#<lb/>
+mis <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>a</del></mod></del><add stage="T2" who="P">à</add></mod> crier pour avoir à manger et qu'on me chang<mod type="add" stage="T2" who="P"><add>e</add></mod><lb/>
+j'<mod type="corr"><orig>étai<hi place=" " time="T2" who="Pσ" style="underline">t</hi></orig><reg>étais</reg></mod> mouill<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>er</del></mod></del><add stage="T2" who="P">é</add></mod> on me donna une chose liquide et<lb/>
+chaud<mod type="add" stage="T2" who="P"><add>e</add></mod> <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>mes</del></mod></del><add stage="T2" who="P">mais</add></mod> si bon j'entendi<mod type="add" stage="T2" who="P"><add>s</add></mod> les bruit<mod type="add" stage="T2" who="P"><add>s</add></mod> nouveaux je re#XXX#<lb/>
+la voix de ma mère qui me parlai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>s</del></mod></del><add stage="T2" who="P">t</add></mod> il y avait e#XXX#<lb/>
+m<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>é</del></mod></del><add stage="T2" who="P">a</add></mod>ladie douce et <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who="P"><del>apessante</del></mod></del><add stage="T2" who="P">ape</add></mod></orig><reg>apaisante</reg></mod> des <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">lusnière</hi><metamark place=" " time="T2" who="P" style="underline">?</metamark></orig><reg>lumières</reg></mod> <hi place=" " time="T2" who="Pσ" style="underline">de</hi> <mod type="corr"><orig>differ#XXX#</orig><reg>différents</reg></mod><lb/>
+<mod type="corr"><orig>couleur</orig><reg>couleurs</reg></mod> qui me <mod type="del" stage="" who=""><del>faissai</del></mod> m'<mod type="corr"><orig>attirai<mod type="add" stage="T2" who="P"><add>t</add></mod></orig><reg>attiraient</reg></mod> une joie <mod type="del" stage="" who=""><del>XXX#</del></mod> m'<lb/>
+<mod type="corr"><orig>envahit</orig><reg>envahissaient</reg></mod> mes <mod type="corr"><orig>paupièr<hi place=" " time="T2" who="Pσ" style="underline">e</hi></orig><reg>paupières</reg></mod> <mod type="corr"><orig>devena<hi place=" " time="T2" who="Pσ" style="underline">i</hi></orig><reg>devenaient</reg></mod> <mod type="corr"><orig>lour<hi place=" " time="T2" who="Pσ" style="underline">d</hi></orig><reg>lourdes</reg></mod> et je me rend#XXX# §<lb/>
+Pour A f!!! §<lb/>
+{DESSIN}{bon courage.} §<lb/>
+<metamark place=" " time="T2" who="P" style="underline">-Tu notes tes idées sans vraiment construire un<lb/>
+brouillon si bien tout est noté à la<lb/>
+suite <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+-Ce qui est bien c'est qu'on retrouve les éléments<lb/>
+attendus du texte de départ</metamark> §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

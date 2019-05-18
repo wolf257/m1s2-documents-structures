@@ -1,0 +1,126 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E2-V2
+</head>
+<p>
+<pb/>
+
+Gabriel <hi place=" " time="" who="Pσ" style="underline">est</hi> <mod type="add" stage="" who="P"><add>était</add></mod> un petit garçon qui possédait une toupie chinoise<lb/>
+qu'il amait beaucoup. Mais un jour il la perdit sur le<lb/>
+chemin de l'école. §<lb/>
+-Tu as perdu quelque chose? lui demanda Anne-lise. §<lb/>
+-Ma toupie chinoise sur le chemin de l'école <mod type="add" stage="" who="P"><add>,</add></mod> <mod type="corr"><orig>r<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>pondit</orig><reg>répondit</reg></mod>-il.<lb/>
+Après l'école: §<lb/>
+-Je connais un endroit où pourrait se trouver ta toupie<mod type="add" stage="" who="P"><add>,</add></mod>
+dit Anne-lise. §<lb/>
+- C'est ici dans <mod type="corr"><orig>cette</orig><reg>cet</reg></mod> immeuble! dit-elle. Gabriel entra<lb/>
+dans l'immeuble. Dans l'immeuble il y avait un monsieur<lb/>
+-Bonjour. Tu cherches quelque chose? dit le monsieur. §<lb/>
+-Oui ma toupie. Vous savez où elle est? §<lb/>
+-Oui<mod type="add" stage="" who="P"><add>,</add></mod><mod type="corr"><orig>suis <mod type="add" stage="" who="P"><add>-</add></mod> moi</orig><reg>suis-moi</reg></mod>. Le monsieur l'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">e</add></mod>mmena</orig><reg>amena</reg></mod> dans une pièce  §<lb/>
+
+<pb/>
+
+où il y avait plein de jouets! §<lb/>
+-C'est ici que je mets tous les jouets "perdus" que je trouve,<lb/>
+ta toupie est ici sur la commode. §<lb/>
+-Merci <mod type="add" stage="" who="P"><add>,</add></mod> dit Gabriel en prenant sa toupie. Ensuite,<lb/>
+Gabriel sortit de l'immeuble très content, la toupie<lb/>
+dans la main. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E26-V1
+</head>
+<p>
+Un jour Gabriel <mod type="corr"><orig>avez</orig><reg>avait</reg></mod> <mod type="add" stage="" who="P"><add>avait</add></mod> <mod type="corr"><orig>perdue</orig><reg>perdu</reg></mod> <mod type="add" stage="" who="P"><add>perdu</add></mod> sa toupie <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>s</del></mod></del><add stage="" who="P">S</add></mod>on</orig><reg>Son</reg></mod> amie
+Anne-Lise <mod type="corr"><orig>lu<mod type="add" stage="" who="P"><add>i</add></mod></orig><reg>lui</reg></mod> demanda <mod type="add" stage="" who="P"><add>:-"</add></mod> tu as perdu quelque chose <mod type="add" stage="" who="P"><add>.?"</add></mod><lb/>
+OUI!!! ma toupie chinoise sur le chemin de l'école <mod type="add" stage="" who=""><add>école</add></mod> <hi place=" " time="" who="Pσ" style="underline">ce</hi> <lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">n'est par trave tu</hi></orig><reg>n'est pas grave</reg></mod>} tu la <mod type="corr"><orig>retrouverar</orig><reg>retrouveras</reg></mod>. Ta <mod type="corr"><orig>toupi<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>toupie</reg></mod> chinoise<lb/>
+bon <mod type="corr"><orig>anvoir</orig><reg>au revoir</reg></mod> <mod type="add" stage="" who="P"><add>au revoir.?</add></mod> Gabriel qui commença à chercher sa toupie.<lb/>
+Il chercha partout au bout de <mod type="corr"><orig>quel que</orig><reg>quelques</reg></mod> <mod type="add" stage="" who="P"><add>quelques</add></mod> <mod type="corr"><orig>heure</orig><reg>heures</reg></mod> <mod type="add" stage="" who="P"><add>heures</add></mod> il la<lb/>
+trouva puis rentra chez. Lui pour manger <mod type="corr"><orig>aprétout</orig><reg>après tout</reg></mod> <mod type="add" stage="" who="P"><add>après tout</add></mod> ce<lb/>
+qu'il a fait pour chercher sa <mod type="corr"><orig>toupi<mod type="del" stage="" who=""><del>e</del></mod><mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>toupie</reg></mod> fin. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

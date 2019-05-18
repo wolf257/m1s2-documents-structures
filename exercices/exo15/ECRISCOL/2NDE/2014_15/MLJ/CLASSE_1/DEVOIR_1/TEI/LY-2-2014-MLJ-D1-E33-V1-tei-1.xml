@@ -1,0 +1,148 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E33-V1
+</head>
+<p>
+<pb/>
+Soudainement une voiture <mod type="del" stage="" who=""><del>véhicule</del></mod> jailli <mod type="del" stage="" who=""><del>XXX#</del></mod> de<lb/>
+la #XXX# <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>envolopant</orig><reg>enveloppant</reg></mod> la route<lb/>
+
+Celle-ci <mod type="del" stage="" who=""><del>n'arréte</del></mod> freine à la vue du jeune<lb/>
+homme. <mod type="corr"><orig>Celui ci</orig><reg>Celui-ci</reg></mod> se revele d'un bon sec et se précipite<lb/>
+de ranger. §<lb/>
+
+<pb/>
+D'un <mod type="del" stage="" who=""><del>pas #XXX# il avance voulait</del></mod> avancait d'un pas<lb/>
+décidé afin de s'extraire d'<mod type="del" stage="" who=""><del>XXX#</del></mod> une #XXX# pénombre envahissante<lb/>
+le retenant prisonnier des ténèbres de la nuit. <mod type="del" stage="" who=""><del>XXX#</del></mod> #XXX# #XXX# #XXX#<lb/>
+gages, il <mod type="del" stage="" who=""><del>avançait</del></mod> semblait <mod type="corr"><orig>erré</orig><reg>errer</reg></mod> dans <mod type="del" stage="" who=""><del>cette rue<lb/>
+sans aucun</del></mod>. §<lb/>
+Les <mod type="del" stage="" who=""><del>chaussure</del></mod> <mod type="corr"><orig>soulier</orig><reg>souliers</reg></mod> en piteuse état le contrainier<lb/>
+à §<lb/>
+Les chevaux ébourifier par le #XXX#. §<lb/>
+
+<pb/>
+<mod type="del" stage="" who=""><del>de visage pâle, les lèvres brule par le froid<lb/> cette #XXX# il</del></mod> §<lb/>
+
+Son visgae était <mod type="corr"><orig>pâles</orig><reg>pâle</reg></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> et récouvert quelques <mod type="corr"><orig>tache</orig><reg>tâches</reg></mod> de<lb/>
+rousseur. Les lèvres <mod type="corr"><orig>brulé</orig><reg>brulées</reg></mod> par le froid #XXX# §<lb/>
+
+Il était tous près de cette lumière §<lb/>
+Il s'en approchait <mod type="del" stage="" who=""><del>XXX# d'</del></mod> s'ava#XXX#  le <mod type="corr"><orig>réconfor</orig><reg>réconfort</reg></mod><lb/>
+que cette lueur pouvait lui apporter. §<lb/>
+Il avait les main glacés et les levrès #XXX# #XXX#<lb/>
+le froid. Des <mod type="corr"><orig>taches</orig><reg>tâches</reg></mod> de <mod type="corr"><orig>rousseurs</orig><reg>rousseur</reg></mod> recouvrait son<lb/>
+visage <mod type="del" stage="" who=""><del>XXX#</del></mod> jouissant <mod type="del" stage="" who=""><del>encore</del></mod> de la jeunesse qui les<lb/>
+années ne lui avait pas <mod type="add" stage="" who=""><add>encore</add></mod> volé. Sa chevelure  grisonnante<lb/>
+<mod type="del" stage="" who=""><del>En effet</del></mod> §<lb/>
+était <mod type="corr"><orig>ébourifé</orig><reg>ébouriffé</reg></mod> par le vent glacial qui <mod type="corr"><orig>submergait</orig><reg>submergeait</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>cette rue</del></mod></del><add stage="" who="">la ruelle</add></mod><lb/>
+Son regard <mod type="subst"><del><mod type="del" stage="" who=""><del>etait</del></mod></del><add stage="" who="">avait un caractére</add></mod> perçant, inquiétant, intimidant ?<lb/>
+Ce bleu <mod type="del" stage="" who=""><del>XXX#</del></mod> de surcroit avait <mod type="del" stage="" who=""><del>XXX#</del></mod> un pouvoir<lb/>
+n'était pas <mod type="del" stage="" who=""><del>glacial</del></mod> que beauté et volupté à l'état<lb/>
+pur. §<lb/>
+Le <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>mistérieux</orig><reg>mystérieux</reg></mod> bellâtre <mod type="del" stage="" who=""><del>XXX# #XXX#<lb/>
+#XXX#</del></mod> s'asseya à <mod type="del" stage="" who=""><del>terre attendant dans l'obscurité</del></mod><mod type="add" stage="" who=""><add>sous <mod type="del" stage="" who=""><del>la lumière</del></mod> le <mod type="corr"><orig>lampadert</orig><reg>lampadaire</reg></mod></add></mod><lb/>
+et sortit de sa poche, peti#XXX# <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+récipient argenté à goulot <mod type="corr"><orig>etroit</orig><reg>étroit</reg></mod>. Il se<lb/>
+mis à lamper le liquide contenu.<lb/>
+<mod type="del" stage="" who=""><del>Sa po</del></mod> §<lb/>
+Cette petite #XXX# appartenait un #XXX# moi<lb/>
+matte dont <mod type="add" stage="" who=""><add>le p#XXX#ne homme</add></mod> était véte. Celui-ci<lb/>
+était #XXX# plutôt long <mod type="del" stage="" who=""><del>XXX</del></mod> et semblait plus qu'#XXX#. 
+<mod type="del" stage="" who=""><del>L'homme se pencha enfin de refaire son lacets</del></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

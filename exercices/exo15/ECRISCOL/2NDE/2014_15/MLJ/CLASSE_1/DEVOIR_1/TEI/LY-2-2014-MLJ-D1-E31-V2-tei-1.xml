@@ -1,0 +1,174 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E31-V2
+</head>
+<p>
+<pb/>
+Sous la nuit sans étoiles d'une obscurité et d'une<lb/>
+
+<mod type="corr"><orig>epaisseur</orig><reg>épaisseur</reg></mod> d'encre, l'homme depuis un moment déjà<lb/>
+
+marchait quand il aperçut au loin la lumière d'un<lb/>
+
+réverbère. Quand <mod type="corr"><orig>cette</orig><reg>cet</reg></mod> homme avait vu cette<lb/>
+
+lumière, il s'etait <mod type="corr"><orig>mit</orig><reg>mis</reg></mod> à penser à plusieurs choses<lb/>
+
+dans sa tête, mais il ne savait pas quoi faire.<lb/>
+
+Il <mod type="corr"><orig>etait</orig><reg>était</reg></mod> ivre et se promenait dans des rues assez<lb/>
+
+<mod type="corr"><orig>etroites</orig><reg>étroites</reg></mod>. Il avait un comportement étrange et il<lb/>
+
+faisait peur aux personnes qui passaient de cette<lb/>
+
+même-rue. Les gens prennaient donc un <mod type="corr"><orig>égards</orig><reg>égard</reg></mod><lb/>
+
+car ils ne savaient pas ce qu'il pouvait faire de<lb/>
+
+cette sorte. Il <mod type="corr"><orig>etait</orig><reg>était</reg></mod> ivre car il venait de sortir<lb/>
+
+d'une boite de nuit. Il <mod type="corr"><orig>etait</orig><reg>était</reg></mod> vêtu d'une chemise §<lb/>
+
+<pb/>
+blanche mais qui avait été <mod type="corr"><orig>taché</orig><reg>tâché</reg></mod> au moment <mod type="corr"><orig>ou</orig><reg>où</reg></mod><lb/>
+
+il buvait de la bière...ensuite, il avait un pantalon<lb/>
+
+à moitié déchiré car il s'<mod type="corr"><orig>etait</orig><reg>était</reg></mod> embrouillé avec un<lb/>
+
+des surveillants, assez costaud contrairement à lui.<lb/>
+
+car il ne pouvait pas payer les verres de bière<lb/>
+
+qu'il avait bu. Il avait l'air fatigué d'<mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+
+après les cernes qu'il ait et plus <mod type="corr"><orig>precisement</orig><reg>précisément</reg></mod>,<lb/>
+
+il avait les yeux tout rouge. Il <mod type="corr"><orig>etait</orig><reg>était</reg></mod> accompagné<lb/>
+
+d'une jeune femme, elle aussi <mod type="corr"><orig>etait</orig><reg>était</reg></mod> ivre. Elle <mod type="corr"><orig>etait</orig><reg>était</reg></mod><lb/>
+
+vêtu d'une façon assez vulgaire, donc attirante,<lb/>
+
+d'après ses colants avec des trous et des déchirures,<lb/>
+
+ensuite avec sa mini jupe et un haut assez court<lb/>
+
+qui lui arrivait, d'une façon juste, au-dessous<lb/>
+
+de sa poitrine de couleurs <mod type="corr"><orig>noires</orig><reg>noir</reg></mod> et <mod type="corr"><orig>blancs</orig><reg>blanc</reg></mod>. Les<lb/>
+
+vêtements de celle-ci la caractérisait parfaitement.<lb/>
+
+Elle mettait en evidence sa façon d'être. Ils §<lb/>
+
+<pb/>
+s'etait connu ce soir-même. La cause de tous<lb/>
+
+ceci etait qu'il venait de perdre un proche et donc il<lb/>
+
+ne savait pas ce qu'il devait donc il s'etait mit<lb/>
+
+à boire et à faire des choses comme trainer avec des<lb/>
+
+femmes inconnus, vulgaire n'etait pas son habitude<lb/>
+
+En outre, il etait marié et avait deux enfants <mod type="del" stage="" who=""><del>...</del></mod> §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

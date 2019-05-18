@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E16
+</head>
+<p>
+<pb/>
+Quand je <mod type="corr"><orig>seras</orig><reg>serai</reg></mod> adulte: je ferai <mod type="subst"><del><mod type="del" stage="" who=""><del>pleit</del></mod></del><add stage="" who="">plein</add></mod> d'<mod type="corr"><orig>ativité</orig><reg>activités</reg></mod>, des <mod type="corr"><orig>gateaux</orig><reg>gâteaux</reg></mod>...Voir<lb/>
+mes <mod type="corr"><orig>amis<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>amis</reg></mod>. Habiter au Soleil, à B t dans la c t<lb/>
+maritime. Je voudrai des enfants, vivrai avec eux. Je crois que<lb/>
+mon choix ne se pose plus <mod type="add" stage="" who=""><add>plusieurs jours</add></mod> je voudrai être Cuisinière. Enfin je <mod type="corr"><orig>vois</orig><reg>veux</reg></mod><lb/>
+Aller, au soleil avec mes amis mes enfants si <mod type="corr"><orig>posible</orig><reg>possible</reg></mod>. A R t<lb/>
+voir la famille. Avec ma voiture, <mod type="corr"><orig>peut être</orig><reg>peut-être</reg></mod> ma maison <mod type="corr"><orig>là<lb/>bàs</orig><reg>là-bas</reg></mod>. Faire du vélo à plein temps bien <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> avec la famille. §<lb/>
+
+<pb/>
+mon métier: §<lb/>
+à 7h je me <mod type="corr"><orig>leve</orig><reg>lève</reg></mod>, je vais déjeuner, <mod type="del" stage="" who=""><del>douch</del></mod> me doucher, aller<lb/>
+me préparer: maquiller, <mod type="corr"><orig>coiffeur</orig><reg>coiffure</reg></mod> prête. Il <mod type="corr"><orig>es</orig><reg>est</reg></mod> 7h50 il faut que je <mod type="corr"><orig>part<mod type="del" stage="" who=""><del>e</del></mod></orig><reg>parte</reg></mod><lb/>
+de chez moi. Mon métier est cusinière. §<lb/>
+Je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> la route de la c n <mod type="corr"><orig>est</orig><reg>et</reg></mod> je <mod type="corr"><orig>s<mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="" who="">u</add></mod>is</orig><reg>suis</reg></mod> <mod type="corr"><orig>arrivee</orig><reg>arrivée</reg></mod> au travail il<lb/>
+est 8h10. J'ai 5 minutes pour me préparer, je bois vite fait<lb/>
+mon café et je me <mod type="corr"><orig>mais</orig><reg>mets</reg></mod> à la cuisine à 12h il y a des clients<lb/>
+Puis le temps <mod type="corr"><orig>pas</orig><reg>passe</reg></mod> il est 16h des enfants <mod type="corr"><orig>vient</orig><reg>viennent</reg></mod> pour manger<lb/>
+un goûter. Je fait <mod type="corr"><orig>un</orig><reg>une</reg></mod> <mod type="corr"><orig>pos<mod type="del" stage="" who=""><del>s</del></mod>e</orig><reg>pause</reg></mod> à 16h05. Après je <mod type="corr"><orig>reprend</orig><reg>reprends</reg></mod> le travail<lb/>
+à 16h15 il y a 2 personnes. Il est 20h je dois <mod type="corr"><orig>rentrée</orig><reg>rentrer</reg></mod> chez<lb/>
+moi pour m'<mod type="corr"><orig>ocuper</orig><reg>occuper</reg></mod> de ma fille, la faire manger, <mod type="corr"><orig>accoucher</orig><reg>la coucher</reg></mod><lb/>
+à 21h je prépare mes affaires pour le lendemain. Je dois aussi préparer<lb/>
+les <mod type="subst"><del><mod type="del" stage="" who=""><del>saq</del></mod></del><add stage="" who="">sac</add></mod> de ma fille, car à 20h40 elle est <mod type="corr"><orig>partis</orig><reg>partie</reg></mod> se <mod type="del" stage="" who=""><del>coup</del></mod><lb/>
+<mod type="corr"><orig>couche</orig><reg>coucher</reg></mod>. A mon tour d'aller me coucher à 22h. Bonne nuit. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

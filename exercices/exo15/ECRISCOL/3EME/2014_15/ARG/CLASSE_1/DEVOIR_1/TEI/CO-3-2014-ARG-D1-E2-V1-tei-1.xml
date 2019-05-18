@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E2
+</head>
+<p>
+Tout d'un coup je vi<mod type="add" stage="T2" who="P"><add>s</add></mod> une lumière, j'entendi<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod> beaucoup<lb/> 
+de bruits. J'avai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod> vraiment mal partout, une<lb/> 
+douleur atro<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>ss</del></mod></del><add stage="T2" who="P">c</add></mod>e et <hi place=" " time="T2" who="Pσ" style="underline">j'ai <mod type="corr"><orig>commencer</orig><reg>commencé</reg></mod></hi> <metamark place=" " time="T2" who="P" style="underline">garde le système des temps du récit</metamark> à crier. §<lb/>
+Quand je me suis <mod type="corr"><orig>calem<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>er</del></mod></del><add stage="T2" who="P">é</add></mod></orig><reg>calmé</reg></mod> on<mod type="del" stage="T2" who="P"><del>t</del></mod> m<mod type="add" stage="T2" who="P"><add>'</add></mod>a <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>essuyer</del></mod></del><add stage="T2" who="P">essuyé</add></mod>,<lb/>
+on m<mod type="add" stage="T2" who="P"><add>'</add></mod>a ramen<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>er</del></mod></del><add stage="T2" who="P">é</add></mod> voi<mod type="add" stage="T2" who="P"><add>r</add></mod> une femme qui souriait<lb/>
+e<mod type="del" stage="T2" who="P"><del>s</del></mod>t qui pleurait en même temps, et il y avait<lb/>
+un homme qui <mod type="subst"><del><mod type="del" stage="T2" who="P"><del>c</del></mod></del><add stage="T2" who="P">s</add></mod>'était évanoui, <mod type="corr"><orig>en<hi place=" " time="T2" who="Pσ" style="underline"> </hi>suite</orig><reg>ensuite</reg></mod> la femme<lb/>
+<mod type="add" stage="T2" who="P"><add>ne</add></mod> <mod type="corr"><orig><mod type="del" stage="T2" who="P"><del>fesait que</del></mod></orig><reg>faisait que</reg></mod> de m'appeler "Lucien, Lucien". §<lb/>
+Ensuite le docteur et les sage<mod type="add" stage="T2" who="P"><add>s-</add></mod>femme<mod type="add" stage="T2" who="P"><add>s</add></mod> <mod type="corr"><orig>mon</orig><reg>m'ont</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>em</del></mod> amen<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>er</del></mod></del><add stage="T2" who="P">é</add></mod> dans une pièce et m<mod type="add" stage="T2" who="P"><add>'</add></mod>on<mod type="add" stage="T2" who="P"><add>t</add></mod> mi<mod type="add" stage="T2" who="P"><add>s</add></mod> plein de <mod type="corr"><orig>fil</orig><reg>fils</reg></mod><lb/>
+dans ma bouche et mon nez et il<mod type="add" stage="T2" who="P"><add>s</add></mod> m<mod type="add" stage="T2" who="P"><add>'</add></mod>on<mod type="add" stage="T2" who="P"><add>t</add></mod><lb/>
+mi<mod type="add" stage="T2" who="P"><add>s</add></mod> dans <hi place=" " time="T2" who="Pσ" style="underline">une <mod type="corr"><orig>boite</orig><reg>boîte</reg></mod></hi> <metamark place=" " time="T2" who="P" style="underline">mal dit</metamark>. J'avai<mod type="subst"><del><mod type="del" stage="T2" who="P"><del>t</del></mod></del><add stage="T2" who="P">s</add></mod> affreusement mal<lb/> 
+au poumon <mod type="corr"><orig>j<mod type="add" stage="T2" who="P"><add>e n</add></mod>'arriv<mod type="del" stage="T2" who="P"><del>er</del></mod></orig><reg>je n'arrivais</reg></mod> pas <mod type="corr"><orig>a</orig><reg>à</reg></mod> respirer ensuit<mod type="add" stage="T2" who="P"><add>e</add></mod> je<lb/>
+me sui<mod type="add" stage="T2" who="P"><add>s</add></mod> endormi et <mod type="del" stage="T2" who="P"><del>je ne me suit jamais</del></mod><lb/>
+<mod type="del" stage="T2" who="P"><del>réveiller</del></mod>. §<lb/>
+<metamark place=" " time="T2" who="P" style="underline">Un peu fort pour la fin. Il ne pouvait pas raconter et tu es en contresens avec le sujet de rédaction. §<lb/>
+On ne retrouve pas les éléments attendus du texte de départ</metamark> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

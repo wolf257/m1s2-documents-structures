@@ -1,0 +1,110 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E22
+</head>
+<p>
+Je <mod type="corr"><orig>se rait</orig><reg>serai</reg></mod> pompier je <mod type="corr"><orig>sou verér</orig><reg>souverai</reg></mod> des <mod type="corr"><orig>per dons</orig><reg>personnes</reg></mod><lb/>
+je <mod type="corr"><orig>ferait</orig><reg>ferai</reg></mod> <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>jent</orig><reg>gens</reg></mod> <mod type="corr"><orig>se</orig><reg>ce</reg></mod> qui <mod type="corr"><orig>doive</orig><reg>doivent</reg></mod> faire je leur<lb/>
+<mod type="corr"><orig>et drai</orig><reg>aiderai</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>arésépir</del></mod></del><add stage="" who="">aréspirer</add></mod></orig><reg>à respirer</reg></mod> <mod type="corr"><orig>j'ai <mod type="del" stage="" who=""><del>d t'd'roit</del></mod><lb/>t'un drait</orig><reg>j'éteindrai</reg></mod> les <mod type="corr"><orig>un sendi</orig><reg>incendies</reg></mod> <mod type="corr"><orig>j'ai drait</orig><reg>j'aiderai</reg></mod><lb/>
+les <mod type="del" stage="" who=""><del>pr</del></mod> <mod type="corr"><orig>persone</orig><reg>personnes</reg></mod> qui seront <mod type="corr"><orig>pouvre</orig><reg>pauvres</reg></mod> je leur<lb/>
+<mod type="corr"><orig>done ne'rait</orig><reg>donnerai</reg></mod> à boire, à <mod type="del" stage="" who=""><del>o</del></mod> manger je<lb/>
+ferai en sorte <mod type="corr"><orig>qui'l</orig><reg>qu'ils</reg></mod> <mod type="corr"><orig>nalle</orig><reg>n'ayent</reg></mod> pas <mod type="corr"><orig>froi</orig><reg>froid</reg></mod> la<lb/>
+nuit <mod type="corr"><orig>qu</orig><reg>que</reg></mod> ne <mod type="corr"><orig>ton berai</orig><reg>tombent</reg></mod> pas malade <mod type="del" stage="T2" who=""><del><mod type="add" stage="" who=""><add>ne tonbe pas malade</add></mod></del></mod><lb/>
+et <mod type="corr"><orig>osi</orig><reg>aussi</reg></mod> je <mod type="corr"><orig>ferait</orig><reg>ferai</reg></mod> des <mod type="corr"><orig>lit</orig><reg>lits</reg></mod> et <mod type="corr"><orig>can</orig><reg>quand</reg></mod> je<lb/>
+<mod type="corr"><orig>serait</orig><reg>serai</reg></mod> vieux je <mod type="corr"><orig>les et derait</orig><reg>aiderai</reg></mod> <mod type="corr"><orig>en<lb/>core</orig><reg>encore</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

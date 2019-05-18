@@ -1,0 +1,136 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E7
+</head>
+<p>
+<pb/>
+<mod type="corr"><orig>quand</orig><reg>Quand</reg></mod> je <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>ser</del></mod></del><add stage="" who="">serais</add></mod></orig><reg>serai</reg></mod> grand je serais prof<lb/>
+de technologie. §<lb/>
+7h30 je <mod type="corr"><orig>part</orig><reg>pars</reg></mod> de chez <mod type="corr"><orig>mo</orig><reg>moi</reg></mod> pour aller au<lb/>
+<mod type="corr"><orig>collége</orig><reg>collège</reg></mod>. §<lb/>
+8h00 <mod type="corr"><orig>a</orig><reg>à</reg></mod> huit heures j'ai cours avec les <mod type="corr"><orig>6èmeE</orig><reg>sixièmes</reg></mod><lb/>
+on va finir la feuille rappel informatique. <mod type="del" stage="" who=""><del>et</del></mod><lb/>
+8h25: <mod type="del" stage="" who=""><del>On fini la feuille</del></mod> on corrige les<lb/>
+<mod type="del" stage="" who=""><del>en</del></mod> trois <mod type="corr"><orig>dèfinitions</orig><reg>définitions</reg></mod> "information", "Besoins" "et informatique".<lb/>
+8h45: on va aller sur les ordinateurs<lb/>
+9h00: j'ai cours avec les 3C <mod type="del" stage="" who=""><del>ils sont</del></mod><lb/>
+on va faire quelques <mod type="corr"><orig>exercice</orig><reg>exercices</reg></mod> et je<lb/>
+<mod type="corr"><orig>faire</orig><reg>fais</reg></mod> cours. §<lb/>
+
+<pb/>
+10h00 il y a pause pendant 5 minutes. §<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> 10h05: <mod type="del" stage="" who=""><del>XXX#</del></mod> j'ai <mod type="corr"><orig>cour</orig><reg>cours</reg></mod> avec le 5F.<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> 10h35: on va sur les <mod type="corr"><orig>ordinateur</orig><reg>ordinateurs</reg></mod> pour<lb/>
+apprendre comment <mod type="corr"><orig>utilisé</orig><reg>utiliser</reg></mod> geogebra un <mod type="corr"><orig>trés</orig><reg>très</reg></mod><lb/>
+bon logiciel de géométrie. §<lb/>
+11h00: J'ai contrôle avec les 4G. §<lb/>
+12h00: c'est la pause <mod type="corr"><orig>deujener</orig><reg>déjeuner</reg></mod> §<lb/>
+14h00: contrôle avec les 6A
+15h00 j'ai fini <mod type="subst"><del><mod type="del" stage="" who=""><del>la</del></mod></del><add stage="" who="">ma</add></mod> journée de<lb/>
+<mod type="corr"><orig>travaille</orig><reg>travail</reg></mod>. §<lb/>
+
+<pb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>15h30</del></mod></del><add stage="" who="">16h00</add></mod> je rentre chez moi, je mange une<lb/>
+pomme et un thé avant de corriger les <mod type="corr"><orig>copie</orig><reg>copies</reg></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>20h00</del></mod></del><add stage="" who="">19h45</add></mod> j'ai fini de corriger toutes<lb/>
+les <mod type="corr"><orig>copie</orig><reg>copies</reg></mod>. §<lb/>
+19h50 je <mod type="del" stage="" who=""><del>XXX#</del></mod> prépare <mod type="corr"><orig>a</orig><reg>à</reg></mod> manger <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> sera<lb/>
+du saumon avec des pommes de terre. §<lb/>
+20h35 j'ai fini de manger §<lb/>
+21h00 je <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>me m'endort m'endore</del></mod></del><add stage="" who="">m'endorre</add></mod></orig><reg>m'endors</reg></mod>. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

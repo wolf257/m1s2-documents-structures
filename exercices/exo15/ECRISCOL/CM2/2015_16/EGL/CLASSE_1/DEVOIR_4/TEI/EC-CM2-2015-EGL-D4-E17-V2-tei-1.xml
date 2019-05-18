@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E17-V2
+</head>
+<p>
+Pedro donne une lettre à Nelly où il est écrit dessus «Nelly Je<lb/>
+T'aime» mais malheureusement Nelly n'a pas répondu. Pedro ne sait plus<lb/>
+quoi faire, il décide alors de l'inviter chez lui mais Nelly ne répondit<lb/> 
+pas à sa demande. Il décide d'aller à la mairie demander au maire où<lb/>
+est sa fille. Celui-ci lui dit qu'elle est dans sa chambre et qu'il<lb/> 
+peut aller la voir. Donc celui-ci court immédiatement la voir pour lui<lb/> 
+dire «Nelly Je T'aime», or elle ne réponds pas et part de sa<lb/> 
+chambre. Enfin il essaye sa dernière idée. Il demande à son père si<lb/> 
+il n'aurait pas un <mod type="corr"><orig>porte-voit</orig><reg>porte-voix</reg></mod> mais il n'en n'a pas. Du coup<lb/> 
+il part voir sa mère qui en a un <mod type="corr"><orig>1</orig><reg>un</reg></mod> Pedro <mod type="corr"><orig>emprainte</orig><reg>empreinte</reg></mod> le <mod type="corr"><orig>porte-voit</orig><reg>porte-voix</reg></mod><lb/>
+part à cheval devant la mairie et dit «Nelly <mod type="corr"><orig>veut Tu</orig><reg>veux-tu</reg></mod> M'<mod type="corr"><orig>épouse</orig><reg>épouser</reg></mod>?<mod type="add" stage="" who=""><add><sup></sup>»</add></mod><lb/>
+Cette fois Nelly répond et dit «Oui». Ainsi Pedro et Nelly se<lb/> 
+marièrent et <mod type="corr"><orig>véanent</orig><reg>vécurent</reg></mod> heureux.§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

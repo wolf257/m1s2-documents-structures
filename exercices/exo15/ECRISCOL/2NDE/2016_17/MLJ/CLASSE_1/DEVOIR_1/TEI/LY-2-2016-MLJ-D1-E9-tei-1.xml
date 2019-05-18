@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2016-MLJ-D1-E9
+</head>
+<p>
+Julie arrive en <mod type="corr"><orig>retarda</orig><reg>retard à</reg></mod> l'école<lb/>
+Julie se <mod type="corr"><orig>pr<mod type="subst"><del><mod type="del" stage="" who=""><del>è</del></mod></del><add stage="" who="">é</add></mod>cipite</orig><reg>précipite</reg></mod> pour atteindre <mod type="subst"><del><mod type="del" stage="" who=""><del>sa salle</del></mod></del><add stage="" who="">sa classe</add></mod> elle <mod type="subst"><del><mod type="del" stage="" who=""><del>voit</del></mod></del><add stage="" who="">voit</add></mod> la porte fermée.<lb/>
+Elle <mod type="corr"><orig>toc</orig><reg>toque</reg></mod> 3 <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">f</add></mod>ois</orig><reg>fois</reg></mod> et <mod type="subst"><del><mod type="del" stage="" who=""><del>oeuvre</del></mod></del><add stage="" who="">ouvre</add></mod> la porte , tous <mod type="corr"><orig>c'est</orig><reg>ses</reg></mod> <mod type="corr"><orig>camarade</orig><reg>camarades</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>sont</del></mod></del><add stage="" who="">étaient</add></mod> assis,<lb/>
+<mod type="del" stage="" who=""><del>et son prof qui s'es est fait interronpre</del></mod> §<lb/>
+Elle interrompt le prof et se fait renvoyer <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">e</add></mod></orig><reg>de</reg></mod> cours. <mod type="del" stage="" who=""><del>Bloqué</del></mod> elle décide<lb/>
+<mod type="del" stage="" who=""><del>de s'en aller</del></mod> de <mod type="subst"><del><mod type="del" stage="" who=""><del>retrouver</del></mod></del><add stage="" who="">sortir</add></mod> <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">u</add></mod></orig><reg>du</reg></mod> lycée et <mod type="del" stage="" who=""><del>XXX# de se poser #XXX#</del></mod> de<lb/>
+<mod type="del" stage="" who=""><del>écouter de la mu</del></mod> discuter avec une amie depuis son télephone. Jusqu'<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>l'ettendre</del></mod></del><add stage="" who="">l'ouverture</add></mod> du portail du lycée. <mod type="del" stage="" who=""><del>elle était avec sa copine </del></mod><lb/>
+Elle <mod type="del" stage="" who=""><del>partit au prochain c</del></mod> se deplaça pour aller au prochain cours<lb/>
+de <mod type="subst"><del><mod type="del" stage="" who=""><del>Français</del></mod></del><add stage="" who="">Maths</add></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> elle se <mod type="corr"><orig>separa</orig><reg>sépara</reg></mod> de sa copine pour rejoindre sa classe,<lb/>
+<mod type="del" stage="" who=""><del>a l'heure devant la porte elle</del></mod> elle <mod type="corr"><orig>rentr<mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod></orig><reg>rentra</reg></mod> dans la classe et attendit<lb/>
+<mod type="add" stage="" who=""><add>debout</add></mod> avant qu'on lui demande de s'asseoir. <mod type="del" stage="" who=""><del>elle av</del></mod> Les cours <mod type="corr"><orig>commenéé</orig><reg>commencé</reg></mod><lb/>
+<mod type="del" stage="" who=""><del>jusqu'à ce que</del></mod> le prof<mod type="del" stage="" who=""><del>s</del></mod> de maths décida de mettre une <mod type="corr"><orig>interr<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">o</add></mod></orig><reg>interrogation</reg></mod><lb/>
+pour savoir <mod type="del" stage="" who=""><del>qui aurait des</del></mod> les élèves qui <mod type="corr"><orig>aurait</orig><reg>auraient</reg></mod> des difficultés <mod type="del" stage="" who=""><del>en</del></mod><lb/>
+sur le chapitre.<mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="" who="">À</add></mod> la fin de l'heure <mod type="del" stage="" who=""><del>le professeurs a voul<lb/>
+a den a</del></mod>. Julie <mod type="corr"><orig>fini</orig><reg>finit</reg></mod> l'<mod type="corr"><orig>interro</orig><reg>interrogation</reg></mod> avec <mod type="del" stage="" who=""><del>succès</del></mod> confiance et rentra<lb/>
+chez elle pour déjeuner et retourna à l'école. <mod type="del" stage="" who=""><del>pour finir la journée</del></mod><lb/>
+A la fin de la journée ses <mod type="corr"><orig>parent</orig><reg>pârents</reg></mod> lui <mod type="corr"><orig>demanda</orig><reg>demandèrent</reg></mod> si la <mod type="del" stage="" who=""><del>jeune</del></mod> <mod type="corr"><orig>journéee</orig><reg>journée</reg></mod><lb/>
+c'était bien <mod type="corr"><orig>passé</orig><reg>passée</reg></mod> <mod type="add" stage="" who=""><add>.</add></mod><mod type="del" stage="" who=""><del>,</del></mod> Elle répondit que la journée c'est bien <mod type="corr"><orig>passé</orig><reg>passée</reg></mod><lb/>
+sauf le matin <mod type="subst"><del><mod type="del" stage="" who=""><del>j'étais je j'me su</del></mod></del><add stage="" who="">je me suis</add></mod> fait <mod type="subst"><del><mod type="del" stage="" who=""><del>renvoyer</del></mod></del><add stage="T2" who="">virer</add></mod> d'un<lb/>
+cours. Fin §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,196 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E22-V2
+</head>
+<p>
+<pb/>
+Un autre homme apparait au <mod type="subst"><del><mod type="del" stage="T2" who=""><del>millieu</del></mod></del><add stage="T2" who="">milieu</add></mod> de la nuit.<lb/>
+L'autre homme à côté du reverbère, il reste immobile, sa position,<lb/>
+est étrange. L'homme en question ne distingue pas son visage.<lb/>
+L'autre se met à marcher lentement sans aucun <mod type="corr"><orig>bruit<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>bruit</reg></mod>.<lb/>
+L'homme, curieux, décida d'y voir plus clair, il s'élança<lb/>
+vers l'autre. La lumière du reverbère éclairait son visage dissimulé<lb/>
+par le ciel obscur. §<lb/>
+
+Sous le regard terrifié de l'homme, l'autre s'avance, sa<lb/>
+chemise est blanche, sa peau, claire comme une feuille et des<lb/>
+cheveux aussi sombres que la nuit. Sa chemise <mod type="subst"><del><mod type="del" stage="T2" who=""><del>tachée</del></mod></del><add stage="T2" who="">recouverte</add></mod> de<lb/>
+plusieurs <mod type="corr"><orig>tache</orig><reg>tâches</reg></mod> de sang. L'homme (l'autre) maintient son bras,<lb/>
+il semble boiteux. §<lb/>
+L'homme, inquiet, court vers l'homme, aperçoit précisément<lb/>
+les <mod type="corr"><orig>nombreuse<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>nombreuses</reg></mod> <mod type="corr"><orig>t<mod type="subst"><del><mod type="del" stage="T2" who=""><del>â</del></mod></del><add stage="T2" who="">a</add></mod></orig><reg>tâches</reg></mod> rouges. <mod type="corr"><orig>Leur</orig><reg>Leurs</reg></mod> regards se croisent, l'autre<lb/>
+ouvre ses yeux #XXX#, brillant tel un <mod type="subst"><del><mod type="del" stage="T2" who=""><del>diament</del></mod></del><add stage="T2" who="">diamant</add></mod>. L'autre tente<lb/>
+de s'exprimer, en vain. Son visage paraît effondré, il laisse<lb/>
+penser au désespoir, la terreur et le dégout. Il s'<mod type="subst"><del><mod type="del" stage="T2" who=""><del>agenout</del></mod></del><add stage="T2" who="">agenouille</add></mod> la<lb/>
+tête baissée, les mains sur la bouche comme s'il se retenait quelque<lb/>
+chose. Il emmet des sons de dégout, régurgite plusieurs fois<lb/>
+au sol. §<lb/>
+
+Plus aucun sons hormsi le souffle fort de l'autre, §<lb/>
+
+<pb/>
+ses vêtements clairs virent soudainement au rouge.<lb/>
+L'homme l'aida à se relever, mit son bras derrière<lb/>
+sa tête pour l'aider à marcher.L'autre semblait<lb/>
+musclé, bien taillé, des jambes longues et encrées comme la<lb/>
+nuit sombre. §<lb/>
+
+L'homme appela à l'aide, ne disposant pas de moyens<lb/>
+de <mod type="corr"><orig>transport</orig><reg>transports</reg></mod>. Pendant une heure, il se mit à chercher<lb/>
+une personne pour pouvoir soutenir l'autre, ou un moyen<lb/>
+de le ramener à l'hôpital, il cherchait à le soigner.<lb/>
+Il aperçut plusieurs personnes l'observer de chez eux.<lb/>
+Il a réussi à être entendu. Certes, personne ne voulu l'écouter.<lb/>
+
+Au bout <mod type="corr"><orig>de'</orig><reg>d'</reg></mod> une heure et demi, une personne se<lb/>
+décida à les aider, une vieille femme, elle s'<mod type="corr"><orig>élenca</orig><reg>élança</reg></mod><lb/>
+puis les transportèrent à l'hôpital.La femme demanda à<lb/>
+l'homme les causes des blessures de l'autre. Il ne sut répondre.<lb/>
+L'autre malgré sa fatigue, utilisa ses <mod type="corr"><orig>dernier<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">e</add></mod>s</orig><reg>dernières</reg></mod> forces pour<lb/>
+s'exprimer. Il expliqua <mod type="subst"><del><mod type="del" stage="T2" who=""><del>brèvement</del></mod></del><add stage="T2" who="">brièvement</add></mod> son périple. Il dit<lb/>
+avoir été victime de complots. Lors d'une réunion de<lb/>
+famille, dit-il, un homme <mod type="corr"><orig>commenca</orig><reg>commença</reg></mod> se mettre <mod type="add" stage="" who=""><add>en colère</add></mod> pour<lb/>
+des sujets d'argents (<mod type="corr"><orig>soidisant</orig><reg>soit disant</reg></mod>). Il se présente comme coréen<lb/>
+du nord, d'une famille aisée et <mod type="corr"><orig>encienne</orig><reg>ancienne</reg></mod>. L'homme ayant<lb/>
+assassiné sa famille n'était pas seul, il appartient de la<lb/>
+même famille, plus précisément beau-père depuis quelques années.<lb/>
+Venu avec sa famille de même, les deux se mirent à<lb/>
+parler des origines de chacun, en'acceptant pas <mod type="corr"><orig>lés</orig><reg>les</reg></mod> origines<lb/>
+du Nord, sa belle-famille les accusèrent (depuis longtemps)<lb/>
+de traitres envers leur pays. En revanche, la famille<lb/>
+de l'autre voulait une égalité entre eux malgré la différence. §<lb/>
+
+<pb/>
+car il semblait normal, entre Sud et Nord de forme<lb/>
+qu'un <mod type="subst"><del><mod type="del" stage="T2" who=""><del>est</del></mod></del><add stage="T2" who="">et</add></mod> même pays même si une frontière éloignait<lb/>
+les deux peuples. Si les liens sont puissants, rien ne les<lb/>
+empêche de s'unir. §<lb/>
+
+Le beau père éclata, agit brutalement, sortit<lb/>
+des armes puis passa à l'acte. Personne ne l'empêcha ni<lb/>
+même les autres membres de sa famille. Tout était improvisé.<lb/>
+La femme de l'autre (=fille de l'assassin), épargnée par<lb/>
+son père et sa famille, s'<mod type="corr"><orig>enfui</orig><reg>enfuit</reg></mod> de la maison sous les ordres de<lb/>
+son mari et sa famille (celle de l'autre). §<lb/>
+
+À l'hôpital, <mod type="subst"><del><mod type="del" stage="T2" who=""><del>Deux</del></mod></del><add stage="T2" who="">deux</add></mod> jours plus tard, <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="T2" who=""><del>e</del></mod></del><add stage="T2" who="">'</add></mod>autre</orig><reg>l'autre</reg></mod> est<lb/>
+passé de l'autre côte pour de bon. §<lb/>
+À l'hôpital, <mod type="subst"><del><mod type="del" stage="T2" who=""><del>Deux</del></mod></del><add stage="T2" who="">deux</add></mod> jours plus tard, une jeune veuve<lb/>
+met au monde un petit enfant. §<lb/>
+
+L'enfant, grandit, vit avec ses origines, du Nord et du<lb/>
+Sud. Les yeux aussi <mod type="corr"><orig>noir</orig><reg>noirs</reg></mod> que l'encre, brillants comme<lb/>
+des perles la peau claire comme les nuages d'un ciel clair<lb/>
+et <mod type="corr"><orig>b<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">l</add></mod>eu</orig><reg>bleu</reg></mod>, puis un sourire de paix au visage qui laisse<lb/>
+entrevoir des dents, blanches. §<lb/>
+
+"Sous <mod type="subst"><del><mod type="del" stage="T2" who=""><del>la</del></mod></del><add stage="T2" who="">le</add></mod> ciel nuageux, d'une clarté et ensoleillé, l'homme depuis<lb/>
+un moment dejà marchait quand il apercu au loin une villa<lb/>
+illuminé par le soleil de printemps". §<lb/>
+
+Un jardin entretenu, vif, composé de beaucoup d'arbres<lb/>
+les cerisiers viennent de leurs fleurs, les pétales tombent au sol,<lb/>
+"construit" un tapis de pétales. La <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>m</del></mod></del><add stage="" who="">v</add></mod>illa</orig><reg>villa</reg></mod>, noire et blanche, moyenne<lb/>
+sous le ciel, une villa ancienne du milieu du vingtième siècle §<lb/>
+
+<pb/>
+, grande comme des longues jambes noires tachée de mauvais<lb/>
+souvenir. §<lb/>
+ 
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

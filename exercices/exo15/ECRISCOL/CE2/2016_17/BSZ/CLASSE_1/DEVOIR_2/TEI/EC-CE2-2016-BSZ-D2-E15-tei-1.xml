@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E15
+</head>
+<p>
+<pb/>
+il va <mod type="corr"><orig>partirent</orig><reg>partir</reg></mod> à l’école, il <mod type="corr"><orig>arive</orig><reg>arrive</reg></mod> à l’école et <mod type="corr"><orig>vois</orig><reg>voit</reg></mod><lb/>
+son copain <mod type="corr"><orig>matiasil</orig><reg>Mathias il</reg></mod> lui <mod type="corr"><orig>répon</orig><reg>répond</reg></mod> « <mod type="corr"><orig>Aujourd’huit</orig><reg>Aujourd’hui</reg></mod> on <mod type="corr"><orig>à</orig><reg>a</reg></mod> un<lb/>
+<mod type="corr"><orig>examain</orig><reg>examen</reg></mod> » et <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> « <mod type="corr"><orig>més</orig><reg>mais</reg></mod> je ne suis pas <mod type="corr"><orig>prés</orig><reg>prêt</reg></mod> ».<lb/>
+<mod type="corr"><orig>mes</orig><reg>Mais</reg></mod> <mod type="corr"><orig>maties</orig><reg>Mathias</reg></mod> lui <mod type="corr"><orig>répon</orig><reg>répond</reg></mod> «  <mod type="corr"><orig>tianquéte</orig><reg>t’inquiète</reg></mod> <mod type="corr"><orig>sés</orig><reg>c’est</reg></mod> de <mod type="corr"><orig>langlais</orig><reg>l’anglais</reg></mod>»<lb/>
+<mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> lui <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> « <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> la <mod type="corr"><orig>maitrése</orig><reg>maîtresse</reg></mod> va me <mod type="corr"><orig>métre</orig><reg>mettre</reg></mod> <mod type="corr"><orig>en</orig><reg>un</reg></mod><lb/>
+0 je suis bon à rien » <mod type="corr"><orig>sés</orig><reg>c’est</reg></mod> <mod type="corr"><orig>leures</orig><reg>l’heure</reg></mod> de <mod type="corr"><orig>rentré</orig><reg>rentrer</reg></mod> en<lb/>
+<mod type="corr"><orig>clases</orig><reg>classe</reg></mod> il rentre <mod type="corr"><orig>d’en</orig><reg>dans</reg></mod> la <mod type="corr"><orig>claces</orig><reg>classe</reg></mod> la <mod type="corr"><orig>maitréses</orig><reg>maîtresse</reg></mod><lb/>
+<mod type="corr"><orig>l’ores</orig><reg>leur</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> « vous <mod type="corr"><orig>s’éte</orig><reg>êtes</reg></mod> <mod type="corr"><orig>prés</orig><reg>prêts</reg></mod> <mod type="corr"><orig>lexamain</orig><reg>l’examen</reg></mod> » les enfants<lb/>
+<mod type="corr"><orig>dis</orig><reg>disent</reg></mod> « oui !» <mod type="corr"><orig>més</orig><reg>mais</reg></mod> <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>die</del></mod></del><add stage="" who="">dis</add></mod></orig><reg>dit</reg></mod> « non » en <mod type="corr"><orig>murmuren</orig><reg>murmurant</reg></mod><lb/>
+la <mod type="corr"><orig>maitréses</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>lores</orig><reg>leur</reg></mod> <mod type="corr"><orig>dones</orig><reg>donne</reg></mod> une <mod type="corr"><orig>feuile</orig><reg>feuille</reg></mod> et <mod type="corr"><orig>ni</orig><reg>n’y</reg></mod> <mod type="corr"><orig>arivent</orig><reg>arrive</reg></mod><lb/>
+pas <mod type="corr"><orig>més</orig><reg>mais</reg></mod> <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> à la <mod type="corr"><orig>maitrése</orig><reg>maîtresse</reg></mod> « je <mod type="corr"><orig>pe</orig><reg>peux</reg></mod> <mod type="corr"><orig>ialés</orig><reg>y aller</reg></mod> <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>toilette</orig><reg>toilettes</reg></mod><lb/>
+<mod type="corr"><orig>mès</orig><reg>mais</reg></mod> il fait <mod type="corr"><orig>senblan</orig><reg>semblant</reg></mod> il <mod type="corr"><orig>prens</orig><reg>prend</reg></mod> la copie de <mod type="corr"><orig>lexercise</orig><reg>l’exercice</reg></mod> sans<lb/>
+que la <mod type="corr"><orig>maitrèse</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>vois</orig><reg>voit</reg></mod> il va <mod type="corr"><orig>autoilette</orig><reg>aux toilettes</reg></mod> recopie la feuille et<lb/>
+<mod type="corr"><orig>repare</orig><reg>repart</reg></mod> à son bureau <mod type="corr"><orig>laire</orig><reg>l’air</reg></mod> de rien <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>saunes</orig><reg>sonne</reg></mod> <mod type="corr"><orig>sé</orig><reg>c’est</reg></mod> <mod type="corr"><orig>leure</orig><reg>l’heure</reg></mod> §<lb/>
+
+<pb/> 
+de la <mod type="corr"><orig>récrés</orig><reg>récré</reg></mod> il <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> à son copain « <mod type="corr"><orig>ji</orig><reg>j’y</reg></mod> suis <mod type="corr"><orig>arivé</orig><reg>arrivé</reg></mod> » la <mod type="corr"><orig>maitréses</orig><reg>maîtresse</reg></mod><lb/>
+<mod type="corr"><orig>vin</orig><reg>vint</reg></mod> <mod type="corr"><orig>véres</orig><reg>vers</reg></mod> lui et <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> « <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> se <mod type="corr"><orig>vois</orig><reg>voit</reg></mod> que <mod type="corr"><orig>ta</orig><reg>t’as</reg></mod> <mod type="corr"><orig>recopés</orig><reg>recopié</reg></mod> la feuille<lb/>
+<mod type="corr"><orig>d’exercise</orig><reg>d’exercice</reg></mod> parce que <mod type="corr"><orig>sés</orig><reg>c’est</reg></mod> <mod type="corr"><orig>paréilles</orig><reg>pareil</reg></mod> et <mod type="corr"><orig>javé</orig><reg>j’avais</reg></mod> <mod type="corr"><orig>demandés</orig><reg>demandé</reg></mod> d’écrire<lb/>
+<mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>con</orig><reg>qu’on</reg></mod> <mod type="corr"><orig>pouvés</orig><reg>pouvait</reg></mod> » <mod type="corr"><orig>sé</orig><reg>c’est</reg></mod> <mod type="corr"><orig>leure</orig><reg>l’heure</reg></mod> de <mod type="corr"><orig>rentré</orig><reg>rentrer</reg></mod> et <mod type="corr"><orig>vois</orig><reg>voit</reg></mod> <mod type="corr"><orig>sés</orig><reg>ses</reg></mod> <mod type="corr"><orig>parent</orig><reg>parents</reg></mod><lb/>
+chez et <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>dise<mod type="del" stage="" who=""><del>n</del></mod></orig><reg>disent</reg></mod> « <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>sés</orig><reg>s’est</reg></mod> bien passé » <mod type="corr"><orig>més</orig><reg>mais</reg></mod> <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> ne<lb/>
+<mod type="corr"><orig>sais</orig><reg>sait</reg></mod> plus <mod type="corr"><orig>quois</orig><reg>quoi</reg></mod> répondre. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

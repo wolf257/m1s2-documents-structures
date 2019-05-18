@@ -1,0 +1,129 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-PAS-D1-E14-V1
+</head>
+<p>
+<pb/>
+
+Il y a fort <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>lontain</del></mod></del><add stage="" who="P">longtemps</add></mod></orig><reg>longtemps</reg></mod> un petit garçon qui s'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>appella</del></mod></del><add stage="" who="P">appelait</add></mod></orig><reg>appelait</reg></mod> <lb/>
+Gabriel, et une fille dont le <mod type="corr"><orig>pr<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>nom</orig><reg>prénom</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>est</del></mod></del><add stage="" who="P">était</add></mod></orig><reg>était</reg></mod> Anne-Lise. <lb/>
+Ils <mod type="corr"><orig>était</orig><reg>étaient</reg></mod> sur le chemin de l'école <mod type="add" stage="" who="P"><add>...</add></mod> §<lb/>
+"Tu as perdu quelque chose?" lui <mod type="corr"><orig>demenda</orig><reg>demanda</reg></mod> Anne-Lise. <lb/>
+"Ma toupie chinoise sur le chemin de l'école." §<lb/>
+Ils <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">revenir</hi></orig><reg>revinrent</reg></mod> <mod type="add" stage="" who="P"><add>revinrent</add></mod> sur le chemin de l'école en essayant de <lb/>
+chercher la toupie. §<lb/>
+Gabriel rentra dans la grande maison Anne-Lise¨<lb/>
+l'<mod type="corr"><orig>attendi<mod type="subst"><del><mod type="del" stage="" who="P"><del>rent</del></mod></del><add stage="" who="P">t</add></mod></orig><reg>attendit</reg></mod> §<lb/>
+Gabriel <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>est</del></mod></del><add stage="" who="">etait avec</add></mod></orig><reg>était avec</reg></mod> un grand homme <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>un</del></mod></del><add stage="" who="P">au</add></mod></orig><reg>au</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>mento</del></mod></del><add stage="" who="P">manteau</add></mod></orig><reg>manteau</reg></mod> avec des <mod type="corr"><orig>clef<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>clefs</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">I</add></mod>l</orig><reg>Il</reg></mod> <lb/>
+l'emmena dans une salle et lui demande: §<lb/>
+"<mod type="corr"><orig>Veu<mod type="subst"><del><mod type="del" stage="" who="P"><del>t</del></mod></del><add stage="" who="P">Veux -</add></mod>tu</orig><reg>Veux-tu</reg></mod> une vache <mod type="subst"><del><mod type="del" stage="" who="P"><del>.</del></mod></del><add stage="" who="P">.?</add></mod> une poupée <mod type="add" stage="" who="P"><add>.?</add></mod>" §<lb/>
+Mais Gabriel <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>vu</del></mod></del><add stage="" who="P">vit</add></mod></orig><reg>vit</reg></mod> sa toupie <mod type="subst"><del><mod type="del" stage="" who="P"><del>et</del></mod></del><add stage="" who="P">,</add></mod> la <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>prend</del></mod></del><add stage="" who="P">prit</add></mod></orig><reg>prit</reg></mod> et <mod type="corr"><orig>couru<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>couru</reg></mod> <lb/>
+voir Anne-Lise. <mod type="subst"><del><mod type="del" stage="" who="P"><del>Anne-Lise</del></mod></del><add stage="" who="P">Elle</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>lui</del></mod></del><add stage="" who="P">le</add></mod></orig><reg>le</reg></mod> <mod type="corr"><orig>félisita</orig><reg>félicita</reg></mod> <mod type="add" stage="" who="P"><add>félicita</add></mod> <mod type="del" stage="" who="P"><del>Gabriel</del></mod> d'une <lb/>
+façon très <mod type="del" stage="" who=""><del>"</del></mod> polie <mod type="del" stage="" who=""><del>"</del></mod>. §<lb/>
+
+<pb/>
+
+"Gabriel <mod type="add" stage="" who="P"><add>,</add></mod> bravo parce que tu <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>reusir</del></mod></del><add stage="" who="P">as réussi</add></mod></orig><reg>as réussi</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> <lb/>
+sortir de cette <mod type="corr"><orig>grand<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>grande</reg></mod> maison <mod type="add" stage="" who="P"><add>."</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>m</del></mod></del><add stage="" who="P">M</add></mod>erci</orig><reg>Merci</reg></mod> Anne-Lise." <lb/>
+<mod type="del" stage="" who=""><del>Maintenan</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>Maintenent</del></mod></del><add stage="" who="P">Maintenant</add></mod></orig><reg>Maintenant</reg></mod> on rentre chez nous. §<lb/>
+Ses amis <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>lui</del></mod></del><add stage="" who="P">le</add></mod></orig><reg>le</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>félicita</del></mod></del><add stage="" who="P">félicitèrent</add></mod></orig><reg>félicitèrent</reg></mod> d'avoir fait tout ce parcours <lb/>
+Et lui donna une surprise et la su<lb/>
+rprise est une <mod type="corr"><orig>nouvel</orig><reg>nouvelle</reg></mod> toupie pour <lb/>
+sa collection  §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

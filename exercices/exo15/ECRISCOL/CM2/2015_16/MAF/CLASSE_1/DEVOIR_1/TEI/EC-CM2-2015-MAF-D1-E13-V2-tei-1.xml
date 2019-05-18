@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E13-V2
+</head>
+<p>
+J'ai mis un <mod type="corr"><orig>pétar</orig><reg>pétard</reg></mod> géant entre l'ordinateur de mon p<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">è</add></mod>re et les <mod type="subst"><del><mod type="del" stage="" who=""><del>clefs</del></mod></del><add stage="" who="">clés</add></mod><lb/>
+de ma mère. Quand ma mère a <mod type="corr"><orig>prit</orig><reg>pris</reg></mod> les clés, j'<mod type="corr"><orig>entendit</orig><reg>entendis</reg></mod> un TAC. §<lb/>
+C'était bien <mod type="corr"><orig>éssayer</orig><reg>essayé</reg></mod>, j'eus un 8/10 à ma <mod type="corr"><orig>redaction</orig><reg>rédaction</reg></mod>. Mais dimanche le prochain<lb/>
+dimanche, quand <mod type="del" stage="" who=""><del>je mas</del></mod> j'allais à Disneyland, je vomis dans le Train de<lb/>
+La Mine. Pas très émouvant, mais je m'<mod type="corr"><orig>étonai</orig><reg>étonnai</reg></mod> <mod type="corr"><orig>quant</orig><reg>quand</reg></mod> j'eus un <mod type="subst"><del><mod type="del" stage="" who=""><del>tb</del></mod></del><add stage="" who="">9,10</add></mod>. Et le<lb/>
+dimanche prochain, le rêve, ma mère se leva de table pour aller<lb/>
+chercher les <mod type="corr"><orig>legumes</orig><reg>légumes</reg></mod>. Et quand elle <mod type="corr"><orig>revenut</orig><reg>revint</reg></mod> s'assoir, je <mod type="corr"><orig>tira</orig><reg>tirai</reg></mod> sa <mod type="corr"><orig>chèse</orig><reg>chaise</reg></mod> et<lb/>
+<mod type="corr"><orig>Elle</orig><reg>elle</reg></mod> tomba pa<mod type="subst"><del><mod type="del" stage="" who=""><del>rt</del></mod></del><add stage="" who="">r</add></mod> terre avec les <mod type="corr"><orig>legumes</orig><reg>légumes</reg></mod>. (Elle alla <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'<mod type="corr"><orig>hopital</orig><reg>hôpital</reg></mod>). Lundi matin,<lb/>
+j'eus un 7/10 à ma <mod type="corr"><orig>redaction</orig><reg>rédaction</reg></mod>. Au <mod type="corr"><orig>faite</orig><reg>fait</reg></mod>, <mod type="corr"><orig>se</orig><reg>ce</reg></mod> n'était pas trop un rêve, la maî<lb/>
+tresse n'aurait pas <mod type="corr"><orig>voulut</orig><reg>voulu</reg></mod> avoir <mod type="corr"><orig>ca</orig><reg>ça</reg></mod> aussi. <mod type="del" stage="" who=""><del>(je me</del></mod> Et je me suis fait punir<lb/>
+d'ipad pendant un mois). Et dimanche, j'<mod type="corr"><orig>alla</orig><reg>allai</reg></mod> en prison, <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> cette fois <mod type="corr"><orig>ou</orig><reg>où</reg></mod> j'eus<lb/>
+un 10/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

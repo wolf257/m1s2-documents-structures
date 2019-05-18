@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2016-MLJ-D1-E6
+</head>
+<p>
+Une fois dehors elle file attraper son bus pour <mod type="corr"><orig>allez</orig><reg>aller</reg></mod> au lycée.<lb/>
+Une fois à l'<mod type="corr"><orig>arret</orig><reg>arrêt</reg></mod> elle retrouve Audrey sa meilleur <mod type="corr"><orig>ami</orig><reg>amie</reg></mod> et <mod type="corr"><orig>monte</orig><reg>montent</reg></mod><lb/>
+ensemble dans le bus. <mod type="corr"><orig>Arriver</orig><reg>Arrivée</reg></mod> au lycée elle prend les premiers<lb/>
+escaliers pour aller en cours. Julie <mod type="corr"><orig>e<mod type="del" stage="" who=""><del>s</del></mod>tait</orig><reg>était</reg></mod> une élève sage<lb/>
+et intelligente ses journées étaient donc <mod type="corr"><orig>tranquille</orig><reg>tranquilles</reg></mod>. La <mod type="corr"><orig>premiére</orig><reg>première</reg></mod><lb/>
+récréation sonna elle retourna en <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>re</del></mod></del><add stage="" who="">c</add></mod>ours</orig><reg>cours</reg></mod> pour toutes ces copines <mod type="subst"><del><mod type="del" stage="" who=""><del>,</del></mod></del><add stage="" who="">.</add></mod> la<lb/>
+deuxième sonnerie retentit et elle retourna donc en cours. Après<lb/>
+le cours à nouveau une sonnerie retentit celle-ci <mod type="corr"><orig>annon<mod type="subst"><del><mod type="del" stage="" who=""><del>ce</del></mod></del><add stage="" who="">ca</add></mod>nt</orig><reg>annonçant</reg></mod><lb/>
+le moment de la cantine, elle s'y rendit donc avec ces amis.<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> Après <mod type="del" stage="" who=""><del>être all</del></mod> avoir <mod type="corr"><orig>manger</orig><reg>mangé</reg></mod> elle <mod type="corr"><orig>finirai</orig><reg>finira</reg></mod><lb/>
+sa journée <mod type="corr"><orig>comm<mod type="subst"><del><mod type="del" stage="" who=""><del>c</del></mod></del><add stage="" who="">e</add></mod></orig><reg>comme</reg></mod> tout <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">es</add></mod></orig><reg>les</reg></mod> autres jours <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">e</add></mod>t</orig><reg>et</reg></mod> <mod type="corr"><orig>rentreras</orig><reg>rentrera</reg></mod> chez elle.<lb/>
+prendra son goûter <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">fe</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">r</add></mod>as</orig><reg>fera</reg></mod> ses devoirs et sa <mod type="corr"><orig>petit</orig><reg>petite</reg></mod> routine. §<lb/> </p>
+</div>
+﻿</body>
+</text>
+</TEI>

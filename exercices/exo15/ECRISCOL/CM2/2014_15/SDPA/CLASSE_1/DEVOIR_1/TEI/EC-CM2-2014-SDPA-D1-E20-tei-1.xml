@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-SDPA-D1-E20
+</head>
+<p>
+<pb/>
+
+« Hermione ! » dit Harry en <mod type="corr"><orig>pensent</orig><reg>pensant</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> elle « il faut la <mod type="corr"><orig>pré<lb/>venir</orig><reg>prévenir</reg></mod> ! » « Elle peut mourir ! » <mod type="del" stage="" who=""><del>dit Harry</del></mod> Donc ils partent<lb/>
+pour aller la chercher<mod type="del" stage="" who=""><del>XXX#</del></mod>. Mais tout <mod type="corr"><orig>a</orig><reg>à</reg></mod> coup le troll<lb/>
+apparait avec son gourdin et il se dirige <mod type="del" stage="" who=""><del>vai</del></mod><lb/>
+vers les <mod type="del" stage="" who=""><del>toil</del></mod> WC des filles et Hermione est<lb/>
+dedans !!! <mod type="del" stage="" who=""><del>Ils t</del></mod> Harry <mod type="corr"><orig>tante</orig><reg>tente</reg></mod> de <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>so</del></mod></del><add stage="" who="">l'o</add></mod>ccuper</orig><reg>l'occuper</reg></mod> à<lb/>
+autre chose que Hermione et se fait mal. Elle se<lb/>
+cache sous les <mod type="corr"><orig>lavabo</orig><reg>lavabos</reg></mod> et montre à Ron comment<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>faitre</del></mod></del><add stage="" who="">faire</add></mod> le sort en <mod type="corr"><orig>disent</orig><reg>disant</reg></mod> « <mod type="del" stage="" who=""><del>torne</del></mod> tourne et<lb/>
+abaisse en <mod type="corr"><orig>disent</orig><reg>disant</reg></mod> « wingardium leviosa » ». §<lb/>
+
+<pb/>
+Ron a réussi pour la première fois à faire <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">c</add></mod>e</orig><reg>ce</reg></mod><lb/>
+sort et <mod type="corr"><orig>ducoup</orig><reg>du coup</reg></mod> le gourdin du troll <mod type="corr"><orig>senvole</orig><reg>s'en vole</reg></mod> !<lb/>
+Le gourdin tombe sur sa tête et le <mod type="corr"><orig>géan</orig><reg>géant</reg></mod><lb/>
+s'<mod type="corr"><orig>evanoui</orig><reg>évanouit</reg></mod>. <mod type="corr"><orig>le</orig><reg>Le</reg></mod> <mod type="corr"><orig>proffésseur</orig><reg>professeur</reg></mod> Mac Gonagall enlève<lb/>
+<mod type="del" stage="" who=""><del>des</del></mod> 5 <mod type="corr"><orig>poin</orig><reg>points</reg></mod> à Hermione. <mod type="del" stage="" who=""><del>XXX#</del></mod> Mais elle <mod type="add" stage="" who=""><add>en</add></mod> donne 5 à chacun<lb/>
+des <mod type="corr"><orig>garçon</orig><reg>garçons</reg></mod> et <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> <mod type="del" stage="" who=""><del>fini</del></mod> fini Bien ! §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

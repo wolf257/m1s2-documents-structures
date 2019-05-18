@@ -1,0 +1,113 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CE2-2014-JOD-D1-E25-V1
+</head>
+<p>
+Il était une fois, un petit <mod type="corr"><orig>garçon<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>garçon</reg></mod> qui avait une<lb/>
+toupie. Mais il avait perdu sa toupie. "Tu as<lb/>
+perdu quelque chose" lui demanda Anne-Lise, "Oui<lb/>
+j'ai perdu ma toupie sur le chemin de l'école" lui dit<lb/>
+Gabriel. Anne-Lise et Gabriel <mod type="corr"><orig>cherchait</orig><reg>cherchaient</reg></mod> <mod type="add" stage="" who="P"><add>cherchaient</add></mod> la toupie<lb/>
+<mod type="del" stage="" who=""><del>XXX</del></mod>
+puis <mod type="corr"><orig>épuisé</orig><reg>épuisés</reg></mod> <mod type="corr"><orig>il<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>ils</reg></mod> <mod type="corr"><orig>rentre<mod type="add" stage="" who="P"><add>nt</add></mod></orig><reg>rentrent</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à</add></mod></orig><reg>à</reg></mod> leur maison. Le lendemain<lb/>
+Gabriel va voir "Le Gardien De<mod type="del" stage="" who=""><del>s Lle</del></mod> <mod type="corr"><orig>L'oubli</orig><reg>l'Oubli</reg></mod>", le<lb/>
+gardien <mod type="corr"><orig>de<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>de</reg></mod> l'<mod type="corr"><orig>oubli<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>oubli</reg></mod> monte <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'étage avec Gabriel<lb/>
+et lui montre une pièce. <mod type="corr"><orig>Gabrie<mod type="add" stage="" who="P"><add>l</add></mod></orig><reg>Gabriel</reg></mod> cherche la toupie<lb/>
+dans la pièce il l'a <mod type="corr"><orig>trouvé<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>trouvée</reg></mod>, et il ressort avec. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

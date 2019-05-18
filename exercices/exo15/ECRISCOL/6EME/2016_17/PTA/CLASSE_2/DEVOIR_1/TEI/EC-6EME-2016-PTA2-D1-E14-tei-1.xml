@@ -1,0 +1,129 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E14
+</head>
+<p>
+<pb/>
+9h30 le <mod type="corr"><orig>réveille</orig><reg>réveil</reg></mod>, 9h37 je me <mod type="corr"><orig>léve</orig><reg>lève</reg></mod>. <mod type="del" stage="" who=""><del>J'en fils</del></mod> Je <mod type="del" stage="" who=""><del>met<lb/> m</del></mod> <mod type="corr"><orig>m'habile</orig><reg>m'habille</reg></mod>, je vais déjeuner en fin <mod type="del" stage="" who=""><del>la,</del></mod> la matinée <mod type="corr"><orig>d<mod type="del" stage="" who=""><del>u</del></mod>'une</orig><reg>d'une</reg></mod> personne<lb/>
+<mod type="corr"><orig>normal</orig><reg>normale</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>.</del></mod></del><add stage="" who="">,</add></mod> je vais au travail ,<mod type="del" stage="" who=""><del>(</del></mod> je suis actrice, aujourd'hui<lb/>
+, je <mod type="corr"><orig>n<mod type="del" stage="" who=""><del>e</del></mod>'ai</orig><reg>n'ai</reg></mod> pas de tournage de prévus mais je vais essayer des <mod type="corr"><orig>tenus</orig><reg>tenues</reg></mod>.<lb/>
+Quand j'arrive Elisa (la costumière <mod type="del" stage="" who=""><del>,</del></mod> et ma meilleure amie) est<lb/>
+là. Elle commence par un: §<lb/>
+- <mod type="del" stage="" who=""><del>E</del></mod> Hey, coucou <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> va? §<lb/>
+je lui <mod type="corr"><orig>répond</orig><reg>réponds</reg></mod>: §<lb/>
+-<mod type="corr"><orig>Bas</orig><reg>Bah</reg></mod> oui et toi? §<lb/>
+-Ouai <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> va! dit-elle. §<lb/>
+Elle me donne les <mod type="corr"><orig>tenus</orig><reg>tenues</reg></mod>. Quand je <mod type="corr"><orig>revien</orig><reg>reviens</reg></mod> après les<lb/>
+avoir <mod type="corr"><orig>essayer</orig><reg>essayées</reg></mod> elle me les <mod type="corr"><orig>ajuster</orig><reg>ajuste</reg></mod> puis elle me dit: §<lb/>
+-C'est fini, tu viens avec <mod type="corr"><orig>mér</orig><reg>moi</reg></mod> boire un café? §<lb/>
+-Oui <mod type="corr"><orig>attend</orig><reg>attends</reg></mod> j'arrive. §<lb/>
+-Ok, je t'<mod type="corr"><orig>attend</orig><reg>attends</reg></mod>. §<lb/>
+Aprés avoir <mod type="corr"><orig>bus</orig><reg>bu</reg></mod> mon café invita Elisa, pour <mod type="corr"><orig>quelle</orig><reg>qu'elle</reg></mod> mange à la<lb/>
+maison le soir même. <mod type="corr"><orig>Aprés</orig><reg>Après</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> je vais rendre visite à <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>parent</orig><reg>parents</reg></mod>. §<lb/>
+
+<pb/>
+Ma mère <mod type="corr"><orig>ma prend</orig><reg>m'apprend</reg></mod> que mon <mod type="add" stage="" who=""><add>père</add></mod> <mod type="corr"><orig>revien<mod type="del" stage="" who=""><del>dra</del></mod></orig><reg>revient</reg></mod> <mod type="del" stage="" who=""><del>la</del></mod> demain l'Algérie et qu'il <mod type="corr"><orig>à</orig><reg>a</reg></mod><lb/>
+une surprise pour moi. Vers 13h30 je rentre chez moi pour manger. Le<lb/>
+soir vers 18h30 Elisa arrive à la <mod type="corr"><orig>maisons</orig><reg>maison</reg></mod>, elle m'aida à faire la cuisine.<lb/>
+<mod type="del" stage="" who=""><del>Vers 22h elle parti. JE débarasse la table et je vais dormir.</del></mod> §<lb/>
+<mod type="del" stage="" who=""><del>Je</del></mod> nous cuisinons ces pâtes carbonara, avec un <mod type="corr"><orig>talier</orig><reg>tablier</reg></mod> licorne, en <mod type="corr"><orig>chaussette</orig><reg>chaussettes</reg></mod>).<lb/>
+Vers 22h38 Elisa repartit <mod type="del" stage="" who=""><del>XXX#</del></mod> chez elle. Je <mod type="corr"><orig>débarraça</orig><reg>débarassai</reg></mod> la<lb/>
+table (les <mod type="corr"><orig>vers</orig><reg>verres</reg></mod>, les assiettes). Je <mod type="corr"><orig>m'y</orig><reg>me</reg></mod> <mod type="corr"><orig>m<mod type="del" stage="" who=""><del>e</del></mod>'on</orig><reg>mets en</reg></mod> pyjama et <mod type="corr"><orig>j allais</orig><reg>j'allais</reg></mod> me<lb/>
+coucher. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

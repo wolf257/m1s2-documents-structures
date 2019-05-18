@@ -1,0 +1,42 @@
+ Extraction (au format TXT) d'items en relation de dépendance syntaxique de type OBJ (les classer et les compter) dans titres.
+         
+Nous avons 38 items répondant à ce critère. 
+             
+ - PROREL 
+V - VINF 
+VINF - NC 
+V - NC 
+P - CLO 
+V - P 
+VINF - NC 
+VPP - NC 
+V - VINF 
+VPP - NPP 
+V - NC 
+V - VINF 
+V - NC 
+VINF - NC 
+V - NC 
+VINF - NC 
+V - NC 
+V - VINF 
+VINF - NC 
+V - NC 
+V - NC 
+V - NC 
+V - NC 
+V - VINF 
+VINF - NC 
+V - NC 
+V - NC 
+V - VINF 
+VINF - NPP 
+V - NPP 
+V - NC 
+V - NC 
+V - NC 
+V - VPP 
+V - VINF 
+V - NC 
+V - VINF 
+V - NC

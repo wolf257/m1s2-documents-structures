@@ -1,0 +1,136 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E9-V1
+</head>
+<p>
+<pb/>
+<metamark place=" " time="T3" who="P" style="underline">absente le 13 juin</metamark><lb/>
+
+Nelly avait répondu<hi place=" " time="T3" who="Pσ" style="underline">e</hi> oui moi aussi je t'aime,<lb/>
+<mod type="del" stage="" who=""><del><sup></sup>alors Pedro demanda la mains de la fille du maire</del></mod><lb/>
+alors Pedro demanda la <mod type="corr"><orig>mains</orig><reg>main</reg></mod> de la fille du maire.<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>l</del></mod></del><add stage="" who=""><sup></sup>L</add></mod>e père <mod type="corr"><orig><hi place=" " time="T2" who="Pσ" style="underline">dit oui</hi><metamark place=" " time="T3" who="P" style="underline">synonyme</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>accépeter</add></mod></orig><reg>accepta</reg></mod> et la mère aussi et les parents<lb/>
+du garçon di<hi place=" " time="T3" who="Pσ" style="underline">t</hi> oui le jeune garçon demande,<lb/> 
+veux tu m'<mod type="corr"><orig>aippouse<mod type="add" stage="T4" who=""><add><sup>T4</sup>épouse</add></mod></orig><reg>épouser</reg></mod> oui je le veux, <mod type="corr"><orig>allors</orig><reg>alors</reg></mod><lb/>
+les parents pareraire<mod type="add" stage="T2" who=""><add><sup>T2</sup>part<hi place=" " time="T3" who="Pσ" style="underline">è</hi>rent</add></mod> le<mod type="add" stage="T2" who=""><add><sup>T2</sup>au</add></mod> mariage <mod type="subst"><del><mod type="del" stage="" who=""><del><sup></sup>de</del></mod></del> <add stage="T2" who=""><sup>T2</sup>et</add></mod> <mod type="del" stage="T3" who="P"><del><sup>T3P</sup>se</del></mod> <mod type="corr"><orig>déssida<mod type="add" stage="T2" who=""><add><sup>T2</sup>dé<hi place=" " time="T3" who="Pσ" style="underline">ss</hi>idèrent</add></mod></orig><reg>décidèrent</reg></mod>
+
+de qui all<hi place=" " time="T3" who="Pσ" style="underline">er</hi> être les te<mod type="add" stage="T3" who=""><add><sup>T3P</sup>é</add></mod>moins de Nelly et Pedro.<lb/>
+
+<lb/>
+<mod type="del" stage="T3" who="P"><del><sup>T3P</sup>Ils ont dé<hi place=" " time="T3" who="Pσ" style="underline">ss</hi>ider de qui sa les être.</del></mod><metamark place=" " time="T3" who="P" style="underline">R inutile</metamark> 
+
+<hi place=" " time="T3" who="Pσ" style="underline">Les parents de Nelly et Pedro</hi>. <metamark place=" " time="T3" who="P" style="underline">Phrase incorrecte - à réécrire ou à ponctuer correctement.</metamark>
+
+<mod type="add"><add stage="T2" who=""><sup>T4</sup>Le père et la mère de Nelly et Pedro</add></mod>. 
+
+Pedro et Nelly o<hi place=" " time="T3" who="Pσ" style="underline">n</hi> une su<hi place=" " time="T3" who="Pσ" style="underline">re</hi>prise <metamark place=" " time="T3" who="P" style="underline">Phrase incorrecte - à réécrire ou à ponctuer correctement.</metamark> <mod type="add" stage="T3" who=""><add><sup>T3</sup>Ils ont tu une surprise</add></mod><lb/>
+<mod type="corr"><orig>anossez<mod type="add" stage="T2" who=""><add><sup>T2</sup>anonssèrent</add></mod><mod type="add" stage="T4" who=""><add><sup>T4</sup>anossaient</add></mod></orig><reg>à annoncer</reg></mod> que <mod type="del" stage="" who=""><del><sup></sup>N</del></mod> Nelly est enceinte. Les p#x#rents<mod type="add" stage="T2" who=""><add><sup>T2</sup>parents</add></mod> de<mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod> <mod type="corr"><orig>Pédro</orig><reg>Pedro</reg></mod><lb/>
+et Nelly ét<hi place=" " time="T3" who="Pσ" style="underline">é</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>étaient</add></mod> trop <mod type="corr"><orig>contente<hi place=" " time="T3" who="Pσ" style="underline">n</hi>t</orig><reg>contente</reg></mod> il <mod type="corr"><orig>dissez<mod type="add" stage="T2" who=""><add><sup>T2</sup>diss<hi place=" " time="T3" who="Pσ" style="underline">èrent</hi></add></mod></orig><reg>dirent</reg></mod><metamark place=" " time="T3" who="P" style="underline">temps</metamark> c'est une fille§
+
+<pb/>
+<metamark place=" " time="T3" who="P" style="underline">pas de ponctuation donc c'est incorrect.</metamark>§<lb/>
+ou un<mod type="del" stage="" who=""><del><sup></sup>e</del></mod> garçon <mod type="del" stage="" who=""><del><sup></sup>#xxx#</del></mod> nous <mod type="del" stage="" who=""><del><sup></sup>ne</del></mod> savons mais <mod type="del" stage="" who=""><del><sup></sup>#xxx#</del></mod> nous voulons<lb/>
+faire la sur<mod type="del" stage="T3" who="P"><del><sup>T3P</sup>e</del></mod>prise dans un mois vous le serez un <mod type="corr"><orig>moi</orig><reg>mois</reg></mod> <mod type="corr"><orig>pas<hi place=" " time="T3" who="Pσ" style="underline">ser</hi><metamark place=" " time="T3" who="P" style="underline">temps</metamark><mod type="add" stage="T4" who=""><add><sup>T4</sup>passez</add></mod></orig><reg>passé</reg></mod><lb/>
+les parents <mod type="corr"><orig>découvre<mod type="add" stage="T2" who=""><add><sup>T2</sup>découvr<hi place=" " time="T3" who="Pσ" style="underline">è</hi>rent</add></mod></orig><reg>découvrirent</reg></mod> le bébé cetter<mod type="add" stage="T2" who=""><add><sup>T2</sup>c'était</add></mod> une fille ils <mod type="corr"><orig>é<hi place=" " time="T3" who="Pσ" style="underline">té</hi> tou<hi place=" " time="T3" who="Pσ" style="underline">s</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>étaient touts</add></mod></orig><reg>étaient tous</reg></mod><lb/>
+<mod type="corr"><orig><hi place=" " time="T3" who="Pσ" style="underline">comtant</hi><mod type="add" stage="T4" who=""><add><sup>T4</sup>content</add></mod></orig><reg>contents</reg></mod> elle va s'<mod type="corr"><orig>appeller</orig><reg>appeler</reg></mod> Ilame elle fus grandise <mod type="add" stage="T4" who=""><add><sup>T4</sup>elle eus grandis.</add></mod> §<lb/>
+
+
+<mod type="subst"><del><mod type="del" stage="T2" who=""><del><sup>T2</sup>et</del></mod></del><add stage="T2" who=""><sup>T2</sup>Et</add></mod> <mod type="corr"><orig>fus</orig><reg>voulut</reg></mod> avoir d'<mod type="corr"><orig>autre</orig><reg>autres</reg></mod> enfants ensemble.
+<metamark place=" " time="T3" who="P" style="underline">Phrase incorrecte - à réécrire ou à ponctuer correctement.</metamark>
+<mod type="add" stage="T4" who=""><add><sup>T4</sup>Et <mod type="corr"><orig>eus</orig><reg>voulut</reg></mod> avoir d'<mod type="corr"><orig>autre</orig><reg>autres</reg></mod> enfants ensemble.</add></mod>§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

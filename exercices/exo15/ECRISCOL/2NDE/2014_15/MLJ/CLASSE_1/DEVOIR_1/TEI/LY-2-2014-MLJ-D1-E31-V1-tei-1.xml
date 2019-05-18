@@ -1,0 +1,133 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E31-V1
+</head>
+<p>
+Sous la nuit sans étoiles, d'une obscurité et<lb/>
+d'une <mod type="corr"><orig>epaisseur</orig><reg>épaisseur</reg></mod> d'encre, l'homme depuis<lb/>
+moment déjà marchait quand il aperçut au loin<lb/>
+la lumière d'un réverbère. Cette homme a pensait à plusieurs chose dans<lb/>
+sa tête mais ne savait pas quoi <mod type="corr"><orig>fai<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">r</add></mod>e</orig><reg>faire</reg></mod> Il <mod type="subst"><del><mod type="del" stage="" who=""><del>venait</del></mod><lb/></del><add stage="" who="">De plus</add></mod>, en <mod type="corr"><orig>passent</orig><reg>passant</reg></mod> par les rues étroites, <mod type="del" stage="" who=""><del>il s'était<lb/> fait voler son portefeuille, ses clefs, son portable...<lb/> il était</del></mod> un <mod type="del" stage="" who=""><del>homme une</del></mod> se <mod type="corr"><orig>prommenait</orig><reg>promenait</reg></mod> d'un air assez<lb/>
+ivre et <mod type="corr"><orig>étranges</orig><reg>étrange</reg></mod> <mod type="del" stage="" who=""><del>car tellement qu'il etait ivre il ne #XXX#</del></mod> <mod type="corr"><orig>etait</orig><reg>était</reg></mod> ivre car<lb/>
+il venait se sortir d'une boite de nuit <mod type="del" stage="" who=""><del>et donc il<lb/> ivre etait #XXX#</del></mod>. Il <mod type="corr"><orig>etait</orig><reg>était</reg></mod> vêtu d'une chemise blanche<lb/>
+mais <mod type="del" stage="" who=""><del>tache</del></mod> qui <mod type="corr"><orig>etait</orig><reg>était</reg></mod> <mod type="corr"><orig>taché</orig><reg>tâché</reg></mod> au moment <mod type="corr"><orig>ou</orig><reg>où</reg></mod> il<lb/>
+buvait de la bière ensuite il avait un<lb/>
+pantalon à moitié déchiré car il s'était<lb/>
+embrouillé avec un <mod type="corr"><orig>surveillants</orig><reg>surveillant</reg></mod>, assez costaud <mod type="del" stage="" who=""><del>comparaiment à lui</del></mod><lb/>
+car il ne pouvait pas payer les verres qu<mod type="del" stage="" who=""><del>i</del></mod>'il<lb/>
+avait bu <mod type="del" stage="" who=""><del>XXX#</del></mod> Il <mod type="del" stage="" who=""><del>etait</del></mod> avait l'air fatigué <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="" who=""><del>u</del></mod></del><add stage="T2" who="">'après</add></mod></orig><reg>d'après</reg></mod><lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>au</del></mod></del><add stage="T2" who="">les</add></mod> cernes qu'il avait, <mod type="add" stage="T2" who=""><add>plus précisemment</add></mod> Il avait les yeux rouges...<lb/>
+Il etait accompagné d'une jeune femme elle aussi<lb/>
+<mod type="corr"><orig>etait</orig><reg>était</reg></mod> ivre elle <mod type="corr"><orig>etait</orig><reg>était</reg></mod> <mod type="del" stage="" who=""><del>et</del></mod> vêtu d'une façon assez<lb/>
+"vulgaire" <mod type="subst"><del><mod type="del" stage="" who=""><del>donc avec des</del></mod></del><add stage="T2" who="">d'après ses</add></mod> colants déchirés, <mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">une</add></mod><lb/>
+mini-jupe noire et un haut <mod type="corr"><orig>courts</orig><reg>court</reg></mod> jusqu'en dessous<lb/>
+de sa poitrine de couleurs noir et blanc. Les vêtements<lb/>
+de la jeune femme <mod type="corr"><orig>là</orig><reg>la</reg></mod> caractérisait assez facilement.<lb/>
+Elle mettait en <mod type="corr"><orig>evidence</orig><reg>évidence</reg></mod> sa façon d'être. Il s'<lb/>
+<mod type="corr"><orig>etaient</orig><reg>étaient</reg></mod> <mod type="corr"><orig>connu<mod type="del" stage="" who=""><del>ent</del></mod></orig><reg>connus</reg></mod> ce soir-même. <mod type="del" stage="" who=""><del>Le jour</del></mod><lb/>
+L'homme était <mod type="corr"><orig>mariè</orig><reg>marié</reg></mod> et avait 2 enfants mais<lb/>
+il venait de perdre un proche donc il s'<mod type="corr"><orig>etait</orig><reg>était</reg></mod><lb/>
+<mod type="corr"><orig>mit</orig><reg>mis</reg></mod> à boire et ne savait pas ce qu'il faisait. §<lb/>
+
+<pb/>
+<mod type="del" stage="" who=""><del>ce qu'il faisait</del></mod> il chantait, il criait.<lb/>
+Les gens qui passaient <mod type="del" stage="" who=""><del>XXX#</del></mod> de cette même rue<lb/>
+prennaient de l'#XXX# car ils ne savaient<lb/>
+pas ce qu'il pouvait faire. §<lb/>
+<mod type="del" stage="" who=""><del>XXX# #XXX# #XXX#</del></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

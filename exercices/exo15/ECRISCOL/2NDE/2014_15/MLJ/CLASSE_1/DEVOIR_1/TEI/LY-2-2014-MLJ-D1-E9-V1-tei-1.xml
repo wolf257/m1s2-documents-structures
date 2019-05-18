@@ -1,0 +1,129 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E9-V1
+</head>
+<p>
+<pb/>
+
+Sous la nuit sans étoiles, d'une obscurité et d'une épaisseur<lb/>
+d'encre, l'homme depuis un moment déjà marchait quand il aperçut<lb/>
+au loin la lumière d'un réverbère. <mod type="del" stage="" who=""><del>Quand</del></mod> il s'approcha de<lb/>
+cette lumière, <mod type="del" stage="" who=""><del>on pouvait appercevoir son visage qui exprimait<lb/>
+un #XXX# la tristesse en effet il y avait un banc où il</del></mod><lb/>
+<mod type="add" stage="" who=""><add>quand il</add></mod> s'assit <mod type="del" stage="" who=""><del>là-dessus</del></mod> sur un banc qui était près du<lb/>
+réverbère, il regarda cette lumière <mod type="add" stage="" who=""><add>si inténsement qu'on pouvait croire qu'il cherchait une lueur d'espoir</add></mod> <mod type="del" stage="" who=""><del>avec un</del></mod> <mod type="add" stage="" who=""><add>car ses yeux exprimaient un profond</add></mod> sentiment<lb/>
+de tristesse. <mod type="del" stage="" who=""><del>Comme si il avait</del></mod> <mod type="add" stage="" who=""><add>Peut-être avait-il</add></mod> perdu un proche, <mod type="del" stage="" who=""><del>Effectivement</del></mod> <mod type="add" stage="" who=""><add>on pouvait</add></mod><lb/>
+<mod type="add" stage="" who=""><add>confirmer cette question</add></mod> en regardant <mod type="subst"><del><mod type="del" stage="" who=""><del>son accoutrement</del></mod></del><add stage="" who="">sa tenue</add></mod> on pouvait <mod type="subst"><del><mod type="del" stage="" who=""><del>affirmer</del></mod></del><add stage="" who="">croire</add></mod> <lb/>
+qu'il revenait d'un enterrement. Il était habillé d'une<lb/>
+veste en cuir marron qui n'était pas <mod type="corr"><orig>fermé</orig><reg>fermée</reg></mod>, on pouvait alors<lb/>
+donc voir une chemise noire <mod type="add" stage="" who=""><add>qui faisait ressortir ses muscles</add></mod> avec 2 boutons qui n'étaient<lb/>
+pas fermés. Comme bas, il était habillé d'un slim noir<lb/>
+qui virait au bleu de nuit, et pour finir il avait ces bottes<lb/>
+en cuir. Cet accoutrement sombre <mod type="del" stage="" who=""><del>méttait en valeur</del></mod> <mod type="add" stage="" who=""><add>faisait un</add></mod><lb/>
+<mod type="add" stage="" who=""><add>contraste avec</add></mod> sa <mod type="del" stage="" who=""><del>couleur de</del></mod> peau qui était <mod type="del" stage="" who=""><del>de</del></mod> <mod type="add" stage="" who=""><add>la même</add></mod> couleur qu'un<lb/>
+cachet d'aspirine. §<lb/>
+<mod type="del" stage="" who=""><del>Sur son visage, ses lèvres fines #XXX# il pinçait<lb/>
+ses</del></mod> Quant à son visage, <mod type="del" stage="" who=""><del>ses yeux</del></mod> la couleur<lb/>
+de ses yeux étaient d'une beauté, cela <mod type="corr"><orig>melangéait</orig><reg>mélangeait</reg></mod><lb/>
+un bleu et un peu de vert. Quand il pinçait une de<lb/>
+ses lèvres fines, on pouvait constater qu'il avait<lb/>
+envie de pleurer. <mod type="del" stage="" who=""><del>Il avai</del></mod> trois grains de beauté<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> faisaient leur apparition <mod type="subst"><del><mod type="del" stage="" who=""><del>quand</del></mod></del><add stage="" who="">lorsqu'</add></mod> il <lb/>
+tournait la tête, par ailleurs il avait une barbe<lb/>
+rasée sur les côtés qui donnait une forme "carré". §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,124 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2016-MLJ-D1-E12-V1
+</head>
+<p>
+<pb/>
+Julie après <mod type="corr"><orig>quelque</orig><reg>quelques</reg></mod> <mod type="corr"><orig>instant</orig><reg>instants</reg></mod> de marche, est arrivée à<lb/>
+son arrêt de bus <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">h</add></mod>abituel</orig><reg>habituel</reg></mod>. Il est 7h49 l'heure où le<lb/>
+bus débarquait dans <mod type="corr"><orig>cette</orig><reg>cet</reg></mod> arrêt tout gris, elle était seule.<lb/>
+elle montait dans ce bus <mod type="del" stage="" who=""><del>de couleur</del></mod> violet<mod type="del" stage="" who=""><del>te</del></mod>, elle seule<lb/>
+face au controleur lui demandant sa destination, Julie<lb/>
+répondit:"le <mod type="corr"><orig>chauchou</orig><reg>chautron</reg></mod> baveur" d'une <mod type="add" stage="" who=""><add>voix</add></mod> timide. §<lb/>
+Et là, une tête accrochée au rétroviseur du bus se <mod type="corr"><orig>mis</orig><reg>mit</reg></mod> à<lb/>
+parler « Ok, alors c'est parti!! », d'un coup sec, le bus <mod type="corr"><orig>parti</orig><reg>partit</reg></mod><lb/>
+de suite. Il <mod type="corr"><orig>trave<mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">r</add></mod>sait</orig><reg>traversait</reg></mod> les rues de <mod type="corr"><orig>londre</orig><reg>Londres</reg></mod> à vive allure,<lb/>
+une vitesse incroyable après un quart d'heure de trajet<lb/>
+le bus desservit à l'arret demandé<mod type="del" stage="" who=""><del>r</del></mod>. <mod type="corr"><orig>elle</orig><reg>Elle</reg></mod> <mod type="del" stage="" who=""><del>est</del></mod> les remercia et<lb/>
+<mod type="corr"><orig>desçendit</orig><reg>descendit</reg></mod> du bus pour se figer devant un bâtiment sombre<lb/>
+et peu lumineux. §<lb/>
+
+<pb/>
+elle regarda la pancarte de l'Auberge qui était à la base vide<lb/>
+qui soudain, il se <mod type="corr"><orig>gravi</orig><reg>grava</reg></mod> Le <mod type="corr"><orig>chauchou</orig><reg>chautron</reg></mod> baveur. §<lb/>
+Julie entra dnas l'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">A</add></mod>uberge</orig><reg>auberge</reg></mod>, c'était une salle, <mod type="corr"><orig>trois</orig><reg>très</reg></mod> grande d'un<lb/>
+gris sale, caché par <mod type="corr"><orig>de</orig><reg>des</reg></mod> <mod type="corr"><orig>multitude</orig><reg>multitudes</reg></mod> de <mod type="corr"><orig>tableau</orig><reg>tableaux</reg></mod> sur lequels les portraits<lb/>
+s'<mod type="corr"><orig>animai<mod type="subst"><del><mod type="del" stage="" who=""><del>t</del></mod></del><add stage="" who="">ent</add></mod></orig><reg>animaient</reg></mod>. §<lb/>
+<mod type="corr"><orig>elle</orig><reg>Elle</reg></mod> était <mod type="corr"><orig>émerv<mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="" who="">e</add></mod>illé</orig><reg>émerveillée</reg></mod> par <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>s<mod type="del" stage="" who=""><del>ep</del></mod>pectacle</orig><reg>spectacle</reg></mod>, tout <mod type="corr"><orig>bougeaient</orig><reg>bougeait</reg></mod> par magie.<lb/>
+<mod type="corr"><orig>quelque</orig><reg>Quelques</reg></mod> <mod type="corr"><orig>min</orig><reg>minutes</reg></mod> après elle vit §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

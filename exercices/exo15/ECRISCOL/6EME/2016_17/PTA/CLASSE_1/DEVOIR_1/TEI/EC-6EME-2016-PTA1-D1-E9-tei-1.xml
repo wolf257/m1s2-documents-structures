@@ -1,0 +1,143 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D1-E9
+</head>
+<p>
+<pb/>
+<mod type="corr"><orig>gan</orig><reg>Quand</reg></mod> je <mod type="corr"><orig>seré</orig><reg>serai</reg></mod> adulte <mod type="corr"><orig>se</orig><reg>je</reg></mod> serai <mod type="corr"><orig>paisajiste</orig><reg>paysagiste</reg></mod> <mod type="corr"><orig>ca</orig><reg>car</reg></mod> <mod type="corr"><orig>jaime</orig><reg>j'aime</reg></mod> <mod type="corr"><orig>travailé</orig><reg>travailler</reg></mod> <mod type="corr"><orig>deore</orig><reg>dehors</reg></mod> <mod type="corr"><orig>cléme</orig><reg>j'aime</reg></mod> <mod type="corr"><orig>tamdre</orig><reg>peindre</reg></mod>,<lb/>
+#XXX#. <mod type="corr"><orig>gé</orig><reg>J'</reg></mod> <mod type="corr"><orig>méré</orig><reg>aimerais</reg></mod> <mod type="corr"><orig>étre</orig><reg>être</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>com</orig><reg>comme</reg></mod> <mod type="corr"><orig>conte</orig><reg>compte</reg></mod> <mod type="corr"><orig>joré</orig><reg>j'aurai</reg></mod> <mod type="corr"><orig>qu'elle que</orig><reg>quelques</reg></mod> <mod type="corr"><orig>matariéle</orig><reg>matériaux</reg></mod><lb/>
+je <mod type="corr"><orig>fré</orig><reg>ferai</reg></mod> <mod type="corr"><orig>ausi</orig><reg>aussi</reg></mod> de la #XXX# <mod type="corr"><orig>pouré</orig><reg>pourrai</reg></mod> faire des <mod type="corr"><orig>ba</orig><reg>bas</reg></mod> <mod type="corr"><orig>terin</orig><reg>terrains</reg></mod>. §<lb/>
+Le <mod type="corr"><orig>truque</orig><reg>truc</reg></mod> que j'aime <mod type="corr"><orig>s'ai</orig><reg>c'est</reg></mod> <mod type="corr"><orig>surtou</orig><reg>surtout</reg></mod> <mod type="corr"><orig>tandre</orig><reg>tondre</reg></mod> <mod type="corr"><orig>jai</orig><reg>j'ai</reg></mod> mais<lb/>
+je <mod type="corr"><orig>pren</orig><reg>prends</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> chaque <mod type="corr"><orig>foi</orig><reg>fois</reg></mod> le <mod type="corr"><orig>tacteure</orig><reg>tracteur</reg></mod> tondeuse et mon père<lb/>
+fait plus <mod type="corr"><orig>rins</orig><reg>rien</reg></mod>. <mod type="corr"><orig>majourné</orig><reg>Ma journée</reg></mod> que je <mod type="corr"><orig>réveré</orig><reg>rêvais</reg></mod> faire dans le<lb/>
+<mod type="corr"><orig>péisajiste</orig><reg>paysagiste</reg></mod> c'est <mod type="subst"><del><mod type="del" stage="" who=""><del>te</del></mod></del><add stage="" who="">de</add></mod> <mod type="corr"><orig>travai</orig><reg>travail</reg></mod> pour tous <mod type="corr"><orig>se</orig><reg>ceux</reg></mod> qui <mod type="corr"><orig>et</orig><reg>est</reg></mod><lb/>
+#XXX# <mod type="corr"><orig>entre teni</orig><reg>entretint</reg></mod> les <mod type="corr"><orig>terim</orig><reg>terrains</reg></mod> <mod type="del" stage="" who=""><del>l</del></mod> et <mod type="corr"><orig>se</orig><reg>ceux</reg></mod> que<lb/>
+<mod type="corr"><orig>jéme</orig><reg>j'aime</reg></mod>, c'est <mod type="corr"><orig>surtous</orig><reg>surtout</reg></mod> <mod type="corr"><orig>respécté</orig><reg>respecter</reg></mod> la nature. §<lb/>
+<mod type="corr"><orig>faire</orig><reg>Faire</reg></mod> #XXX# <mod type="corr"><orig>journé</orig><reg>journée</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>entretenire</orig><reg>entretenir</reg></mod>. §<lb/>
+<mod type="corr"><orig>come</orig><reg>Comment</reg></mod> faire une autre de maison <mod type="corr"><orig>propr</orig><reg>propre</reg></mod> mais<lb/>
+<mod type="del" stage="" who=""><del>con</del></mod> <mod type="corr"><orig>quan</orig><reg>quand</reg></mod> <mod type="corr"><orig>je tuderé</orig><reg>j'étuderai</reg></mod> je ferai un <mod type="corr"><orig>baut</orig><reg>beau</reg></mod> <mod type="corr"><orig>térin</orig><reg>terrain</reg></mod><lb/>
+<mod type="corr"><orig>chémois</orig><reg>chez moi</reg></mod> <mod type="corr"><orig>ché</orig><reg>chez</reg></mod> ma <mod type="del" stage="" who=""><del>seu</del></mod> <mod type="corr"><orig>seur</orig><reg>soeur</reg></mod> lui <mod type="corr"><orig>taiel</orig><reg>tailler</reg></mod> la<lb/>
+<mod type="corr"><orig>hée</orig><reg>hebe</reg></mod> <mod type="corr"><orig>méapre</orig><reg>âpre</reg></mod> je <mod type="corr"><orig>nouri</orig><reg>nourris</reg></mod> plus #XXX#<lb/>
+car <mod type="corr"><orig>joré</orig><reg>j'aurai</reg></mod> <mod type="corr"><orig>neutétre</orig><reg>neutralisé</reg></mod> <mod type="corr"><orig>plin</orig><reg>plein</reg></mod> de travail<lb/>
+enfin <mod type="corr"><orig>chespére</orig><reg>j'espère</reg></mod>. <mod type="corr"><orig>je</orig><reg>Je</reg></mod> <mod type="corr"><orig>renderé</orig><reg>rendrai</reg></mod> <mod type="corr"><orig>eure</orig><reg>heureux</reg></mod><lb/>
+la nature je <mod type="corr"><orig>ramaseré</orig><reg>ramasserai</reg></mod> tous les<lb/>
+<mod type="corr"><orig>deché</orig><reg>déchets</reg></mod> des <mod type="corr"><orig>mauvése</orig><reg>mauvaises</reg></mod> <mod type="corr"><orig>pérsone</orig><reg>personnes</reg></mod> qui <mod type="corr"><orig>neles</orig><reg>ne laissent</reg></mod> la<lb/>
+nature, je ferai des <mod type="corr"><orig>baut</orig><reg>beaux</reg></mod> #XXX#,<lb/>
+#XXX#: <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>seura</orig><reg>sera</reg></mod> de #XXX# les<lb/>
+<mod type="corr"><orig>monumen</orig><reg>monuments</reg></mod> histoire <mod type="corr"><orig>dontre</orig><reg>d'autre</reg></mod> <mod type="corr"><orig>toié</orig><reg>taillé</reg></mod> les <mod type="corr"><orig>hées</orig><reg>hebes</reg></mod> §<lb/>
+
+<pb/>
+#XXX# <mod type="corr"><orig>aplatire</orig><reg>aplatir</reg></mod> les #XXX#<lb/>
+les #XXX# et ma <mod type="corr"><orig>deusiéme</orig><reg>deuxième</reg></mod> <mod type="corr"><orig>journé</orig><reg>journée</reg></mod> que<lb/>
+<mod type="corr"><orig>jémeré</orig><reg>j'aimerais</reg></mod> <mod type="corr"><orig>bin</orig><reg>bien</reg></mod> <mod type="corr"><orig>fére</orig><reg>faire</reg></mod> <mod type="del" stage="" who=""><del>ot</del></mod> <mod type="corr"><orig>séde</orig><reg>aussi</reg></mod> <mod type="corr"><orig>crée</orig><reg>créer</reg></mod> un <mod type="corr"><orig>térin</orig><reg>terrain</reg></mod><lb/>
+<mod type="corr"><orig>an</orig><reg>en</reg></mod> moi #XXX# <mod type="corr"><orig>au apré</orig><reg>auprès</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="corr"><orig>seura</orig><reg>sera</reg></mod> #XXX#<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>touslemonte</del></mod></del><add stage="" who="">toulemond</add></mod></orig><reg>tout le monde</reg></mod> #XXX# <mod type="corr"><orig>sédéfére</orig><reg>c'est de faire</reg></mod><lb/>
+des #XXX#. Et ma <mod type="corr"><orig>troisiéme</orig><reg>troisième</reg></mod> <mod type="del" stage="" who=""><del>o</del></mod> <mod type="corr"><orig>journé</orig><reg>journée</reg></mod> que<lb/>
+<mod type="corr"><orig>jéméré</orig><reg>j'aimerais</reg></mod> faire <mod type="corr"><orig>sé</orig><reg>c'est</reg></mod> de <mod type="corr"><orig>taié</orig><reg>tailler</reg></mod> les <mod type="corr"><orig>hée</orig><reg>hebes</reg></mod> des <mod type="corr"><orig>lunbirinte</orig><reg>labyrinthes</reg></mod><lb/>
+et <mod type="corr"><orig>métre</orig><reg>mettre</reg></mod> du #XXX# <mod type="del" stage="" who=""><del>ti</del></mod> si la #XXX# <mod type="corr"><orig>commense</orig><reg>commence</reg></mod><lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>étre</orig><reg>être</reg></mod> en <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>tére</del></mod></del><add stage="" who="">tére</add></mod></orig><reg>terre</reg></mod>. <mod type="corr"><orig>le</orig><reg>Le</reg></mod> <mod type="corr"><orig>matariéle</orig><reg>matériel</reg></mod> que<lb/>
+<mod type="corr"><orig>jémeré</orig><reg>j'aimerais</reg></mod> <mod type="corr"><orig>avoire</orig><reg>avoir</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> <mod type="del" stage="" who=""><del>t</del></mod> <mod type="corr"><orig>seré</orig><reg>serait</reg></mod> un <mod type="corr"><orig>#X#tracteur</orig><reg>tracteur</reg></mod><lb/>
+#XXX# KUBOTA un <mod type="corr"><orig>maniton</orig><reg>manitou</reg></mod> une <mod type="corr"><orig>miniséle</orig><reg>mini-selle</reg></mod><lb/>
+un porte chose un plate un <mod type="corr"><orig>tractéur</orig><reg>tracteur</reg></mod><lb/>
+#XXX# un mini tracteur <mod type="del" stage="" who=""><del>une la</del></mod> un #XXX#<lb/>
+un #XXX# un <mod type="del" stage="" who=""><del>XXX#</del></mod> #XXX#. §<lb/>
+<mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>chémeré</orig><reg>j'aimerai</reg></mod> <mod type="corr"><orig>avoire</orig><reg>avoir</reg></mod> une <mod type="del" stage="" who=""><del>crante</del></mod> #XXX#<lb/>
+<mod type="corr"><orig>antreprise</orig><reg>entreprise</reg></mod> dans la #XXX# et <mod type="corr"><orig>avoire</orig><reg>avoir</reg></mod><lb/>
+des #XXX# #XXX# des <mod type="corr"><orig>camiones</orig><reg>camions</reg></mod>. <mod type="del" stage="" who=""><del>et le non<lb/>
+de mon matre prise sera #XXX#</del></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

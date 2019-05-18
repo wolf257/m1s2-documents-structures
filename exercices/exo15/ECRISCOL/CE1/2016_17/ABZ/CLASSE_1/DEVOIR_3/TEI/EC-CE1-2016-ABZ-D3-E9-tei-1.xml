@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2016-ABZ-D3-E9
+</head>
+<p>
+La <mod type="corr"><orig>maîtr#X#aisse</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>les#X#</orig><reg>les</reg></mod> <mod type="corr"><orig>paren</orig><reg>parents</reg></mod> <mod type="corr"><orig>dis</orig><reg>disent</reg></mod>. <mod type="del" stage="" who=""><del>et</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who="P"><del>p</del></mod></del><add stage="T2" who="P">P</add></mod>uis</orig><reg>Puis</reg></mod> le <mod type="corr"><orig>landemain</orig><reg>lendemain</reg></mod> <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>laméne<mod type="del" stage="" who=""><del>XX#</del></mod></orig><reg>l’amènent</reg></mod> <mod type="corr"><orig>pat</orig><reg>pas</reg></mod><lb/>
+à l’école <mod type="add" stage="T2" who="P"><add>pour le punir</add></mod>. <mod type="del" stage="" who=""><del>et puis</del></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who="P"><del>l</del></mod></del><add stage="T2" who="P">L</add></mod>e</orig><reg>Le</reg></mod> <mod type="corr"><orig>landemain</orig><reg>lendemain</reg></mod> <mod type="corr"><orig>i</orig><reg>ils</reg></mod> <mod type="corr"><orig>dize</orig><reg>disent</reg></mod> à <mod type="corr"><orig>cocodile </orig><reg>Cocodi</reg></mod><lb/>
+de ne manger <mod type="corr"><orig>péressone</orig><reg>personne</reg></mod> <mod type="add" stage="T2" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="T2" who="P"><del>l</del></mod></del><add stage="T2" who="P">L</add></mod>e</orig><reg>Le</reg></mod> soir <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>regareda </orig><reg>regardèrent</reg></mod><lb/>
+dans la bouche et <mod type="corr"><orig>vu rien<mod type="add" stage="T2" who="P"><add>il ne voient rien</add></mod></orig><reg>ils ne voient rien</reg></mod> <mod type="del" stage="" who=""><del>XX#</del></mod>. <mod type="add" stage="T2" who="P"><add>Ils lui dirent c’est bien.</add></mod><lb/>
+La maîtresse <mod type="corr"><orig>mai</orig><reg>mais</reg></mod> tu <mod type="corr"><orig>va</orig><reg>vas</reg></mod> pas bien <mod type="add" stage="T2" who="P"><add>!</add></mod> <mod type="corr"><orig>mais</orig><reg>Mais</reg></mod> <mod type="add" stage="T2" who="P"><add>ils décident</add></mod><lb/>
+le il la mange <mod type="corr"><orig>quam<mod type="del" stage="" who=""><del>X#</del></mod></orig><reg>quand</reg></mod> <mod type="corr"><orig>aime</orig><reg>même</reg></mod>. §<lb/>
+
+
+
+
+
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

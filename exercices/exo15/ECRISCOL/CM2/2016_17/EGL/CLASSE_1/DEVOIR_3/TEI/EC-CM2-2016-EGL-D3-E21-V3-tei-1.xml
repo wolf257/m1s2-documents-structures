@@ -1,0 +1,108 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E21-V3
+</head>
+<p>
+J'irais <mod type="corr"><orig>an</orig><reg>en</reg></mod> <mod type="corr"><orig>vacanser</orig><reg>vacances</reg></mod> et j'irais <mod type="corr"><orig>vi si tes</orig><reg>visiter</reg></mod> le zoo <mod type="del" stage="" who=""><del>jen</del></mod><lb/>
+j'irai me <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>pronse</del></mod></del><add stage="" who="">promener</add></mod></orig><reg>promener</reg></mod>. Ensuite j'irai faire<lb/>
+les <mod type="corr"><orig>magasin</orig><reg>magasins</reg></mod> et me promener avec mon mari et au<lb/>
+travai je l'<mod type="corr"><orig>amenerai</orig><reg>amènerai</reg></mod> chez le <mod type="corr"><orig>coiffer</orig><reg>coiffeur</reg></mod> et <mod type="corr"><orig>en</orig><reg>chez</reg></mod> <mod type="corr"><orig>més</orig><reg>mes</reg></mod> <mod type="corr"><orig>pane</orig><reg>parents</reg></mod><lb/>
+et pour la NoËl et <mod type="corr"><orig>a</orig><reg>à</reg></mod> Walt Disney à la <mod type="subst"><del><mod type="del" stage="" who=""><del>neaige</del></mod></del><add stage="" who="">neige</add></mod><lb/>
+j'irai à <mod type="corr"><orig>lion</orig><reg>Lyon</reg></mod> et dans tous les plus <mod type="corr"><orig>grande</orig><reg>grands</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>paiui</del></mod></del><add stage="" who="">paiui</add></mod></orig><reg>pays</reg></mod><lb/>
+et <mod type="corr"><orig>fait</orig><reg>faire</reg></mod> <mod type="corr"><orig>de</orig><reg>des</reg></mod> <mod type="corr"><orig>paicnic</orig><reg>pique-nique</reg></mod> et j'irai <mod type="corr"><orig>fért</orig><reg>faire</reg></mod> les <mod type="corr"><orig>zongle</orig><reg>ongles</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

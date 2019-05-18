@@ -1,0 +1,144 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D4-E14-V2
+</head>
+<p>
+<pb/>
+Il réesseya sur le mur de la mairie, sauf<lb/>
+qu'il avait <mod type="corr"><orig>o<mod type="del" stage="" who=""><del><sup></sup>#x#</del></mod>blier</orig><reg>oublié</reg></mod>:Nelly n'habite pas<lb/> 
+dans la mairie. Puis il a aussi <mod type="del" stage="" who=""><del><sup></sup>ou</del></mod> <mod type="corr"><orig>oblié</orig><reg>oublié</reg></mod><lb/>
+qu'il peut avoir une amende d'avoir écrit<lb/>
+«Nelly, je t'aime» à la peinture noire. Donc<lb/>
+il esseya d'<mod type="corr"><orig>anlever</orig><reg>enlever</reg></mod> la peinture et regarda<lb/> 
+sur le pot de peinture comment cela <mod type="corr"><orig>pouvé</orig><reg>pouvait</reg></mod><lb/>
+s'enlever et il y avait marqué «NON <mod type="corr"><orig>EFFÇABL</orig><reg>effaçable</reg></mod><lb/>
+alors il eut l'idée de mettre une banderole<lb/> 
+où il y avait d'écrit «MAIRIE». Le lendemain<lb/>
+matin le maire arriva et <mod type="corr"><orig>vie</orig><reg>vit</reg></mod> la banderole et<lb/> 
+Pedro était devant, le maire demanda que fait<lb/> 
+cette <mod type="corr"><orig>banderol</orig><reg>banderole</reg></mod> sur ma mairie Pedro répondit:§
+«SURPRISE!!!ca vous plaît?»§
+Le maire lui dit:§
+«En quel honneur?»§
+Pedro dit:§
+-«Pour mieux savoir où est la mairie.»§
+Le maire <mod type="del" stage="" who=""><del><sup></sup>répondit</del></mod> <mod type="corr"><orig>répondis</orig><reg>répondit</reg></mod>:§
+«Mais tout le monde <mod type="corr"><orig>ces</orig><reg>sait</reg></mod> où est la mairie!»§
+Pedro lui dit:§
+-«d'accord»§
+Alors il repartit chez lui et <mod type="corr"><orig>vie</orig><reg>vit</reg></mod> Nelly, il alla la§
+voir et lui dit:§
+-«Nelly, je t'aime!»§
+Nelly lui dit§
+-«Je t'ai cherché partout pour te dire que moi<lb/> 
+aussi je t'<mod type="corr"><orig><mod type="del" stage="" who=""><del><sup></sup>aim</del></mod>aimer</orig><reg>aime</reg></mod>!»§
+Pedro lui répondit:§
+
+<pb/>
+-«Mais tu <mod type="del" stage="" who=""><del><sup></sup>na</del></mod> n'as pas vu toutes les pancartes que<lb/> 
+j'ai accroché, partout et les <mod type="corr"><orig>pilié</orig><reg>pilliers</reg></mod> de béton sur<lb/> 
+les chemins de fer avec écrit «Nelly, je t'aime»§
+Nelly lui dit:§
+«NON, je n'ai pas vu, mais <mod type="corr"><orig>s'</orig><reg>c'</reg></mod>est pas grave le plus<lb/> 
+important <mod type="corr"><orig>ses</orig><reg>c'est</reg></mod> que nous nous <mod type="corr"><orig>émions</orig><reg>aimons</reg></mod> non?»<lb/>
+Pedro lui dit:§
+-«Tu as raison on reste ensemble dans le même<lb/>
+appartement!»§
+Nelly répondit:§
+-«OUI, on reste ensemble!»§</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE1-2014-ABZ2-D1-E1
+</head>
+<p>
+Il <mod type="corr"><orig>par<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>part</reg></mod> <mod type="corr"><orig>é<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>et</reg></mod> il <mod type="corr"><orig>r<mod type="subst"><del><mod type="del" stage="" who="P"><del>o</del></mod></del><add stage="" who="P">e</add></mod>ncontre</orig><reg>rencontre</reg></mod> <mod type="corr"><orig>dé<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>des</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>férié</del></mod></del><add stage="" who="">férmié</add></mod></orig><reg>fermiers</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>cile</del></mod></orig><reg>qui</reg></mod> <mod type="corr"><orig>voul<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">aient</add></mod></orig><reg>voulaient</reg></mod> le <mod type="corr"><orig>man<mod type="subst"><del><mod type="del" stage="" who="P"><del>j</del></mod></del><add stage="" who="P">g</add></mod>gé<mod type="add" stage="" who="P"><add>r</add></mod></orig><reg>manger</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>au</del></mod></del><add stage="" who="P">Oh</add></mod></orig><reg>Oh</reg></mod> un.<lb/>
+cochon <mod type="add" stage="" who="P"><add>!</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>j</del></mod></del><add stage="" who="P">J</add></mod>e</orig><reg>Je</reg></mod> <mod type="corr"><orig>v<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">ais</add></mod></orig><reg>vais</reg></mod> bien <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>mge</del></mod></del><add stage="" who="P">manger</add></mod></orig><reg>manger</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>se</del></mod></del><add stage="" who="P">ce</add></mod></orig><reg>ce</reg></mod> <mod type="corr"><orig>soir<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>soir</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>m</del></mod></del><add stage="" who="P">M</add></mod>a</orig><reg>Ma</reg></mod> <mod type="corr"><orig>f<mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">e</add></mod>mme</orig><reg>femme</reg></mod> va <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">ê</add></mod>tre</orig><reg>être</reg></mod> <mod type="corr"><orig>cont<mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">e</add></mod>nte</orig><reg>contente</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod><lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>b</del></mod></del><add stage="" who="P">B</add></mod>on</orig><reg>Bon</reg></mod> <mod type="add" stage="" who="P"><add>,</add></mod> je te <mod type="corr"><orig>ram<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">è</add></mod>n<mod type="add" stage="" who="P"><add>e.</add></mod></orig><reg>ramène</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>m</del></mod></del><add stage="" who="P">M</add></mod>ai<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>Mais</reg></mod> le cochon <mod type="corr"><orig>ét<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ait</add></mod></orig><reg>était</reg></mod> <mod type="corr"><orig>antrai</orig><reg>en train</reg></mod> <mod type="add" stage="" who="P"><add>en train</add></mod> de <mod type="corr"><orig>do<mod type="add" stage="" who="P"><add>r</add></mod>mir<mod type="del" stage="" who="P"><del>e</del></mod></orig><reg>dormir</reg></mod>. §<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>l</del></mod></del><add stage="" who="P">L</add></mod>e</orig><reg>Le</reg></mod> soir <mod type="corr"><orig>ést tariv<mod type="subst"><del><mod type="del" stage="" who="P"><del>ai</del></mod></del><add stage="" who="P">é</add></mod></orig><reg>est arrivé</reg></mod> <mod type="corr"><orig>e<mod type="del" stage="" who="P"><del>s</del></mod>t</orig><reg>et</reg></mod> le cochon se <mod type="corr"><orig>rev<mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">e</add></mod>ille</orig><reg>réveille</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>l</del></mod></del><add stage="" who="P">L</add></mod>e</orig><reg>Le</reg></mod> <mod type="corr"><orig>férmi<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>fermier</reg></mod><lb/>
+va le <mod type="corr"><orig>coupé<mod type="add" stage="" who="P"><add>r</add></mod></orig><reg>couper</reg></mod> <mod type="corr"><orig>mai<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>mais</reg></mod> le <mod type="corr"><orig>télé<mod type="subst"><del><mod type="del" stage="" who="P"><del>f</del></mod></del><add stage="" who="P">ph</add></mod>on<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>téléphone</reg></mod> <mod type="corr"><orig>son<mod type="add" stage="" who="P"><add>n</add></mod>e</orig><reg>sonne</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>mai</del></mod></del><add stage="" who="P">Mais</add></mod></orig><reg>Mais</reg></mod> le cochon <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>esseil</del></mod></del><add stage="" who="P">esseye</add></mod></orig><reg>essaie</reg></mod> de<lb/> 
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>sonfire</del></mod></del><add stage="" who="P">s'enfuir</add></mod></orig><reg>s’enfuir</reg></mod>. <mod type="corr"><orig><mod type="del" stage="" who="P"><del>mai</del></mod></orig><reg>mais</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>Pl</del></mod></del><add stage="" who="P">L</add></mod>a</orig><reg>La</reg></mod> porte <mod type="corr"><orig>ét<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ait</add></mod></orig><reg>était</reg></mod> <mod type="corr"><orig>férmé<mod type="add" stage="" who="P"><add>e.</add></mod></orig><reg>fermée</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">I</add></mod>l</orig><reg>Il</reg></mod> <mod type="corr"><orig>eséllea</orig><reg>essaya</reg></mod> <mod type="add" stage="" who="P"><add>essaya</add></mod> de <mod type="corr"><orig>s<mod type="subst"><del><mod type="del" stage="" who="P"><del>o</del></mod></del><add stage="" who="P">e</add></mod>nfuir</orig><reg>s’enfuir</reg></mod><lb/>
+par la <mod type="corr"><orig>fen<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ê</add></mod>tre</orig><reg>fenêtre</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>l</del></mod></del><add stage="" who="P">L</add></mod>e</orig><reg>Le</reg></mod> <mod type="corr"><orig>férmi<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>fermier</reg></mod> <mod type="corr"><orig>d<mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">é</add></mod>couvre</orig><reg>découvre</reg></mod> <mod type="corr"><orig>cil</orig><reg>qu'il</reg></mod> <mod type="add" stage="" who="P"><add>qu'il n'</add></mod> <mod type="corr"><orig>ét<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">ait</add></mod></orig><reg>était</reg></mod> <mod type="corr"><orig>pa<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>pas</reg></mod> <mod type="corr"><orig>mor<mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>mort</reg></mod><lb/>
+<mod type="corr"><orig>m<mod type="subst"><del><mod type="del" stage="" who="P"><del>ai</del></mod></del><add stage="" who="P">ais</add></mod></orig><reg>mais</reg></mod> <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who="P"><del>otr</del></mod></del><add stage="" who="P">'autre</add></mod></orig><reg>l’autre</reg></mod> <mod type="corr"><orig>férmi<mod type="subst"><del><mod type="del" stage="" who="P"><del>é</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>fermier</reg></mod> <mod type="corr"><orig>a<mod type="add" stage="" who="P"><add>r</add></mod>rive</orig><reg>arrive</reg></mod> <mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>i</del></mod></del><add stage="" who="P">I</add></mod>l</orig><reg>Il</reg></mod> le <mod type="corr"><orig>recupé<mod type="add" stage="" who="P"><add>re</add></mod></orig><reg>récupère</reg></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>éla</del></mod></del><add stage="" who="P">et là</add></mod></orig><reg>et là</reg></mod> le cochon lui<lb/>
+<mod type="corr"><orig>racont<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>raconte</reg></mod> tout <mod type="add" stage="" who="P"><add>.</add></mod> §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

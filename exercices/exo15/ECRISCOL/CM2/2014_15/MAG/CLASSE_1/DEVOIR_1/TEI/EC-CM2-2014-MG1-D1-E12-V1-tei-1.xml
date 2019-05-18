@@ -1,0 +1,130 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E12-V1
+</head>
+<p>
+L'oncle Jo a disparus §<lb/>
+La suite? §<lb/>
+
+Lili reste <mod type="corr"><orig>figé<mod type="add" stage="" who="P"><add>e</add></mod></orig><reg>figée</reg></mod> devant la porte <mod type="add" stage="" who="P"><add>d’entrée</add></mod>. Elle <mod type="corr"><orig>cour<mod type="del" stage="" who="P"><del>u</del></mod>t</orig><reg>court</reg></mod> devant 
+la fenêtre, dans les toilettes, dans les chambres...
+Mais elle ne le trouve pas elle <mod type="corr"><orig>s'assit</orig><reg>s'assied</reg></mod> sur le fauteuil
+sur lequel est normalement l'oncle Jo. §<lb/>
+
+Pendant <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="corr"><orig>temp<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>temps</reg></mod> tata Denise alla dans sa 
+chambre réfléchir. <mod type="corr"><orig>Peut</orig><reg>Peu</reg></mod> de temps après <mod type="corr"><orig>elle dormè<mod type="add" stage="" who="P"><add>ait</add></mod></orig><reg>dormait</reg></mod>. §<lb/>
+
+Tandis que Lili <mod type="corr"><orig>obs<mod type="del" stage="" who="P"><del>è</del></mod><mod type="add" stage="" who="P"><add>e</add></mod>rv<mod type="del" stage="" who="P"><del>er</del></mod><mod type="add" stage="" who="P"><add>ait</add></mod></orig><reg>observait</reg></mod> le terrain vague, <mod type="del" stage="" who="P"><del>quand</del></mod>
+tout à coup elle <mod type="corr"><orig>entendi<mod type="del" stage="" who="P"><del>s</del></mod><mod type="add" stage="" who="P"><add>t</add></mod></orig><reg>entendit</reg></mod> un grand "Boom" elle se leva
+descendit les <mod type="corr"><orig>escalier<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>escaliers</reg></mod>, <mod type="del" stage="" who=""><del>elle</del></mod> <mod type="corr"><orig>avan<mod type="del" stage="" who="P"><del>c</del></mod><mod type="add" stage="" who="P"><add>ç</add></mod>a</orig><reg>avança</reg></mod> <mod type="subst"><del><mod type="del" stage="" who="P"><del>sur</del></mod></del><add stage="" who="P">vers</add></mod> le terrain vague. Elle
+vit une porte qui bougeait toute <mod type="corr"><orig>seule<mod type="del" stage="" who="P"><del>s</del></mod></orig><reg>seule</reg></mod>. Alors elle appella
+tata Denise, quand <hi place=" " time="" who="Pσ" style="underline">tata Denise</hi><mod type="add" stage="T2" who=""><add>elle</add></mod> arriva elle <mod type="corr"><orig>avan<mod type="del" stage="" who="P"><del>c</del></mod><mod type="add" stage="" who="P"><add>ç</add></mod><mod type="del" stage="" who="P"><del>ér</del></mod><mod type="add" stage="" who="P"><add>èrent</add></mod></orig><reg>avançèrent</reg></mod> <mod type="corr"><orig>toute<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>toutes</reg></mod>
+les deux, ensemble.<mod type="corr"><orig><mod type="add" stage="" who="P"><add>..</add></mod></orig><reg>...</reg></mod> §<lb/>
+
+Quand <mod type="corr"><orig>elle<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>elles</reg></mod> <mod type="corr"><orig>vit<mod type="add" stage="" who="P"><add>vient</add></mod></orig><reg>virent</reg></mod> que derrière cette porte <mod type="corr"><orig>ce</orig><reg>se</reg></mod> tenait <mod type="corr"><orig>de-Ł-bout</orig><reg>debout</reg></mod> <mod type="subst"><del><mod type="del" stage="" who="P"><del>entrain</del></mod></del><add stage="" who="P">en train</add></mod> <mod type="corr"><orig>d'avanç<mod type="del" stage="" who="P"><del>ait</del></mod><mod type="add" stage="" who="P"><add>er</add></mod></orig><reg>avancer</reg></mod> lentement, mais vigoureusement
+l'oncle Jo elles crièrent de joie. §<lb/>
+
+Le soir au <mod type="corr"><orig>d<mod type="del" stage="" who="P"><del>i</del></mod><mod type="add" stage="" who="P"><add>î</add></mod>n<mod type="del" stage="" who="P"><del>ée</del></mod><mod type="add" stage="" who="P"><add>er</add></mod></orig><reg>dîner</reg></mod> Lili raconta leur aventure et
+tout le monde <mod type="corr"><orig>rigol<mod type="del" stage="" who="P"><del>ai</del></mod><mod type="add" stage="" who="P"><add>ait</add></mod></orig><reg>rigolait</reg></mod>, mais <mod type="corr"><orig>par<mod type="del" stage="" who="P"><del>t</del></mod></orig><reg>par</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>à port</del></mod></orig><reg>rapport</reg></mod> <mod type="corr"><orig>au<mod type="add" stage="" who="P"><add>x</add></mod></orig><reg>aux</reg></mod> <mod type="corr"><orig>autre<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>autres</reg></mod> <mod type="corr"><orig>soir<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>soirs</reg></mod>
+c'était d'un calme inoubliable<mod type="corr"><orig><mod type="add" stage="" who="P"><add>.</add></mod></orig><reg>.</reg></mod> <mod type="corr"><orig><mod type="del" stage="" who="P"><del>d</del></mod><mod type="add" stage="" who="P"><add>D</add></mod>epuis</orig><reg>Depuis</reg></mod> ce jour l'oncle
+Jo savait que faire de <mod type="corr"><orig><mod type="del" stage="" who="P"><del>c'est</del></mod><mod type="add" stage="" who="P"><add>ses</add></mod></orig><reg>ses</reg></mod> <mod type="corr"><orig>journée<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>journées</reg></mod> avec l'aide <mod type="add" stage="" who="P"><add>de</add></mod>
+Lili bien <mod type="corr"><orig>s<mod type="del" stage="" who="P"><del>u</del></mod><mod type="add" stage="" who="P"><add>û</add></mod>r</orig><reg>sûr</reg></mod> <mod type="corr"><orig><mod type="add" stage="" who="P"><add>:</add></mod></orig><reg>:</reg></mod>  §<lb/>
+
+Reconstruire le terrain vague pour qu'il soit assez <mod type="corr"><orig>jolie</orig><reg>joli</reg></mod> pour <mod type="corr"><orig>pouv-Ł-oir</orig><reg>pouvoir</reg></mod> y faire un centre <mod type="corr"><orig><mod type="del" stage="" who="P"><del>e</del></mod><mod type="add" stage="" who="P"><add>é</add></mod>questre</orig><reg>équestre</reg></mod> pour tous. §<lb/>
+Fin §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

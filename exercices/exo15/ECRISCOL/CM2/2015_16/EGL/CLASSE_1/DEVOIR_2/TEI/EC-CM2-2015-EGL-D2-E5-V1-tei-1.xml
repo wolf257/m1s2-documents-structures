@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>﻿partie: EC-CM2-2015-EGL-D2-E5-V1
+</head>
+<p>
+Tout à coup, la voiture avança lentement d'abord, <mod type="corr"><orig>ensuit</orig><reg>ensuite</reg></mod> de plus<lb/>
+en plus vite et elle <mod type="corr"><orig>décend</orig><reg>descend</reg></mod> la pente, et les <mod type="corr"><orig>fiette</orig><reg>fillettes</reg></mod> <mod type="corr"><orig>croir</orig><reg>croient</reg></mod> <mod type="corr"><orig>qui</orig><reg>que</reg></mod> <mod type="corr"><orig>s'est</orig><reg>c'est</reg></mod> un<lb/>
+<mod type="corr"><orig>jeu</orig><reg>jeux</reg></mod>. <mod type="corr"><orig>Ducou</orig><reg>Du coup</reg></mod> <mod type="corr"><orig>elle</orig><reg>elles</reg></mod> <mod type="corr"><orig>bouge</orig><reg>bougent</reg></mod> le <mod type="corr"><orig>volen</orig><reg>volant</reg></mod> de <mod type="corr"><orig>goche</orig><reg>gauche</reg></mod> à droite, et tout à coup<lb/>
+<mod type="corr"><orig>elle</orig><reg>elles</reg></mod> <mod type="corr"><orig>tourne</orig><reg>tournent</reg></mod> dans <mod type="corr"><orig>un</orig><reg>une</reg></mod> <mod type="corr"><orig>outre</orig><reg>autre</reg></mod> <mod type="corr"><orig>ru</orig><reg>rue</reg></mod>, <mod type="corr"><orig>pui</orig><reg>puis</reg></mod> dans une <mod type="corr"><orig>outre</orig><reg>autre</reg></mod> et <mod type="corr"><orig>encor</orig><reg>encore</reg></mod> et <mod type="corr"><orig>encor</orig><reg>encore</reg></mod>.<lb/> 
+Puis elles <mod type="corr"><orig>sarete</orig><reg>s'arrêtent</reg></mod> <mod type="corr"><orig>devans</orig><reg>devant</reg></mod> un parc <mod type="add" stage="T2" who=""><add>,</add></mod> elle <mod type="corr"><orig>désond</orig><reg>descendent</reg></mod> <mod type="corr"><orig>pui</orig><reg>puis</reg></mod> elles vont <mod type="corr"><orig>jouent</orig><reg>jouer</reg></mod> <mod type="add" stage="T2" who=""><add>.</add></mod><lb/>
+Elles <mod type="corr"><orig>remont</orig><reg>remontent</reg></mod> dans la voiture elles vont dans un magasin de fleurs <mod type="add" stage="T2" who=""><add>.</add></mod><lb/>
+<mod type="corr"><orig>®<mod type="del" stage="" who=""><del>elle ach<mod type="add" stage="T2" who=""><add>è</add></mod>tes</del></mod><mod type="add" stage="T2" who=""><add>Elles achètentun</add></mod>®</orig><reg>Elles achètent</reg></mod> <mod type="corr"><orig>un<mod type="del" stage="T2" who=""><del>e</del></mod></orig><reg>un</reg></mod> <mod type="corr"><orig>bouquer</orig><reg>bouquet</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>de fleur</add></mod></orig><reg>de fleurs</reg></mod> pour leur mère <mod type="add" stage="T2" who=""><add>,</add></mod> avec <mod type="corr"><orig>un</orig><reg>une</reg></mod> <mod type="corr"><orig>pièces</orig><reg>pièce</reg></mod> d'un eu<lb/>
+ro. <mod type="corr"><orig>Aprés</orig><reg>Après</reg></mod> <mod type="corr"><orig>elle</orig><reg>elles</reg></mod> <mod type="corr"><orig>rerentre</orig><reg>rentrèrent</reg></mod> dans la voiture <mod type="add" stage="T2" who=""><add>,</add></mod> et <mod type="corr"><orig>elle</orig><reg>elles</reg></mod> vont dans un<lb/>
+autre magasin et dans un autre......Une fois <mod type="corr"><orig>finis</orig><reg>fini</reg></mod> elles <mod type="corr"><orig>regarde</orig><reg>regardent</reg></mod><lb/>
+l'heure <mod type="add" stage="T2" who=""><add>,</add></mod> et elle <mod type="corr"><orig>retoure</orig><reg>retournent</reg></mod> chercher <mod type="corr"><orig>leurs</orig><reg>leur</reg></mod> mère. La mère <mod type="corr"><orig>sor</orig><reg>sort</reg></mod> du maga<lb/>
+sin et <mod type="corr"><orig>revien</orig><reg>revient</reg></mod> les <mod type="corr"><orig>main</orig><reg>mains</reg></mod> <mod type="corr"><orig>vite</orig><reg>vides</reg></mod>. Elle a <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>acheter</orig><reg>acheté</reg></mod> <mod type="add" stage="T2" who=""><add>,</add></mod> des <mod type="corr"><orig>fiette</orig><reg>fillettes</reg></mod> lui <mod type="corr"><orig>donne</orig><reg>donnent</reg></mod><lb/>
+le <mod type="corr"><orig>boucer</orig><reg>bouquet</reg></mod> <mod type="add" stage="T2" who=""><add>,</add></mod> et les <mod type="corr"><orig>fille</orig><reg>filles</reg></mod> lui <mod type="corr"><orig>demandes</orig><reg>demandent</reg></mod> <mod type="corr"><orig>pourquois</orig><reg>pourquoi</reg></mod> elle a rien <mod type="corr"><orig>achete</orig><reg>acheté</reg></mod>.<lb/>
+La mère leur dit <mod type="corr"><orig>jé</orig><reg>j'ai</reg></mod> <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> un <mod type="corr"><orig>arré</orig><reg>arrêt</reg></mod> <mod type="corr"><orig>cordiaque</orig><reg>cardiaque</reg></mod> <mod type="add" stage="T2" who=""><add>,</add></mod> car <mod type="subst"><del><mod type="del" stage="" who=""><del>gercru</del></mod></del><add stage="" who="">j'ai vu</add></mod> <mod type="corr"><orig>voire</orig><reg>voir</reg></mod> la<lb/>
+<mod type="corr"><orig>voitur</orig><reg>voiture</reg></mod> partir avec vous. Les <mod type="corr"><orig>fiettes</orig><reg>fillettes</reg></mod> <mod type="corr"><orig>dit</orig><reg>disent</reg></mod> que la voiture <mod type="corr"><orig>nai</orig><reg>n'est</reg></mod> pas <mod type="corr"><orig>parti</orig><reg>partie</reg></mod> <mod type="add" stage="T2" who=""><add>,</add></mod><lb/>
+et <mod type="corr"><orig>quelle</orig><reg>qu'elles</reg></mod> <mod type="corr"><orig>son</orig><reg>sont</reg></mod> <mod type="corr"><orig>parti</orig><reg>parties</reg></mod> au magasin acheter les <mod type="corr"><orig>course</orig><reg>courses</reg></mod>. Depuis les <mod type="corr"><orig>fiette<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>fillettes</reg></mod><lb/>
+ne font pas de <mod type="corr"><orig>bise</orig><reg>bêtises</reg></mod> et <mod type="del" stage="" who=""><del>elle</del></mod> la mère regarde toujours la voiture. §<lb/>
+
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

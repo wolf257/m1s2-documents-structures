@@ -1,0 +1,127 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E27-V2
+</head>
+<p>
+Sous la nuit sans étoiles, d'une obscurité<lb/>
+et d'une épaisseur d'encre, l'homme depuis un<lb/>
+moment <mod type="corr"><orig>déja</orig><reg>déjà</reg></mod> marchait quand il aperçut au loin<lb/>
+la lumière d'un reverbère, à partir de <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">ce</add></mod> moment<lb/>
+<mod type="corr"><orig>la</orig><reg>là</reg></mod> il <mod type="corr"><orig>ce</orig><reg>se</reg></mod> demanda <mod type="corr"><orig>ou</orig><reg>où</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">ét</add></mod>ait-il, grâce au<lb/>
+reverbère qui attira son attention il <mod type="corr"><orig>aperçu</orig><reg>aperçut</reg></mod><lb/>
+que <mod type="corr"><orig>en dessous</orig><reg>en-dessous</reg></mod> du <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">reverbère</add></mod> il y avait <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">un</add></mod> panneau sur<lb/>
+lequel il y avait écrit PARIS, cette homme<lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">h</add></mod>abitant</orig><reg>habitant</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">T M</add></mod> crue rêvé, mais<lb/>
+sans ce rendre compte des heures <mod type="corr"><orig>écoulé</orig><reg>écoulées</reg></mod> et des<lb/>
+kilomètres <mod type="corr"><orig>parcourue</orig><reg>parcourus</reg></mod>, étant dans <mod type="corr"><orig>ces</orig><reg>ses</reg></mod> Pensées.<lb/>
+Etant sortie faire un tour et <mod type="corr"><orig>fumé</orig><reg>fumer</reg></mod> sa<lb/>
+cigarette fuyant une dispute avec sa femme, il<lb/>
+avait besoin de s'aérer la tête. Les yeux <mod type="corr"><orig>plongé</orig><reg>plongés</reg></mod><lb/>
+dans le vide, il ne ne vit même plus <mod type="corr"><orig>passé</orig><reg>passer</reg></mod> les<lb/>
+heures et les kilomètres. §<lb/>
+C'<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">étant</add></mod></orig><reg>étant</reg></mod> enfin belle et bien rendu compte<lb/>
+de sont trajet il voulu <mod type="corr"><orig>traversé</orig><reg>traverser</reg></mod> la route pour aller<lb/>
+voir <mod type="corr"><orig>si il</orig><reg>s'il</reg></mod> y <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">av</add></mod>ait</orig><reg>avait</reg></mod> un train pour Rentrer à<lb/>
+Mantes-la-Jolie, Mais malheureusement il n'atteigna<lb/>
+jamais la gare car il se fit <mod type="corr"><orig>écrasé</orig><reg>écraser</reg></mod> par un<lb/>
+camion d'Ambulance qui le tua sur le coup.<lb/>
+1h plus tard sa femme <mod type="corr"><orig>appelé</orig><reg>appelée</reg></mod> par les<lb/>
+secours arriva sur place en pleure <mod type="corr"><orig>ce</orig><reg>se</reg></mod> sentant<lb/>
+coupable. §<lb/>
+	</p>
+</div>
+﻿</body>
+</text>
+</TEI>

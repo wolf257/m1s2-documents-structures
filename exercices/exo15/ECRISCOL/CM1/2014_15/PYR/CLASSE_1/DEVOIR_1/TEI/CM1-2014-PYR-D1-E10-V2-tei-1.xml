@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E10-V2
+</head>
+<p>
+<pb/>
+
+Il était une fois un petit garçon qui s'appelait Gabriel.<lb/>
+C'était un beau matin, il allait à l'école. Il tenait dans sa<lb/>
+main <mod type="corr"><orig>un</orig><reg>une</reg></mod> toupie chinoise. Malheureusement il la <mod type="corr"><orig>l<mod type="subst"><del><mod type="del" stage="" who="P"><del>à</del></mod></del><add stage="" who="P">â</add></mod>cha</orig><reg>lâcha</reg></mod> par <mod type="corr"><orig>tere</orig><reg>terre</reg></mod> <mod type="add" stage="" who="P"><add>terre</add></mod>.<lb/>
+Quand il s'en <mod type="corr"><orig>ap<mod type="del" stage="" who="P"><del>p</del></mod>ercût</orig><reg>aperçut</reg></mod> il ne la voyait plus. A l'école il<lb/>
+était triste. §<lb/>
+-Tu as perdu quelque chose? lui demanda Anne-Lise. §<lb/>
+-Ma toupie chinoise sur le chemin de l'école. §<lb/>
+<mod type="add" stage="" who="P"><add>-</add></mod> J'ai la solution! dit-elle. §<lb/>
+A la fin des cours<mod type="add" stage="" who="P"><add>,</add></mod> elle l'emmena devant un grand bâtiment.<lb/>
+Il entra et entendit une voix. §<lb/>
+-Bonjour, je suis le gardien de l'oubli. §<lb/>
+La voix <mod type="corr"><orig>sort<mod type="add" stage="" who="P"><add>a</add></mod>it</orig><reg>sortait</reg></mod> d'un endroit sombre. §<lb/>
+-Si tu as perdu un objet je peux <mod type="add" stage="" who="P"><add>le</add></mod> retrouver. §<lb/>
+Il s'approcha et Gabriel lui demanda: §<lb/>
+
+<pb/>
+-Avez-vous une toupie chinoise. §<lb/>
+Le gardien de l'oubli ne lui répondit pas. A la place il
+monta un escalier avec lui. En haut, il ouvrit une porte.
+Gabriel vit plein de jouets! Il prit sa toupie et le remercia,
+puis il <mod type="corr"><orig>pa<mod type="add" stage="" who=""><add>r</add></mod>tit</orig><reg>partit</reg></mod> tout fier. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

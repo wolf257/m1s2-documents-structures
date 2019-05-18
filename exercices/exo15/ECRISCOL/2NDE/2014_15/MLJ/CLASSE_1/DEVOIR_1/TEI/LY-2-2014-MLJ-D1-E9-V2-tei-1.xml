@@ -1,0 +1,142 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E9-V2
+</head>
+<p>
+<pb/>
+
+Sous la nuit sans étoiles, d'une obscurité et d'une<lb/>
+épaisseur d'encre, l'homme depuis un moment déjà marchait<lb/>
+quand il aperçut au loin la lumière d'un réverbère. Il<lb/>
+s'approcha de cette lumière et quand il s'assit sur un banc<lb/>
+non-loin du réverbère, il regarda cette lumière si inténsement<lb/>
+qu'on pouvait croire qu'il cherchait une lueur d'espoir<lb/>
+car ses yeux exprimaient <mod type="add" stage="" who=""><add>un profond</add></mod> sentiment de tristesse. Peut-<lb/>
+être, avait-il perdu un proche...Effectivement, tout en<lb/>
+regardant sa tenue et l'expression de son visage, on pouvait<lb/>
+croire qu'il revenait d'un enterrement. §<lb/>
+Il était habillé d'une veste en cuir marron foncé qui n'<lb/>
+était pas fermé, on pouvait alors donc voir une chemise<lb/>
+noire, qui faisait ressortir ses muscles, avec 2 boutons<lb/>
+qui n'étaient pas fermés. Comme bas, il avait un slim noir §<lb/>
+
+<pb/>
+
+qui virait au bleu de nuit, et pour finir il avait ces<lb/>
+bottes en cuir. Cependant, tout cela faisait un contraste<lb/>
+entre son accoutrement sombre et la couleur de sa peau<lb/>
+qui était de la même que celle d'un cachet d'aspirine.<lb/>
+Quant à son visage, la couleur de ses yeux étaient d'<lb/>
+une beauté, cela melangeait bleu-vert. Lorsqu'il<lb/>
+pinçait une de ses lèvres fines, on pouvait constater qu'il<lb/>
+avait envie de pleurer. Trois grains de beauté faisaient<lb/>
+leur apparition. Quand il tournait la tête, parailleurs<lb/>
+il avait une barbe rasée sur les côtés qui donnait<lb/>
+une forme "carré". §<lb/>
+A ces mains, il <mod type="add" stage="" who=""><add>y</add></mod> avait un journal, il le déplia et commença<lb/>
+à le lire. Pendant cette action, l'homme avait trois<lb/>
+expressions: un petit sourir, la surprise et une<lb/>
+fois de plus la tristesse. Peut-être qu'il lisait
+les actualités. Après cela, il plia son <mod type="corr"><orig>jou<mod type="add" stage="" who=""><add>r</add></mod>nal</orig><reg>journal</reg></mod> §<lb/>
+
+<pb/>
+
+se leva et commença à s'engouffrer dans l'obscurité<lb/>
+puis <mod type="corr"><orig>disparu</orig><reg>disparut</reg></mod>. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

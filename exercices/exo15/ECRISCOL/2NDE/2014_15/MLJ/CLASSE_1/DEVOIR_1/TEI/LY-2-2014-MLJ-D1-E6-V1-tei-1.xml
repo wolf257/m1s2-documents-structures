@@ -1,0 +1,146 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E6-V1
+</head>
+<p>
+<pb/>
+
+portrait physique §<lb/>
++ moral <mod type="add" stage="" who=""><add>de l'homme</add></mod> §<lb/>
+en même temps histoire §<lb/>
+Fin (chute ou pas) Nouveau départ! §<lb/>
+L'oscurité s'estompa. Arrivé devant une<lb/>
+boutique de petit commercant, il observa son reflet <mod type="del" stage="" who=""><del>devant<lb/> dans les vitres sales et usées</del></mod> dans une<lb/>
+des vitres sales et usées se tenant à sa droite. §<lb/>
+Les pommettes rougies, <mod type="del" stage="" who=""><del>les mains dans les poches</del></mod> et les<lb/>
+mains dans les poches de son gros manteau noir<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>se</del></mod></del><add stage="" who="">se</add></mod> mariaient parfaitement avec ce froid hivernal<lb/>
+du mois de janvier. Son regard épia chaque parties du corps. De ses <mod type="subst"><del><mod type="del" stage="" who=""><del>grands</del></mod></del><add stage="" who="">petits</add></mod> pieds jusqu'à <mod type="del" stage="" who=""><del>son crâne</del></mod> haut de son crâne. §<lb/>
+De <mod type="subst"><del><mod type="del" stage="" who=""><del>maigres</del></mod></del><add stage="" who="">fines</add></mod> jambes, des bras <mod type="subst"><del><mod type="del" stage="" who=""><del>frêles</del></mod></del><add stage="" who="">musclés</add></mod> et une <mod type="subst"><del><mod type="del" stage="" who=""><del>carrure</del></mod></del><add stage="" who="">fine</add></mod><lb/>
+carrure ne pouvait repousser personne est-ce vrai? §<lb/>
+Pourquoi n'avait-elle pas voulue de lui? Pourquoi avait-elle<lb/>
+repoussé comme un mal propre? §<lb/>
+Peut-être ses cheveux <mod type="corr"><orig>noir</orig><reg>noirs</reg></mod> non <mod type="corr"><orig>coiffès</orig><reg>coiffés</reg></mod>, ou bien ses yeux<lb/>
+marrons clairs, trop simple <mod type="del" stage="" who=""><del>et manquant</del></mod>, selon ses<lb/>
+proches. §<lb/>
+Habitué aux moqueries de ses <mod type="del" stage="" who=""><del>soit #XXX#</del></mod> "amies" sur<lb/>
+sa façon de faire la cour, comment allait-il <mod type="corr"><orig>leurs</orig><reg>leur</reg></mod><lb/>
+dire que après des mois <mod type="del" stage="" who=""><del>et des mois</del></mod> de visites, <mod type="corr"><orig>plu</orig><reg>plus</reg></mod><lb/>
+qu'<mod type="corr"><orig>amicales</orig><reg>amicale</reg></mod> <mod type="del" stage="" who=""><del>pour</del></mod> à mlle Villneuve, qu'il avait échoué? §<lb/>
+
+<pb/>
+
+Il avait pourtant été aimable et charmant<lb/>
+avec elle. Etant un homme à femmes, il avait su<lb/>
+se montrer <mod type="del" stage="" who=""><del>sous son meilleur jour en</del></mod> à la hauteur,<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>un vra</del></mod></del><add stage="" who="">en vrai</add></mod> gentleman. §<lb/>
+<mod type="del" stage="" who=""><del>Cette</del></mod> §<lb/>
+NOUVEAU DEPART §<lb/>
+Portrait Moral §<lb/>
+Cette époque était <mod type="corr"><orig>désormais</orig><reg>désormait</reg></mod> résolue. De<lb/>
+nouvelles perspectives <mod type="del" stage="" who=""><del>XXX#</del></mod> faisaient leur apparition. §<lb/>
+Son air hautain et son ego surdimentionné allaient<lb/>
+faire leur retour. Sa gentillesse s'envolera et sa<lb/>
+méchanceté réaparaitera. Il redeviendra ce coureur<lb/>
+de jupon, cet homme avare et égoiste qu'il était.<lb/>
+Peut-être devra-t-il faire carrière au théâtre?,<lb/>
+l'expérience y est et l'argent pour corrompre les<lb/>
+metteurs en scène aussi. §<lb/>
+<mod type="del" stage="" who=""><del>Et a</del></mod> C'est donc dans un dernier regard pour<lb/>
+son reflet qu'un sourir <mod type="add" stage="" who=""><add>malsain</add></mod> se dessine sur son visage. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

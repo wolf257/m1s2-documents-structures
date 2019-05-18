@@ -1,0 +1,7 @@
+
+            ------- ADJ - NOM - PRP - NOM  ------- 
+            
+            - ADJ - NOM - PRP - NOM :  célèbre boîte de nuit
+            - ADJ - NOM - PRP - NOM :  d’un millier de migrants
+            - ADJ - NOM - PRP - NOM :  52e pays à l’interdire
+            - ADJ - NOM - PRP - NOM :  dernier week-end de l’année

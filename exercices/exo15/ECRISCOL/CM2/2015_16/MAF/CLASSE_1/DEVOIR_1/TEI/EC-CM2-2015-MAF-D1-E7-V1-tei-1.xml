@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-MAF-D1-E7-V1
+</head>
+<p>
+Cette semaine j'ai eu une super idée, j'ai mis le chaton<lb/>
+de ma soeur dans la machine à laver, le problème c'est<lb/>
+que quand ma mère <mod type="del" stage="" who=""><del>quand</del></mod> elle a ouvert la portière<lb/>
+de la machine, elle a reçu un gros coup de griffe dans<lb/>
+l'oeil. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">O</add></mod>n</orig><reg>On</reg></mod> a <mod type="corr"><orig>du</orig><reg>dû</reg></mod> l'emmener à l'<mod type="corr"><orig>ôpital</orig><reg>hôpital</reg></mod>. §<lb/>
+J'ai eu 9,6/10. §<lb/>
+ §<lb/>
+Le dimanche d'après mon idée était <mod type="corr"><orig>meilleur</orig><reg>meilleure</reg></mod> que la<lb/>
+semaine dernière. <mod type="corr"><orig>Ja'i</orig><reg>J'ai</reg></mod> mis de l'Acide dans la bouteille d'eau.<lb/>
+Papa nous avait dit de ne pas toucher à l'Acide <mod type="corr"><orig>parce</orig><reg>parce que</reg></mod><lb/>
+<mod type="corr"><orig>sa</orig><reg>ça</reg></mod> te mange la peau et te pique. Après sans que papa<lb/>
+le sache il a bu l'Acide. Il <mod type="del" stage="" who=""><del>s</del></mod> est tombé dans le coma.<lb/>
+C'était un état d'urgence on devait tout de suite l'emmener<lb/>
+à l'hôpital. §<lb/>
+J'ai eu un 10/10. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

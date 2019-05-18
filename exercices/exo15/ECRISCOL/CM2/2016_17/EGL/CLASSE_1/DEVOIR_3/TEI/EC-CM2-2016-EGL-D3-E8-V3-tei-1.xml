@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2016-EGL-D3-E8-V3
+</head>
+<p>
+En Bretagne je <mod type="corr"><orig>vivai</orig><reg>vivrai</reg></mod> dans une maison<lb/>
+avec mon chien qui s'appelle Cafi <mod type="corr"><orig>j'<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">'</add></mod>étais</orig><reg>j'étais</reg></mod> une<lb/>
+<mod type="corr"><orig>coiffese</orig><reg>coiffeuse</reg></mod>, je <mod type="corr"><orig>gagner</orig><reg>gagnerai</reg></mod> de l'argent dans ma <mod type="del" stage="" who=""><del>b</del></mod> <mod type="corr"><orig>maboutique</orig><reg>ma boutique</reg></mod><lb/>
+alors qu'elle était ferme. Moi je <mod type="corr"><orig>fesais</orig><reg>faisais</reg></mod> des <mod type="corr"><orig>coursses</orig><reg>courses</reg></mod><lb/>
+dans le magasin (j'ai pris de la salade, des <mod type="corr"><orig>carotes</orig><reg>carrotes</reg></mod>, des<lb/>
+<mod type="corr"><orig>chaux fleures</orig><reg>choux-fleurs</reg></mod>) et des croquettes C'est l'aprés-midi,<lb/>
+j'ai <mod type="corr"><orig>ouvér</orig><reg>ouvert</reg></mod> ma boutique il y a eu 3 ou 4<lb/>
+clients. La <mod type="corr"><orig>soiree</orig><reg>soirée</reg></mod>. Je suis rentrée j'ai donné des<lb/>
+croquettes Cafi et j'ai mangé. Et je me suis<lb/>
+couché avec Cafi. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-ARG-D1-E19-V1
+</head>
+<p>
+<mod type="del" stage="" who=""><del>Quand j'étais dans le ventre de ma mère,<lb/>
+tout semblait normal pour moi, c'est comme si<lb/>
+j'étais dans mon propre domaine,</del></mod> §<lb/>
+ §<lb/>
+<mod type="del" stage="" who=""><del>Quand je suis dans le ventre de ma mère,<lb/>
+tout sembler normal pour moi, c'est comme si<lb/>
+je suis dans mon propre domaine, je me<lb/>
+métamorphose peu à peu c'est comme si un<lb/> 
+nouveau membre se rajoute en moi, de temps en<lb/>
+temps [je reçois de la nourriture</del></mod> <mod type="del" stage="" who=""><del>dans</del></mod><mod type="add" stage="" who=""><add>un</add></mod> <mod type="del" stage="" who=""><del>long tube</del></mod><lb/>
+qui relis <mod type="del" stage="" who=""><del>jusqu'a mon nombril, tout est vrai</del></mod><lb/>
+dans ce domaine] §<lb/>
+ §<lb/>
+Quand je suis dans le ventre de ma mère,<lb/>
+tout sembla normal pour moi, c'est comme<lb/>
+si je suis dans mon propre domaine, je me<lb/>
+métamorphose peu à peu, soudain tout à coup<lb/>
+j'entends des cris, des voix qui m'<mod type="corr"><orig>effraye</orig><reg>effraient</reg></mod>, je<lb/>
+sens des mains qui touche ma petite tête, je<lb/>
+refuse d'<mod type="corr"><orig>obeir</orig><reg>obéir</reg></mod>, je sens qu'on me <mod type="corr"><orig>prends</orig><reg>prend</reg></mod> de force<lb/>
+ma tête sors d'un trou, mes yeux sont <mod type="corr"><orig>aveuglé</orig><reg>aveuglés</reg></mod><lb/>
+par <mod type="del" stage="" who=""><del>la</del></mod> une lumière intense, je vois des<lb/>
+personnages, tout mon corps <mod type="corr"><orig>sont</orig><reg>est</reg></mod> effrayé, je<lb/>
+pleure, j'ai du mal à respirer, ont m'<mod type="corr"><orig>envelope</orig><reg>enveloppe</reg></mod><lb/>
+dans un drap et <mod type="corr"><orig>ont</orig><reg>on</reg></mod> me donne à une dame<lb/>
+joyeuse, je m'<mod type="corr"><orig>étone</orig><reg>étonne</reg></mod> mais je me dis qu'un<lb/>
+autre monde m'<mod type="corr"><orig>attends</orig><reg>attend</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

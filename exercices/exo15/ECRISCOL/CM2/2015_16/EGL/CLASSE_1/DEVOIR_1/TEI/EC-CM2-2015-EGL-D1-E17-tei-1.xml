@@ -1,0 +1,116 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D1-E17
+</head>
+<p>
+C'était de faire croire que j'avais <mod type="corr"><orig>pousser</orig><reg>poussé</reg></mod> ma cousine de l'étage<lb/>
+n°3, et qu'elle <mod type="corr"><orig>c'</orig><reg>s'</reg></mod>était <mod type="corr"><orig>casser</orig><reg>cassé</reg></mod> la jambe <mod type="corr"><orig>guauche</orig><reg>gauche</reg></mod> avec elle avait perdu<lb/>
+<mod type="corr"><orig>conaissance</orig><reg>connaissance</reg></mod>. Et j'ai <mod type="corr"><orig>eus</orig><reg>eu</reg></mod> un 8,5/10 j'étais <mod type="corr"><orig>enerver</orig><reg>énervé</reg></mod>. Mais le lendemain<lb/>
+la <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod> <mod type="corr"><orig>à</orig><reg>a</reg></mod> vu ma cousine au <mod type="corr"><orig>théatre</orig><reg>théâtre</reg></mod>, elle a vu qu'elle était en<lb/>
+bonne santé et état. Donc elle a vu que je mentais à chaque fois du<lb/>
+sur le bulletin j'ai eu 0/10 en rédac. J'ai été <mod type="corr"><orig>punis</orig><reg>puni</reg></mod> pendant un<lb/>
+mois de <mod type="corr"><orig>sorti</orig><reg>sorties</reg></mod>. Mais le lundi suivant, il <mod type="corr"><orig>c'</orig><reg>s'</reg></mod>était vraiment passé quelque<lb/>
+chose ! La <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod> ne m'avait pas <mod type="corr"><orig>crut</orig><reg>cru</reg></mod>. Pourtant le soir même,<lb/>
+en allant faire les courses, la <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod> voyait bien mon père en<lb/>
+fauteuil roulant à cause de l'accident de voiture qu'il a <mod type="corr"><orig>eus</orig><reg>eu</reg></mod>.<lb/>
+Quand j'ai <mod type="corr"><orig>eus</orig><reg>eu</reg></mod> mon bulletin j'ai <mod type="corr"><orig>eux</orig><reg>eu</reg></mod> 10/10 en rédaction. Du<lb/>
+coup j'ai <mod type="corr"><orig>désidé</orig><reg>décidé</reg></mod> de ne plus <mod type="corr"><orig>mentire</orig><reg>mentir</reg></mod> donc j'avais sur mon bulletin<lb/>
+à chaque fois de bonnes notes. §<lb/>
+ §<lb/>
+FIN ! §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

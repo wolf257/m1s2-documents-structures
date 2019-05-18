@@ -1,0 +1,178 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E1
+</head>
+<p>
+<pb/>
+
+Depuis la naissance de Lucien 30 années sont<lb/>
+<mod type="corr"><orig>passés</orig><reg>passées</reg></mod> et le moins qu'on puisse dire c'est §<lb/>
+que le petit Lucien avait bien changé §<lb/>
+il était maintenant un homme. Une §<lb/>
+grande carrière d'avocat toute tracée il avait<lb/>
+tout pour devenir un tenor du barreau, grâce<lb/>
+aux moyens de ses parents issus de la bourgeoisie.<lb/>
+Lucien n'a jamais manqué de rien. §<lb/>
+Du moins materiellement car affectivement<lb/>
+on ne peut pas dire que ce soit le<lb/>
+cas. En effet à peine né Lucien fut<lb/>
+gardé par différentes nourrices jusqu'à ses<lb/>
+11 ans où il fut scolarisé dans<lb/>
+un prestigieux pensionnat en Suisse. §<lb/>
+Brillant élève, Lucien ne connaissait pourtant<lb/> 
+pas le bonheur et la fierté de rendre ses §<lb/>
+
+<pb/>
+
+parents <mod type="add" stage="" who=""><add>fiers</add></mod>. Pourquoi? Tout simplement car Lucien<lb/>
+avait un handicap il lui manquait un<lb/>
+bras. Ses parents en avaient honte et<lb/>
+<mod type="corr"><orig>refu{Ps#sait}</orig><reg>refusaient</reg></mod> catégoriquement que Lucien vienne<lb/> 
+à la maison même pendant les grandes<lb/> 
+vacances de peur qu'il soit vu par<lb/>
+les voisins. Mais le jour où Lucien<lb/> 
+<mod type="corr"><orig>ob<hi place=" " time="" who="Pσ" style="underline">tenu</hi></orig><reg>obtint</reg></mod> son master en droit il décida<lb/>
+de rendre visite à ses parents pour leurs<lb/>
+annoncer la bonne nouvelle. Lucien ne<lb/>
+comprenait vraiment pas pourquoi ses<lb/>
+parents lui en voulaient de ce bras gauche<lb/>
+en moins<mod type="add" stage="" who="P"><add>.</add></mod> <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">A</add></mod>près</orig><reg>Après</reg></mod> tout c'etait un peu de <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">leurs</hi></orig><reg>leur</reg></mod><lb/>
+faute <mod type="corr"><orig>si il</orig><reg>s'ils</reg></mod> ne l'avaient pas laissé<lb/>
+seul dans le jardin il n'aurait pas<lb/>
+à l'<mod type="corr"><orig>age</orig><reg>âge</reg></mod> naif de 5 ans escaladé la §<lb/>
+
+<pb/>
+
+<mod type="corr"><orig>cloture</orig><reg>clôture</reg></mod> et ne se serait pas fait renverser par<lb/>
+une voiture. Mais cela n'avait pour Lucien<lb/>
+aucune importance, il pensait qu'après<lb/>
+ce fameux master il allait enfin<lb/>
+pouvoir rendre ses parents fiers. Le trajet<lb/>
+de la Suisse vers Paris se fit dans<lb/>
+<mod type="del" stage="" who=""><del>l' st</del></mod> une <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">apprehen</hi>sion</orig><reg>appréhension</reg></mod> incroyable il<lb/>
+n'avait jamais été aussi stressé de toute sa<lb/>
+vie. Arrivé devant la porte d'entrée il ne<lb/>
+sentait plus ses jambes au moment<lb/>
+de toquer à la <mod type="corr"><orig>portes</orig><reg>porte</reg></mod> les secondes qui<lb/>
+<mod type="corr"><orig>sepa<hi place=" " time="" who="Pσ" style="underline">rait</hi></orig><reg>séparaient</reg></mod> l'arrivée du majordome à la<lb/>
+porte <mod type="corr"><orig>parais<hi place=" " time="" who="Pσ" style="underline">sait</hi></orig><reg>paraissaient</reg></mod> pour Lucien une eternité.<lb/>
+Le majordome ouvrit la porte. Ce n'etait pas<lb/>
+le même que Lucien connaissait il se<lb/>
+demanda <mod type="del" stage="" who=""><del>ce q</del></mod> où <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">à</hi></orig><reg>a</reg></mod> bien pu passer James §<lb/>
+
+<pb/>
+
+l'ancien majordome. Lucien entra dans le<lb/>
+salon et vit un vieux monsieur et<lb/>
+une vielle dame. Lucien <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">leurs</hi></orig><reg>leur</reg></mod> dit avec une<lb/>
+voix tremblottante "bonjour". Ses gens qui <mod type="corr"><orig>etaient</orig><reg>étaient</reg></mod><lb/>
+ses parents le devisagèrenet, le jeune garçon montra<lb/>
+avec fierté son <mod type="corr"><orig>diplome</orig><reg>diplôme</reg></mod> mais la réaction de<lb/>
+ses <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">gen</hi>iteurs</orig><reg>géniteurs</reg></mod> <metamark place=" " time="" who="P" style="underline">TB</metamark> ne fut pas <mod type="corr"><orig>celui</orig><reg>celle</reg></mod> <mod type="corr"><orig>escompté</orig><reg>escomptée</reg></mod>. La dame lui<lb/>
+<mod type="del" stage="" who=""><del>dit une</del></mod> hurla dessus avec cruauté "Je ne veux pas<lb/>
+te voir sors va-t-en <mod type="corr"><orig>parts</orig><reg>pars</reg></mod> et ne <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">vient</hi></orig><reg>reviens</reg></mod> jamais". Le père lui,<lb/>
+s'en alla avec <mod type="corr"><orig>nonchale<mod type="add" stage="" who="P"><add>a</add></mod>nce</orig><reg>nonchalance</reg></mod> dans la chambre du haut.<lb/>
+Lucien s'en alla tristement et marcha sans but précis<lb/>
+il réfléchit au sens de la vie, pourquoi <mod type="corr"><orig>était ils</orig><reg>étaient-ils</reg></mod> ainsi<lb/>
+avec lui? Qu'<mod type="corr"><orig>avait il</orig><reg>avait-il</reg></mod> fait? Tant de questions sans<lb/>
+<mod type="corr"><orig>reponses</orig><reg>réponses</reg></mod>. Arrivé devant la Seine il décida de mettre fin à<lb/> 
+cette mascarade et sauta. <mod type="del" stage="" who=""><del>Perspnne ne</del></mod> fut sollicité par<lb/>
+sont enterrement à l'annonce de sa mort la mère dit<lb/>
+<mod type="del" stage="" who=""><del>donc</del></mod> même d'un air glacial "Il a quand même <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">reussi</hi></orig><reg>réussi</reg></mod> à<lb/>
+nous faire plaisir une fois". §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

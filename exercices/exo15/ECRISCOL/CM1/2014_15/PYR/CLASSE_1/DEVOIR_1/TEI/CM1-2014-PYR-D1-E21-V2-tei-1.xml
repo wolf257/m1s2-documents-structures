@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CM1-2014-PYR-D1-E21-V2
+</head>
+<p>
+Il était une fois un petit garçon <mod type="subst"><del><mod type="del" stage="" who="P"><del>alla à son</del></mod></del><add stage="" who="">qui allait à</add></mod> école, et, sur le chemin,<lb/>
+il prit sa toupie<mod type="del" stage="" who="P"><del>,</del></mod> et la posa par terre. Il la tourna, tourna, <hi place=" " time="" who="Pσ" style="underline">puis</hi><lb/>
+elle commença à faire de la musique.<hi place=" " time="" who="Pσ" style="underline">Puis</hi> après, il se <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">souvenie</hi></orig><reg>souvint</reg></mod> <mod type="add" stage="" who="P"><add>souvint</add></mod> <lb/>
+qu'il avait école alors il <mod type="corr"><orig>parti<hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">t</add></mod></hi></orig><reg>partit</reg></mod>, en oubliant sa toupie. {Pσ Puis},<lb/>
+quand il arriva à l'école, il se <mod type="corr"><orig>souve{Pσ nu}t</orig><reg>souvint</reg></mod><mod type="add" stage="" who="P"><add>souvint</add></mod> qu'il avait oublié sa<lb/>
+toupie.<hi place=" " time="" who="Pσ" style="underline">Puis</hi> une fillette (du nom de Anne-Lise <mod type="del" stage="" who="P"><del>,</del></mod>) lui demanda:
+"Tu <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">à</hi></orig><reg>as</reg></mod><mod type="add" stage="" who="P"><add>as</add></mod> perdu quelque <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"> chauses</hi></orig><reg>chose</reg></mod> <mod type="add" stage="" who="P"><add>chose</add></mod>?" Et il <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">répond<mod type="del" stage="" who="P"><del>u</del></mod><mod type="add" stage="" who="P"><add>it</add></mod></hi></orig><reg>répondit</reg></mod> : Oui, ma<lb/>
+toupie chinoise." Anne-Lise lui dit: <mod type="corr"><orig>Sui<mod type="add" stage="" who="P"><add>s-</add></mod> moi</orig><reg>Suis-moi</reg></mod>, je vais te<lb/>
+montrer quelqu'un qui <mod type="corr"><orig>peu<hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>x</del></mod></del><add stage="" who="P">t</add></mod></hi></orig><reg>peut</reg></mod> t'<mod type="corr"><orig>aid<mod type="subst"><del><mod type="del" stage="" who="P"><del>air</del></mod></del><add stage="" who="P">er</add></mod></orig><reg>aider</reg></mod>." <hi place=" " time="" who="Pσ" style="underline"> Puis</hi>, le petit garçon<lb/>
+arriva dans un grand palais de clés. <hi place=" " time="" who="Pσ" style="underline">Puis</hi>, une <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">voie</hi></orig><reg>voix</reg></mod><mod type="add" stage="" who="P"><add>voix</add></mod> grave lui<lb/>
+dit: "Qui est <mod type="corr"><orig>l<hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>a</del></mod></del><add stage="" who="P">à?</add></mod></hi></orig><reg>là</reg></mod> <mod type="add" stage="" who="P"><add>là</add></mod>" Et un homme <mod type="corr"><orig>sorti<hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>e</del></mod></del><add stage="" who="P">t</add></mod></hi></orig><reg>sortit</reg></mod> et lui dit: "Tu <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>à</del></mod></del><add stage="" who="P">as</add></mod></hi></orig><reg>as</reg></mod> perdu<lb/>
+quelque <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">chauses</hi></orig><reg>chose</reg></mod><mod type="add" stage="" who="P"><add>chose</add></mod>?" Et le petit <mod type="corr"><orig>répond<hi place=" " time="" who="Pσ" style="underline"><mod type="subst"><del><mod type="del" stage="" who="P"><del>u</del></mod></del><add stage="" who="P">it</add></mod></hi></orig><reg>répondit</reg></mod> "Oui, ma toupie<lb/>
+chinoise." Le grand homme lui dit: "<mod type="corr"><orig>Sui<mod type="add" stage="" who="P"><add>s </add></mod> moi</orig><reg>Suis-moi</reg></mod>!" Et puis il arriva<lb/>
+dans un grande <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">sal</hi></orig><reg>salle</reg></mod><mod type="add" stage="" who="P"><add>salle</add></mod> avec plein de <mod type="corr"><orig>jouet<mod type="add" stage="" who="P"><add>s</add></mod></orig><reg>jouets</reg></mod>. <hi place=" " time="" who="Pσ" style="underline"> Puis</hi> le petit garçon<lb/>
+trouva sa toupie et remercia le gardien de l'oubli. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

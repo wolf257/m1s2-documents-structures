@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2014-MG1-D1-E4-V1
+</head>
+<p>
+<pb/>
+
+Le cabanon de l'oncle Jo. §<lb/>
+L'oncle de Lili <mod type="del" stage="" who=""><del>à</del></mod><mod type="add" stage="" who=""><add>a</add></mod> <mod type="corr"><orig>disparut</orig><reg>disparu</reg></mod>. §<lb/>
+Tata Denise est <mod type="del" stage="" who=""><del>boulevers<hi place=" " time="" who="Pσ" style="underline">ser</hi></del></mod><mod type="corr"><orig><mod type="add" stage="T2" who=""><add>bouleverrssait</add></mod></orig><reg>bouleversée</reg></mod> son <mod type="corr"><orig>mari<mod type="del" stage="" who="P"><del>e</del></mod><mod type="del" stage="T2" who=""><del>e</del></mod></orig><reg>mari</reg></mod> <mod type="del" stage="" who=""><del><mod type="corr"><orig>à</orig><reg>a</reg></mod></del></mod> <mod type="corr"><orig>disparu<mod type="del" stage="" who="P"><del>t</del></mod><mod type="del" stage="" who="T"><del>t</del></mod></orig><reg>disparu</reg></mod>. Elle 
+compose tout de suite 17 <mod type="corr"><orig>on<mod type="del" stage="" who="P"><del>t</del></mod><mod type="del" stage="T2" who=""><del>t</del></mod></orig><reg>on</reg></mod> lui demande le nom de 
+l'oncle Jo son prénom son <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">nage</hi><mod type="add" stage="T2" who=""><add>n'age</add></mod></orig><reg>âge</reg></mod> <mod type="corr"><orig>c'est</orig><reg>ses</reg></mod> <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">a</hi>bitude<mod type="add" stage="T2" who=""><add>a bitude</add></mod></orig><reg>habitudes</reg></mod> et s'il <mod type="corr"><orig>connaiss<hi place=" " time="" who="Pσ" style="underline">ai</hi><mod type="add" stage="T2" who=""><add>t</add></mod></orig><reg>connaissait</reg></mod> quelqu'un de <mod type="corr"><orig>dangeureux</orig><reg>dangereux</reg></mod>. Elle lui <mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>bien<mod type="add" stage="" who="P"><add>-</add></mod>s<mod type="del" stage="" who="P"><del>u</del></mod><mod type="add" stage="" who="P"><add>û</add></mod>r</orig><reg>bien sûr</reg></mod> 
+dit non : Mais elle ne <mod type="del" stage="" who=""><del>le</del></mod><mod type="corr"><orig><mod type="add" stage="" who=""><add>s</add></mod>avait</orig><reg>savait</reg></mod> pas <mod type="corr"><orig>que il</orig><reg>qu'il</reg></mod> avait 
+<mod type="corr"><orig>enp<mod type="del" stage="" who=""><del>XXX#</del></mod><mod type="add" stage="" who=""><add>r</add></mod>i<mod type="add" stage="" who=""><add>e</add></mod>nter</orig><reg>emprunté</reg></mod> 5 000 mille $. Et qu'il n'avait pas <mod type="corr"><orig>rembour-<lb/>-ser</orig><reg>remboursé</reg></mod> l'argent le monsieur avait tout ses <mod type="corr"><orig>cordonnez</orig><reg>coordonnés</reg></mod> 
+il aurait eu<mod type="del" stage="" who=""><del>XXX#</del></mod> 4 ans pour le rembourser. Et lui 
+<mod type="corr"><orig>à</orig><reg>a</reg></mod> <mod type="corr"><orig>donner</orig><reg>donné</reg></mod> <mod type="corr"><orig>rend<mod type="del" stage="" who=""><del>és</del></mod><mod type="add" stage="" who=""><add>ez</add></mod>-vous</orig><reg>rendez-vous</reg></mod> dans un parc et <mod type="corr"><orig>enfait</orig><reg>en fait</reg></mod> 
+l'homme est <mod type="corr"><orig>dan<mod type="del" stage="" who=""><del>j</del></mod><mod type="add" stage="" who=""><add>g</add></mod>eureux</orig><reg>dangereux</reg></mod>. Mais l'oncle n'a pas 
+l'argent et le cabanon <mod type="corr"><orig>doua</orig><reg>doit</reg></mod> bien servir à 
+quelque chose … <mod type="corr"><orig><mod type="del" stage="" who=""><del>q</del></mod><mod type="add" stage="" who=""><add>Q</add></mod>uelque</orig><reg>Quelques</reg></mod> <mod type="corr"><orig>semaine</orig><reg>semaines</reg></mod> <mod type="corr"><orig>plutars</orig><reg>plus tard</reg></mod> le 
+GIPN groupe intervention police <mod type="corr"><orig>national</orig><reg>nationale</reg></mod> <mod type="corr"><orig>à</orig><reg>a</reg></mod> 
+<mod type="corr"><orig>trouver</orig><reg>trouvé</reg></mod> un <mod type="corr"><orig>c<mod type="del" stage="" who=""><del>XXX#</del></mod><mod type="add" stage="" who=""><add>o</add></mod>rp</orig><reg>corps</reg></mod> dans un cabanon dans la 
+
+<pb/>
+
+<mod type="corr"><orig>f<mod type="del" stage="" who=""><del>a</del></mod><mod type="add" stage="" who=""><add>o</add></mod>rêt</orig><reg>forêt</reg></mod> et les <mod type="corr"><orig>analise</orig><reg>analyses</reg></mod> ADN ont <mod type="corr"><orig>révéler</orig><reg>révélé</reg></mod> leur <mod type="corr"><orig>se<mod type="del" stage="" who=""><del>XXX#</del></mod><mod type="add" stage="" who=""><add>c</add></mod>ret</orig><reg>secret</reg></mod> 
+C'est bien l'oncle Jo <mod type="del" stage="" who=""><del>les funéraille auront lieu sous l'arc de <mod type="corr"><orig>TRIONFE</orig><reg>triomphe</reg></mod></del></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

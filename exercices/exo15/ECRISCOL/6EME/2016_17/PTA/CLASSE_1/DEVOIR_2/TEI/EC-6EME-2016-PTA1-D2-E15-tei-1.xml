@@ -1,0 +1,159 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E15
+</head>
+<p>
+<pb/>
+Laurie arrive à l'école elle pose son cartable.<lb/>
+par terre. La maîtresse, fait l'<mod type="corr"><orig>appelle</orig><reg>appel</reg></mod>, après<lb/>
+elles commencent à <mod type="corr"><orig>travaillé</orig><reg>travailler</reg></mod>. Laurie ne<lb/>
+comprend pas l'exercice qu'elle à faire, elle<lb/>
+lève la main "la maîtresse <mod type="del" stage="" who=""><del>,</del></mod> demande qu'<mod type="corr"><orig>estceque</orig><reg>est-ce que</reg></mod><lb/>
+tu <mod type="corr"><orig>veut</orig><reg>veux</reg></mod>, <mod type="corr"><orig>laurie</orig><reg>Laurie</reg></mod> je n'ai pas compris<lb/>
+l'exercice que j'ai à faire. Il faut juste<lb/>
+conjuguer les verbes qui sont <mod type="corr"><orig>demandé</orig><reg>demandés</reg></mod>. §<lb/>
+au passé simple, mais je sais pas <mod type="del" stage="" who=""><del>a</del></mod> conjuguer<lb/>
+c'est pas grave: <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> ton cahier: d'accord madame; §<lb/>
+
+<pb/>
+Les enfants c'est l'heure de la récréation, Laurie va<lb/>
+voir <mod type="corr"><orig>c'est</orig><reg>ses</reg></mod> copines et demande à <mod type="corr"><orig>Julliette</orig><reg>Juliette</reg></mod> tu <mod type="corr"><orig>veut</orig><reg>veux</reg></mod> <mod type="corr"><orig>joué</orig><reg>jouer</reg></mod><lb/>
+à quoi, à la marelle. <mod type="corr"><orig>oui</orig><reg>Oui</reg></mod> <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> me plaît beaucoup. §<lb/>
+La récréation est <mod type="corr"><orig>fini</orig><reg>finie</reg></mod> dit la maîtresse, Laurie va se<lb/>
+<mod type="corr"><orig>rengé</orig><reg>ranger</reg></mod>. Elle dit à la maîtresse, j'ai <mod type="corr"><orig>finit</orig><reg>fini</reg></mod> mon<lb/>
+exercice de français la maîtresse lui en donne <mod type="corr"><orig>à</orig><reg>un</reg></mod><lb/>
+autre exercice: <mod type="corr"><orig>tient</orig><reg>tiens</reg></mod> <mod type="corr"><orig>laurie<mod type="del" stage="" who=""><del>ce</del></mod></orig><reg>Laurie</reg></mod> un exercice de <mod type="corr"><orig>math<lb/>ématique</orig><reg>mathématiques</reg></mod>. Le midi les parents de Laurie<lb/>
+viennent la <mod type="corr"><orig>cherché</orig><reg>chercher</reg></mod> à l'école. La maman<lb/>
+demande à sa fille tu <mod type="corr"><orig>à</orig><reg>as</reg></mod> fait quoi à l'école<lb/>
+ce <mod type="subst"><del><mod type="del" stage="" who=""><del>matin</del></mod></del><add stage="" who="">matin</add></mod>, j'ai des exercices de<lb/>
+français et de <mod type="corr"><orig>mathématique</orig><reg>mathématiques</reg></mod>. Elle rentre<lb/>
+à la maison elle mange, <mod type="del" stage="" who=""><del>a</del></mod> après elle retourne<lb/>
+à l'école. <mod type="del" stage="" who=""><del>C</del></mod> Après elle retourne à l'école<lb/>
+elle va se <mod type="corr"><orig>rangé</orig><reg>ranger</reg></mod>, elle <mod type="corr"><orig>arrive<mod type="del" stage="" who=""><del>a</del></mod></orig><reg>arrive</reg></mod> dans la classe.<lb/>
+<mod type="corr"><orig>elle</orig><reg>Elle</reg></mod> les exercices qu'elle à faire. Madame<lb/>
+j'ai <mod type="corr"><orig>finit</orig><reg>fini</reg></mod> les exercices de SV et de<lb/>
+Chimie. Les enfants c'est l'heure de la<lb/>
+récréation. Pendant <mod type="corr"><orig>se</orig><reg>ce</reg></mod> <mod type="del" stage="" who=""><del>te</del></mod> temps la<lb/>
+maîtresse boit son café dans la salle des profs. §<lb/>
+
+<pb/>
+La récréation est <mod type="corr"><orig>finit</orig><reg>finie</reg></mod> les enfants allez<lb/>
+vous <mod type="corr"><orig>rangés</orig><reg>ranger</reg></mod>: d'accord madame. Après<lb/>
+Laurie finit de faire sa dernière phrase<lb/>
+de SVT et de Chimie, elle appelle la<lb/>
+maîtresse pour qu'elle <mod type="corr"><orig>viennend</orig><reg>vienne</reg></mod> la<lb/>
+<mod type="corr"><orig>corrigé</orig><reg>corriger</reg></mod> et lui rendre le <mod type="corr"><orig>travaile</orig><reg>travail</reg></mod>. Les<lb/>
+enfants les cours sont <mod type="corr"><orig>fini<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">t</add></mod></orig><reg>finis</reg></mod>. Les parents<lb/>
+de Laurie sont à la barrière <mod type="del" stage="" who=""><del>la</del></mod> le papa<lb/>
+de <mod type="corr"><orig>laurie</orig><reg>Laurie</reg></mod> demande à sa fille qu'est<lb/>
+ce que <mod type="del" stage="" who=""><del>lur</del></mod> tu <mod type="corr"><orig>à</orig><reg>as</reg></mod> fait à l'école cet<lb/>
+après-midi, j'<mod type="corr"><orig>aa</orig><reg>ai</reg></mod> j'ai fait du sport<lb/>
+de SVT, de la chimie et après c'était<lb/>
+la récréation. Elle arrive à la maison<lb/>
+elle <mod type="corr"><orig>pese</orig><reg>pèse</reg></mod> <mod type="corr"><orig>sont</orig><reg>son</reg></mod> cartable <mod type="del" stage="" who=""><del>et</del></mod> à l'entrée du<lb/>
+couloir, et enlève sont manteau et ses<lb/>
+chaussures. Elle goûte, et après elle fait<lb/>
+ses devoirs qu'elle à faire. Et le <mod type="corr"><orig>sais</orig><reg>sait</reg></mod>, elle<lb/>
+se <mod type="corr"><orig>mais</orig><reg>met</reg></mod> à table, et après sa maman, §<lb/>
+
+<pb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>lui</del></mod></del><add stage="" who="">lui</add></mod> <mod type="corr"><orig>sont</orig><reg>son</reg></mod> histoire des <mod type="corr"><orig>dévoreur</orig><reg>dévoreurs</reg></mod> c'est<lb/>
+Lala et la machine à laver le temps<lb/>
+tu <mod type="corr"><orig>à</orig><reg>as</reg></mod> bien aimé cette histoire oui.<lb/>
+c'est la fin? §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

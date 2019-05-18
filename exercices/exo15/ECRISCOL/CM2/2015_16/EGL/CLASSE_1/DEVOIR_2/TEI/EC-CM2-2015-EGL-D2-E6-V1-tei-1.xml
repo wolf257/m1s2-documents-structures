@@ -1,0 +1,123 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>﻿partie: EC-CM2-2015-EGL-D2-E6-V1
+</head>
+<p>
+<pb/>
+
+Panique à bord §<lb/>
+Tout à coup, la voiture avança, lentement<lb/>
+d'abord, ensuite de plus en plus vite<lb/>
+les deux fillettes avez <mod type="corr"><orig>extr<mod type="subst"><del><mod type="del" stage="" who=""><del>e</del></mod></del><add stage="" who="">ê</add></mod>mement</orig><reg>entrêmement</reg></mod> peur.<lb/> 
+Elles se demandaient ce qu'elle <mod type="del" stage="" who=""><del>devaient</del></mod><lb/>
+devaient <mod type="corr"><orig>faie</orig><reg>faire</reg></mod>, en plus il y <mod type="del" stage="" who=""><del>ai</del></mod> avait <mod type="del" stage="" who=""><del>s</del></mod><lb/>
+plusieurs personnes qui traversaient.<lb/>
+Nadine<mod type="del" stage="T2" who=""><del>s</del></mod> <mod type="del" stage="T2" who=""><del>,</del></mod> voulait freiner pour pouvoir<lb/> 
+<mod type="del" stage="" who=""><del>renves</del></mod><mod type="del" stage="" who=""><del>renre</del></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>renversais</del></mod></del><add stage="" who="">renverser</add></mod> <mod type="del" stage="" who=""><del>.</del></mod><lb/>
+personne. <mod type="del" stage="" who=""><del>Tenpe</del></mod> <mod type="del" stage="" who=""><del>Tepen</del></mod> Cependant <mod type="del" stage="" who=""><del>,</del></mod> elle<lb/>
+avait <mod type="corr"><orig>appuyé<mod type="del" stage="" who=""><del>r</del></mod></orig><reg>appuyé</reg></mod> sur l'accélérateur, alors<lb/>
+elle <mod type="corr"><orig><mod type="add" stage="" who=""><add>à</add></mod></orig><reg>a</reg></mod> <mod type="del" stage="" who=""><del>appu</del></mod> <mod type="add" stage="" who=""><add>appuya</add></mod> sur la <mod type="add" stage="T2" who=""><add>pédale</add></mod> suivante.<lb/> 
+<mod type="corr"><orig>Surper</orig><reg>Super</reg></mod> ça freine mais elle était trop<lb/> 
+courte. Elle appuya <mod type="add" stage="" who=""><add>plus fort</add></mod> pour ne pas<lb/>
+écraser <mod type="corr"><orig>le<mod type="add" stage="" who=""><add>s</add></mod></orig><reg>les</reg></mod> <mod type="corr"><orig>piéton<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>piétons</reg></mod> <mod type="corr"><orig>piéton<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>piétons</reg></mod>.<lb/>
+Elle s<mod type="del" stage="" who=""><del>e</del></mod>'est <mod type="subst"><del><mod type="del" stage="" who=""><del>arreté</del></mod></del><add stage="" who="">arrêté</add></mod> juste avant. <mod type="del" stage="" who=""><del>leur</del></mod> <mod type="add" stage="T2" who=""><add>Leur</add></mod> mère<lb/>
+
+<pb/>
+les rejoint <mod type="add" stage="T2" who=""><add>en courant</add></mod> et <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>parti</orig><reg>partirent</reg></mod> <mod type="del" stage="" who=""><del>chez</del></mod> vers <mod type="corr"><orig>leurs</orig><reg>leur</reg></mod> maison. §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,115 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA2-D1-E1
+</head>
+<p>
+Je ferais <mod type="del" stage="" who=""><del>o</del></mod> enseigner les <mod type="corr"><orig>mathématique</orig><reg>mathématiques</reg></mod> aux élèves. Je me lèverais de<lb/>
+mon lit, j'irai prendre mon café, j'irai au collège ou au lycée. §<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>Qan</del></mod></del><add stage="" who="">Quand</add></mod> j'aurais <mod type="corr"><orig>fii</orig><reg>fini</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>ms</del></mod></del><add stage="" who="">mes</add></mod> cours que j'ai donné je rentrerai<lb/>
+chez moi je <mod type="corr"><orig>préparait</orig><reg>préparerais</reg></mod> la cuisine une fois <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> je <mod type="corr"><orig>jourrais</orig><reg>jouerais</reg></mod><lb/>
+avec des amis en multijoueur sur des jeux vidéos avec des amis,<lb/>
+bien <mod type="corr"><orig>sur</orig><reg>sûr</reg></mod> je <mod type="corr"><orig>n'is</orig><reg>n'y</reg></mod> jourrais pas trop et je <mod type="corr"><orig>préparerait</orig><reg>préparerais</reg></mod> les leçons<lb/>
+pour la semaine prochaine et je <mod type="corr"><orig>corrigerai<mod type="del" stage="" who=""><del>s</del></mod></orig><reg>corrigerai</reg></mod> les <mod type="corr"><orig>contrôle</orig><reg>contrôles</reg></mod><lb/>
+<mod type="corr"><orig>si il</orig><reg>s'il</reg></mod> y en <mod type="corr"><orig>n'a</orig><reg>a</reg></mod>. Je regarderais des films le soir avec celle<lb/>
+que j'aime (si j'en <mod type="corr"><orig>n'ai</orig><reg>ai</reg></mod> puis une fois <mod type="del" stage="" who=""><del>f</del></mod> la fin du film<lb/>
+j'irai au lit. Et peut-être que je serais papa <mod type="del" stage="" who=""><del>Qand je<lb/> quand je <mod type="subst"><del>parlait</del><add stage="" who="">parle</add></mod> parfois de jeux vidéos</del></mod> Je voudrais parler<lb/>
+d'exemple de jeux vidéos ex: <mod type="corr"><orig>ERK: survavlo eloved</orig><reg>ARK: Survival Evolved</reg></mod> raft,<lb/>
+minecraft etc...Je serais peut-être youtubeur. Je ferais<lb/>
+des fêtes entre amis. Comme sport je ferais tennis le samedi<lb/>
+à l'heure qu'on me donne. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

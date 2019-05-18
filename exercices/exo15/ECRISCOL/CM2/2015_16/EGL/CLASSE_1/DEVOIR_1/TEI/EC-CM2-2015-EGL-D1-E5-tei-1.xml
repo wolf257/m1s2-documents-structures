@@ -1,0 +1,129 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D1-E5
+</head>
+<p>
+<pb/>
+Pour ma rédaction j'ai <mod type="corr"><orig>dis</orig><reg>dit</reg></mod> à mes <mod type="corr"><orig>parent</orig><reg>parents</reg></mod><lb/>
+que nous <mod type="corr"><orig>devion</orig><reg>devions</reg></mod> <mod type="corr"><orig>fair</orig><reg>faire</reg></mod> plus de <mod type="corr"><orig>chosse</orig><reg>choses</reg></mod> en famille.<lb/>
+Mes <mod type="corr"><orig>parent</orig><reg>parents</reg></mod> <mod type="corr"><orig>trouver</orig><reg>trouvaient</reg></mod> que <mod type="corr"><orig>saitai</orig><reg>c'était</reg></mod> une <mod type="corr"><orig>bonnes</orig><reg>bonne</reg></mod><lb/>
+<mod type="corr"><orig>ides</orig><reg>idée</reg></mod>. Alors <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>on</orig><reg>ont</reg></mod> <mod type="corr"><orig>déssider</orig><reg>décidé</reg></mod> d'aller au ski. Ma<lb/>
+mère <mod type="corr"><orig>été</orig><reg>était</reg></mod> <mod type="corr"><orig>trés</orig><reg>très</reg></mod> <mod type="corr"><orig>douer</orig><reg>douée</reg></mod> <mod type="corr"><orig>parconst</orig><reg>par contre</reg></mod> <mod type="corr"><orig>gé</orig><reg>je suis</reg></mod> <mod type="corr"><orig>tonber</orig><reg>tombé</reg></mod> tout<lb/>
+le temps. Mon <mod type="corr"><orig>pères</orig><reg>père</reg></mod> <mod type="corr"><orig>mapèle</orig><reg>m'appelle</reg></mod> avec ma soeur<lb/>
+il <mod type="corr"><orig>avois</orig><reg>avait</reg></mod> <mod type="corr"><orig>amener</orig><reg>amené</reg></mod> <mod type="corr"><orig>no</orig><reg>ma</reg></mod> luge. Ma soeur et mon <mod type="corr"><orig>pére</orig><reg>père</reg></mod><lb/>
+<mod type="corr"><orig>fesois</orig><reg>faisait</reg></mod> des <mod type="corr"><orig>petit</orig><reg>petites</reg></mod> <mod type="corr"><orig>desante</orig><reg>descentes</reg></mod> <mod type="corr"><orig>alor</orig><reg>alors</reg></mod> que <mod type="corr"><orig>mois</orig><reg>moi</reg></mod> je <mod type="corr"><orig>mes<lb/>
+tes</orig><reg>m'étais</reg></mod> mis <mod type="corr"><orig>tout ten</orig><reg>tout en</reg></mod> <mod type="corr"><orig>aux</orig><reg>haut</reg></mod>. Je me <mod type="corr"><orig>mis</orig><reg>mets</reg></mod> sur ma <mod type="corr"><orig>luges</orig><reg>luge</reg></mod><lb/>
+<mod type="corr"><orig>fairma</orig><reg>fermai</reg></mod> les <mod type="corr"><orig>oyeu</orig><reg>yeux</reg></mod> et <mod type="corr"><orig>désendi</orig><reg>descendis</reg></mod>. Je <mod type="corr"><orig>sui</orig><reg>suis</reg></mod> <mod type="corr"><orig>désendu</orig><reg>descendu</reg></mod><lb/>
+le plus vite <mod type="corr"><orig>posible</orig><reg>possible</reg></mod> j'<mod type="corr"><orig>alai</orig><reg>allais</reg></mod> <mod type="corr"><orig>telmen</orig><reg>tellement</reg></mod> vite que<lb/>
+<mod type="corr"><orig>jai</orig><reg>j'ai</reg></mod> <mod type="corr"><orig>quaser</orig><reg>cassé</reg></mod> le <mod type="corr"><orig>frin</orig><reg>frein</reg></mod> de la luge j'ai <mod type="corr"><orig>fay</orig><reg>failli</reg></mod> rentrer<lb/>
+dans les <mod type="corr"><orig>barière</orig><reg>barrières</reg></mod>. J'<mod type="corr"><orig>avai</orig><reg>avais</reg></mod> la tête qui <mod type="corr"><orig>tourene</orig><reg>tournait</reg></mod><lb/>
+avec <mod type="corr"><orig>plin</orig><reg>plein</reg></mod> de neige sur la tête. <mod type="corr"><orig>Aprémes</orig><reg>Après mes</reg></mod><lb/>
+<mod type="corr"><orig>paren</orig><reg>parents</reg></mod> et ma soeur et <mod type="corr"><orig>mois</orig><reg>moi</reg></mod> nous sommes partis §<lb/>
+
+<pb/>
+passer <mod type="corr"><orig>pars</orig><reg>par</reg></mod> le chemin des #XXX# <mod type="corr"><orig>engeler</orig><reg>gelé</reg></mod> ma soeur <mod type="corr"><orig>nariver</orig><reg>n'arrivait</reg></mod><lb/>
+pas à nous <mod type="corr"><orig>ratraper</orig><reg>ratrapper</reg></mod> <mod type="corr"><orig>unfoi</orig><reg>une fois</reg></mod> tout en <mod type="corr"><orig>ou</orig><reg>haut</reg></mod> nous avons <mod type="corr"><orig>du</orig><reg>dû</reg></mod> <mod type="corr"><orig>dessen<lb/>
+dre</orig><reg>descendre</reg></mod> une <mod type="corr"><orig>trez</orig><reg>très</reg></mod> grande <mod type="corr"><orig>dessente</orig><reg>descente</reg></mod>. <mod type="subst"><del><mod type="del" stage="" who=""><del>je</del></mod></del><add stage="" who="">Je></add></mod> <mod type="corr"><orig>sui</orig><reg>suis</reg></mod> <mod type="corr"><orig>tonber</orig><reg>tombé</reg></mod> <mod type="corr"><orig>un</orig><reg>une</reg></mod> <mod type="corr"><orig>foi</orig><reg>fois</reg></mod> et mes <mod type="corr"><orig>ski</orig><reg>skis</reg></mod><lb/>
+<mod type="corr"><orig>setais</orig><reg>s'étaient</reg></mod> <mod type="corr"><orig>croiseys</orig><reg>croisés</reg></mod>. <mod type="corr"><orig>apprez</orig><reg>Après</reg></mod> nous sommes <mod type="corr"><orig>rentrer</orig><reg>rentrés</reg></mod> de bonne<lb/>
+<mod type="corr"><orig>umeur</orig><reg>humeur</reg></mod>. Pour ma rédaction j'ai <mod type="corr"><orig>u</orig><reg>eu</reg></mod> un 10/10. Mes <mod type="corr"><orig>parent</orig><reg>parents</reg></mod><lb/>
+<mod type="corr"><orig>Mon</orig><reg>m'ont</reg></mod> dit comme tu a <mod type="corr"><orig>us</orig><reg>eu</reg></mod> une bonne <mod type="corr"><orig>notes</orig><reg>note</reg></mod> que <mod type="corr"><orig>voudraitu</orig><reg>voudrais-tu</reg></mod><lb/>
+avoir. Je <mod type="corr"><orig>dit</orig><reg>dis</reg></mod> que je <mod type="corr"><orig>veut</orig><reg>veux</reg></mod> un chaton. Mes <mod type="corr"><orig>parent</orig><reg>parents</reg></mod><lb/>
+<mod type="corr"><orig>mons</orig><reg>m'ont</reg></mod> <mod type="corr"><orig>acheter</orig><reg>acheté</reg></mod> un chaton <mod type="corr"><orig>tous</orig><reg>tout</reg></mod> <mod type="corr"><orig>blan</orig><reg>blanc</reg></mod> que j<mod type="del" stage="" who=""><del>X#</del></mod>'ai <mod type="corr"><orig>apeler</orig><reg>appelé</reg></mod><lb/>
+<mod type="corr"><orig>flocon</orig><reg>Flocon</reg></mod>. <mod type="corr"><orig>Depui</orig><reg>Depuis</reg></mod> tous les <mod type="corr"><orig>dimanche</orig><reg>dimanches</reg></mod> nous <mod type="corr"><orig>passon</orig><reg>passons</reg></mod> la plus<lb/>
+belle <mod type="corr"><orig>journer</orig><reg>journée</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

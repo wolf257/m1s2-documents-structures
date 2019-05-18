@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CM2-2015-EGL-D2-E18-V2
+</head>
+<p>
+<mod type="corr"><orig>et</orig><reg>Et</reg></mod> ils se <mod type="corr"><orig>prennes</orig><reg>prennent</reg></mod> des rochers, sur le<lb/>
+toit de la voiture. Les rochers <mod type="corr"><orig>viennes</orig><reg>viennent</reg></mod> des<lb/>
+montagnes, le toit de la voiture<mod type="del" stage="" who=""><del>s</del></mod> est un<lb/>
+peu <mod type="corr"><orig>applatit</orig><reg>aplati</reg></mod>, après ils croisent un sanglier<lb/>
+au milieu de la <mod type="corr"><orig>rote</orig><reg>route</reg></mod>, le sanglier s'<mod type="corr"><orig>écha<lb/>
+ppent</orig><reg>échappe</reg></mod> mais la voiture <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>toucher</orig><reg>touchée</reg></mod> au phare. §<lb/>
+La voiture <mod type="corr"><orig>et</orig><reg>est</reg></mod> <mod type="corr"><orig>enfoncer</orig><reg>enfoncée</reg></mod>, elle roule <mod type="corr"><orig>moin</orig><reg>moins</reg></mod> vite<lb/>
+ils <mod type="corr"><orig>voiellent</orig><reg>voient</reg></mod> une maison en feu ils <mod type="corr"><orig>fonce</orig><reg>foncent</reg></mod><lb/>
+<mod type="corr"><orig>dedant</orig><reg>edans</reg></mod> ils sortent ils <mod type="corr"><orig>cour</orig><reg>courent</reg></mod> dans l'herbe, la<lb/>
+voiture explose <mod type="corr"><orig>yen</orig><reg>les</reg></mod> <mod type="corr"><orig>pompier</orig><reg>pompiers</reg></mod> l'<mod type="corr"><orig>étaigne</orig><reg>étaignent</reg></mod><lb/>
+l'<mod type="corr"><orig>incendit</orig><reg>incendie</reg></mod> et ils rentrent chez eux §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

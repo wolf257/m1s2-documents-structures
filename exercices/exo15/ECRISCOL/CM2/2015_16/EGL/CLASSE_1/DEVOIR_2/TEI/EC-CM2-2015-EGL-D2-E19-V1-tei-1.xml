@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>﻿partie: EC-CM2-2015-EGL-D2-E19-V1
+</head>
+<p>
+Tout à coup, la voiture avança, lentement d'abord, ensuite<lb/>
+de plus en plus vite et la voiture s'arrête tout <mod type="corr"><orig>un</orig><reg>d'un</reg></mod> coup<lb/>
+quelqu'un sort du magasin <mod type="subst"><del><mod type="del" stage="" who=""><del>de</del></mod></del><add stage="" who="">devant</add></mod> la voiture <mod type="corr"><orig>est</orig><reg>et</reg></mod> la <mod type="subst"><del><mod type="del" stage="" who=""><del>roula</del></mod></del><add stage="" who="">voie</add></mod> <mod type="del" stage="" who=""><del>voié</del></mod><lb/>
+<mod type="corr"><orig>rouler</orig><reg>roule</reg></mod> toute <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>suel</del></mod></del><add stage="" who="">seul</add></mod></orig><reg>seule</reg></mod> <mod type="add" stage="T2" who=""><add>sorti la voiture</add></mod>. Il se dit ils doivent dormir <mod type="corr"><orig>est</orig><reg>et</reg></mod> ils <mod type="corr"><orig>sont</orig><reg>ont</reg></mod> mis<lb/>
+le bouton pour <mod type="corr"><orig>quelle</orig><reg>qu'elle</reg></mod> roule <mod type="corr"><orig>tout</orig><reg>toute</reg></mod> <mod type="corr"><orig>seul</orig><reg>seule</reg></mod>. <mod type="corr"><orig>mais</orig><reg>Mais</reg></mod> c'est pas vrai.<lb/>
+<mod type="corr"><orig>Il</orig><reg>Ils</reg></mod> <mod type="corr"><orig>voiaient</orig><reg>voient</reg></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add>avaiez vu</add></mod></orig><reg>avaient vu</reg></mod> personne dans la voiture dans <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>appelle</orig><reg>appellent</reg></mod> <mod type="add" stage="T2" who=""><add>,</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>sa</del></mod></del><add stage="" who="">ses</add></mod> voisines <mod type="add" stage="T2" who=""><add>,</add></mod><lb/>
+parce que ils <mod type="corr"><orig>l<mod type="del" stage="" who=""><del>o</del></mod>'ont</orig><reg>l'ont</reg></mod> vu sortir de cette voiture §<lb/>
+<mod type="add" stage="T2" who=""><add>et</add></mod> <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="del" stage="" who=""><del>peux</del></mod>leur dire <mod type="add" stage="T2" who=""><add><mod type="corr"><orig>que elle</orig><reg>qu'elle</reg></mod> roule tout seule</add></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>Les deux fillette</del></mod></del><add stage="" who="">Elles</add></mod> <mod type="corr"><orig>courues</orig><reg>courent</reg></mod> pour la <mod type="corr"><orig>ratrapé</orig><reg>rattraper</reg></mod><lb/>
+<mod type="del" stage="T2" who=""><del>de leur #XXX#</del></mod> §<lb/> 
+<mod type="subst"><del><mod type="del" stage="" who=""><del>mais</del></mod></del><add stage="T2" who="">pourtant</add></mod> la <mod type="del" stage="" who=""><del>mére</del></mod> sortie <mod type="add" stage="T2" who=""><add><mod type="corr"><orig>mére</orig><reg>mère</reg></mod> <mod type="corr"><orig>sortie</orig><reg>sortit</reg></mod></add></mod> et <mod type="corr"><orig>voie</orig><reg>voit</reg></mod> les deux <mod type="corr"><orig>fiette<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>fillettes</reg></mod> <mod type="corr"><orig>corire<mod type="add" stage="T2" who=""><add>s</add></mod></orig><reg>courir</reg></mod> <mod type="corr"><orig>aprés</orig><reg>après</reg></mod><lb/> 
+<mod type="subst"><del><mod type="del" stage="" who=""><del>la</del></mod></del><add stage="" who="">une</add></mod> voiture. et <mod type="add" stage="" who=""><add>Et</add></mod> <mod type="del" stage="" who=""><del>rantréaire</del></mod> <mod type="corr"><orig><mod type="add" stage="T2" who=""><add><mod type="subst"><del><mod type="del" stage="" who=""><del>é</del></mod></del><add stage="" who="">e</add></mod>lle ramtrairent</add></mod></orig><reg>elles rentrèrent</reg></mod> la mère qui est <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>vachie</del></mod></del><add stage="T2" who="">vaché</add></mod></orig><reg>fâchée</reg></mod><lb/>
+<mod type="corr"><orig>parceque</orig><reg>parce que</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>c'était</del></mod></del><add stage="T2" who="">c'est</add></mod> la <mod type="del" stage="" who=""><del>l</del></mod> <mod type="corr"><orig>siene</orig><reg>sienne</reg></mod> <mod type="subst"><del><mod type="del" stage="" who=""><del>qui</del></mod></del><add stage="T2" who="">elle</add></mod> voulait <mod type="del" stage="T2" who=""><del>voulu</del></mod> la <mod type="corr"><orig>pretait</orig><reg>prêter</reg></mod><lb/>
+à <mod type="subst"><del><mod type="del" stage="" who=""><del>sa</del></mod></del><add stage="" who="">son</add></mod> amie mais elle est <mod type="corr"><orig>casser</orig><reg>cassée</reg></mod> <mod type="corr"><orig><mod type="add" stage="" who=""><add>casser</add></mod></orig><reg>cassée</reg></mod>. <mod type="del" stage="" who=""><del>Cepen</del></mod> Cependant elle<lb/>
+la réparait §<lb/>
+La voiture roule toute <mod type="corr"><orig>seul</orig><reg>seule</reg></mod> §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

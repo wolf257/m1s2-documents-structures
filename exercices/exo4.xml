@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+<exercice>
+    
+    <infoPage>
+        <titrePage> exercice_4 </titrePage>
+    </infoPage>
+    
+    <infoExo>
+        <titreExo> Exercice ... : ... </titreExo>
+        <sousTitrePerso> ... </sousTitrePerso>
+    </infoExo>
+    
+    <!--  =============================  -->
+    <question index="1">
+        
+        <bloc>
+            <titre> ... </titre>
+            
+            <commentaire> 
+                <ligne> ... </ligne>
+            </commentaire>
+            
+            <pathimage> ../images/... </pathimage>
+            <legende> xxx </legende>
+        </bloc>
+        
+        <code>
+            <pathZip> ../zip/.. </pathZip>
+        </code>
+        
+    </question>
+    
+</exercice>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice SYSTEM "dtd-exos.dtd">
+<?xml-stylesheet type="application/xml" href="transfo-exos.xsl" ?>
+
+<exercice>
+    
+    <infoPage>
+        <titrePage> exercice_15 </titrePage>
+    </infoPage>
+    
+    <infoExo>
+        <titreExo> Exercice 15 : Ecriscol </titreExo>
+    </infoExo>
+    
+    <!--  =============================  -->
+    <question index="1">
+        
+        <bloc>
+            <titre> Consigne </titre>
+            
+            <pathimage> ./exo15/img/c1.png </pathimage>
+
+        </bloc>
+        
+        <bloc>
+            <titre> Solutions </titre>
+            <commentaire>
+                <ligne>Note : L'exemple qui suit n'est valable que pour le niveau "CE1" et l'opération de suppression. Il faudra changer la requête pour les autres niveaux et les autres opérations.</ligne>
+                <ligne>(insertion = "add", remplacement = "subst")</ligne>
+            </commentaire>
+
+            <pathimage> ./exo15/img/s1.png </pathimage>
+        </bloc>
+       
+        
+    </question>
+
+    <!--  =============================  -->
+    <question index="2">
+        
+        <bloc>
+            <titre> Consigne </titre>
+            
+            <pathimage> ./exo15/img/c2.png </pathimage>
+            
+        </bloc>
+        
+        <bloc>
+            <titre> Solutions </titre>
+            
+            <pathimage> ./exo15/img/s2.png </pathimage>
+            <pathimage> ./exo15/img/s3.png </pathimage>
+            <pathimage> ./exo15/img/s4.png </pathimage>
+            <pathimage> ./exo15/img/s5.png </pathimage>
+            
+        </bloc>
+        
+        <code>
+            <pathZip> ./exo15/exo15.zip </pathZip>
+        </code>
+
+    </question>
+    
+</exercice>

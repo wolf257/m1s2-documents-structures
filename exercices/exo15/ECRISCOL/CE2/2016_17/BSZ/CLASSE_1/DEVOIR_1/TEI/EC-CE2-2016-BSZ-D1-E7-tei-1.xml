@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E7
+</head>
+<p>
+C'est un bon matin d'été, je me <mod type="corr"><orig>laive</orig><reg>lève</reg></mod>, j'<mod type="corr"><orig>aiter</orig><reg>étais</reg></mod> en <mod type="corr"><orig>plaine</orig><reg>pleine</reg></mod><lb/>
+forme. J'<mod type="corr"><orig>étai<mod type="subst"><del><mod type="del" stage="" who=""><del>s</del></mod></del><add stage="" who="">t</add></mod></orig><reg>étais</reg></mod> Ninja et c'était<mod type="del" stage="" who=""><del>ait</del></mod> très facile. J'étais<lb/>
+sur bonane, c'est une planète <mod type="del" stage="" who=""><del>l</del></mod> Ninjagoite je m'en<lb/>
+traine sur le parcour de. Ninjagoo!!!! Je suis<lb/>
+sortie du <mod type="corr"><orig>parcour</orig><reg>parcours</reg></mod> <mod type="corr"><orig>qu'en</orig><reg>quand</reg></mod> soudain, j'<mod type="corr"><orig>antend</orig><reg>entends</reg></mod> quelque<lb/>
+chose de bizarre de très bizarre vraiment. <mod type="corr"><orig>je</orig><reg>Je</reg></mod><lb/>
+<mod type="corr"><orig>coure</orig><reg>cours</reg></mod> je <mod type="corr"><orig>coure</orig><reg>cours</reg></mod> de <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> <mod type="corr"><orig>mais</orig><reg>mes</reg></mod> <mod type="corr"><orig>force</orig><reg>forces</reg></mod> et soudain un <mod type="corr"><orig>robo</orig><reg>robot</reg></mod><lb/>
+géant apparait devant moi, un robogaiige tras<lb/>
+swag qui faisait: Poum, Poum, chhhhhhhhhhhhiii<lb/>
+Poum, et <mod type="corr"><orig>la</orig><reg>là</reg></mod> il y en a des millions et des<lb/>
+millions. Je courais entre <mod type="corr"><orig>leure</orig><reg>leurs</reg></mod> <mod type="corr"><orig>pied</orig><reg>pieds</reg></mod>, je <mod type="corr"><orig>soter</orig><reg>sautais</reg></mod>, je<lb/>
+<mod type="corr"><orig>bondisser</orig><reg>bandissais</reg></mod> vraiment très vite, <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>g</del></mod></del><add stage="" who="">j</add></mod>'aitait</orig><reg>j'étais</reg></mod> <mod type="corr"><orig>d'en</orig><reg>dans</reg></mod> la<lb/>
+<mod type="del" stage="" who=""><del>jin</del></mod> jungle de bombe et je m'<mod type="corr"><orig>accrochait</orig><reg>accrochait</reg></mod> <mod type="corr"><orig>au</orig><reg>aux</reg></mod> <mod type="corr"><orig>liane</orig><reg>lianes</reg></mod><lb/>
+au feuillage et du <mod type="del" stage="" who=""><del>brom</del></mod> <mod type="corr"><orig>tron</orig><reg>tronc</reg></mod> des arbres pour<lb/>
+les <mod type="corr"><orig>arréter</orig><reg>arrêter</reg></mod> et: Pouffffffffffffffffff et je rentre chez <mod type="corr"><orig>mois</orig><reg>moi</reg></mod>,<lb/>
+avec des lingots d'or. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

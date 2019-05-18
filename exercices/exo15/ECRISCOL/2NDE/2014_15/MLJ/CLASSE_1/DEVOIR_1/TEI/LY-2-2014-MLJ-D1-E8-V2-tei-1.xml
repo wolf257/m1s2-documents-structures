@@ -1,0 +1,147 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>LY-2-2014-MLJ-D1-E8-V2
+</head>
+<p>
+<pb/>
+
+Sous la nuit sans étoiles, d'une obscurité et d'une épais<lb/>
+seur d'encre, l'homme depuis  un moment déjà marchait<lb/>
+quand il aperçut au loin la lumière d'un réverbère. §<lb/>
+Dans cette lumière, figurait une ombre de petite taille.<lb/>
+D'un pas hésitant, l'homme interloqué continua de marcher<lb/>
+vers cette tâche noire. §<lb/>
+Il avait l'habitude de faire des balades <mod type="corr"><orig>nocturne</orig><reg>nocturnes</reg></mod><lb/>
+comme en témoigne ses cernes sur son visage si pure d'un<lb/> 
+jeune homme âgé d'une vingtaine d'années. Pout lui la<lb/>
+nuit révélait une autre façade du monde: aucun bruit.<lb/>
+aucune présence ce qui lui donnait l'impression d'être<lb/>
+ailleurs. §<lb/>
+Quand il arriva face à cette ombre, il posa son re<lb/>
+gard sur le banc qui était face à lui et remorqua<lb/>
+un sac d'où sortait une couverture bleue et un emballage vide. §<lb/>
+Cela doit sûrement appartenir à un sans-abri se dit-il.<lb/>
+Le jeune homme repensa, tout en s'<mod type="corr"><orig>assoyant</orig><reg>asseyant</reg></mod>, à son ancienne<lb/>
+vie car lui aussi pendant quelques mois fut sans abri. Il<lb/>
+se <mod type="del" stage="" who=""><del>XXX#</del></mod> toutes ces nuits qu'il avait passé dans le<lb/>
+froid, sous la pluie à attendre que quelqu'un vienne l'aider.<lb/>
+Au lieu de ça les gens le <mod type="corr"><orig>dévisageait</orig><reg>dévisageaient</reg></mod>, avait peur de<lb/>
+lui. §<lb/>
+Il faut dire que son physique n'etait pas des plus plaisants.<lb/>
+Sa barbe grise lui donnait des airs de Pere Noël qu'on<lb/>
+sortait de la cave une fois par un. Ses dents jaunies et<lb/>
+ses lèvres <mod type="corr"><orig>abimées</orig><reg>abîmées</reg></mod> par le froid ne tendait pas son sourir<lb/>
+chalereux. Ses ongles étaient tout <mod type="corr"><orig>noires</orig><reg>noirs</reg></mod> quant à ses §<lb/>
+
+<pb/>
+<mod type="corr"><orig>vetements</orig><reg>vêtements</reg></mod>, ils étaient tous troués et sentaient le<lb/>
+moisi. §<lb/>
+Mais cette periode de sa vie est finie car aujourd'hui,<lb/>
+grâce à une association qui a cru en lui, cet homme a<lb/>
+réussi à obtenir un emploi.<mod type="corr"><orig>Désormais</orig><reg>Désormais</reg></mod>, il porte des<lb/>
+vêtements propres, ses ongles sont propres. Fini la barbe<lb/>
+et les cheveux sales, il est désormais rasé et a une<lb/>
+coupe de cheveux beaucoup plus classe. Son sourir<lb/>
+est maintenant "propre". §<lb/>
+En observant ce sac, il repense à tout son parcours<lb/>
+et est fier de ce qu'il est devenu. Tout cela n'aurait<lb/>
+pas était possible si quelq'un n'avait pas cru en lui.<lb/>
+Le jeune homme décida alors de laisser un billet de 50 euros<lb/>
+et son numero de téléphone en se disant que peut-être il sera<lb/>
+cette personne qui aidera ce sans-abri à s'en sortir. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

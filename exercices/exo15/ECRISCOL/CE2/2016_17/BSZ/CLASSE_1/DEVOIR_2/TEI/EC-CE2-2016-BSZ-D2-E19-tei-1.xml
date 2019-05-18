@@ -1,0 +1,120 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D2-E19
+</head>
+<p>
+il va <mod type="corr"><orig>a</orig><reg>à</reg></mod> l’école il demande <mod type="corr"><orig>a</orig><reg>à</reg></mod> sa maîtresse <mod type="del" stage="" who=""><del>qu</del></mod> <mod type="corr"><orig>quesque</orig><reg>qu’est-ce qu’</reg></mod><lb/>
+on <mod type="subst"><del><mod type="del" stage="" who=""><del>dit</del></mod></del><add stage="" who="">va</add></mod> faire dit, <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> la <mod type="corr"><orig>maitresse</orig><reg>maîtresse</reg></mod> lui <mod type="corr"><orig>repond</orig><reg>répond</reg></mod> nous<lb/>
+<mod type="corr"><orig>allon</orig><reg>allons</reg></mod> faire de la grammaire, de la conjugaison, de la <mod type="subst"><del><mod type="del" stage="" who=""><del>numerat</del></mod><lb/>
+</del><add stage="" who="">numération</add></mod>, de la <mod type="corr"><orig>Sience</orig><reg>science</reg></mod>, de la , <mod type="corr"><orig>Lecture</orig><reg>lecture</reg></mod>, c’est tout dit<lb/>
+<mod type="corr"><orig>la<mod type="del" stage="" who=""><del>i</del></mod></orig><reg>la</reg></mod> maîtresse. <mod type="corr"><orig>est</orig><reg>Et</reg></mod> d’un <mod type="corr"><orig>cout</orig><reg>coup</reg></mod>, <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> va <mod type="corr"><orig>a</orig><reg>à</reg></mod> sa place<lb/>
+il sort. C’est <mod type="corr"><orig>afaire</orig><reg>à faire</reg></mod> très vite la maîtresse dit<lb/>
+<mod type="corr"><orig>sorté</orig><reg>sortez</reg></mod> vos <mod type="corr"><orig>cahier</orig><reg>cahiers</reg></mod> à la <pb/> <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="del" stage="" who=""><del>sort</del></mod> <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> sort<lb/>
+son cahier va à la <pb/> <mod type="corr"><orig>est</orig><reg>et</reg></mod> la maîtresse dit<lb/>
+prenez l’<mod type="corr"><orig>égxaisice</orig><reg>exercice</reg></mod> 2 <mod type="corr"><orig>est</orig><reg>et</reg></mod> sur son cahier <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> fait<lb/>
+l’<mod type="corr"><orig>égxraisice</orig><reg>exercice</reg></mod> 2 <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="corr"><orig>ecris</orig><reg>écrit</reg></mod> <mod type="corr"><orig>toute</orig><reg>toutes</reg></mod> les <mod type="corr"><orig>réponse</orig><reg>réponses</reg></mod> la maîtresse<lb/>
+dit quand vous <mod type="del" stage="" who=""><del>s’</del></mod> <mod type="corr"><orig>avait</orig><reg>avez</reg></mod> fini vous <mod type="corr"><orig>faite</orig><reg>faîtes</reg></mod> de<lb/>
+l’<mod type="corr"><orig>autonomi</orig><reg>autonomie</reg></mod> <mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> dit maîtresse j’ai fini toute<lb/>
+mon <mod type="corr"><orig>autonomi</orig><reg>autonomie</reg></mod> la maîtresse tu <mod type="corr"><orig>va</orig><reg>vas</reg></mod> prendre un<lb/>
+livre sans faire de bruit parce que il y <mod type="corr"><orig>ana</orig><reg>en a</reg></mod><lb/>
+qui <mod type="corr"><orig>non</orig><reg>n’ont</reg></mod> pas fini et il revient <mod type="corr"><orig>a</orig><reg>à</reg></mod> sa place sans faire<lb/>
+de bruit <mod type="corr"><orig>est</orig><reg>et</reg></mod> d’un coup les <mod type="corr"><orig>autre</orig><reg>autres</reg></mod> <mod type="corr"><orig>on</orig><reg>ont</reg></mod> fini <mod type="del" stage="" who=""><del>f</del></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> <mod type="del" stage="" who=""><del>n’a</del></mod><lb/>
+<mod type="corr"><orig>fabien</orig><reg>Fabien</reg></mod> n’a <mod type="del" stage="" who=""><del>b</del></mod> <mod type="corr"><orig>pus</orig><reg>pu</reg></mod> que ouvrir une <mod type="subst"><del><mod type="del" stage="" who=""><del>pas page</del></mod><lb/>
+</del><add stage="" who="">page</add></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> c’est comme <mod type="corr"><orig>sa</orig><reg>ça</reg></mod> que l’<mod type="corr"><orig>istoire</orig><reg>histoire</reg></mod> se<lb/>
+<mod type="corr"><orig>fini</orig><reg>finit</reg></mod> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,130 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-CE2-2016-BSZ-D1-E20
+</head>
+<p>
+<mod type="corr"><orig>Se</orig><reg>Ce</reg></mod> matin je me <mod type="corr"><orig>leve</orig><reg>lève</reg></mod> je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod><lb/>
+mon <mod type="corr"><orig>petit déjener</orig><reg>petit-déjeuner</reg></mod> je <mod type="corr"><orig>mabille</orig><reg>m'habille</reg></mod><lb/>
+<mod type="corr"><orig>aujour'dui</orig><reg>aujourd'hui</reg></mod> <mod type="corr"><orig>s'est</orig><reg>c'est</reg></mod> un grand jour<lb/>
+je <mod type="corr"><orig>rantre</orig><reg>rentre</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la <mod type="corr"><orig>fack</orig><reg>fac</reg></mod>. <mod type="corr"><orig>puis</orig><reg>Puis</reg></mod> je me<lb/>
+fais des <mod type="corr"><orig>nouveau</orig><reg>nouveaux</reg></mod> <mod type="corr"><orig>ami</orig><reg>amis</reg></mod> <mod type="del" stage="" who=""><del>a</del></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> puis<lb/>
+je regarde ma montre il est des l'heure<lb/>
+de manger je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> <mod type="corr"><orig>non</orig><reg>mon</reg></mod> repas <mod type="corr"><orig>pui</orig><reg>puis</reg></mod> je<lb/>
+regard <mod type="subst"><del><mod type="del" stage="" who=""><del>un</del></mod></del><add stage="" who="">mes</add></mod> <mod type="corr"><orig>couvére</orig><reg>couverts</reg></mod> il <mod type="corr"><orig>ne</orig><reg>me</reg></mod> manque<lb/>
+ma fourchette <mod type="corr"><orig>est</orig><reg>et</reg></mod> mon couteau puis un<lb/>
+jeune garçon me <mod type="corr"><orig>prerta</orig><reg>prêtera</reg></mod> <mod type="corr"><orig>s'est</orig><reg>ses</reg></mod> <mod type="corr"><orig>couvére</orig><reg>couverts</reg></mod><lb/>
+la journée est <mod type="corr"><orig>fini</orig><reg>finie</reg></mod> je <mod type="corr"><orig>rantre</orig><reg>rentre</reg></mod> <mod type="corr"><orig>cher</orig><reg>chez</reg></mod> moi,<lb/>
+le <mod type="corr"><orig>landemain</orig><reg>lendemain</reg></mod> matin j'ai <mod type="corr"><orig>atrapé</orig><reg>attrapé</reg></mod><lb/>
+un <mod type="corr"><orig>rune</orig><reg>rhum</reg></mod> <mod type="corr"><orig>est</orig><reg>et</reg></mod> j'ai mal <mod type="corr"><orig>a</orig><reg>à</reg></mod> la gorge<lb/>
+<mod type="corr"><orig>pui</orig><reg>puis</reg></mod> je <mod type="corr"><orig>prend</orig><reg>prends</reg></mod> un mouchoir je suis<lb/>
+en retard <mod type="corr"><orig>mes</orig><reg>mes</reg></mod> je ne <mod type="corr"><orig>peu</orig><reg>peux</reg></mod> pas me<lb/>
+<mod type="corr"><orig>leve</orig><reg>léver</reg></mod> je suis <mod type="corr"><orig>tros</orig><reg>trop</reg></mod> <mod type="corr"><orig>fatigé</orig><reg>fatigué</reg></mod> <mod type="corr"><orig>mes</orig><reg>mais</reg></mod> un<lb/>
+<mod type="corr"><orig>momant</orig><reg>moment</reg></mod> <mod type="corr"><orig>quelle qu'un</orig><reg>quelqu'un</reg></mod> <mod type="corr"><orig>vin</orig><reg>vint</reg></mod> <mod type="corr"><orig>fraper</orig><reg>frapper</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> la<lb/>
+porte c'est <mod type="corr"><orig>ce lui</orig><reg>celui</reg></mod> qui <mod type="corr"><orig>ma</orig><reg>m'a</reg></mod> <mod type="del" stage="" who=""><del>t dacote.</del></mod><lb/>
+<mod type="corr"><orig>prété</orig><reg>prêté</reg></mod> <mod type="corr"><orig>c'est</orig><reg>ses</reg></mod> <mod type="corr"><orig>couver</orig><reg>couverts</reg></mod> je lui ouvre <mod type="corr"><orig>pui</orig><reg>puis</reg></mod><lb/>
+il <mod type="corr"><orig>maporte</orig><reg>m'apporte</reg></mod> un <mod type="corr"><orig>pos</orig><reg>pot</reg></mod> de miel <mod type="subst"><del><mod type="del" stage="" who=""><del>une</del></mod></del><add stage="" who="">des</add></mod><lb/>
+<mod type="corr"><orig>crépe</orig><reg>crêpes</reg></mod> et des <mod type="corr"><orig>pacherck</orig><reg>paquets</reg></mod> <mod type="corr"><orig>es</orig><reg>et</reg></mod> du <mod type="corr"><orig>sirau</orig><reg>sirop</reg></mod> <mod type="corr"><orig>der<lb/>rable</orig><reg>d'érable</reg></mod> puis c'est l'heure du <mod type="corr"><orig>couté</orig><reg>goûter</reg></mod><lb/>
+on mange <mod type="corr"><orig>pui</orig><reg>puis</reg></mod> le soir <mod type="corr"><orig>arive</orig><reg>arrive</reg></mod><lb/>
+je lui <mod type="corr"><orig>dui</orig><reg>dis</reg></mod> <mod type="corr"><orig>anrevoire</orig><reg>au revoir</reg></mod> puis au <mod type="corr"><orig>mau<lb/>man</orig><reg>moment</reg></mod> de partir je lui donne mon<lb/>
+<mod type="corr"><orig>numero</orig><reg>numéro</reg></mod> <mod type="corr"><orig>pui</orig><reg>puis</reg></mod> on <mod type="corr"><orig>c'est</orig><reg>s'est</reg></mod> donné <mod type="corr"><orig>randevou</orig><reg>rendez-vous</reg></mod><lb/>
+dans bar puis on <mod type="corr"><orig>né</orig><reg>est</reg></mod> <mod type="corr"><orig>tonbé</orig><reg>tombés</reg></mod> <mod type="corr"><orig>a<lb/>moureux</orig><reg>amoureux</reg></mod> on s'est <mod type="corr"><orig>ambrasé</orig><reg>embrassés</reg></mod> <mod type="del" stage="" who=""><del>on</del></mod><lb/>
+2 ans <mod type="corr"><orig>aprés</orig><reg>après</reg></mod> on a <mod type="corr"><orig>fais</orig><reg>fait</reg></mod> <mod type="corr"><orig>4</orig><reg>quatre</reg></mod> <mod type="corr"><orig>enfant</orig><reg>enfants</reg></mod><lb/>
+une fille <mod type="corr"><orig>3</orig><reg>trois</reg></mod> <mod type="corr"><orig>garçon</orig><reg>garçons</reg></mod> les <mod type="corr"><orig>garçon</orig><reg>garçons</reg></mod><lb/>
+<mod type="corr"><orig>sapelle</orig><reg>s'appellent</reg></mod> <mod type="corr"><orig>enzo</orig><reg>Enzo</reg></mod> <mod type="corr"><orig>nathan</orig><reg>Nathan</reg></mod> <mod type="corr"><orig>charli</orig><reg>Charlie</reg></mod> <mod type="corr"><orig>es</orig><reg>et</reg></mod><lb/>
+la fille <mod type="corr"><orig>sapelle</orig><reg>s'appelle</reg></mod> <mod type="corr"><orig>rosé</orig><reg>Rose</reg></mod>. §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>

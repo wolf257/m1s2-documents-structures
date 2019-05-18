@@ -1,0 +1,128 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>EC-6EME-2016-PTA1-D2-E12
+</head>
+<p>
+<pb/>
+8h. La sonnerie du collège <mod type="corr"><orig>retenti</orig><reg>retentit</reg></mod> et <mod type="del" stage="" who=""><del>.</del></mod> <mod type="corr"><orig>parti</orig><reg>partit</reg></mod> se ranger<lb/>
+<mod type="corr"><orig>a</orig><reg>à</reg></mod> la salle 204 (français) <mod type="corr"><orig>il</orig><reg>ils</reg></mod> <mod type="corr"><orig>entraire</orig><reg>entrèrent</reg></mod> en classe<lb/>
+le <mod type="corr"><orig>poffescer</orig><reg>professeur</reg></mod> fait l'<mod type="corr"><orig>appelle</orig><reg>appel</reg></mod>. Baptiste, présent, Noé présent, Laurie <mod type="corr"><orig>présent</orig><reg>présente</reg></mod> etc...<lb/>
+Bien <mod type="corr"><orig>asseiez vous</orig><reg>asseyez-vous</reg></mod> puis <mod type="corr"><orig>sorter</orig><reg>sortez</reg></mod> votre livre d'<mod type="corr"><orig>exercise</orig><reg>exercice</reg></mod><lb/>
+<pb/> et <mod type="corr"><orig>fait</orig><reg>faites</reg></mod> l'exercice 2,6,8,9. <mod type="corr"><orig>L'orseque</orig><reg>Lorsque</reg></mod> vous aurez. fini vous<lb/>
+passerez <mod type="corr"><orig>a</orig><reg>à</reg></mod> <mod type="corr"><orig>non</orig><reg>mon</reg></mod> bureau §<lb/>
+Clara -Eh psst Laurie §<lb/>
+<mod type="subst"><del><mod type="del" stage="" who=""><del>Laurie</del></mod></del><add stage="" who="">Clara</add></mod> Tu y <mod type="corr"><orig>arrive</orig><reg>arrives</reg></mod> <mod type="corr"><orig>a</orig><reg>à</reg></mod> l'exercice six? §<lb/>
+Laurie -Oui <mod type="del" stage="" who=""><del>X#</del></mod> pourquoi? §<lb/>
+Clara -Je trouve pas <mod type="corr"><orig>a</orig><reg>à</reg></mod> quel temps c'est. §<lb/>
+Laurie -C'est du <mod type="corr"><orig>passer</orig><reg>passé</reg></mod> simple. §<lb/>
+Clara -D'<mod type="corr"><orig>accod</orig><reg>accord</reg></mod> merci §<lb/>
+8h30. <mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>o</del></mod></del><add stage="" who="">O</add></mod>n</orig><reg>On</reg></mod> va corriger, dit le proffeseur Baptiste au tableau<lb/>
+8h55 <mod type="corr"><orig>sorter</orig><reg>sortez</reg></mod> votre agenda jour mardi vous vous <mod type="corr"><orig>entrainer</orig><reg>entrainez</reg></mod><lb/>
+<mod type="corr"><orig><mod type="subst"><del><mod type="del" stage="" who=""><del>a</del></mod></del><add stage="" who="">a</add></mod></orig><reg>à</reg></mod> faire la dictée au revoir §<lb/>
+9h05 <mod type="corr"><orig>pernanence</orig><reg>permanence</reg></mod>! (<mod type="corr"><orig>resume</orig><reg>résumé</reg></mod> de la <mod type="corr"><orig>pernanence</orig><reg>permanence</reg></mod>) en trois mots! §<lb/>
+parler s'<mod type="corr"><orig>ennuier</orig><reg>ennuyer</reg></mod> <mod type="corr"><orig>embetant</orig><reg>embêtant</reg></mod>! §<lb/>
+
+<pb/>
+9h55. C'est la <mod type="corr"><orig>récrée</orig><reg>récréation</reg></mod>! §<lb/>
+On a <mod type="corr"><orig>acheter</orig><reg>acheté</reg></mod> 1<mod type="del" stage="" who=""><del>0</del></mod> <mod type="corr"><orig>barr</orig><reg>barres</reg></mod> chocolat chacune<lb/>
+10h00. Cours de technologie J'aime pas la technologie §<lb/>
+16h05 Enfin!!!!!!! §<lb/>
+Laurie -<mod type="corr"><orig>sa</orig><reg>ça</reg></mod> te dit <mod type="corr"><orig>devenir</orig><reg>de venir</reg></mod> chez <mod type="corr"><orig>mo</orig><reg>moi</reg></mod> prendre le goûter<lb/>
+Clara -Oui avec plaisir! §<lb/>
+</p>
+</div>
+﻿</body>
+</text>
+</TEI>

@@ -1,0 +1,166 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="operations.xsl"?>
+<!DOCTYPE TEI SYSTEM 'TEIP5.dtd'>
+<TEI>
+ <teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>PROJET ECRISCOL</title>
+ <editor>CLESTHIA</editor>
+ <principal>ECRISCOL</principal>
+ <respStmt>
+ <resp>récupération du fichier au format texte</resp>
+ <name>Les transcripteurs : ...</name>
+ </respStmt>
+ <respStmt>
+ <resp>création du header</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ <respStmt>
+ <resp>pretraitement et balisage du texte selon la TEI P5</resp>
+ <name>Serge Fleury</name>
+ </respStmt>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>31/03/2016</date>
+ </edition>
+ </editionStmt>
+ <publicationStmt>
+ <distributor>
+ <name>CLESTHIA</name>
+ <address>
+ <addrLine>CLESTHIA</addrLine>
+ <addrLine>...</addrLine>
+ <addrLine>...</addrLine>
+ </address>
+ </distributor>
+ <availability>
+ <p>exploitable et diffusable pour la communauté scientifique</p>
+ <p>ne peut être utilisé à des fins commerciales</p>
+ </availability>
+ </publicationStmt>
+ <sourceDesc>
+ <biblStruct xml:lang='FR'>
+ <monogr>
+ <author><name>..</name></author>
+ <title>...</title>
+ <imprint>
+ <publisher><name>ECRISCOL</name></publisher>
+ <pubPlace>http://www.univ-paris3.fr/ecriscol</pubPlace>
+ </imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+ <projectDesc>
+ <p>ECRISCOL</p>
+ <p>Le projet de recherche ECRISCOL est centré sur l’analyse des écrits produits en situation scolaire. Il s’agit de faire le rapport entre des traits caractéristiques de ces écrits et des situations d’apprentissage et d’enseignement suscitant leur production, de manière à faire apparaître des dispositifs didactiques favorisant certains types d'écrits et certaines stratégies ou procédures d'écriture.</p>
+ <p>objectif : cf http://www.univ-paris3.fr/ecriscol-300509.kjsp</p>
+ <p>encodage des textes selon la norme de la Text Encoding Initiative, TEIP5</p>
+ <p>http://www.tei-c.org/release/doc/tei-p5-doc</p>
+ </projectDesc>
+ <classDecl>
+ <taxonomy>
+ <bibl>...</bibl>
+ <category type='genre'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ <category type='discipline'>
+ <catDesc type='principal'>...</catDesc>
+ </category>
+ </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+ <language ident='fr'>french</language>
+ </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type='main'>...</titlePart>
+</docTitle>
+<docAuthor>
+<name>...</name>
+</docAuthor>
+<byline>...</byline>
+</titlePage>
+</front>
+<body><div type='level_1'>
+<head>CO-3-2014-FSB-D1-E2
+</head>
+<p>
+<pb/>
+
+Lucien pleurait et criait en même temps. La sage-femme avait fait<lb/>
+sortir Lucien du ventre de sa mère, Valentine. la sage-femme, après<lb/>
+l'avoir <mod type="corr"><orig>nett<hi place=" " time="" who="Pσ" style="underline">oyer</hi></orig><reg>nettoyé</reg></mod> et avoir <mod type="corr"><orig>cou<hi place=" " time="" who="Pσ" style="underline">per</hi></orig><reg>coupé</reg></mod> son cordon ombilical, <hi place=" " time="" who="Pσ" style="underline">elle</hi> le donna à Valentine.<lb/>
+Valentine avait beaucoup <mod type="corr"><orig>souff<hi place=" " time="" who="Pσ" style="underline">ere</hi></orig><reg>souffert</reg></mod> lors de l'accouchement car son fils était<lb/>
+un peu plus gros que les autres nouveaux nés normaux. Les médecins<lb/>
+avaient <mod type="corr"><orig>étés</orig><reg>été</reg></mod> obligés de couper le vagin de la mère. Après §<lb/>
+l'accouchement, ils avaient <mod type="corr"><orig>recousus</orig><reg>recousu</reg></mod> son vagin. Valentine était très<lb/>
+fière d'avoir eu Lucien. Erik, le père de Lucien avait attendu<lb/>
+<mod type="corr"><orig>long<hi place=" " time="" who="Pσ" style="underline">temp</hi></orig><reg>longtemps</reg></mod> pendant l'accouchement. §<lb/>
+Il était impatient. Il n'avait pas <mod type="corr"><orig>ass<hi place=" " time="" who="Pσ" style="underline">ister</hi></orig><reg>assisté</reg></mod> à l'accouchement car<lb/>
+Valentine <hi place=" " time="" who="Pσ" style="underline">voulait lui faire la surprise</hi>. §<lb/>
+La sage-femme avait mis Lucien dans sa couveuse. §<lb/>
+Il avait l'air d'aimer ce nouveau monde. Lucien n'avait<lb/>
+pas encore <hi place=" " time="" who="Pσ" style="underline"><mod type="corr"><orig>5</orig><reg>cinq</reg></mod> sens</hi>. §<lb/>
+
+<pb/>
+
+Il ne pouvait pas voir, ni entendre, ni sentir, ni toucher et<lb/>
+ni parler. §<lb/>
+Tout le monde <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">disaient</hi></orig><reg>disait</reg></mod> qu'il était un enfant joli. §<lb/>
+Quelques mois plus tard, Lucien avait <mod type="corr"><orig>tro<hi place=" " time="" who="Pσ" style="underline">uver</hi></orig><reg>trouvé</reg></mod> tous ses<lb/>
+sens. Dès qu'il <mod type="add" stage="" who=""><add>avait</add></mod> su <mod type="corr"><orig>par<hi place=" " time="" who="Pσ" style="underline">ler</hi></orig><reg>parlé</reg></mod>, il <mod type="add" stage="" who=""><add>avait</add></mod> raconté <mod type="corr"><orig>a</orig><reg>à</reg></mod> ses parents,<lb/>
+tout ce qu'il avait vécu dans le ventre de sa mère.<lb/>
+Il était très heureux de ce vécu. §<lb/>
+Quand Lucien avait <mod type="corr"><orig>gr<hi place=" " time="" who="Pσ" style="underline">andis</hi></orig><reg>grandi</reg></mod>, il était <mod type="corr"><orig>dev<hi place=" " time="" who="Pσ" style="underline">enus</hi></orig><reg>devenu</reg></mod> un enfant<lb/>
+très joli, très poli et bien élevé. L'enfant parfait.<lb/>
+Valentine et Erik lui avaient appris qu'il allait avoir<lb/>
+une petite <mod type="del" stage="" who=""><del>XXX#</del></mod> soeur. §<lb/>
+Lucien était très impatient et très excité de rencontrer<lb/> 
+sa petite soeur. Il regardait sa mère grossir de jour<lb/>
+en jour. Il était très <mod type="corr"><orig>imprés<hi place=" " time="" who="Pσ" style="underline">sioner</hi></orig><reg>impressioné</reg></mod>. §<lb/>
+Il savait que c'était <mod type="corr"><orig>p<hi place=" " time="" who="Pσ" style="underline">areille</hi></orig><reg>pareil</reg></mod> quand c'était lui<lb/>
+dans le ventre de sa mère. §<lb/>
+
+<pb/>
+
+Il était très <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">jalou</hi></orig><reg>jaloux</reg></mod> de sa petite soeur car il avait<lb/>
+<mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">aimer</hi></orig><reg>aimé</reg></mod> être à sa place. §<lb/>
+Quelques mois plus tard, il sentait que sa mère ressentait<lb/>
+des douleurs à cause de la grossesse. Il était triste<lb/>
+car il ne savait pas que quand il était dans le ventre<lb/>
+de sa mère, protégé de tout, tout seul, heureux,<lb/>
+qu'il <mod type="corr"><orig>mang<mod type="del" stage="" who=""><del>XXX#</del></mod>ait</orig><reg>mangeait</reg></mod>, buvait, faisait ses toilettes sans bouger,<lb/>
+sa mère souffrait. A chaque mouvement, elle <mod type="subst"><del><mod type="del" stage="" who=""><del>XXX#</del></mod></del><add stage="" who="">a</add></mod>vait mal.<lb/>
+Lucien avait compris que le bonheur de sa mère était plus<lb/>
+important que tout. Il <mod type="del" stage="" who=""><del>XXX#</del></mod> <mod type="corr"><orig>voullait</orig><reg>voulait</reg></mod> rester dans le ventre<lb/>
+de Valentine pour <mod type="corr"><orig>toujour</orig><reg>toujours</reg></mod> mais il avait <mod type="corr"><orig>cha<hi place=" " time="" who="Pσ" style="underline">nger d'avi</hi></orig><reg>changé d'avis</reg></mod>.<lb/>
+Il regardait les bons <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">cotés</hi></orig><reg>côtés</reg></mod> de ce monde, où il <mod type="del" stage="" who=""><del>XXX#</del></mod><lb/>
+pouvait <mod type="corr"><orig>ma<hi place=" " time="" who="Pσ" style="underline">rché</hi></orig><reg>marcher</reg></mod>, <mod type="corr"><orig>jo<hi place=" " time="" who="Pσ" style="underline">ué</hi></orig><reg>jouer</reg></mod>, <mod type="corr"><orig>mangé</orig><reg>manger</reg></mod>, faire ses besoins et plus.<lb/>
+Il pouvait faire tout ce qu'il faisait dans le ventre<lb/>
+de sa mère. Il était libre. Il était impatient de<lb/>
+voir sa petite soeur. Lucien venait de comprendre une §<lb/>
+
+<pb/>
+
+très bonne chose et petit à petit, il commencait<lb/>
+à <mod type="corr"><orig>ou<hi place=" " time="" who="Pσ" style="underline">blié</hi></orig><reg>oublier</reg></mod> son vécu dans le ventre de sa mère.<lb/>
+Le jour de l'accouchement, il avait déja tout oublié.<lb/>
+Plusieurs mois <mod type="corr"><orig>plus-tard</orig><reg>plus tard</reg></mod>, quand sa petite soeur <mod type="corr"><orig>prén<hi place=" " time="" who="Pσ" style="underline">ommé</hi></orig><reg>prénommée</reg></mod><lb/>
+Louise, venait d'apprendre à <mod type="corr"><orig><hi place=" " time="" who="Pσ" style="underline">parlé</hi></orig><reg>parler</reg></mod>, elle racontait<lb/>
+son vécu à son grand-frère Lucien. Mais Lucien<lb/>
+ne se rappelait plus de rien. §<lb/>
+<metamark place=" " time="" who="P" style="underline">TB</metamark> §<lb/></p>
+</div>
+﻿</body>
+</text>
+</TEI>
